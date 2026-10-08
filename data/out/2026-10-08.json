@@ -1,0 +1,752 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08 21:47:55",
+  "stats": {
+    "journals": 17,
+    "fetched": 349,
+    "candidates": 349,
+    "pushed": 10,
+    "digest_size": 10,
+    "per_journal": {
+      "Journal of Finance": {
+        "display": "The Journal of Finance",
+        "group": "金融经济",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 11,
+        "error": ""
+      },
+      "Journal of Financial Economics": {
+        "display": "Journal of Financial Economics",
+        "group": "金融经济",
+        "publisher": "Elsevier",
+        "fetched": 31,
+        "error": ""
+      },
+      "Review of Financial Studies": {
+        "display": "Review of Financial Studies",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 2,
+        "error": ""
+      },
+      "American Economic Review": {
+        "display": "American Economic Review",
+        "group": "金融经济",
+        "publisher": "American Economic Association",
+        "fetched": 10,
+        "error": ""
+      },
+      "Quarterly Journal of Economics": {
+        "display": "The Quarterly Journal of Economics",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 4,
+        "error": ""
+      },
+      "Econometrica": {
+        "display": "Econometrica",
+        "group": "金融经济",
+        "publisher": "The Econometric Society",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Management Science": {
+        "display": "Management Science",
+        "group": "金融经济",
+        "publisher": "Institute for Operations Research and the Management Sciences",
+        "fetched": 17,
+        "error": ""
+      },
+      "Energy Economics": {
+        "display": "Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 72,
+        "error": ""
+      },
+      "The Energy Journal": {
+        "display": "The Energy Journal",
+        "group": "能源资源",
+        "publisher": "SAGE Publications",
+        "fetched": 1,
+        "error": ""
+      },
+      "Journal of Environmental Economics and Management": {
+        "display": "Journal of Environmental Economics and Management",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 26,
+        "error": ""
+      },
+      "Resource and Energy Economics": {
+        "display": "Resource and Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 8,
+        "error": ""
+      },
+      "American Journal of Agricultural Economics": {
+        "display": "American Journal of Agricultural Economics",
+        "group": "农业商品",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 3,
+        "error": ""
+      },
+      "Journal of Commodity Markets": {
+        "display": "Journal of Commodity Markets",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 17,
+        "error": ""
+      },
+      "Food Policy": {
+        "display": "Food Policy",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 39,
+        "error": ""
+      },
+      "Journal of Econometrics": {
+        "display": "Journal of Econometrics",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 48,
+        "error": ""
+      },
+      "International Journal of Forecasting": {
+        "display": "International Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 54,
+        "error": ""
+      },
+      "Journal of Forecasting": {
+        "display": "Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Wiley (John Wiley & Sons)",
+        "fetched": 6,
+        "error": ""
+      }
+    },
+    "selection_notes": {
+      "strict_pool": 45,
+      "cap_relaxed": false,
+      "relaxed": false,
+      "filled": false,
+      "relaxed_pool": 72
+    },
+    "abstract_coverage": 0.155,
+    "enrich": {
+      "s2_filled": 3,
+      "openalex_filled": 0,
+      "openalex_note": "额度用尽已熔断（免费额度已用尽（建议配置自己的 API Key）：{\"error\":\"Rate limit exceeded\",\"message\":\"Insufficient budget. This request has no API key, so it counts against the free daily budget shared by everyone on your network's IP address, and that budget ）"
+    }
+  },
+  "items": [
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326004457",
+      "doi": "",
+      "title": "Oil price shocks and private equity versus unicorns: transmission channels and policy implications",
+      "abstract": "",
+      "publication_date": "2026-10-01",
+      "created_date": "2026-10-08",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Rayenda Khresna Brahmana",
+        "Adnan Aslam"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326004457",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 80.0,
+      "rank": 1,
+      "relevance_raw": 14.5,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "oil price",
+        "price shock",
+        "price shocks",
+        "oil"
+      ],
+      "reasons": [
+        "相关性 100/100（价格词 ×4题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "price",
+          "oil price",
+          "price shock",
+          "price shocks"
+        ],
+        "core_abstract": [],
+        "context_title": [
+          "oil"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-08"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0169207026000671",
+      "doi": "",
+      "title": "Forecasting oil and natural gas prices: A model combination approach",
+      "abstract": "",
+      "publication_date": "2026-08-28",
+      "created_date": "2026-10-08",
+      "issue_date": "",
+      "journal": "International Journal of Forecasting",
+      "journal_display": "International Journal of Forecasting",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Ruben Aag",
+        "Hilde C. Bjørnland",
+        "Peder Eliassen"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0169207026000671",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 77.5,
+      "rank": 2,
+      "relevance_raw": 14.0,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "prices",
+        "gas price",
+        "oil",
+        "natural gas"
+      ],
+      "reasons": [
+        "相关性 100/100（价格词 ×3题名 / ×0摘要；商品期货词 ×2题名）",
+        "期刊权重 50/100（International Journal of Forecasting）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（forecasting）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "price",
+          "prices",
+          "gas price"
+        ],
+        "core_abstract": [],
+        "context_title": [
+          "oil",
+          "natural gas"
+        ],
+        "context_abstract": [],
+        "method": [
+          "forecasting"
+        ]
+      },
+      "pushed_date": "2026-10-08"
+    },
+    {
+      "id": "crossref:10.1111/jofi.70085",
+      "doi": "10.1111/jofi.70085",
+      "title": "When Do Treasuries Earn the Convenience Yield?—A Hedging Perspective",
+      "abstract": "ABSTRACT We document that the convenience yield of U.S. Treasuries exhibits properties consistent with a hedging perspective of safe assets, that is, Treasuries are valued highly if they appreciate with poor aggregate shocks. In particular, the convenience yield tends to be low when the covariance of Treasury returns with the aggregate stock market returns is high. A decomposition of the aggregate stock‐bond covariance into terms corresponding to the convenience yield, the frictionless risk‐free rate, and default risk reveals that the covariance between stock returns and the convenience yield itself drives the effect in a substantive capacity.",
+      "publication_date": "2026-10-07",
+      "created_date": "2026-10-07",
+      "issue_date": "2026-10-07",
+      "journal": "Journal of Finance",
+      "journal_display": "The Journal of Finance",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "VIRAL V. ACHARYA",
+        "TOOMAS LAARITS"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1111/jofi.70085",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 73.81,
+      "rank": 3,
+      "relevance_raw": 10.0,
+      "relevance_level": "strong",
+      "keywords": [
+        "yield",
+        "hedging",
+        "convenience yield"
+      ],
+      "reasons": [
+        "相关性 71/100（价格词 ×1题名 / ×1摘要；商品期货词 ×2题名）",
+        "期刊权重 83/100（Journal of Finance）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（decomposition）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [
+          "yield"
+        ],
+        "core_abstract": [
+          "yield"
+        ],
+        "context_title": [
+          "hedging",
+          "convenience yield"
+        ],
+        "context_abstract": [
+          "hedging",
+          "convenience yield"
+        ],
+        "method": [
+          "decomposition"
+        ]
+      },
+      "pushed_date": "2026-10-08"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326004664",
+      "doi": "",
+      "title": "Dual channel mixed frequency forecasting for carbon prices: Informer-BiLSTM deep features embedded in Grey-MIDAS framework",
+      "abstract": "",
+      "publication_date": "2026-10-01",
+      "created_date": "2026-10-08",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Qi Ding",
+        "Xinping Xiao",
+        "Lizhong Yang",
+        "Zhuang Yang",
+        "Zhiwei Xu"
+      ],
+      "author_count": 5,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326004664",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 73.57,
+      "rank": 4,
+      "relevance_raw": 11.5,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "prices",
+        "carbon price",
+        "carbon"
+      ],
+      "reasons": [
+        "相关性 82/100（价格词 ×3题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（forecasting）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "price",
+          "prices",
+          "carbon price"
+        ],
+        "core_abstract": [],
+        "context_title": [
+          "carbon"
+        ],
+        "context_abstract": [],
+        "method": [
+          "forecasting"
+        ]
+      },
+      "pushed_date": "2026-10-08"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S2405851326000401",
+      "doi": "",
+      "title": "Is the U.S. natural gas market integrated or segmented? A dynamic study of regional natural gas prices",
+      "abstract": "",
+      "publication_date": "2026-12-01",
+      "created_date": "2026-10-08",
+      "issue_date": "",
+      "journal": "Journal of Commodity Markets",
+      "journal_display": "Journal of Commodity Markets",
+      "group": "农业商品",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Hayette Gatfaoui"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S2405851326000401",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 71.07,
+      "rank": 5,
+      "relevance_raw": 11.5,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "prices",
+        "gas price",
+        "natural gas"
+      ],
+      "reasons": [
+        "相关性 82/100（价格词 ×3题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 75/100（Journal of Commodity Markets）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "price",
+          "prices",
+          "gas price"
+        ],
+        "core_abstract": [],
+        "context_title": [
+          "natural gas"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-08"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0169207026000452",
+      "doi": "",
+      "title": "Forecast efficiency in energy price expectations",
+      "abstract": "",
+      "publication_date": "2026-09-01",
+      "created_date": "2026-10-08",
+      "issue_date": "",
+      "journal": "International Journal of Forecasting",
+      "journal_display": "International Journal of Forecasting",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Ruiguang Ma",
+        "Haibo Li",
+        "Wenli Ren"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0169207026000452",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 70.36,
+      "rank": 6,
+      "relevance_raw": 12.0,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "energy price",
+        "price expectation",
+        "price expectations"
+      ],
+      "reasons": [
+        "相关性 86/100（价格词 ×4题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 50/100（International Journal of Forecasting）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（forecast）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "price",
+          "energy price",
+          "price expectation",
+          "price expectations"
+        ],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "forecast"
+        ]
+      },
+      "pushed_date": "2026-10-08"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S2405851326000498",
+      "doi": "",
+      "title": "Business cycles, co-movement and time varying causality: Exploring the relationship between inflation, real interest rates, and precious metals",
+      "abstract": "",
+      "publication_date": "2026-12-01",
+      "created_date": "2026-10-08",
+      "issue_date": "",
+      "journal": "Journal of Commodity Markets",
+      "journal_display": "Journal of Commodity Markets",
+      "group": "农业商品",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Arusha Cooray",
+        "İbrahim Özmen"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S2405851326000498",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 69.29,
+      "rank": 7,
+      "relevance_raw": 11.0,
+      "relevance_level": "strong",
+      "keywords": [
+        "inflation",
+        "interest rate",
+        "metal",
+        "metals"
+      ],
+      "reasons": [
+        "相关性 79/100（价格词 ×2题名 / ×0摘要；商品期货词 ×2题名）",
+        "期刊权重 75/100（Journal of Commodity Markets）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "inflation",
+          "interest rate"
+        ],
+        "core_abstract": [],
+        "context_title": [
+          "metal",
+          "metals"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-08"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109629",
+      "doi": "10.1016/j.eneco.2026.109629",
+      "title": "Green credit under carbon price risk: financing frictions, banking market power, and firm emissions",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-09-29",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Lin Zigan",
+        "Lei Yihu"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109629",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 68.57,
+      "rank": 8,
+      "relevance_raw": 13.5,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "carbon price",
+        "carbon",
+        "emission",
+        "emissions"
+      ],
+      "reasons": [
+        "相关性 96/100（价格词 ×2题名 / ×0摘要；商品期货词 ×3题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 36/100（上线 9 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 9,
+      "matched": {
+        "core_title": [
+          "price",
+          "carbon price"
+        ],
+        "core_abstract": [],
+        "context_title": [
+          "carbon",
+          "emission",
+          "emissions"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-08"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0169207026000294",
+      "doi": "",
+      "title": "Stealing accuracy: Predicting day-ahead electricity prices with temporal hierarchy forecasting (THieF)",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-10-08",
+      "issue_date": "",
+      "journal": "International Journal of Forecasting",
+      "journal_display": "International Journal of Forecasting",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Arkadiusz Lipiecki",
+        "Kaja Bilińska",
+        "Nikolaos Kourentzes",
+        "Rafał Weron"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0169207026000294",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 68.57,
+      "rank": 9,
+      "relevance_raw": 11.5,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "prices",
+        "electricity price",
+        "electricity"
+      ],
+      "reasons": [
+        "相关性 82/100（价格词 ×3题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 50/100（International Journal of Forecasting）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（forecasting）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "price",
+          "prices",
+          "electricity price"
+        ],
+        "core_abstract": [],
+        "context_title": [
+          "electricity"
+        ],
+        "context_abstract": [],
+        "method": [
+          "forecasting"
+        ]
+      },
+      "pushed_date": "2026-10-08"
+    },
+    {
+      "id": "crossref:10.1016/j.jcomm.2026.100591",
+      "doi": "10.1016/j.jcomm.2026.100591",
+      "title": "Natural gas prices and macroeconomies: Evidence from exporting and importing countries",
+      "abstract": "",
+      "publication_date": "2026-12-01",
+      "created_date": "2026-09-30",
+      "issue_date": "2026-12-01",
+      "journal": "Journal of Commodity Markets",
+      "journal_display": "Journal of Commodity Markets",
+      "group": "农业商品",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Peng Chen",
+        "Xiaojing Cai"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.jcomm.2026.100591",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 62.5,
+      "rank": 10,
+      "relevance_raw": 11.5,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "prices",
+        "gas price",
+        "natural gas"
+      ],
+      "reasons": [
+        "相关性 82/100（价格词 ×3题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 75/100（Journal of Commodity Markets）",
+        "时效 43/100（上线 8 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 8,
+      "matched": {
+        "core_title": [
+          "price",
+          "prices",
+          "gas price"
+        ],
+        "core_abstract": [],
+        "context_title": [
+          "natural gas"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-08"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>价格研究日报</title>
+    <link>http://localhost:8080/</link>
+    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>每日顶刊价格研究文献精选（大宗商品 / 期货 / 能源 / 农产品价格）</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 08 Oct 2026 13:47:55 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Oil price shocks and private equity versus unicorns: transmission channels and policy implications]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0140988326004457</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326004457</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 80.0 ｜ 上线 2026-10-08（0 天前） · 在线 2026-10-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Forecasting oil and natural gas prices: A model combination approach]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0169207026000671</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207026000671</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[International Journal of Forecasting]]></category>
+      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 77.5 ｜ 上线 2026-10-08（0 天前） · 在线 2026-08-28</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Dual channel mixed frequency forecasting for carbon prices: Informer-BiLSTM deep features embedded in Grey-MIDAS framework]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0140988326004664</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326004664</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 73.6 ｜ 上线 2026-10-08（0 天前） · 在线 2026-10-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Is the U.S. natural gas market integrated or segmented? A dynamic study of regional natural gas prices]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2405851326000401</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S2405851326000401</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Commodity Markets]]></category>
+      <description><![CDATA[<p><strong>Journal of Commodity Markets</strong> ｜ 综合分 71.1 ｜ 上线 2026-10-08（0 天前） · 在线 2026-12-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Forecast efficiency in energy price expectations]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0169207026000452</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207026000452</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[International Journal of Forecasting]]></category>
+      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 70.4 ｜ 上线 2026-10-08（0 天前） · 在线 2026-09-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Business cycles, co-movement and time varying causality: Exploring the relationship between inflation, real interest rates, and precious metals]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2405851326000498</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S2405851326000498</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Commodity Markets]]></category>
+      <description><![CDATA[<p><strong>Journal of Commodity Markets</strong> ｜ 综合分 69.3 ｜ 上线 2026-10-08（0 天前） · 在线 2026-12-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Stealing accuracy: Predicting day-ahead electricity prices with temporal hierarchy forecasting (THieF)]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0169207026000294</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207026000294</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[International Journal of Forecasting]]></category>
+      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 68.6 ｜ 上线 2026-10-08（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[When Do Treasuries Earn the Convenience Yield?—A Hedging Perspective]]></title>
+      <link>https://doi.org/10.1111/jofi.70085</link>
+      <guid isPermaLink="false">crossref:10.1111/jofi.70085</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Finance]]></category>
+      <description><![CDATA[<p><strong>The Journal of Finance</strong> ｜ 综合分 73.8 ｜ 上线 2026-10-07（1 天前）</p><p>ABSTRACT We document that the convenience yield of U.S. Treasuries exhibits properties consistent with a hedging perspective of safe assets, that is, Treasuries are valued highly if they appreciate with poor aggregate shocks. In particular, the convenience yield tends to be low when the covariance of Treasury returns with the aggregate stock market returns is high. A decomposition of the aggregate stock‐bond covariance into terms corresponding to the convenience yield, the frictionless risk‐free rate, and default risk reveals that the covariance between stock returns and the convenience yield itself drives the effect in a substantive capacity.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Natural gas prices and macroeconomies: Evidence from exporting and importing countries]]></title>
+      <link>https://doi.org/10.1016/j.jcomm.2026.100591</link>
+      <guid isPermaLink="false">crossref:10.1016/j.jcomm.2026.100591</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Commodity Markets]]></category>
+      <description><![CDATA[<p><strong>Journal of Commodity Markets</strong> ｜ 综合分 62.5 ｜ 上线 2026-09-30（8 天前） · 在线 2026-12-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Green credit under carbon price risk: financing frictions, banking market power, and firm emissions]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109629</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109629</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 68.6 ｜ 上线 2026-09-29（9 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+  </channel>
+</rss>

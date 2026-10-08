@@ -1,0 +1,13 @@
+# PriceRadar 不需要任何第三方依赖。
+#
+# 全部功能（HTTP、SQLite、TOML 解析、RSS 解析、HTML 渲染、邮件）都基于
+# Python 3.11+ 标准库实现，因此可以直接 `python -m priceradar run`，
+# 不需要 pip install，也不会因为依赖升级而坏掉。
+#
+# 唯一要求：Python >= 3.11（用到标准库 tomllib）
+#
+# 如果你确实想用虚拟环境：
+#   python -m venv .venv
+#   .venv\Scripts\activate      # Windows
+#   source .venv/bin/activate   # macOS / Linux
+#   pip install -r requirements.txt   # 空操作，仅确认环境

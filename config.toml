@@ -1,0 +1,233 @@
+# ============================================================================
+#  PriceRadar 配置
+#  改完直接生效，不需要改代码。
+# ============================================================================
+
+[general]
+digest_size = 10              # 每天推送几篇
+lookback_days = 14            # 出版日期回溯窗口（天）
+indexed_lookback_days = 4     # 「新被数据库收录」的回溯窗口，捕捉在线优先论文
+max_per_journal = 3           # 单本期刊最多几篇，保证来源多样性
+require_price_relevance = true
+mailto = "2485892471@qq.com"   # 放到 OpenAlex 的 polite pool，建议改成你的邮箱
+http_timeout = 45
+request_interval = 0.2        # 请求间隔（秒），不要低于 0.1
+per_page = 100
+
+# 分享给别人时填上公网地址，RSS 订阅源才会指向正确位置。
+#   GitHub Pages     → "https://你的用户名.github.io/price-radar"
+#   Cloudflare Pages → "https://price-radar.pages.dev"
+#   局域网共享        → "http://192.168.x.x:8080"
+public_url = ""
+site_title = "价格研究日报"
+
+
+# ---------------------------------------------------------------------------
+#  数据源开关
+#  Crossref 是主干（免费、无需 Key、按 ISSN 精确覆盖每本期刊）；
+#  ScienceDirect RSS 只对 Elsevier 期刊生效，用来补精确在线日期和原文链接；
+#  Semantic Scholar 批量补摘要 + 免费全文链接（一次请求可查 200 个 DOI）；
+#  OpenAlex 摘要质量最好，但 2026 年起按额度计费，匿名请求共用同 IP 的
+#  每日免费额度（约 100 次请求）。建议去 openalex.org 申请免费 Key：
+#      $env:OPENALEX_API_KEY = "你的key"
+#  额度用尽会自动熔断，不会影响其他数据源。
+# ---------------------------------------------------------------------------
+
+[sources]
+crossref = true
+science_direct_rss = true
+semantic_scholar = true
+openalex = true
+unpaywall = true                # 免费、无需 Key：找合法免费全文链接
+unpaywall_max = 40              # 只为打分最高的前 N 篇查（逐篇接口，别设太大）
+enrich_missing_abstract = true   # 只对「缺摘要」的文章发起补充请求，省额度
+crossref_rows = 200              # 每本期刊每次最多取多少条
+s2_batch_size = 200              # Semantic Scholar 单次批量上限（官方上限 500）
+s2_interval = 3.5                # S2 请求间隔，未配 Key 时容易被限流，别调太小
+openalex_max_calls = 60          # OpenAlex 本次运行最多调用几次（熔断保护）
+# openalex_api_key = ""          # 也可以直接写在这里，或用环境变量 OPENALEX_API_KEY
+# s2_api_key = ""                # 或用环境变量 SEMANTIC_SCHOLAR_API_KEY
+
+
+# ---------------------------------------------------------------------------
+#  期刊池：group=方向，tier=等级（仅显示），weight=打分权重（0.8~1.3）
+#  openalex_id 留空即可，`python -m priceradar resolve` 会自动填写到 data/sources_cache.json
+#  如果自动匹配错了，把正确的 ID 填进 openalex_id 就能钉死。
+# ---------------------------------------------------------------------------
+
+# ---- 金融 / 经济 ----
+[[journal]]
+name = "Journal of Finance"
+group = "金融经济"
+tier = 1
+weight = 1.30
+
+[[journal]]
+name = "Journal of Financial Economics"
+group = "金融经济"
+tier = 1
+weight = 1.30
+
+[[journal]]
+name = "Review of Financial Studies"
+group = "金融经济"
+tier = 1
+weight = 1.30
+
+[[journal]]
+name = "American Economic Review"
+group = "金融经济"
+tier = 1
+weight = 1.28
+
+[[journal]]
+name = "Quarterly Journal of Economics"
+group = "金融经济"
+tier = 1
+weight = 1.28
+
+[[journal]]
+name = "Econometrica"
+group = "金融经济"
+tier = 1
+weight = 1.26
+
+[[journal]]
+name = "Management Science"
+group = "金融经济"
+tier = 1
+weight = 1.22
+
+# ---- 能源与资源经济 ----
+[[journal]]
+name = "Energy Economics"
+group = "能源资源"
+tier = 2
+weight = 1.25
+
+[[journal]]
+name = "The Energy Journal"
+group = "能源资源"
+tier = 2
+weight = 1.10
+
+[[journal]]
+name = "Journal of Environmental Economics and Management"
+group = "能源资源"
+tier = 2
+weight = 1.15
+
+[[journal]]
+name = "Resource and Energy Economics"
+group = "能源资源"
+tier = 2
+weight = 1.00
+
+# ---- 农业与商品市场 ----
+[[journal]]
+name = "American Journal of Agricultural Economics"
+group = "农业商品"
+tier = 2
+weight = 1.10
+
+[[journal]]
+name = "Journal of Commodity Markets"
+group = "农业商品"
+tier = 2
+weight = 1.25
+
+[[journal]]
+name = "Food Policy"
+group = "农业商品"
+tier = 3
+weight = 0.95
+
+# ---- 计量与预测方法 ----
+[[journal]]
+name = "Journal of Econometrics"
+group = "计量预测"
+tier = 2
+weight = 1.15
+
+[[journal]]
+name = "International Journal of Forecasting"
+group = "计量预测"
+tier = 2
+weight = 1.10
+
+[[journal]]
+name = "Journal of Forecasting"
+group = "计量预测"
+tier = 3
+weight = 0.95
+
+# 想加期刊？照抄一段即可，例如：
+# [[journal]]
+# name = "Journal of Political Economy"
+# group = "金融经济"
+# tier = 1
+# weight = 1.28
+
+
+# ---------------------------------------------------------------------------
+#  关键词：决定「什么算价格研究」。这是你最需要反复微调的部分。
+#  core    = 价格本身（出现在标题权重 ×3，摘要 ×0.8）
+#  context = 大宗商品 / 期货 / 能源 / 农产品（标题 ×2.5，摘要 ×0.6）
+#  method  = 方法词，只加分不筛除
+#  exclude = 标题命中即丢弃（书评、勘误等）
+#  匹配规则：忽略大小写、短横线等价空格、自动容忍词尾复数。
+# ---------------------------------------------------------------------------
+
+[keywords]
+core = [
+  "price", "prices", "pricing", "priced", "price level", "price levels",
+  "markup", "markups", "pass through", "inflation", "deflation",
+  "asset price", "asset prices", "house price", "housing price",
+  "stock price", "share price", "bond price", "commodity price",
+  "oil price", "gas price", "electricity price", "power price",
+  "carbon price", "food price", "energy price", "relative price",
+  "price discovery", "price setting", "price dispersion", "price rigidity",
+  "price expectation", "price expectations", "price shock", "price shocks",
+  "real price", "nominal price", "market price", "shadow price",
+  "price impact", "price efficiency", "price informativeness",
+  "price formation", "price bubble", "price bubbles",
+  "terms of trade", "exchange rate", "interest rate", "wage",
+  "rent", "rents", "cost of capital", "yield", "yields",
+]
+context = [
+  "commodity", "commodities", "futures", "future", "forward", "forwards",
+  "spot", "spot market", "derivative", "derivatives", "option", "options",
+  "crude", "crude oil", "petroleum", "brent", "wti", "oil", "oil market",
+  "natural gas", "gasoline", "diesel", "heating oil", "coal", "lng",
+  "electricity", "power market", "wholesale electricity", "carbon",
+  "emission", "emissions", "allowance", "renewable", "solar", "wind",
+  "agricultural", "agriculture", "grain", "wheat", "corn", "maize",
+  "soybean", "rice", "coffee", "cocoa", "sugar", "cotton", "cattle",
+  "hog", "livestock", "fertilizer", "metal", "metals", "copper",
+  "aluminium", "aluminum", "gold", "silver", "iron ore", "steel",
+  "lithium", "rare earth", "uranium",
+  "hedging", "hedge", "basis", "convenience yield", "term structure",
+  "contango", "backwardation", "storage", "inventory", "inventories",
+  "opec", "shale", "speculation", "speculators", "financialization",
+  "roll yield", "open interest", "commodity market", "commodity markets",
+  "supply shock", "supply shocks", "demand shock",
+  "cartel", "export ban", "sanction", "sanctions", "tariff", "tariffs",
+  "scarcity", "shortage", "glut",
+]
+method = [
+  "forecast", "forecasting", "predict", "prediction", "predictive",
+  "garch", "stochastic volatility", "implied volatility", "volatility",
+  "var", "svar", "vecm", "cointegration", "error correction",
+  "high frequency", "intraday", "realized volatility", "jump",
+  "machine learning", "neural network", "nowcasting", "state space",
+  "structural", "identification", "instrumental variable", "event study",
+  "difference in differences", "regression discontinuity", "panel",
+  "causal", "elasticity", "equilibrium", "general equilibrium", "dsge",
+  "natural experiment", "decomposition", "counterfactual", "welfare",
+  "arbitrage", "no arbitrage", "risk premium", "risk premia",
+]
+exclude = [
+  "prize", "priceless", "pricey", "nobel", "erratum", "corrigendum",
+  "correction to", "editorial", "introduction to the special issue",
+  "book review", "call for papers", "front matter", "back matter",
+]

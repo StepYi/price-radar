@@ -1,0 +1,519 @@
+{
+  "Journal of Finance": {
+    "name": "Journal of Finance",
+    "crossref_name": "The Journal of Finance",
+    "issn": [
+      "0022-1082",
+      "1540-6261"
+    ],
+    "publisher": "Wiley (Blackwell Publishing)",
+    "total_dois": 15437,
+    "other_candidates": [
+      {
+        "name": "Finance International Journal of Management Finance",
+        "issn": [
+          "3026-6734",
+          "3026-6742"
+        ],
+        "pub": "Publikasi Inspirasi Indonesia"
+      },
+      {
+        "name": "Finance Journal of Accounting and Finance",
+        "issn": [
+          "3025-0579",
+          "3024-9864"
+        ],
+        "pub": "Institut Ilmu Keislaman Zainul Hasan Genggong"
+      },
+      {
+        "name": "Journal of Finance",
+        "issn": [
+          "1027-8257"
+        ],
+        "pub": "Apex Publishing"
+      },
+      {
+        "name": "Journal of Empirical Finance",
+        "issn": [
+          "0927-5398"
+        ],
+        "pub": "Elsevier"
+      }
+    ]
+  },
+  "Journal of Financial Economics": {
+    "name": "Journal of Financial Economics",
+    "crossref_name": "Journal of Financial Economics",
+    "issn": [
+      "0304-405X"
+    ],
+    "publisher": "Elsevier",
+    "total_dois": 4539,
+    "other_candidates": [
+      {
+        "name": "Journal of Financial Economics & Investment",
+        "issn": [
+          "2987-2820",
+          "2808-9413"
+        ],
+        "pub": "Universitas Muhammadiyah Malang"
+      },
+      {
+        "name": "Universal Journal of Financial Economics",
+        "issn": [
+          "2972-3310"
+        ],
+        "pub": "Universal Wiser Publisher Pte. Ltd"
+      },
+      {
+        "name": "Journal of Banking and Financial Economics",
+        "issn": [
+          "2353-6845",
+          "2353-6845"
+        ],
+        "pub": "University of Warsaw - Faculty of Management"
+      },
+      {
+        "name": "JOURNAL OF FINANCIAL AND MONETARY ECONOMICS",
+        "issn": [
+          "2537-3269"
+        ],
+        "pub": "\"Victor Slavescu\" Centre for Financial and Monetary Research"
+      }
+    ],
+    "rss_url": "https://rss.sciencedirect.com/publication/science/0304405X"
+  },
+  "Review of Financial Studies": {
+    "name": "Review of Financial Studies",
+    "crossref_name": "Review of Financial Studies",
+    "issn": [
+      "0893-9454",
+      "1465-7368"
+    ],
+    "publisher": "Oxford University Press",
+    "total_dois": 3283,
+    "other_candidates": [
+      {
+        "name": "Review of Financial Information Studies",
+        "issn": [
+          "2234-7739",
+          "2384-4000"
+        ],
+        "pub": "Financial Information Society of Korea"
+      },
+      {
+        "name": "Algerian Review of Studies in Accounting and Financial",
+        "issn": [
+          "2437-0215"
+        ],
+        "pub": "Kezana LLC FZ"
+      }
+    ]
+  },
+  "American Economic Review": {
+    "name": "American Economic Review",
+    "crossref_name": "American Economic Review",
+    "issn": [
+      "0002-8282",
+      "1944-7981"
+    ],
+    "publisher": "American Economic Association",
+    "total_dois": 5676,
+    "other_candidates": [
+      {
+        "name": "Latin American Economic Review",
+        "issn": [
+          "2198-3526",
+          "2196-436X"
+        ],
+        "pub": "Centro de Investigacion y Docencia Economicas (CIDE)"
+      },
+      {
+        "name": "American Economic Review Insights",
+        "issn": [],
+        "pub": "American Economic Association"
+      },
+      {
+        "name": "American Economic Review Insights",
+        "issn": [
+          "2640-205X",
+          "2640-2068"
+        ],
+        "pub": "American Economic Association"
+      },
+      {
+        "name": "American Economic & Social Review",
+        "issn": [
+          "2576-1269",
+          "2576-1277"
+        ],
+        "pub": "Centre for Research on Islamic Banking and Finance and Business"
+      }
+    ]
+  },
+  "Quarterly Journal of Economics": {
+    "name": "Quarterly Journal of Economics",
+    "crossref_name": "The Quarterly Journal of Economics",
+    "issn": [
+      "0033-5533",
+      "1531-4650"
+    ],
+    "publisher": "Oxford University Press",
+    "total_dois": 6668,
+    "other_candidates": [
+      {
+        "name": "The Quarterly Journal of Austrian Economics",
+        "issn": [
+          "1098-3708",
+          "1936-4806"
+        ],
+        "pub": "Mises Institute"
+      },
+      {
+        "name": "Equilibrium Quarterly Journal of Economics and Economic Policy",
+        "issn": [
+          "1689-765X",
+          "2353-3293"
+        ],
+        "pub": "Instytut Badan Gospodarczych / Institute of Economic Research"
+      }
+    ]
+  },
+  "Econometrica": {
+    "name": "Econometrica",
+    "crossref_name": "Econometrica",
+    "issn": [
+      "0012-9682",
+      "1468-0262"
+    ],
+    "publisher": "The Econometric Society",
+    "total_dois": 7318,
+    "other_candidates": []
+  },
+  "Management Science": {
+    "name": "Management Science",
+    "crossref_name": "Management Science",
+    "issn": [
+      "0025-1909",
+      "1526-5501"
+    ],
+    "publisher": "Institute for Operations Research and the Management Sciences",
+    "total_dois": 12487,
+    "other_candidates": [
+      {
+        "name": "Management Sciences",
+        "issn": [
+          "2080-6000",
+          "2080-6000",
+          "2449-9803"
+        ],
+        "pub": "Wroclaw University of Economics"
+      },
+      {
+        "name": "Management Sciences",
+        "issn": [
+          "2304-022X",
+          "2618-9941"
+        ],
+        "pub": "Financial University under the Government of the Russian Federation"
+      },
+      {
+        "name": "Management & Sciences Sociales",
+        "issn": [
+          "1952-3262"
+        ],
+        "pub": "CAIRN.INFO"
+      },
+      {
+        "name": "Journal of Science Engineering Technology and Management Sciences",
+        "issn": [
+          "3049-0952"
+        ],
+        "pub": "MSR Edusoft Private Limited"
+      }
+    ]
+  },
+  "Energy Economics": {
+    "name": "Energy Economics",
+    "crossref_name": "Energy Economics",
+    "issn": [
+      "0140-9883"
+    ],
+    "publisher": "Elsevier",
+    "total_dois": 8826,
+    "other_candidates": [
+      {
+        "name": "Energy Economics Letters",
+        "issn": [
+          "2308-2925"
+        ],
+        "pub": "Asian Economic and Social Society"
+      },
+      {
+        "name": "Energy Economics Review",
+        "issn": [],
+        "pub": "SPIDER Publishing"
+      },
+      {
+        "name": "Resource and Energy Economics",
+        "issn": [
+          "0928-7655"
+        ],
+        "pub": "Elsevier"
+      },
+      {
+        "name": "Energy Conversion and Economics",
+        "issn": [
+          "2634-1581",
+          "2634-1581"
+        ],
+        "pub": "Institution of Engineering and Technology (IET)"
+      }
+    ],
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01409883"
+  },
+  "The Energy Journal": {
+    "name": "The Energy Journal",
+    "crossref_name": "The Energy Journal",
+    "issn": [
+      "0195-6574",
+      "1944-9089"
+    ],
+    "publisher": "SAGE Publications",
+    "total_dois": 3002,
+    "other_candidates": [
+      {
+        "name": "Journal of Energy Engineering and Thermodynamics",
+        "issn": [
+          "2815-0945"
+        ],
+        "pub": "HM Publishers"
+      },
+      {
+        "name": "Journal of Thermal Energy Systems",
+        "issn": [
+          "2582-5747"
+        ],
+        "pub": "MAT Journals"
+      },
+      {
+        "name": "International Journal of Thermal Energy and Applications",
+        "issn": [],
+        "pub": "Journals PUB"
+      },
+      {
+        "name": "International Journal of Energy and Thermal Applications",
+        "issn": [
+          "3108-1479"
+        ],
+        "pub": "Consortium eLearning Network Pvt Ltd"
+      }
+    ]
+  },
+  "Journal of Environmental Economics and Management": {
+    "name": "Journal of Environmental Economics and Management",
+    "crossref_name": "Journal of Environmental Economics and Management",
+    "issn": [
+      "0095-0696",
+      "1096-0449"
+    ],
+    "publisher": "Elsevier",
+    "total_dois": 3131,
+    "other_candidates": [
+      {
+        "name": "EPRA International Journal of Environmental Economics Commerce and Educational Management",
+        "issn": [
+          "2348-814X"
+        ],
+        "pub": "EPRA JOURNALS"
+      }
+    ],
+    "rss_url": "https://rss.sciencedirect.com/publication/science/00950696"
+  },
+  "Resource and Energy Economics": {
+    "name": "Resource and Energy Economics",
+    "crossref_name": "Resource and Energy Economics",
+    "issn": [
+      "0928-7655"
+    ],
+    "publisher": "Elsevier",
+    "total_dois": 1189,
+    "other_candidates": [
+      {
+        "name": "Handbook of Natural Resource and Energy Economics",
+        "issn": [],
+        "pub": "Elsevier"
+      }
+    ],
+    "rss_url": "https://rss.sciencedirect.com/publication/science/09287655"
+  },
+  "American Journal of Agricultural Economics": {
+    "name": "American Journal of Agricultural Economics",
+    "crossref_name": "American Journal of Agricultural Economics",
+    "issn": [
+      "0002-9092",
+      "1467-8276"
+    ],
+    "publisher": "Wiley (Blackwell Publishing)",
+    "total_dois": 13191,
+    "other_candidates": []
+  },
+  "Journal of Commodity Markets": {
+    "name": "Journal of Commodity Markets",
+    "crossref_name": "Journal of Commodity Markets",
+    "issn": [
+      "2405-8513"
+    ],
+    "publisher": "Elsevier",
+    "total_dois": 405,
+    "other_candidates": [],
+    "rss_url": "https://rss.sciencedirect.com/publication/science/24058513"
+  },
+  "Food Policy": {
+    "name": "Food Policy",
+    "crossref_name": "Food Policy",
+    "issn": [
+      "0306-9192"
+    ],
+    "publisher": "Elsevier",
+    "total_dois": 4275,
+    "other_candidates": [
+      {
+        "name": "World Food Policy",
+        "issn": [
+          "2372-8639",
+          "2372-8639"
+        ],
+        "pub": "Wiley (John Wiley & Sons)"
+      },
+      {
+        "name": "World Food Policy",
+        "issn": [],
+        "pub": "Policy Studies Organization"
+      },
+      {
+        "name": "Agro-Food Policy in Russia",
+        "issn": [
+          "2227-0280",
+          "2687-0452"
+        ],
+        "pub": "Northern Trans-Ural State Agricultural University"
+      },
+      {
+        "name": "Journal of Food Law & Policy",
+        "issn": [
+          "1942-9762",
+          "1942-9770"
+        ],
+        "pub": "University of Arkansas Libraries"
+      }
+    ],
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03069192"
+  },
+  "Journal of Econometrics": {
+    "name": "Journal of Econometrics",
+    "crossref_name": "Journal of Econometrics",
+    "issn": [
+      "0304-4076",
+      "1872-6895"
+    ],
+    "publisher": "Elsevier",
+    "total_dois": 6489,
+    "other_candidates": [
+      {
+        "name": "Journal of Applied Econometrics",
+        "issn": [
+          "0883-7252",
+          "1099-1255"
+        ],
+        "pub": "Wiley (John Wiley & Sons)"
+      },
+      {
+        "name": "Journal of Financial Econometrics",
+        "issn": [
+          "1479-8409",
+          "1479-8417"
+        ],
+        "pub": "Oxford University Press"
+      },
+      {
+        "name": "Journal of Spatial Econometrics",
+        "issn": [
+          "2662-2998",
+          "2662-298X"
+        ],
+        "pub": "Springer-Verlag"
+      },
+      {
+        "name": "Journal of Time Series Econometrics",
+        "issn": [
+          "2194-6507",
+          "1941-1928"
+        ],
+        "pub": "Walter de Gruyter GmbH"
+      }
+    ],
+    "rss_url": "https://rss.sciencedirect.com/publication/science/03044076"
+  },
+  "International Journal of Forecasting": {
+    "name": "International Journal of Forecasting",
+    "crossref_name": "International Journal of Forecasting",
+    "issn": [
+      "0169-2070"
+    ],
+    "publisher": "Elsevier",
+    "total_dois": 3701,
+    "other_candidates": [
+      {
+        "name": "International Journal of Business Forecasting and Marketing Intelligence",
+        "issn": [
+          "1744-6635",
+          "1744-6643"
+        ],
+        "pub": "Inderscience Enterprises Ltd."
+      }
+    ],
+    "rss_url": "https://rss.sciencedirect.com/publication/science/01692070"
+  },
+  "Journal of Forecasting": {
+    "name": "Journal of Forecasting",
+    "crossref_name": "Journal of Forecasting",
+    "issn": [
+      "0277-6693",
+      "1099-131X"
+    ],
+    "publisher": "Wiley (John Wiley & Sons)",
+    "total_dois": 2954,
+    "other_candidates": [
+      {
+        "name": "International Journal of Forecasting",
+        "issn": [
+          "0169-2070"
+        ],
+        "pub": "Elsevier"
+      },
+      {
+        "name": "Turkish Journal of Forecasting",
+        "issn": [
+          "2618-6594"
+        ],
+        "pub": "Turkish Journal of Forecasting"
+      },
+      {
+        "name": "Journal of Climatology & Weather Forecasting",
+        "issn": [
+          "2332-2594"
+        ],
+        "pub": "OMICS Publishing Group"
+      },
+      {
+        "name": "Romanian Journal of Economic Forecasting",
+        "issn": [
+          "1582-6163",
+          "2537-6071"
+        ],
+        "pub": "Institutul de Prognoza Economica"
+      }
+    ]
+  }
+}
