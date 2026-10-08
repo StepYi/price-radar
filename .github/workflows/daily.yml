@@ -1,5 +1,4 @@
 name: PriceRadar 每日价格研究推送
-
 on:
   schedule:
     # GitHub Actions 用的是 UTC。00:30 UTC = 北京时间 08:30
@@ -10,30 +9,23 @@ on:
         description: "推送篇数（留空用 config.toml 的值）"
         required: false
         default: ""
-
 permissions:
   contents: write          # 需要把生成的日报提交回仓库，供 GitHub Pages 展示
-
 concurrency:
   group: priceradar
   cancel-in-progress: false
-
 jobs:
   digest:
     runs-on: ubuntu-latest
     timeout-minutes: 25
-
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-
       # 纯标准库，无需 pip install；这一步只是为了确认环境
       - name: 环境检查
         run: python -c "import sys; print(sys.version)"
-
       - name: 首次解析期刊（有缓存则跳过）
         run: |
           if [ ! -f data/sources_cache.json ]; then
@@ -41,7 +33,6 @@ jobs:
           fi
         env:
           PRICERADAR_MAILTO: ${{ secrets.PRICERADAR_MAILTO }}
-
       - name: 生成日报
         run: |
           if [ -n "${{ github.event.inputs.limit }}" ]; then
@@ -53,18 +44,6 @@ jobs:
           PRICERADAR_MAILTO: ${{ secrets.PRICERADAR_MAILTO }}
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
           SEMANTIC_SCHOLAR_API_KEY: ${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}
-
-      # 可选：邮件推送。没配置 Secrets 时 mailer 会打印一行提示后跳过。
-      - name: 邮件推送（可选）
-        if: ${{ secrets.PRICERADAR_SMTP_HOST != '' }}
-        run: python -m priceradar run --no-fetch --no-enrich --no-dedup --email
-        env:
-          PRICERADAR_SMTP_HOST: ${{ secrets.PRICERADAR_SMTP_HOST }}
-          PRICERADAR_SMTP_PORT: ${{ secrets.PRICERADAR_SMTP_PORT }}
-          PRICERADAR_SMTP_USER: ${{ secrets.PRICERADAR_SMTP_USER }}
-          PRICERADAR_SMTP_PASS: ${{ secrets.PRICERADAR_SMTP_PASS }}
-          PRICERADAR_MAIL_TO: ${{ secrets.PRICERADAR_MAIL_TO }}
-
       - name: 提交日报（让 GitHub Pages 能展示）
         run: |
           git config user.name  "priceradar-bot"
@@ -72,10 +51,8 @@ jobs:
           git add data/out data/priceradar.sqlite3 data/sources_cache.json 2>/dev/null || true
           git diff --cached --quiet && echo "没有变化" || \
             git commit -m "chore(digest): $(date -u +%F) 价格研究日报"
-
       - name: 推送
         run: git push
-
       - name: 上传日报为构建产物（便于下载）
         uses: actions/upload-artifact@v4
         with:
@@ -86,7 +63,6 @@ jobs:
             data/out/*.json
             data/out/feed.xml
           retention-days: 30
-
   # ---------------------------------------------------------------------------
   #  可选：发布到公网，让任何人都能用网址打开（免费、自动 HTTPS）
   #
@@ -113,12 +89,9 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: ${{ github.ref_name }}
-
       - uses: actions/configure-pages@v5
-
       - uses: actions/upload-pages-artifact@v3
         with:
           path: data/out
-
       - id: deploy
         uses: actions/deploy-pages@v4
