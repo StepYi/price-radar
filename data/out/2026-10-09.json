@@ -1,0 +1,724 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09 06:24:46",
+  "stats": {
+    "journals": 17,
+    "fetched": 349,
+    "candidates": 339,
+    "pushed": 10,
+    "digest_size": 10,
+    "per_journal": {
+      "Journal of Finance": {
+        "display": "The Journal of Finance",
+        "group": "金融经济",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 11,
+        "error": ""
+      },
+      "Journal of Financial Economics": {
+        "display": "Journal of Financial Economics",
+        "group": "金融经济",
+        "publisher": "Elsevier",
+        "fetched": 31,
+        "error": ""
+      },
+      "Review of Financial Studies": {
+        "display": "Review of Financial Studies",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 2,
+        "error": ""
+      },
+      "American Economic Review": {
+        "display": "American Economic Review",
+        "group": "金融经济",
+        "publisher": "American Economic Association",
+        "fetched": 10,
+        "error": ""
+      },
+      "Quarterly Journal of Economics": {
+        "display": "The Quarterly Journal of Economics",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 4,
+        "error": ""
+      },
+      "Econometrica": {
+        "display": "Econometrica",
+        "group": "金融经济",
+        "publisher": "The Econometric Society",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Management Science": {
+        "display": "Management Science",
+        "group": "金融经济",
+        "publisher": "Institute for Operations Research and the Management Sciences",
+        "fetched": 17,
+        "error": ""
+      },
+      "Energy Economics": {
+        "display": "Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 73,
+        "error": ""
+      },
+      "The Energy Journal": {
+        "display": "The Energy Journal",
+        "group": "能源资源",
+        "publisher": "SAGE Publications",
+        "fetched": 1,
+        "error": ""
+      },
+      "Journal of Environmental Economics and Management": {
+        "display": "Journal of Environmental Economics and Management",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 26,
+        "error": ""
+      },
+      "Resource and Energy Economics": {
+        "display": "Resource and Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 8,
+        "error": ""
+      },
+      "American Journal of Agricultural Economics": {
+        "display": "American Journal of Agricultural Economics",
+        "group": "农业商品",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 3,
+        "error": ""
+      },
+      "Journal of Commodity Markets": {
+        "display": "Journal of Commodity Markets",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 17,
+        "error": ""
+      },
+      "Food Policy": {
+        "display": "Food Policy",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 40,
+        "error": ""
+      },
+      "Journal of Econometrics": {
+        "display": "Journal of Econometrics",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 47,
+        "error": ""
+      },
+      "International Journal of Forecasting": {
+        "display": "International Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 54,
+        "error": ""
+      },
+      "Journal of Forecasting": {
+        "display": "Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Wiley (John Wiley & Sons)",
+        "fetched": 5,
+        "error": ""
+      }
+    },
+    "selection_notes": {
+      "strict_pool": 35,
+      "cap_relaxed": false,
+      "relaxed": false,
+      "filled": false,
+      "relaxed_pool": 61
+    },
+    "abstract_coverage": 0.159,
+    "enrich": {
+      "s2_filled": 5,
+      "openalex_filled": 0,
+      "openalex_note": "请求失败（HTTP 400 :: https://api.openalex.org/works?filter=doi%3A10.1016%2Fj.jfineco.2026.104383%7C10.1016%2Fj.jfineco.2026.104363%7C10.1016%2Fj.jfineco.2026.104378%7C10.1257%2Faer.116.10.i%7C10.1287%2Fmnsc.2026.eb.v72n10%7C10.1016%2Fj.eneco.2026.109626%7C10.1016%2Fj.eneco.2026.109642%7C10.1016%2Fj.eneco.2026.109639%7C10.1016%2Fj.eneco.2026.109632%7C10.1016%2Fj.eneco.2026.109641%7C10.1016%2Fj.eneco.2026.109622%7C10.1016%2Fj.eneco.2026.109638%7C10.1016%2Fj.eneco.2026.109633%7C10.1016%2Fj.eneco.2026.109634%7C10.1016%2Fj.eneco.2026.109636%7C10.1016%2Fj.eneco.2026.109627%7C10.1016%2Fj.eneco.2026.109637%7C10.1016%2Fj.eneco.2026.109608%7C10.1016%2Fj.eneco.2026.109635%7C10.1016%2Fj.eneco.2026.109610%7C10.1016%2Fj.eneco.2026.109631%7C10.1016%2Fj.eneco.2026.109623%7C10.1016%2Fj.eneco.2026.109630%7C10.1016%2Fj.eneco.2026.109628%7C10.1016%2Fj.eneco.2026.109609%7C10.1016%2Fj.eneco.2026.109624%7C10.1016%2Fj.eneco.2026.109612%7C10.1016%2Fj.eneco.2026.109601%7C10.1016%2Fj.jeem.2026.103434%7C10.1016%2Fj.jeem.2026.103431%7C10.1016%2Fj.jeem.2026.103433%7C10.1016%2Fj.jeem.2026.103432%7C10.1016%2Fj.reseneeco.2026.101603%7C10.1016%2Fj.reseneeco.2026.101604%7C10.1016%2Fj.reseneeco.2026.101600%7C10.1016%2Fj.jcomm.2026.100592%7C10.1016%2Fj.jcomm.2026.100588%7C10.1016%2Fj.foodpol.2026.103207%7C10.1016%2Fj.foodpol.2026.103203%7C10.1016%2Fj.foodpol.2026.103206%7C10.1016%2Fj.foodpol.2026.103201%7C10.1016%2Fj.foodpol.2026.103205%7C10.1016%2Fj.foodpol.2026.103193%7C10.1016%2Fj.foodpol.2026.103198%7C10.1016%2Fj.foodpol.2026.103194%7C10.1016%2Fj.jeconom.2026.106344%7C10.1016%2Fj.jeconom.2026.106314%7C10.1016%2Fj.ijforecast.2026.08.007%7C10.1002%2Ffor.v45.7&per-page=49&select=doi%2Cabstract_inverted_index%2Ccited_by_count%2Cis_oa%2Cbest_oa_location&mailto=2485892471%40qq.com :: {\"error\":\"Invalid query parameters error.\",\"message\":\"is_oa is not a valid select field. Valid fields for select are: id, doi, title, display_name, relevance_score, rerank_score, publication_year, pub）"
+    }
+  },
+  "items": [
+    {
+      "id": "crossref:10.1002/ajae.70099",
+      "doi": "10.1002/ajae.70099",
+      "title": "Using pre‐ and post‐entry data to identify the effect of ethanol plant entry on the spatial pattern of corn prices: A study in Indiana",
+      "abstract": "Abstract We estimate the long‐run effect of ethanol plant entry on local corn prices using a long‐horizon difference‐in‐differences framework that combines matching with fixed effects while explicitly accounting for treatment intensity and spatial heterogeneity. We find that entry by an ethanol plant with average capacity relative to local corn supply raises nearby corn prices by approximately 17 cents per bushel. Treatment effects differ substantially across plants: price effects vary little among plants with below‐average capacity but increase sharply as plant capacity rises relative to local corn supply. Price effects also extend beyond 30 miles from the entrant, highlighting the importance of accounting for spatial heterogeneity when evaluating localized demand shocks. The results are robust to matching on pre‐treatment determinants of plant location, excluding a high‐price outlier county, and alternative approaches to accounting for spatial dependence in statistical inference.",
+      "publication_date": "2026-09-28",
+      "created_date": "2026-09-28",
+      "issue_date": "2026-09-28",
+      "journal": "American Journal of Agricultural Economics",
+      "journal_display": "American Journal of Agricultural Economics",
+      "group": "农业商品",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Jinho Jung",
+        "Juan P. Sesmero",
+        "Ralph Siebert"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": true,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1002/ajae.70099",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 61.07,
+      "rank": 1,
+      "relevance_raw": 11.3,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "prices",
+        "corn",
+        "demand shock"
+      ],
+      "reasons": [
+        "相关性 81/100（价格词 ×2题名 / ×2摘要；商品期货词 ×1题名）",
+        "期刊权重 50/100（American Journal of Agricultural Economics）",
+        "时效 21/100（上线 11 天前）",
+        "方法匹配 25/100（difference in differences）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 11,
+      "matched": {
+        "core_title": [
+          "price",
+          "prices"
+        ],
+        "core_abstract": [
+          "price",
+          "prices"
+        ],
+        "context_title": [
+          "corn"
+        ],
+        "context_abstract": [
+          "corn",
+          "demand shock"
+        ],
+        "method": [
+          "difference in differences"
+        ]
+      },
+      "pushed_date": "2026-10-09"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0169207025001098",
+      "doi": "",
+      "title": "Corrected Support Vector Regression for intraday point forecasting of prices in the continuous power market",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-10-09",
+      "issue_date": "",
+      "journal": "International Journal of Forecasting",
+      "journal_display": "International Journal of Forecasting",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Andrzej Puć",
+        "Joanna Janczura"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0169207025001098",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 60.36,
+      "rank": 2,
+      "relevance_raw": 8.5,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "prices",
+        "power market"
+      ],
+      "reasons": [
+        "相关性 61/100（价格词 ×2题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 50/100（International Journal of Forecasting）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 50/100（forecasting、intraday）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "price",
+          "prices"
+        ],
+        "core_abstract": [],
+        "context_title": [
+          "power market"
+        ],
+        "context_abstract": [],
+        "method": [
+          "forecasting",
+          "intraday"
+        ]
+      },
+      "pushed_date": "2026-10-09"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S014098832600441X",
+      "doi": "",
+      "title": "Retraction notice to “Asymmetric impact of oil price on current account balance: Evidence from oil importing countries” [Energy Econ. 123 (2023) 106749]",
+      "abstract": "",
+      "publication_date": "2026-10-01",
+      "created_date": "2026-10-09",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Lei Chang",
+        "Muhammad Mohsin",
+        "Zhennan Gao",
+        "Farhad Taghizadeh-Hesary"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S014098832600441X",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 60.36,
+      "rank": 3,
+      "relevance_raw": 8.5,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "oil price",
+        "oil"
+      ],
+      "reasons": [
+        "相关性 61/100（价格词 ×2题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "price",
+          "oil price"
+        ],
+        "core_abstract": [],
+        "context_title": [
+          "oil"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-09"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S2405851326000346",
+      "doi": "",
+      "title": "The macroeconomic impact of energy transition metal prices: Nonlinear evidence from IEA economies",
+      "abstract": "",
+      "publication_date": "2026-09-01",
+      "created_date": "2026-10-09",
+      "issue_date": "",
+      "journal": "Journal of Commodity Markets",
+      "journal_display": "Journal of Commodity Markets",
+      "group": "农业商品",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Joseph Agyapong",
+        "Eric Atanga Ayamga",
+        "Lordia Yalley"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S2405851326000346",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 60.36,
+      "rank": 4,
+      "relevance_raw": 8.5,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "prices",
+        "metal"
+      ],
+      "reasons": [
+        "相关性 61/100（价格词 ×2题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 75/100（Journal of Commodity Markets）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "price",
+          "prices"
+        ],
+        "core_abstract": [],
+        "context_title": [
+          "metal"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-09"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S2405851326000383",
+      "doi": "",
+      "title": "What drives carbon price variation? Insights from a present value model",
+      "abstract": "",
+      "publication_date": "2026-12-01",
+      "created_date": "2026-10-09",
+      "issue_date": "",
+      "journal": "Journal of Commodity Markets",
+      "journal_display": "Journal of Commodity Markets",
+      "group": "农业商品",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Ziqi Zhou",
+        "Meng Han"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S2405851326000383",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 60.36,
+      "rank": 5,
+      "relevance_raw": 8.5,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "carbon price",
+        "carbon"
+      ],
+      "reasons": [
+        "相关性 61/100（价格词 ×2题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 75/100（Journal of Commodity Markets）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "price",
+          "carbon price"
+        ],
+        "core_abstract": [],
+        "context_title": [
+          "carbon"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-09"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0169207025001086",
+      "doi": "",
+      "title": "Does the consideration of market prices in model selection increase model profitability? Evidence from theory, artificial data and real-world data",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-10-09",
+      "issue_date": "",
+      "journal": "International Journal of Forecasting",
+      "journal_display": "International Journal of Forecasting",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Fabian Wunderlich",
+        "Marc Garnica Caparrós",
+        "Daniel Memmert"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0169207025001086",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 57.14,
+      "rank": 6,
+      "relevance_raw": 9.0,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "prices",
+        "market price"
+      ],
+      "reasons": [
+        "相关性 64/100（价格词 ×3题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 50/100（International Journal of Forecasting）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "price",
+          "prices",
+          "market price"
+        ],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-09"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0304405X26001066",
+      "doi": "",
+      "title": "Can ChatGPT forecast stock price movements? Return predictability and large language models",
+      "abstract": "",
+      "publication_date": "2026-10-01",
+      "created_date": "2026-10-09",
+      "issue_date": "",
+      "journal": "Journal of Financial Economics",
+      "journal_display": "Journal of Financial Economics",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Alejandro Lopez-Lira",
+        "Yuehua Tang"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0304405X26001066",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 55.6,
+      "rank": 7,
+      "relevance_raw": 6.0,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "stock price"
+      ],
+      "reasons": [
+        "相关性 43/100（价格词 ×2题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 83/100（Journal of Financial Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（forecast）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "price",
+          "stock price"
+        ],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "forecast"
+        ]
+      },
+      "pushed_date": "2026-10-09"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0304405X26001339",
+      "doi": "",
+      "title": "True liquidity and fundamental prices: U.S. tick size pilot",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-09",
+      "issue_date": "",
+      "journal": "Journal of Financial Economics",
+      "journal_display": "Journal of Financial Economics",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Rohit Allena",
+        "Tarun Chordia"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0304405X26001339",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 53.1,
+      "rank": 8,
+      "relevance_raw": 6.0,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "prices"
+      ],
+      "reasons": [
+        "相关性 43/100（价格词 ×2题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 83/100（Journal of Financial Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "price",
+          "prices"
+        ],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-09"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2024.06402",
+      "doi": "10.1287/mnsc.2024.06402",
+      "title": "Managing Inventory and Pricing with Contextual Robust Optimization",
+      "abstract": "Multiproduct inventory and pricing problems are traditionally approached by estimating a presumed sufficiently accurate demand model and then optimizing with this specified model to determine optimal inventory and pricing decisions. However, obtaining an accurate demand model is nearly impossible because of unobservable parameters, resulting in parameter uncertainty; meanwhile, the unknown distribution of the error term in the stochastic demand model raises residual ambiguity. Additionally, the predicted demand is endogenously affected by pricing, leading to decision-dependent prediction that often brings about intractable optimization problems. We introduce a contextual robust optimization model that simultaneously addresses these challenges. Our proposed model possesses attractive finite-sample performance guarantees and can be effectively approached using an enhanced affine recourse adaptation to resolve the issue of intractability, and it can be extended to broader contextual decision-making problems under mild conditions. Extensive numerical studies demonstrate the effectiveness of our approach, showing that it outperforms the conventional estimate-then-optimize approach and the residual-based robust optimization approach that does not account for parameter uncertainty, particularly when the available data are limited. Notably, our proposed model exhibits greater resilience when contextual information is disregarded, reflecting practical situations in which collecting such information might be impossible or costly. This paper was accepted by Peng Sun, optimization and decision analytics. Funding: The research of X. Zhang is supported by the National Natural Science Foundation of China [Grant 72501273], the Anhui Provincial Natural Science Foundation [Grant 2408085QG222], and the Fundamental Research Funds for the Central Universities [Grant BJ2040160100]. The research of Q. Tang was supported by the Ministry of Education, Singapore [Tier 1 Grants RG47/24, RG139/25]. Z. Chen is funded in part by the National Natural Science Foundation of China [Grants 72422002, 72394395], the Hong Kong Research Grants Council General Research Fund [Grant CUHK-11502422], and the Asian Institute of Supply Chains and Logistics. L. Chen acknowledges support from the Emerging Scholar Research Fellowships, The University of Sydney Business School. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06402 .",
+      "publication_date": "2026-09-30",
+      "created_date": "2026-09-30",
+      "issue_date": "2026-09-30",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Xun Zhang",
+        "Qinshen Tang",
+        "Zhi Chen",
+        "Li Chen"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2024.06402",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 51.5,
+      "rank": 9,
+      "relevance_raw": 6.9,
+      "relevance_level": "strong",
+      "keywords": [
+        "pricing",
+        "inventory"
+      ],
+      "reasons": [
+        "相关性 49/100（价格词 ×1题名 / ×1摘要；商品期货词 ×1题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 36/100（上线 9 天前）",
+        "方法匹配 25/100（prediction）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 9,
+      "matched": {
+        "core_title": [
+          "pricing"
+        ],
+        "core_abstract": [
+          "pricing"
+        ],
+        "context_title": [
+          "inventory"
+        ],
+        "context_abstract": [
+          "inventory"
+        ],
+        "method": [
+          "prediction"
+        ]
+      },
+      "pushed_date": "2026-10-09"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326004639",
+      "doi": "",
+      "title": "Presidents, prices at the pump, and the difference in perceptions between energy market experts and non-experts",
+      "abstract": "",
+      "publication_date": "2026-10-01",
+      "created_date": "2026-10-09",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Dylan Brewer",
+        "Matthew E. Oliver"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326004639",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 51.43,
+      "rank": 10,
+      "relevance_raw": 6.0,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "prices"
+      ],
+      "reasons": [
+        "相关性 43/100（价格词 ×2题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "price",
+          "prices"
+        ],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-09"
+    }
+  ]
+}
