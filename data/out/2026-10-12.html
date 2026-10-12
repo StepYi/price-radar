@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>价格研究日报 · 2026-10-12</title>
+<style>
+:root{
+  --bg:#0f1115; --panel:#171a21; --panel2:#1e222b; --line:#2a2f3a;
+  --fg:#e8ecf3; --muted:#98a2b3; --accent:#4f9cf9; --accent2:#22c55e;
+  --warn:#f59e0b; --chip:#242a35;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);
+  font:15px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",sans-serif}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+header{padding:28px 32px 18px;border-bottom:1px solid var(--line);
+  background:linear-gradient(180deg,#171a21,#0f1115)}
+h1{margin:0 0 8px;font-size:24px;letter-spacing:.5px}
+.sub{color:var(--muted);font-size:13.5px}
+.wrap{display:flex;gap:22px;padding:22px 32px 60px;align-items:flex-start}
+main{flex:1;min-width:0}
+aside{width:250px;flex:none;position:sticky;top:22px}
+.toolbar{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:16px;align-items:center}
+input[type=search]{flex:1;min-width:220px;padding:10px 13px;border-radius:9px;
+  border:1px solid var(--line);background:var(--panel);color:var(--fg);font-size:14px}
+.chip{background:var(--chip);border:1px solid var(--line);color:var(--muted);
+  padding:6px 12px;border-radius:999px;font-size:12.5px;cursor:pointer;user-select:none}
+.chip.on{background:#1d3a5c;border-color:#2f6ea8;color:#cfe4ff}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;
+  padding:18px 20px;margin-bottom:14px}
+.card:hover{border-color:#38414f}
+.rank{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;
+  border-radius:8px;background:#1d3a5c;color:#cfe4ff;font-size:13px;font-weight:600;margin-right:9px}
+.title{font-size:17px;font-weight:600;line-height:1.45;color:#f2f6fc}
+.meta{color:var(--muted);font-size:12.8px;margin:9px 0 0;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.badge{background:#1c2430;border:1px solid var(--line);border-radius:6px;padding:2px 7px;font-size:11.5px}
+.badge.t1{background:#2a2113;border-color:#5b421a;color:#f0c674}
+.badge.score{background:#0f2e1c;border-color:#1f5c3a;color:#7ee2a8;font-weight:600}
+.badge.oa{background:#122a3d;border-color:#245273;color:#8ec9f0}
+.badge.rel-strong{background:#3a1a1a;border-color:#7a3030;color:#ffb3b3}
+.badge.noabs{background:#2b260f;border-color:#5c521f;color:#e0d08a}
+.abs{color:#c6cddb;font-size:13.8px;margin:12px 0 0}
+details.absbox{margin-top:12px}
+details.absbox summary{cursor:pointer;color:var(--accent);font-size:13px;outline:none}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-top:12px}
+.kw{background:var(--chip);border:1px solid var(--line);border-radius:999px;
+  padding:2px 9px;font-size:11.5px;color:#a9b4c6}
+.why{margin-top:12px;border-left:2px solid #2f4a6b;padding-left:12px;
+  color:var(--muted);font-size:12.6px}
+.why ul{margin:4px 0 0;padding-left:16px}
+.links{margin-top:13px;display:flex;gap:14px;flex-wrap:wrap;font-size:13px}
+.hist{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px 16px}
+.hist h3{margin:0 0 10px;font-size:13px;color:var(--muted);font-weight:600;letter-spacing:.6px}
+.hist a{display:flex;justify-content:space-between;font-size:13px;padding:5px 0;
+  border-bottom:1px dashed #232833;color:#c6cddb}
+.hist a:last-child{border-bottom:none}
+.hist .n{color:var(--muted);font-size:12px}
+.empty{color:var(--muted);padding:30px;text-align:center;background:var(--panel);
+  border:1px dashed var(--line);border-radius:14px}
+footer{color:var(--muted);font-size:12.4px;padding:0 32px 40px}
+table{border-collapse:collapse;width:100%;font-size:13px;margin-top:10px}
+th,td{border-bottom:1px solid var(--line);padding:7px 9px;text-align:left}
+th{color:var(--muted);font-weight:600}
+code{background:#20242e;border-radius:5px;padding:1px 6px;font-size:12.6px}
+</style></head>
+<body>
+<header>
+  <h1>📈 价格研究日报 · 2026-10-12</h1>
+  <div class="sub">
+    覆盖 17 本顶刊 ｜ 抓取 355 篇 ｜ 新候选 316 篇 ｜
+    本期推送 10 篇 ｜ 生成于 2026-10-12 06:14:46
+  </div>
+</header>
+<div class="wrap">
+  <main>
+    <div class="toolbar">
+      <input id="q" type="search" placeholder="搜索标题 / 摘要 / 作者 / 关键词…（按 / 聚焦）">
+      <span class="chip" data-group="农业商品">农业商品</span><span class="chip" data-group="能源资源">能源资源</span>
+      <span class="chip" id="counter">10 / 10 篇</span>
+    </div>
+    <article class="card" data-group="农业商品" data-blob="information shocks and coexceedances in agricultural commodity futures  journal of commodity markets commodity futures future agricultural yao yang berna karali"><div><span class="rank">1</span><a class="title" href="https://www.sciencedirect.com/science/article/pii/S2405851326000371" target="_blank" rel="noopener">Information shocks and coexceedances in agricultural commodity futures</a></div><div class="meta"><span class="badge">Journal of Commodity Markets</span><span class="badge">上线 2026-10-12（0 天前） · 在线 2026-09-01</span><span class="badge t1">T2</span><span class="badge score">65.7 分</span><span class="badge noabs">无摘要</span><span>Yao Yang、Berna Karali</span></div><div class="chips"><span class="kw">commodity</span><span class="kw">futures</span><span class="kw">future</span><span class="kw">agricultural</span></div><div class="why"><strong>为什么推荐</strong><ul><li>相关性 71/100（价格词 ×0题名 / ×0摘要；商品期货词 ×4题名）</li><li>期刊权重 75/100（Journal of Commodity Markets）</li><li>时效 100/100（上线 0 天前）</li><li>方法匹配 0/100</li></ul></div><div class="links"><a href="https://www.sciencedirect.com/science/article/pii/S2405851326000371" target="_blank" rel="noopener">原文页面 ↗</a></div></article><article class="card" data-group="农业商品" data-blob="a note to maghyereh et al. (2016) — revisiting the directional connectedness of implied volatility between crude oil and equity markets  journal of commodity markets crude crude oil oil lin han stefan trück chi truong"><div><span class="rank">2</span><a class="title" href="https://www.sciencedirect.com/science/article/pii/S2405851326000310" target="_blank" rel="noopener">A note to Maghyereh et al. (2016) — Revisiting the directional connectedness of implied volatility between crude oil and equity markets</a></div><div class="meta"><span class="badge">Journal of Commodity Markets</span><span class="badge">上线 2026-10-12（0 天前） · 在线 2026-09-01</span><span class="badge t1">T2</span><span class="badge score">61.8 分</span><span class="badge noabs">无摘要</span><span>Lin Han、Stefan Trück、Chi Truong</span></div><div class="chips"><span class="kw">crude</span><span class="kw">crude oil</span><span class="kw">oil</span></div><div class="why"><strong>为什么推荐</strong><ul><li>相关性 54/100（价格词 ×0题名 / ×0摘要；商品期货词 ×3题名）</li><li>期刊权重 75/100（Journal of Commodity Markets）</li><li>时效 100/100（上线 0 天前）</li><li>方法匹配 50/100（implied volatility、volatility）</li></ul></div><div class="links"><a href="https://www.sciencedirect.com/science/article/pii/S2405851326000310" target="_blank" rel="noopener">原文页面 ↗</a></div></article><article class="card" data-group="能源资源" data-blob="banking on carbon: modeling intertemporal equilibrium in china&#x27;s rate-based emissions trading system  energy economics carbon emission emissions limin du huiying peng zheng wang"><div><span class="rank">3</span><a class="title" href="https://www.sciencedirect.com/science/article/pii/S0140988326004512" target="_blank" rel="noopener">Banking on carbon: modeling intertemporal equilibrium in China&#x27;s rate-based emissions trading system</a></div><div class="meta"><span class="badge">Energy Economics</span><span class="badge">上线 2026-10-12（0 天前） · 在线 2026-10-01</span><span class="badge t1">T2</span><span class="badge score">59.3 分</span><span class="badge noabs">无摘要</span><span>Limin Du、Huiying Peng、Zheng Wang</span></div><div class="chips"><span class="kw">carbon</span><span class="kw">emission</span><span class="kw">emissions</span></div><div class="why"><strong>为什么推荐</strong><ul><li>相关性 54/100（价格词 ×0题名 / ×0摘要；商品期货词 ×3题名）</li><li>期刊权重 75/100（Energy Economics）</li><li>时效 100/100（上线 0 天前）</li><li>方法匹配 25/100（equilibrium）</li></ul></div><div class="links"><a href="https://www.sciencedirect.com/science/article/pii/S0140988326004512" target="_blank" rel="noopener">原文页面 ↗</a></div></article><article class="card" data-group="能源资源" data-blob="carbon emissions intensity and idiosyncratic volatility: evidence from indian firms  energy economics carbon emission emissions ushmeet kaur wasim ahmad"><div><span class="rank">4</span><a class="title" href="https://www.sciencedirect.com/science/article/pii/S0140988326004792" target="_blank" rel="noopener">Carbon emissions intensity and idiosyncratic volatility: Evidence from Indian firms</a></div><div class="meta"><span class="badge">Energy Economics</span><span class="badge">上线 2026-10-12（0 天前） · 在线 2026-11-01</span><span class="badge t1">T2</span><span class="badge score">59.3 分</span><span class="badge noabs">无摘要</span><span>Ushmeet Kaur、Wasim Ahmad</span></div><div class="chips"><span class="kw">carbon</span><span class="kw">emission</span><span class="kw">emissions</span></div><div class="why"><strong>为什么推荐</strong><ul><li>相关性 54/100（价格词 ×0题名 / ×0摘要；商品期货词 ×3题名）</li><li>期刊权重 75/100（Energy Economics）</li><li>时效 100/100（上线 0 天前）</li><li>方法匹配 25/100（volatility）</li></ul></div><div class="links"><a href="https://www.sciencedirect.com/science/article/pii/S0140988326004792" target="_blank" rel="noopener">原文页面 ↗</a></div></article><article class="card" data-group="能源资源" data-blob="a contingent behavior approach for estimating price elasticities  energy economics price richard t. carson jiajun lu thomas sterner dale whittington"><div><span class="rank">5</span><a class="title" href="https://www.sciencedirect.com/science/article/pii/S0140988326004366" target="_blank" rel="noopener">A contingent behavior approach for estimating price elasticities</a></div><div class="meta"><span class="badge">Energy Economics</span><span class="badge">上线 2026-10-12（0 天前） · 在线 2026-10-01</span><span class="badge t1">T2</span><span class="badge score">40.7 分</span><span class="badge rel-strong">强相关</span><span class="badge noabs">无摘要</span><span>Richard T. Carson、Jiajun Lu、Thomas Sterner 等 4 人</span></div><div class="chips"><span class="kw">price</span></div><div class="why"><strong>为什么推荐</strong><ul><li>相关性 21/100（价格词 ×1题名 / ×0摘要；商品期货词 ×0题名）</li><li>期刊权重 75/100（Energy Economics）</li><li>时效 100/100（上线 0 天前）</li><li>方法匹配 0/100</li></ul></div><div class="links"><a href="https://www.sciencedirect.com/science/article/pii/S0140988326004366" target="_blank" rel="noopener">原文页面 ↗</a></div></article><article class="card" data-group="能源资源" data-blob="fuel taxes without borders: tax-induced price changes and recorded fuel sales in the european union  energy economics price janez dolšak"><div><span class="rank">6</span><a class="title" href="https://www.sciencedirect.com/science/article/pii/S0140988326004743" target="_blank" rel="noopener">Fuel taxes without borders: Tax-induced price changes and recorded fuel sales in the European Union</a></div><div class="meta"><span class="badge">Energy Economics</span><span class="badge">上线 2026-10-12（0 天前） · 在线 2026-10-01</span><span class="badge t1">T2</span><span class="badge score">40.7 分</span><span class="badge rel-strong">强相关</span><span class="badge noabs">无摘要</span><span>Janez Dolšak</span></div><div class="chips"><span class="kw">price</span></div><div class="why"><strong>为什么推荐</strong><ul><li>相关性 21/100（价格词 ×1题名 / ×0摘要；商品期货词 ×0题名）</li><li>期刊权重 75/100（Energy Economics）</li><li>时效 100/100（上线 0 天前）</li><li>方法匹配 0/100</li></ul></div><div class="links"><a href="https://www.sciencedirect.com/science/article/pii/S0140988326004743" target="_blank" rel="noopener">原文页面 ↗</a></div></article><article class="card" data-group="能源资源" data-blob="private ownership and pricing: evidence from the swedish district heating sector  energy economics pricing erik lundin"><div><span class="rank">7</span><a class="title" href="https://www.sciencedirect.com/science/article/pii/S0140988326004391" target="_blank" rel="noopener">Private ownership and pricing: Evidence from the Swedish district heating sector</a></div><div class="meta"><span class="badge">Energy Economics</span><span class="badge">上线 2026-10-12（0 天前） · 在线 2026-10-01</span><span class="badge t1">T2</span><span class="badge score">40.7 分</span><span class="badge rel-strong">强相关</span><span class="badge noabs">无摘要</span><span>Erik Lundin</span></div><div class="chips"><span class="kw">pricing</span></div><div class="why"><strong>为什么推荐</strong><ul><li>相关性 21/100（价格词 ×1题名 / ×0摘要；商品期货词 ×0题名）</li><li>期刊权重 75/100（Energy Economics）</li><li>时效 100/100（上线 0 天前）</li><li>方法匹配 0/100</li></ul></div><div class="links"><a href="https://www.sciencedirect.com/science/article/pii/S0140988326004391" target="_blank" rel="noopener">原文页面 ↗</a></div></article><article class="card" data-group="能源资源" data-blob="time-of-use pricing and peak shifting in residential ev charging: a quasi-experimental study from china  energy economics pricing jingjing li erik t. verhoef shuai chen yacan wang"><div><span class="rank">8</span><a class="title" href="https://doi.org/10.1016/j.eneco.2026.109638" target="_blank" rel="noopener">Time-of-use pricing and peak shifting in residential EV charging: a quasi-experimental study from China</a></div><div class="meta"><span class="badge">Energy Economics</span><span class="badge">上线 2026-10-03（9 天前） · 在线 2026-11-01</span><span class="badge t1">T2</span><span class="badge score">31.1 分</span><span class="badge rel-strong">强相关</span><span class="badge noabs">无摘要</span><span>Jingjing Li、Erik T. Verhoef、Shuai Chen 等 4 人</span></div><div class="chips"><span class="kw">pricing</span></div><div class="why"><strong>为什么推荐</strong><ul><li>相关性 21/100（价格词 ×1题名 / ×0摘要；商品期货词 ×0题名）</li><li>期刊权重 75/100（Energy Economics）</li><li>时效 36/100（上线 9 天前）</li><li>方法匹配 0/100</li></ul></div><div class="links"><a href="https://doi.org/10.1016/j.eneco.2026.109638" target="_blank" rel="noopener">DOI / 原文 ↗</a></div></article><article class="card" data-group="能源资源" data-blob="day-ahead market scheduling strategy of a virtual power plant under the single imbalance pricing scheme via stochastic robust optimization  energy economics pricing álvaro garcía-cerezo petra miljan hrvoje pandžić"><div><span class="rank">9</span><a class="title" href="https://doi.org/10.1016/j.eneco.2026.109627" target="_blank" rel="noopener">Day-ahead market scheduling strategy of a virtual power plant under the single imbalance pricing scheme via stochastic robust optimization</a></div><div class="meta"><span class="badge">Energy Economics</span><span class="badge">上线 2026-09-30（12 天前） · 在线 2026-11-01</span><span class="badge t1">T2</span><span class="badge score">28.6 分</span><span class="badge rel-strong">强相关</span><span class="badge oa">开放获取</span><span class="badge noabs">无摘要</span><span>Álvaro García-Cerezo、Petra Miljan、Hrvoje Pandžić</span></div><div class="chips"><span class="kw">pricing</span></div><div class="why"><strong>为什么推荐</strong><ul><li>相关性 21/100（价格词 ×1题名 / ×0摘要；商品期货词 ×0题名）</li><li>期刊权重 75/100（Energy Economics）</li><li>时效 14/100（上线 12 天前）</li><li>方法匹配 0/100</li><li>有开放获取全文</li></ul></div><div class="links"><a href="https://doi.org/10.1016/j.eneco.2026.109627" target="_blank" rel="noopener">DOI / 原文 ↗</a><a href="https://doi.org/10.1016/j.eneco.2026.109627" target="_blank" rel="noopener">开放获取全文 ↗</a></div></article><article class="card" data-group="能源资源" data-blob="measuring efficiency and abatement costs in waste-to-energy: a nonparametric shadow pricing approach  energy economics pricing zuyao liu bin zhang fawaz baddar alhussan zhaohua wang zhiyang shen"><div><span class="rank">10</span><a class="title" href="https://doi.org/10.1016/j.eneco.2026.109636" target="_blank" rel="noopener">Measuring efficiency and abatement costs in waste-to-energy: A nonparametric shadow pricing approach</a></div><div class="meta"><span class="badge">Energy Economics</span><span class="badge">上线 2026-09-30（12 天前） · 在线 2026-11-01</span><span class="badge t1">T2</span><span class="badge score">27.9 分</span><span class="badge rel-strong">强相关</span><span class="badge noabs">无摘要</span><span>Zuyao Liu、Bin Zhang、Fawaz Baddar ALHussan 等 5 人</span></div><div class="chips"><span class="kw">pricing</span></div><div class="why"><strong>为什么推荐</strong><ul><li>相关性 21/100（价格词 ×1题名 / ×0摘要；商品期货词 ×0题名）</li><li>期刊权重 75/100（Energy Economics）</li><li>时效 14/100（上线 12 天前）</li><li>方法匹配 0/100</li></ul></div><div class="links"><a href="https://doi.org/10.1016/j.eneco.2026.109636" target="_blank" rel="noopener">DOI / 原文 ↗</a></div></article>
+    <div class="card"><h3 style="margin:0 0 6px;font-size:15px">抓取覆盖情况</h3><table><thead><tr><th>期刊</th><th>方向</th><th>窗口内新文</th><th>本期入选</th></tr></thead><tbody><tr><td>Energy Economics</td><td>能源资源</td><td>76</td><td>8</td></tr><tr><td>International Journal of Forecasting</td><td>计量预测</td><td>53</td><td>0</td></tr><tr><td>Journal of Econometrics</td><td>计量预测</td><td>48</td><td>0</td></tr><tr><td>Food Policy</td><td>农业商品</td><td>42</td><td>0</td></tr><tr><td>Journal of Financial Economics</td><td>金融经济</td><td>31</td><td>0</td></tr><tr><td>Journal of Environmental Economics and Management</td><td>能源资源</td><td>26</td><td>0</td></tr><tr><td>Management Science</td><td>金融经济</td><td>17</td><td>0</td></tr><tr><td>Journal of Commodity Markets</td><td>农业商品</td><td>17</td><td>2</td></tr><tr><td>The Journal of Finance</td><td>金融经济</td><td>12</td><td>0</td></tr><tr><td>American Economic Review</td><td>金融经济</td><td>10</td><td>0</td></tr><tr><td>Resource and Energy Economics</td><td>能源资源</td><td>8</td><td>0</td></tr><tr><td>Journal of Forecasting</td><td>计量预测</td><td>6</td><td>0</td></tr><tr><td>American Journal of Agricultural Economics</td><td>农业商品</td><td>3</td><td>0</td></tr><tr><td>Review of Financial Studies</td><td>金融经济</td><td>2</td><td>0</td></tr><tr><td>The Quarterly Journal of Economics</td><td>金融经济</td><td>2</td><td>0</td></tr><tr><td>The Energy Journal</td><td>能源资源</td><td>2</td><td>0</td></tr><tr><td>Econometrica</td><td>金融经济</td><td>0</td><td>0</td></tr></tbody></table></div>
+  </main>
+  <aside>
+    <div class="hist"><h3>历史日报</h3><a href="2026-10-12.html"><span>2026-10-12</span><span class="n">10 篇</span></a><a href="2026-10-11.html"><span>2026-10-11</span><span class="n">10 篇</span></a><a href="2026-10-10.html"><span>2026-10-10</span><span class="n">10 篇</span></a><a href="2026-10-09.html"><span>2026-10-09</span><span class="n">10 篇</span></a><a href="2026-10-08.html"><span>2026-10-08</span><span class="n">10 篇</span></a></div>
+    <div class="hist" style="margin-top:14px">
+      <h3>怎么用</h3>
+      <div class="sub" style="font-size:12.6px;line-height:1.7">
+        每天自动生成。<code>index.html</code> 永远是最新一期。<br>
+        点标题直达 DOI 原文；有「开放获取」标记的可免费读全文。
+      </div>
+    </div>
+  </aside>
+</div>
+<footer>
+  数据源 OpenAlex / Crossref ｜ 打分规则见 <code>config.toml</code> 与 <code>priceradar/score.py</code> ｜
+  每日推送上限 10 篇
+</footer>
+<script>
+const q=document.getElementById('q'), cards=[...document.querySelectorAll('.card')];
+const chips=[...document.querySelectorAll('.chip[data-group]')];
+let active=new Set();
+function apply(){
+  const term=(q.value||'').trim().toLowerCase();
+  cards.forEach(c=>{
+    const okText=!term||c.dataset.blob.includes(term);
+    const g=c.dataset.group||'';
+    const okGroup=active.size===0||active.has(g);
+    c.style.display=(okText&&okGroup)?'':'none';
+  });
+  const vis=cards.filter(c=>c.style.display!=='none').length;
+  const counter=document.getElementById('counter');
+  if(counter) counter.textContent=vis+' / '+cards.length+' 篇';
+}
+if(q){q.addEventListener('input',apply)}
+chips.forEach(ch=>ch.addEventListener('click',()=>{
+  const g=ch.dataset.group;
+  if(active.has(g)){active.delete(g);ch.classList.remove('on')}
+  else{active.add(g);ch.classList.add('on')}
+  apply();
+}));
+document.addEventListener('keydown',e=>{if(e.key==='/'&&q){e.preventDefault();q.focus()}});
+</script>
+</body></html>

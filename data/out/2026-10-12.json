@@ -1,0 +1,691 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12 06:14:46",
+  "stats": {
+    "journals": 17,
+    "fetched": 355,
+    "candidates": 316,
+    "pushed": 10,
+    "digest_size": 10,
+    "per_journal": {
+      "Journal of Finance": {
+        "display": "The Journal of Finance",
+        "group": "金融经济",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 12,
+        "error": ""
+      },
+      "Journal of Financial Economics": {
+        "display": "Journal of Financial Economics",
+        "group": "金融经济",
+        "publisher": "Elsevier",
+        "fetched": 31,
+        "error": ""
+      },
+      "Review of Financial Studies": {
+        "display": "Review of Financial Studies",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 2,
+        "error": ""
+      },
+      "American Economic Review": {
+        "display": "American Economic Review",
+        "group": "金融经济",
+        "publisher": "American Economic Association",
+        "fetched": 10,
+        "error": ""
+      },
+      "Quarterly Journal of Economics": {
+        "display": "The Quarterly Journal of Economics",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 2,
+        "error": ""
+      },
+      "Econometrica": {
+        "display": "Econometrica",
+        "group": "金融经济",
+        "publisher": "The Econometric Society",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Management Science": {
+        "display": "Management Science",
+        "group": "金融经济",
+        "publisher": "Institute for Operations Research and the Management Sciences",
+        "fetched": 17,
+        "error": ""
+      },
+      "Energy Economics": {
+        "display": "Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 76,
+        "error": ""
+      },
+      "The Energy Journal": {
+        "display": "The Energy Journal",
+        "group": "能源资源",
+        "publisher": "SAGE Publications",
+        "fetched": 2,
+        "error": ""
+      },
+      "Journal of Environmental Economics and Management": {
+        "display": "Journal of Environmental Economics and Management",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 26,
+        "error": ""
+      },
+      "Resource and Energy Economics": {
+        "display": "Resource and Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 8,
+        "error": ""
+      },
+      "American Journal of Agricultural Economics": {
+        "display": "American Journal of Agricultural Economics",
+        "group": "农业商品",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 3,
+        "error": ""
+      },
+      "Journal of Commodity Markets": {
+        "display": "Journal of Commodity Markets",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 17,
+        "error": ""
+      },
+      "Food Policy": {
+        "display": "Food Policy",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 42,
+        "error": ""
+      },
+      "Journal of Econometrics": {
+        "display": "Journal of Econometrics",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 48,
+        "error": ""
+      },
+      "International Journal of Forecasting": {
+        "display": "International Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 53,
+        "error": ""
+      },
+      "Journal of Forecasting": {
+        "display": "Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Wiley (John Wiley & Sons)",
+        "fetched": 6,
+        "error": ""
+      }
+    },
+    "selection_notes": {
+      "strict_pool": 6,
+      "cap_relaxed": true,
+      "relaxed": true,
+      "filled": false,
+      "relaxed_pool": 32
+    },
+    "abstract_coverage": 0.165,
+    "enrich": {
+      "s2_filled": 4,
+      "openalex_filled": 0,
+      "openalex_note": "请求失败（HTTP 400 :: https://api.openalex.org/works?filter=doi%3A10.1016%2Fj.jfineco.2026.104383%7C10.1016%2Fj.jfineco.2026.104363%7C10.1257%2Faer.116.10.i%7C10.1287%2Fmnsc.2026.eb.v72n10%7C10.1016%2Fj.eneco.2026.109646%7C10.1016%2Fj.eneco.2026.109643%7C10.1016%2Fj.eneco.2026.109626%7C10.1016%2Fj.eneco.2026.109642%7C10.1016%2Fj.eneco.2026.109639%7C10.1016%2Fj.eneco.2026.109632%7C10.1016%2Fj.eneco.2026.109641%7C10.1016%2Fj.eneco.2026.109622%7C10.1016%2Fj.eneco.2026.109638%7C10.1016%2Fj.eneco.2026.109633%7C10.1016%2Fj.eneco.2026.109634%7C10.1016%2Fj.eneco.2026.109636%7C10.1016%2Fj.eneco.2026.109627%7C10.1016%2Fj.eneco.2026.109608%7C10.1016%2Fj.eneco.2026.109635%7C10.1016%2Fj.eneco.2026.109610%7C10.1016%2Fj.eneco.2026.109631%7C10.1016%2Fj.eneco.2026.109623%7C10.1016%2Fj.eneco.2026.109630%7C10.1016%2Fj.jeem.2026.103434%7C10.1016%2Fj.jeem.2026.103431%7C10.1016%2Fj.jeem.2026.103433%7C10.1016%2Fj.reseneeco.2026.101603%7C10.1016%2Fj.reseneeco.2026.101604%7C10.1016%2Fj.foodpol.2026.103204%7C10.1016%2Fj.foodpol.2026.103195%7C10.1016%2Fj.foodpol.2026.103207%7C10.1016%2Fj.foodpol.2026.103203%7C10.1016%2Fj.foodpol.2026.103206%7C10.1016%2Fj.foodpol.2026.103201%7C10.1016%2Fj.foodpol.2026.103205%7C10.1016%2Fj.jeconom.2026.106346%7C10.1016%2Fj.jeconom.2026.106344%7C10.1016%2Fj.ijforecast.2026.08.007%7C10.1002%2Ffor.v45.7&per-page=39&select=doi%2Cabstract_inverted_index%2Ccited_by_count%2Cis_oa%2Cbest_oa_location&mailto=2485892471%40qq.com :: {\"error\":\"Invalid query parameters error.\",\"message\":\"is_oa is not a valid select field. Valid fields for select are: id, doi, title, display_name, relevance_score, rerank_score, publication_year, pub）"
+    }
+  },
+  "items": [
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S2405851326000371",
+      "doi": "",
+      "title": "Information shocks and coexceedances in agricultural commodity futures",
+      "abstract": "",
+      "publication_date": "2026-09-01",
+      "created_date": "2026-10-12",
+      "issue_date": "",
+      "journal": "Journal of Commodity Markets",
+      "journal_display": "Journal of Commodity Markets",
+      "group": "农业商品",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Yao Yang",
+        "Berna Karali"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S2405851326000371",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 65.71,
+      "rank": 1,
+      "relevance_raw": 10.0,
+      "relevance_level": "medium",
+      "keywords": [
+        "commodity",
+        "futures",
+        "future",
+        "agricultural"
+      ],
+      "reasons": [
+        "相关性 71/100（价格词 ×0题名 / ×0摘要；商品期货词 ×4题名）",
+        "期刊权重 75/100（Journal of Commodity Markets）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "commodity",
+          "futures",
+          "future",
+          "agricultural"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-12"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S2405851326000310",
+      "doi": "",
+      "title": "A note to Maghyereh et al. (2016) — Revisiting the directional connectedness of implied volatility between crude oil and equity markets",
+      "abstract": "",
+      "publication_date": "2026-09-01",
+      "created_date": "2026-10-12",
+      "issue_date": "",
+      "journal": "Journal of Commodity Markets",
+      "journal_display": "Journal of Commodity Markets",
+      "group": "农业商品",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Lin Han",
+        "Stefan Trück",
+        "Chi Truong"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S2405851326000310",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 61.79,
+      "rank": 2,
+      "relevance_raw": 7.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "crude",
+        "crude oil",
+        "oil"
+      ],
+      "reasons": [
+        "相关性 54/100（价格词 ×0题名 / ×0摘要；商品期货词 ×3题名）",
+        "期刊权重 75/100（Journal of Commodity Markets）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 50/100（implied volatility、volatility）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "crude",
+          "crude oil",
+          "oil"
+        ],
+        "context_abstract": [],
+        "method": [
+          "implied volatility",
+          "volatility"
+        ]
+      },
+      "pushed_date": "2026-10-12"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326004512",
+      "doi": "",
+      "title": "Banking on carbon: modeling intertemporal equilibrium in China's rate-based emissions trading system",
+      "abstract": "",
+      "publication_date": "2026-10-01",
+      "created_date": "2026-10-12",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Limin Du",
+        "Huiying Peng",
+        "Zheng Wang"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326004512",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 59.29,
+      "rank": 3,
+      "relevance_raw": 7.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "carbon",
+        "emission",
+        "emissions"
+      ],
+      "reasons": [
+        "相关性 54/100（价格词 ×0题名 / ×0摘要；商品期货词 ×3题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（equilibrium）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "carbon",
+          "emission",
+          "emissions"
+        ],
+        "context_abstract": [],
+        "method": [
+          "equilibrium"
+        ]
+      },
+      "pushed_date": "2026-10-12"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326004792",
+      "doi": "",
+      "title": "Carbon emissions intensity and idiosyncratic volatility: Evidence from Indian firms",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-12",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Ushmeet Kaur",
+        "Wasim Ahmad"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326004792",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 59.29,
+      "rank": 4,
+      "relevance_raw": 7.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "carbon",
+        "emission",
+        "emissions"
+      ],
+      "reasons": [
+        "相关性 54/100（价格词 ×0题名 / ×0摘要；商品期货词 ×3题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（volatility）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "carbon",
+          "emission",
+          "emissions"
+        ],
+        "context_abstract": [],
+        "method": [
+          "volatility"
+        ]
+      },
+      "pushed_date": "2026-10-12"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326004366",
+      "doi": "",
+      "title": "A contingent behavior approach for estimating price elasticities",
+      "abstract": "",
+      "publication_date": "2026-10-01",
+      "created_date": "2026-10-12",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Richard T. Carson",
+        "Jiajun Lu",
+        "Thomas Sterner",
+        "Dale Whittington"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326004366",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 40.71,
+      "rank": 5,
+      "relevance_raw": 3.0,
+      "relevance_level": "strong",
+      "keywords": [
+        "price"
+      ],
+      "reasons": [
+        "相关性 21/100（价格词 ×1题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "price"
+        ],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-12"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326004743",
+      "doi": "",
+      "title": "Fuel taxes without borders: Tax-induced price changes and recorded fuel sales in the European Union",
+      "abstract": "",
+      "publication_date": "2026-10-01",
+      "created_date": "2026-10-12",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Janez Dolšak"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326004743",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 40.71,
+      "rank": 6,
+      "relevance_raw": 3.0,
+      "relevance_level": "strong",
+      "keywords": [
+        "price"
+      ],
+      "reasons": [
+        "相关性 21/100（价格词 ×1题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "price"
+        ],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-12"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326004391",
+      "doi": "",
+      "title": "Private ownership and pricing: Evidence from the Swedish district heating sector",
+      "abstract": "",
+      "publication_date": "2026-10-01",
+      "created_date": "2026-10-12",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Erik Lundin"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326004391",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 40.71,
+      "rank": 7,
+      "relevance_raw": 3.0,
+      "relevance_level": "strong",
+      "keywords": [
+        "pricing"
+      ],
+      "reasons": [
+        "相关性 21/100（价格词 ×1题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "pricing"
+        ],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-12"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109638",
+      "doi": "10.1016/j.eneco.2026.109638",
+      "title": "Time-of-use pricing and peak shifting in residential EV charging: a quasi-experimental study from China",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-03",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Jingjing Li",
+        "Erik T. Verhoef",
+        "Shuai Chen",
+        "Yacan Wang"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109638",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 31.07,
+      "rank": 8,
+      "relevance_raw": 3.0,
+      "relevance_level": "strong",
+      "keywords": [
+        "pricing"
+      ],
+      "reasons": [
+        "相关性 21/100（价格词 ×1题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 36/100（上线 9 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 9,
+      "matched": {
+        "core_title": [
+          "pricing"
+        ],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-12"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109627",
+      "doi": "10.1016/j.eneco.2026.109627",
+      "title": "Day-ahead market scheduling strategy of a virtual power plant under the single imbalance pricing scheme via stochastic robust optimization",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-09-30",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Álvaro García-Cerezo",
+        "Petra Miljan",
+        "Hrvoje Pandžić"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.eneco.2026.109627",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109627",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 28.61,
+      "rank": 9,
+      "relevance_raw": 3.0,
+      "relevance_level": "strong",
+      "keywords": [
+        "pricing"
+      ],
+      "reasons": [
+        "相关性 21/100（价格词 ×1题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 14/100（上线 12 天前）",
+        "方法匹配 0/100",
+        "有开放获取全文"
+      ],
+      "days_old": 12,
+      "matched": {
+        "core_title": [
+          "pricing"
+        ],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-12"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109636",
+      "doi": "10.1016/j.eneco.2026.109636",
+      "title": "Measuring efficiency and abatement costs in waste-to-energy: A nonparametric shadow pricing approach",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-09-30",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Zuyao Liu",
+        "Bin Zhang",
+        "Fawaz Baddar ALHussan",
+        "Zhaohua Wang",
+        "Zhiyang Shen"
+      ],
+      "author_count": 5,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109636",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 27.86,
+      "rank": 10,
+      "relevance_raw": 3.0,
+      "relevance_level": "strong",
+      "keywords": [
+        "pricing"
+      ],
+      "reasons": [
+        "相关性 21/100（价格词 ×1题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 14/100（上线 12 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 12,
+      "matched": {
+        "core_title": [
+          "pricing"
+        ],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-12"
+    }
+  ]
+}
