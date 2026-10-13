@@ -1,0 +1,714 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13 06:56:18",
+  "stats": {
+    "journals": 17,
+    "fetched": 355,
+    "candidates": 307,
+    "pushed": 10,
+    "digest_size": 10,
+    "per_journal": {
+      "Journal of Finance": {
+        "display": "The Journal of Finance",
+        "group": "金融经济",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 11,
+        "error": ""
+      },
+      "Journal of Financial Economics": {
+        "display": "Journal of Financial Economics",
+        "group": "金融经济",
+        "publisher": "Elsevier",
+        "fetched": 32,
+        "error": ""
+      },
+      "Review of Financial Studies": {
+        "display": "Review of Financial Studies",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 2,
+        "error": ""
+      },
+      "American Economic Review": {
+        "display": "American Economic Review",
+        "group": "金融经济",
+        "publisher": "American Economic Association",
+        "fetched": 10,
+        "error": ""
+      },
+      "Quarterly Journal of Economics": {
+        "display": "The Quarterly Journal of Economics",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 2,
+        "error": ""
+      },
+      "Econometrica": {
+        "display": "Econometrica",
+        "group": "金融经济",
+        "publisher": "The Econometric Society",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Management Science": {
+        "display": "Management Science",
+        "group": "金融经济",
+        "publisher": "Institute for Operations Research and the Management Sciences",
+        "fetched": 16,
+        "error": ""
+      },
+      "Energy Economics": {
+        "display": "Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 78,
+        "error": ""
+      },
+      "The Energy Journal": {
+        "display": "The Energy Journal",
+        "group": "能源资源",
+        "publisher": "SAGE Publications",
+        "fetched": 1,
+        "error": ""
+      },
+      "Journal of Environmental Economics and Management": {
+        "display": "Journal of Environmental Economics and Management",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 26,
+        "error": ""
+      },
+      "Resource and Energy Economics": {
+        "display": "Resource and Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 8,
+        "error": ""
+      },
+      "American Journal of Agricultural Economics": {
+        "display": "American Journal of Agricultural Economics",
+        "group": "农业商品",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 1,
+        "error": ""
+      },
+      "Journal of Commodity Markets": {
+        "display": "Journal of Commodity Markets",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 17,
+        "error": ""
+      },
+      "Food Policy": {
+        "display": "Food Policy",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 43,
+        "error": ""
+      },
+      "Journal of Econometrics": {
+        "display": "Journal of Econometrics",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 48,
+        "error": ""
+      },
+      "International Journal of Forecasting": {
+        "display": "International Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 54,
+        "error": ""
+      },
+      "Journal of Forecasting": {
+        "display": "Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Wiley (John Wiley & Sons)",
+        "fetched": 6,
+        "error": ""
+      }
+    },
+    "selection_notes": {
+      "strict_pool": 1,
+      "cap_relaxed": false,
+      "relaxed": true,
+      "filled": false,
+      "relaxed_pool": 23
+    },
+    "abstract_coverage": 0.156,
+    "enrich": {
+      "s2_filled": 4,
+      "openalex_filled": 0,
+      "openalex_note": "请求失败（HTTP 400 :: https://api.openalex.org/works?filter=doi%3A10.1016%2Fj.jfineco.2026.104382%7C10.1016%2Fj.jfineco.2026.104383%7C10.1016%2Fj.jfineco.2026.104363%7C10.1257%2Faer.116.10.i%7C10.1287%2Fmnsc.2026.eb.v72n10%7C10.1016%2Fj.eneco.2026.109645%7C10.1016%2Fj.eneco.2026.109650%7C10.1016%2Fj.eneco.2026.109646%7C10.1016%2Fj.eneco.2026.109643%7C10.1016%2Fj.eneco.2026.109626%7C10.1016%2Fj.eneco.2026.109642%7C10.1016%2Fj.eneco.2026.109639%7C10.1016%2Fj.eneco.2026.109632%7C10.1016%2Fj.eneco.2026.109641%7C10.1016%2Fj.eneco.2026.109622%7C10.1016%2Fj.eneco.2026.109633%7C10.1016%2Fj.eneco.2026.109634%7C10.1016%2Fj.eneco.2026.109608%7C10.1016%2Fj.eneco.2026.109635%7C10.1016%2Fj.eneco.2026.109610%7C10.1016%2Fj.eneco.2026.109631%7C10.1016%2Fj.eneco.2026.109623%7C10.1016%2Fj.jeem.2026.103434%7C10.1016%2Fj.jeem.2026.103431%7C10.1016%2Fj.jeem.2026.103433%7C10.1016%2Fj.reseneeco.2026.101603%7C10.1016%2Fj.reseneeco.2026.101604%7C10.1016%2Fj.foodpol.2026.103202%7C10.1016%2Fj.foodpol.2026.103204%7C10.1016%2Fj.foodpol.2026.103195%7C10.1016%2Fj.foodpol.2026.103207%7C10.1016%2Fj.foodpol.2026.103203%7C10.1016%2Fj.foodpol.2026.103206%7C10.1016%2Fj.foodpol.2026.103201%7C10.1016%2Fj.foodpol.2026.103205%7C10.1016%2Fj.jeconom.2026.106346%7C10.1016%2Fj.ijforecast.2026.08.002%7C10.1016%2Fj.ijforecast.2026.08.007%7C10.1002%2Ffor.v45.7&per-page=39&select=doi%2Cabstract_inverted_index%2Ccited_by_count%2Cis_oa%2Cbest_oa_location&mailto=2485892471%40qq.com :: {\"error\":\"Invalid query parameters error.\",\"message\":\"is_oa is not a valid select field. Valid fields for select are: id, doi, title, display_name, relevance_score, rerank_score, publication_year, pub）"
+    }
+  },
+  "items": [
+    {
+      "id": "crossref:10.1016/j.jfineco.2026.104382",
+      "doi": "10.1016/j.jfineco.2026.104382",
+      "title": "Heterogeneous beliefs, asset prices, and business cycles",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-12",
+      "issue_date": "2026-11-01",
+      "journal": "Journal of Financial Economics",
+      "journal_display": "Journal of Financial Economics",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Saki Bigio",
+        "Dejanir Silva",
+        "Eduardo Zilberman"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.jfineco.2026.104382",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 73.45,
+      "rank": 1,
+      "relevance_raw": 12.0,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "prices",
+        "asset price",
+        "asset prices"
+      ],
+      "reasons": [
+        "相关性 86/100（价格词 ×4题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 83/100（Journal of Financial Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [
+          "price",
+          "prices",
+          "asset price",
+          "asset prices"
+        ],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-13"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326005086",
+      "doi": "",
+      "title": "Cost-effectiveness assessment for China's emission reduction in steel, cement, and electrolytic aluminum industries",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-13",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Zhaohua Wang",
+        "Yukun Wang",
+        "Hongzhi Zhang",
+        "Hao Li",
+        "Zhijie Jia",
+        "Yuli Shan"
+      ],
+      "author_count": 6,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326005086",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 56.79,
+      "rank": 2,
+      "relevance_raw": 7.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "emission",
+        "aluminum",
+        "steel"
+      ],
+      "reasons": [
+        "相关性 54/100（价格词 ×0题名 / ×0摘要；商品期货词 ×3题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "emission",
+          "aluminum",
+          "steel"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-13"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326004627",
+      "doi": "",
+      "title": "Electricity market structure and consequences for wind and solar uptake in the EU-27",
+      "abstract": "",
+      "publication_date": "2026-10-01",
+      "created_date": "2026-10-13",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Jonas Grafström",
+        "Daniel Halvarsson",
+        "Theo Herold",
+        "Nadja Vinberg"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326004627",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 56.79,
+      "rank": 3,
+      "relevance_raw": 7.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "electricity",
+        "solar",
+        "wind"
+      ],
+      "reasons": [
+        "相关性 54/100（价格词 ×0题名 / ×0摘要；商品期货词 ×3题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "electricity",
+          "solar",
+          "wind"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-13"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S2405851326000395",
+      "doi": "",
+      "title": "Modeling tail risk spillovers in commodity markets: The dominant role of energy",
+      "abstract": "",
+      "publication_date": "2026-09-01",
+      "created_date": "2026-10-13",
+      "issue_date": "",
+      "journal": "Journal of Commodity Markets",
+      "journal_display": "Journal of Commodity Markets",
+      "group": "农业商品",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Claudio Candia",
+        "Rodrigo Herrera",
+        "Katarzyna Bień-Barkowska"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S2405851326000395",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 56.79,
+      "rank": 4,
+      "relevance_raw": 7.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "commodity",
+        "commodity market",
+        "commodity markets"
+      ],
+      "reasons": [
+        "相关性 54/100（价格词 ×0题名 / ×0摘要；商品期货词 ×3题名）",
+        "期刊权重 75/100（Journal of Commodity Markets）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "commodity",
+          "commodity market",
+          "commodity markets"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-13"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S014098832600438X",
+      "doi": "",
+      "title": "Trading off capacity factors, location, storage, access charges and curtailment for renewable electricity",
+      "abstract": "",
+      "publication_date": "2026-10-01",
+      "created_date": "2026-10-13",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "David Newbery"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S014098832600438X",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 56.79,
+      "rank": 5,
+      "relevance_raw": 7.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "electricity",
+        "renewable",
+        "storage"
+      ],
+      "reasons": [
+        "相关性 54/100（价格词 ×0题名 / ×0摘要；商品期货词 ×3题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "electricity",
+          "renewable",
+          "storage"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-13"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326005104",
+      "doi": "",
+      "title": "Assessing determinants of CO 2 emissions trajectory under technology uncertainty: A probabilistic approach to index decomposition analysis",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-13",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Hui Wang",
+        "Yupeng Wang",
+        "Yong Yang",
+        "Peng Zhou"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326005104",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 50.36,
+      "rank": 6,
+      "relevance_raw": 5.0,
+      "relevance_level": "medium",
+      "keywords": [
+        "emission",
+        "emissions"
+      ],
+      "reasons": [
+        "相关性 36/100（价格词 ×0题名 / ×0摘要；商品期货词 ×2题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（decomposition）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "emission",
+          "emissions"
+        ],
+        "context_abstract": [],
+        "method": [
+          "decomposition"
+        ]
+      },
+      "pushed_date": "2026-10-13"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326004378",
+      "doi": "",
+      "title": "Machine learning for detecting collusion and capacity withholding in wholesale electricity markets",
+      "abstract": "",
+      "publication_date": "2026-10-01",
+      "created_date": "2026-10-13",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Jeremy Proz",
+        "Martin Huber",
+        "Ivan Marin"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326004378",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 50.36,
+      "rank": 7,
+      "relevance_raw": 5.0,
+      "relevance_level": "medium",
+      "keywords": [
+        "electricity",
+        "wholesale electricity"
+      ],
+      "reasons": [
+        "相关性 36/100（价格词 ×0题名 / ×0摘要；商品期货词 ×2题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（machine learning）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "electricity",
+          "wholesale electricity"
+        ],
+        "context_abstract": [],
+        "method": [
+          "machine learning"
+        ]
+      },
+      "pushed_date": "2026-10-13"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109639",
+      "doi": "10.1016/j.eneco.2026.109639",
+      "title": "Being collaborative or collusive? The role of common institutional investors in corporate carbon emissions",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-07",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Jing Zhou",
+        "Kaiwen Wu",
+        "Xiang Zhang",
+        "Yanmei Fan"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109639",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 50.36,
+      "rank": 8,
+      "relevance_raw": 7.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "carbon",
+        "emission",
+        "emissions"
+      ],
+      "reasons": [
+        "相关性 54/100（价格词 ×0题名 / ×0摘要；商品期货词 ×3题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 57/100（上线 6 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 6,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "carbon",
+          "emission",
+          "emissions"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-13"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0306919226001272",
+      "doi": "",
+      "title": "The new grain giants: the reliability of USDA’s corn and soybean production forecasts for Brazil and Argentina",
+      "abstract": "",
+      "publication_date": "2026-09-01",
+      "created_date": "2026-10-13",
+      "issue_date": "",
+      "journal": "Food Policy",
+      "journal_display": "Food Policy",
+      "group": "农业商品",
+      "tier": 3,
+      "cited_by_count": 0,
+      "authors": [
+        "Olga Isengildina Massa",
+        "Berna Karali",
+        "Scott H. Irwin"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0306919226001272",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 49.29,
+      "rank": 9,
+      "relevance_raw": 7.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "grain",
+        "corn",
+        "soybean"
+      ],
+      "reasons": [
+        "相关性 54/100（价格词 ×0题名 / ×0摘要；商品期货词 ×3题名）",
+        "期刊权重 25/100（Food Policy）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（forecast）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "grain",
+          "corn",
+          "soybean"
+        ],
+        "context_abstract": [],
+        "method": [
+          "forecast"
+        ]
+      },
+      "pushed_date": "2026-10-13"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326004718",
+      "doi": "",
+      "title": "Regional collaborative emission reduction under carbon transfer: A differential game analysis of China's three major urban agglomerations",
+      "abstract": "",
+      "publication_date": "2026-10-01",
+      "created_date": "2026-10-13",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Ze Yang",
+        "Haoning Li",
+        "Yuchen Zhang",
+        "Yongling Li"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326004718",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 47.86,
+      "rank": 10,
+      "relevance_raw": 5.0,
+      "relevance_level": "medium",
+      "keywords": [
+        "carbon",
+        "emission"
+      ],
+      "reasons": [
+        "相关性 36/100（价格词 ×0题名 / ×0摘要；商品期货词 ×2题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "carbon",
+          "emission"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-13"
+    }
+  ]
+}
