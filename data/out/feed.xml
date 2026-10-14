@@ -6,7 +6,55 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日顶刊价格研究文献精选（大宗商品 / 期货 / 能源 / 农产品价格）</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 13 Oct 2026 06:56:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 05:09:12 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[A hybrid strategy for probabilistic forecasting and trading of aggregated wind-solar power: Design and analysis in HEFTCom2024]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0169207025001104</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207025001104</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[International Journal of Forecasting]]></category>
+      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 45.4 ｜ 上线 2026-10-14（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[The HEFTCom2024 winning model: A stacked CatBoost approach for probabilistic wind and solar power forecasting]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0169207026000269</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207026000269</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[International Journal of Forecasting]]></category>
+      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 45.4 ｜ 上线 2026-10-14（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Substituting storage for transmission: Implications for renewable energy]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0095069626001208</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0095069626001208</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Environmental Economics and Management]]></category>
+      <description><![CDATA[<p><strong>Journal of Environmental Economics and Management</strong> ｜ 综合分 44.5 ｜ 上线 2026-10-14（0 天前） · 在线 2026-09-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Does Agricultural Unmanned Aerial Vehicle Use Improve Grain Production Efficiency? Evidence from Rural China]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S030691922600165X</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S030691922600165X</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Food Policy]]></category>
+      <description><![CDATA[<p><strong>Food Policy</strong> ｜ 综合分 37.9 ｜ 上线 2026-10-14（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Food traceability systems and the probability of using chemical fertilizers and pesticides − empirical evidence using plot and farm household data from agriculture census]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S030691922600117X</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S030691922600117X</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Food Policy]]></category>
+      <description><![CDATA[<p><strong>Food Policy</strong> ｜ 综合分 37.9 ｜ 上线 2026-10-14（0 天前） · 在线 2026-09-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Tourism Demand Prediction With Tourist‐Generated Images and Text: An Ensemble Sparse ELM Approach]]></title>
+      <link>https://doi.org/10.1002/for.70225</link>
+      <guid isPermaLink="false">crossref:10.1002/for.70225</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Forecasting]]></category>
+      <description><![CDATA[<p><strong>Journal of Forecasting</strong> ｜ 综合分 37.1 ｜ 上线 2026-10-13（1 天前）</p><p>ABSTRACT This study examines the predictive value of tourist‐generated images and text for daily tourism demand forecasting. Building on established L 0 ‐regularized extreme learning machine (ELM) formulations and ADMM‐based sparse optimization, we construct an ensemble forecasting framework, termed ES‐ L 0 ‐ELM, that combines image‐derived and textual predictors with numerical variables. The framework integrates sparse output‐weight estimation with model selection and weighted aggregation. Experiments on Jiuzhaigou and Mount Siguniang show that ES‐ L 0 ‐ELM achieves lower forecasting errors than the evaluated benchmarks. On the Jiuzhaigou dataset, it reduces MAPE by 18.66% and 14.33% relative to recent tourism forecasting models BERT‐ELM and TFIDF‐Tran‐ELM, respectively. Image features provide greater predictive gains than text features, whereas their combination yields the best performance. This study provides a sparse ensemble forecasting framework and empirical evidence of the complementary value of tourist‐generated images and text.</p>]]></description>
+    </item>
     <item>
       <title><![CDATA[Cost-effectiveness assessment for China's emission reduction in steel, cement, and electrolytic aluminum industries]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0140988326005086</link>
@@ -70,6 +118,14 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[Energy Economics]]></category>
       <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 47.9 ｜ 上线 2026-10-13（0 天前） · 在线 2026-10-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Mind the gap: Emissions adjustment dynamics and firm performance]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109650</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109650</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 45.7 ｜ 上线 2026-10-12（2 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
     </item>
     <item>
       <title><![CDATA[Heterogeneous beliefs, asset prices, and business cycles]]></title>
@@ -336,6 +392,14 @@
       <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 51.4 ｜ 上线 2026-10-09（0 天前） · 在线 2026-10-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
     </item>
     <item>
+      <title><![CDATA[Flow‐Driven ESG Returns]]></title>
+      <link>https://doi.org/10.1111/jofi.70083</link>
+      <guid isPermaLink="false">crossref:10.1111/jofi.70083</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Finance]]></category>
+      <description><![CDATA[<p><strong>The Journal of Finance</strong> ｜ 综合分 38.5 ｜ 上线 2026-10-08（6 天前） · 在线 2026-10-07</p><p>ABSTRACT I show that the recent returns to environmental, social, and governance (ESG) investing are strongly driven by price impact from flows toward ESG portfolios. Using data on trades, I estimate the market&#x27;s ability to accommodate ESG flows, which is given by the elasticity of substitution between ESG and other stocks. I show that every dollar flowing toward a representative ESG portfolio increases the market value of ESG stocks by $0.8. The growing institutional flows into the ESG portfolio are the main driver of ESG returns and have caused an annual flow‐driven return of 1.9%. In the absence of flows, ESG stocks would not have outperformed the market from 2012 to 2023.</p>]]></description>
+    </item>
+    <item>
       <title><![CDATA[Oil price shocks and private equity versus unicorns: transmission channels and policy implications]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0140988326004457</link>
       <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326004457</guid>
@@ -408,6 +472,14 @@
       <description><![CDATA[<p><strong>The Journal of Finance</strong> ｜ 综合分 73.8 ｜ 上线 2026-10-07（1 天前）</p><p>ABSTRACT We document that the convenience yield of U.S. Treasuries exhibits properties consistent with a hedging perspective of safe assets, that is, Treasuries are valued highly if they appreciate with poor aggregate shocks. In particular, the convenience yield tends to be low when the covariance of Treasury returns with the aggregate stock market returns is high. A decomposition of the aggregate stock‐bond covariance into terms corresponding to the convenience yield, the frictionless risk‐free rate, and default risk reveals that the covariance between stock returns and the convenience yield itself drives the effect in a substantive capacity.</p>]]></description>
     </item>
     <item>
+      <title><![CDATA[Central Bank Economic Transparency and Managerial Learning]]></title>
+      <link>https://doi.org/10.1093/rfs/hhag089</link>
+      <guid isPermaLink="false">crossref:10.1093/rfs/hhag089</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Review of Financial Studies]]></category>
+      <description><![CDATA[<p><strong>Review of Financial Studies</strong> ｜ 综合分 42.4 ｜ 上线 2026-10-06（8 天前）</p><p>Abstract Central banks increasingly disclose their private information regarding the economy’s current and future state (CBET). Consistent with CBET shifting investors’ collection and pricing of aggregate-level (where managers do not have an information advantage) toward firm-level (where managers do have an information advantage) information, we find that CBET reduces managers’ learning from stock price. The results are (1) pronounced when firms do not provide guidance and when noise trading in firms’ stock is low, and (2) robust to using the 2013–2014 amendments to the Bank of England’s Inflation Report as an exogenous shock. Additional evidence suggests that CBET lowers investment efficiency. (JEL E22, E52, M41)</p><p><a href="https://doi.org/10.2139/ssrn.4639866">开放获取全文</a></p>]]></description>
+    </item>
+    <item>
       <title><![CDATA[Time-of-use pricing and peak shifting in residential EV charging: a quasi-experimental study from China]]></title>
       <link>https://doi.org/10.1016/j.eneco.2026.109638</link>
       <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109638</guid>
@@ -422,6 +494,14 @@
       <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[Journal of Commodity Markets]]></category>
       <description><![CDATA[<p><strong>Journal of Commodity Markets</strong> ｜ 综合分 41.8 ｜ 上线 2026-10-02（8 天前） · 在线 2026-12-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p><p><a href="https://doi.org/10.1016/j.jcomm.2026.100592">开放获取全文</a></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[The Origin of Risk]]></title>
+      <link>https://doi.org/10.1093/qje/qjag048</link>
+      <guid isPermaLink="false">crossref:10.1093/qje/qjag048</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Quarterly Journal of Economics]]></category>
+      <description><![CDATA[<p><strong>The Quarterly Journal of Economics</strong> ｜ 综合分 36.7 ｜ 上线 2026-09-30（14 天前）</p><p>Abstract We propose a tractable model in which risk, at both the micro and macro levels, is endogenous and driven by incentives. In the model, each firm chooses the mean and the variance of its productivity process, as well as how it covaries with the productivity of other firms. Aggregate risk arises when firms select productivity processes that are correlated with one another. The theory predicts that larger firms and those with lower markups are less volatile and less correlated with aggregate productivity. We find support for these predictions in the data. Through their impact on risk-taking decisions, distortions such as taxes and markups can make GDP more volatile in equilibrium. In a calibrated version of the model, removing distortions significantly reduces GDP volatility.</p>]]></description>
     </item>
     <item>
       <title><![CDATA[Day-ahead market scheduling strategy of a virtual power plant under the single imbalance pricing scheme via stochastic robust optimization]]></title>
