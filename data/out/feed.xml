@@ -6,7 +6,55 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日顶刊价格研究文献精选（大宗商品 / 期货 / 能源 / 农产品价格）</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Oct 2026 05:09:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 04:57:55 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[An explainable machine learning analysis of retail renewable premiums]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0140988326004342</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326004342</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 41.4 ｜ 上线 2026-10-15（0 天前） · 在线 2026-10-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[ESG as a mitigator of oil volatility risk]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0140988326004160</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326004160</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 41.4 ｜ 上线 2026-10-15（0 天前） · 在线 2026-10-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Good and bad volatility: Asymmetric spillovers and cost transmission in European electricity markets]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2405851326000516</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S2405851326000516</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Commodity Markets]]></category>
+      <description><![CDATA[<p><strong>Journal of Commodity Markets</strong> ｜ 综合分 41.4 ｜ 上线 2026-10-15（0 天前） · 在线 2026-12-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Pumped hydro energy storage: Structural results and solution algorithms]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0140988326004482</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326004482</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 41.4 ｜ 上线 2026-10-15（0 天前） · 在线 2026-10-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Risk beyond volatility: Probing spillovers and investment strategy in the energy-carbon-stock system]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S240585132600036X</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S240585132600036X</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Commodity Markets]]></category>
+      <description><![CDATA[<p><strong>Journal of Commodity Markets</strong> ｜ 综合分 41.4 ｜ 上线 2026-10-15（0 天前） · 在线 2026-09-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Environmental regulation, markup, and price: Evidence from China’s paper industry]]></title>
+      <link>https://doi.org/10.1016/j.jeem.2026.103435</link>
+      <guid isPermaLink="false">crossref:10.1016/j.jeem.2026.103435</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Environmental Economics and Management]]></category>
+      <description><![CDATA[<p><strong>Journal of Environmental Economics and Management</strong> ｜ 综合分 47.0 ｜ 上线 2026-10-14（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
     <item>
       <title><![CDATA[A hybrid strategy for probabilistic forecasting and trading of aggregated wind-solar power: Design and analysis in HEFTCom2024]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0169207025001104</link>
@@ -46,6 +94,14 @@
       <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[Food Policy]]></category>
       <description><![CDATA[<p><strong>Food Policy</strong> ｜ 综合分 37.9 ｜ 上线 2026-10-14（0 天前） · 在线 2026-09-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Risk, Specialization, and Covered‐Interest Parity]]></title>
+      <link>https://doi.org/10.1111/jofi.70095</link>
+      <guid isPermaLink="false">crossref:10.1111/jofi.70095</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Finance]]></category>
+      <description><![CDATA[<p><strong>The Journal of Finance</strong> ｜ 综合分 45.6 ｜ 上线 2026-10-13（2 天前）</p><p>ABSTRACT Prevailing theories of financial intermediation assume an integrated financial sector with frictionless risk‐sharing. However, we identify substantial risk‐sharing frictions linked to intermediary specialization using currency derivatives markets as a laboratory. Using confidential supervisory data covering $25 trillion in daily bank exposures, we document imperfect hedging in banks&#x27; FX‐swap intermediation: banks rarely hedge their synthetic dollar lending with maturity‐matched foreign safe assets. Intermediaries specialize in markets in which they have expertise in managing the associated exposures, giving rise to cross‐market variation in deviations from covered‐interest parity. Our results highlight the importance of intermediary specialization and its impact on risk premia.</p>]]></description>
     </item>
     <item>
       <title><![CDATA[Tourism Demand Prediction With Tourist‐Generated Images and Text: An Ensemble Sparse ELM Approach]]></title>
@@ -480,6 +536,14 @@
       <description><![CDATA[<p><strong>Review of Financial Studies</strong> ｜ 综合分 42.4 ｜ 上线 2026-10-06（8 天前）</p><p>Abstract Central banks increasingly disclose their private information regarding the economy’s current and future state (CBET). Consistent with CBET shifting investors’ collection and pricing of aggregate-level (where managers do not have an information advantage) toward firm-level (where managers do have an information advantage) information, we find that CBET reduces managers’ learning from stock price. The results are (1) pronounced when firms do not provide guidance and when noise trading in firms’ stock is low, and (2) robust to using the 2013–2014 amendments to the Bank of England’s Inflation Report as an exogenous shock. Additional evidence suggests that CBET lowers investment efficiency. (JEL E22, E52, M41)</p><p><a href="https://doi.org/10.2139/ssrn.4639866">开放获取全文</a></p>]]></description>
     </item>
     <item>
+      <title><![CDATA[The Welfare Effects of Selling Leads in a Two-Sided Marketplace]]></title>
+      <link>https://doi.org/10.1287/mnsc.2024.07399</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2024.07399</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 34.4 ｜ 上线 2026-10-05（10 天前）</p><p>Digital platforms that connect customers with service providers often monetize by selling customer leads to interested providers. Examples include Bark, Google Local Services, HomeAdvisor, Modernize, Porch, and Thumbtack. This paper develops a game-theoretic model to analyze how lead pricing affects customer and provider welfare. When the platform raises the fee-per-lead for a customer-type, those customers—conditional on receiving the same number of provider quotes—are quoted lower prices. However, if the fee is sufficiently high, providers purchase fewer of these leads, which can reduce the number of quotes and diminish customer surplus. To maximize social welfare, a simple policy that sets a market-clearing fee-per-lead for each customer-type guarantees at least [Formula: see text] of the first-best welfare and at least [Formula: see text] of the welfare under the welfare-optimal fees. The first-best outcome can be achieved by subsidizing providers for each job well done, so that experienced providers with cheaper sources of leads do not exit the platform. Understanding these welfare trade-offs can help platforms design policies that support balanced marketplace growth and preserve a sustainable revenue stream. This paper was accepted by Srikanth Jagabathula, market design, platform, and demand analytics. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07399 .</p>]]></description>
+    </item>
+    <item>
       <title><![CDATA[Time-of-use pricing and peak shifting in residential EV charging: a quasi-experimental study from China]]></title>
       <link>https://doi.org/10.1016/j.eneco.2026.109638</link>
       <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109638</guid>
@@ -494,6 +558,22 @@
       <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[Journal of Commodity Markets]]></category>
       <description><![CDATA[<p><strong>Journal of Commodity Markets</strong> ｜ 综合分 41.8 ｜ 上线 2026-10-02（8 天前） · 在线 2026-12-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p><p><a href="https://doi.org/10.1016/j.jcomm.2026.100592">开放获取全文</a></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Screening and Segmenting: A Consumer Surplus Perspective]]></title>
+      <link>https://doi.org/10.1257/aer.20250206</link>
+      <guid isPermaLink="false">crossref:10.1257/aer.20250206</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[American Economic Review]]></category>
+      <description><![CDATA[<p><strong>American Economic Review</strong> ｜ 综合分 26.7 ｜ 上线 2026-10-01（14 天前）</p><p>We analyze consumer surplus when a monopolist can adjust both prices and product qualities across segments, engaging in secondand third-degree price discrimination simultaneously. We characterize the consumer-optimal segmentation and show that it has a striking structure: Consumers with the same value receive the same quality in every segment, though prices differ. Under mild conditions, any segmentation harms consumers if and only if demand is sufficiently more elastic than supply. Hence, potential benefits for consumers depend critically on demand and supply elasticities. These findings have implications for regulatory policy regarding price discrimination and market segmentation. (JEL D42, D83, K21, L12, L15)</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Bayesian Estimation and Forecasting of Constrained Spatial Panel Interval‐Valued Autoregressive Models]]></title>
+      <link>https://doi.org/10.1002/for.70222</link>
+      <guid isPermaLink="false">crossref:10.1002/for.70222</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Forecasting]]></category>
+      <description><![CDATA[<p><strong>Journal of Forecasting</strong> ｜ 综合分 20.7 ｜ 上线 2026-10-01（14 天前） · 在线 2026-09-30</p><p>ABSTRACT Spatiotemporal interval‐valued data have become increasingly important for modeling uncertainty in complex systems, and related statistical methods and forecasting tools remain underdeveloped. This paper proposes a constrained spatial panel interval‐valued autoregressive model, which ensures mathematical coherence by applying a Mills ratio–based correction and captures the dependence between lower and upper bounds. A Bayesian estimation incorporating prior information is then developed, and a corresponding Metropolis‐within‐Gibbs sampling algorithm is constructed. This algorithm provides a computationally tractable simulation‐based framework for estimating the parameters of the proposed model. Monte Carlo simulations show that the proposed method performs favorably relative to several benchmark approaches in parameter estimation, interval fitting, and forecasting. Applications to air quality and housing price data further demonstrate its ability to model spatiotemporal dependence and interval uncertainty effectively. The results highlight the practical value of the proposed model for analyzing environmental and economic systems characterized by uncertainty.</p>]]></description>
     </item>
     <item>
       <title><![CDATA[The Origin of Risk]]></title>
