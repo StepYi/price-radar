@@ -6,7 +6,63 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日顶刊价格研究文献精选（大宗商品 / 期货 / 能源 / 农产品价格）</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 15 Oct 2026 04:57:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 04:47:43 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Information framing and the impact of nutrition label serving size change]]></title>
+      <link>https://doi.org/10.1002/ajae.70100</link>
+      <guid isPermaLink="false">crossref:10.1002/ajae.70100</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[American Journal of Agricultural Economics]]></category>
+      <description><![CDATA[<p><strong>American Journal of Agricultural Economics</strong> ｜ 综合分 45.7 ｜ 上线 2026-10-16（0 天前） · 在线 2026-10-15</p><p>Abstract The framing of information can significantly influence how consumers interpret and respond to it. This paper investigates how the change in serving sizes in Nutrition Facts Panel (NFP) affects consumer choices for carbonated soft drinks (CSD). We first estimate a reduced form difference‐in‐differences (DiD) model to document causal effects on purchasing behavior. We then develop and estimate an equilibrium structural model of both consumer demand and firms&#x27; pricing and nutritional choices. Our results show that larger labeled serving sizes significantly reduced demand for regular CSDs, leading to a decline in the average amount of nutrients sold. Counterfactual simulations indicate that larger serving size adjustments (e.g., 16 oz, 24 oz, or whole bottle) would amplify these effects, while firms would partially offset demand losses through subtle calorie, sodium, and caffeine reductions. These findings suggest that strategic serving size adjustments and product reformulations from food manufacturers may support healthier consumer choices. Our welfare analysis shows that sufficiently aggressive serving size adjustments can dominate soda tax at low to moderate values of the marginal value of public funds, delivering comparable reductions in nutrient purchases without the regressive price burden that excise taxes impose on lower‐income consumers.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Modeling and forecasting intraday spot volatility]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0169207025001189</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207025001189</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[International Journal of Forecasting]]></category>
+      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 41.4 ｜ 上线 2026-10-16（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[A New Keynesian model of the term structures of equity and bond returns]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0304405X26001224</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0304405X26001224</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Financial Economics]]></category>
+      <description><![CDATA[<p><strong>Journal of Financial Economics</strong> ｜ 综合分 40.6 ｜ 上线 2026-10-16（0 天前） · 在线 2026-10-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Climate policy uncertainty and U.S. stock returns of carbon-intensive industries]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S2405851326000528</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S2405851326000528</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Commodity Markets]]></category>
+      <description><![CDATA[<p><strong>Journal of Commodity Markets</strong> ｜ 综合分 38.9 ｜ 上线 2026-10-16（0 天前） · 在线 2026-12-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Designing renewable energy auctions for high realization probability — CfD and payment-only auctions]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0140988326004640</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326004640</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 38.9 ｜ 上线 2026-10-16（0 天前） · 在线 2026-10-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Does the Low-Carbon City Pilot policy promote green innovation collaboration? Evidence from knowledge embeddedness and complexity]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0140988326005037</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326005037</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 38.9 ｜ 上线 2026-10-16（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Critical peak pricing or rebate? An impact analysis in a cold climate market]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109644</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109644</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 39.6 ｜ 上线 2026-10-15（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
     <item>
       <title><![CDATA[An explainable machine learning analysis of retail renewable premiums]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0140988326004342</link>
@@ -46,6 +102,30 @@
       <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[Journal of Commodity Markets]]></category>
       <description><![CDATA[<p><strong>Journal of Commodity Markets</strong> ｜ 综合分 41.4 ｜ 上线 2026-10-15（0 天前） · 在线 2026-09-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Externalities of Responsible Investments]]></title>
+      <link>https://doi.org/10.1111/jofi.70082</link>
+      <guid isPermaLink="false">crossref:10.1111/jofi.70082</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Finance]]></category>
+      <description><![CDATA[<p><strong>The Journal of Finance</strong> ｜ 综合分 39.9 ｜ 上线 2026-10-14（2 天前）</p><p>ABSTRACT We develop a model to study the efficiency of socially responsible investing (SRI) as a mechanism to control firms&#x27; externalities. When SRI is not too popular, responsible investors favor strategies that lead to a concentration of SRI in a subset of firms in the economy. This concentration can mitigate coordination issues in adopting green technologies, but it can also crowd out the green investments of excluded firms and increase the price of green products. In equilibrium, responsible investors continue to favor concentration even as SRI becomes more popular, and concentrate the most when concentration is least desirable.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[AI-Driven Human Task Substitution: Evidence from Google Translate and ChatGPT]]></title>
+      <link>https://doi.org/10.1287/mnsc.2024.06740</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2024.06740</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 39.4 ｜ 上线 2026-10-14（2 天前）</p><p>We examine how different generations of artificial intelligence (AI) substitute for human knowledge worker tasks, leveraging two sequential natural experiments in the translation industry. We study the introduction of Google Neural Machine Translation (GNMT), a predictive, task-specific AI, as well as ChatGPT, a broad, general-purpose generative AI, in a major online labor market. Distinguishing between analytical tasks (regular translations) and intuitive tasks (transcreations, which require creative and cultural adaptation), we estimate difference-in-differences models on transaction-level data from 2016 to 2017 and 2022 to 2023. We find that GNMT reduced the demand for analytical tasks by economically meaningful magnitudes, while having no detectable effect on intuitive tasks. By contrast, ChatGPT produced substantially larger and more uniform reductions for both analytical and intuitive tasks, indicating a marked expansion in the scope and magnitude of AI substitution. By comparing these two technological shocks within the same labor market, we show that conclusions about which types of human work are resilient to automation do not straightforwardly generalize from predictive to generative AI. This paper was accepted by Joshua Gans, business strategy. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06740 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Risk premia in the UK electricity market under policy uncertainty and market fragmentation]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109649</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109649</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 39.3 ｜ 上线 2026-10-14（2 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
     </item>
     <item>
       <title><![CDATA[Environmental regulation, markup, and price: Evidence from China’s paper industry]]></title>
