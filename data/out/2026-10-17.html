@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>价格研究日报 · 2026-10-17</title>
+<style>
+:root{
+  --bg:#0f1115; --panel:#171a21; --panel2:#1e222b; --line:#2a2f3a;
+  --fg:#e8ecf3; --muted:#98a2b3; --accent:#4f9cf9; --accent2:#22c55e;
+  --warn:#f59e0b; --chip:#242a35;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);
+  font:15px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",sans-serif}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+header{padding:28px 32px 18px;border-bottom:1px solid var(--line);
+  background:linear-gradient(180deg,#171a21,#0f1115)}
+h1{margin:0 0 8px;font-size:24px;letter-spacing:.5px}
+.sub{color:var(--muted);font-size:13.5px}
+.wrap{display:flex;gap:22px;padding:22px 32px 60px;align-items:flex-start}
+main{flex:1;min-width:0}
+aside{width:250px;flex:none;position:sticky;top:22px}
+.toolbar{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:16px;align-items:center}
+input[type=search]{flex:1;min-width:220px;padding:10px 13px;border-radius:9px;
+  border:1px solid var(--line);background:var(--panel);color:var(--fg);font-size:14px}
+.chip{background:var(--chip);border:1px solid var(--line);color:var(--muted);
+  padding:6px 12px;border-radius:999px;font-size:12.5px;cursor:pointer;user-select:none}
+.chip.on{background:#1d3a5c;border-color:#2f6ea8;color:#cfe4ff}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;
+  padding:18px 20px;margin-bottom:14px}
+.card:hover{border-color:#38414f}
+.rank{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;
+  border-radius:8px;background:#1d3a5c;color:#cfe4ff;font-size:13px;font-weight:600;margin-right:9px}
+.title{font-size:17px;font-weight:600;line-height:1.45;color:#f2f6fc}
+.meta{color:var(--muted);font-size:12.8px;margin:9px 0 0;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.badge{background:#1c2430;border:1px solid var(--line);border-radius:6px;padding:2px 7px;font-size:11.5px}
+.badge.t1{background:#2a2113;border-color:#5b421a;color:#f0c674}
+.badge.score{background:#0f2e1c;border-color:#1f5c3a;color:#7ee2a8;font-weight:600}
+.badge.oa{background:#122a3d;border-color:#245273;color:#8ec9f0}
+.badge.rel-strong{background:#3a1a1a;border-color:#7a3030;color:#ffb3b3}
+.badge.noabs{background:#2b260f;border-color:#5c521f;color:#e0d08a}
+.abs{color:#c6cddb;font-size:13.8px;margin:12px 0 0}
+details.absbox{margin-top:12px}
+details.absbox summary{cursor:pointer;color:var(--accent);font-size:13px;outline:none}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-top:12px}
+.kw{background:var(--chip);border:1px solid var(--line);border-radius:999px;
+  padding:2px 9px;font-size:11.5px;color:#a9b4c6}
+.why{margin-top:12px;border-left:2px solid #2f4a6b;padding-left:12px;
+  color:var(--muted);font-size:12.6px}
+.why ul{margin:4px 0 0;padding-left:16px}
+.links{margin-top:13px;display:flex;gap:14px;flex-wrap:wrap;font-size:13px}
+.hist{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px 16px}
+.hist h3{margin:0 0 10px;font-size:13px;color:var(--muted);font-weight:600;letter-spacing:.6px}
+.hist a{display:flex;justify-content:space-between;font-size:13px;padding:5px 0;
+  border-bottom:1px dashed #232833;color:#c6cddb}
+.hist a:last-child{border-bottom:none}
+.hist .n{color:var(--muted);font-size:12px}
+.empty{color:var(--muted);padding:30px;text-align:center;background:var(--panel);
+  border:1px dashed var(--line);border-radius:14px}
+footer{color:var(--muted);font-size:12.4px;padding:0 32px 40px}
+table{border-collapse:collapse;width:100%;font-size:13px;margin-top:10px}
+th,td{border-bottom:1px solid var(--line);padding:7px 9px;text-align:left}
+th{color:var(--muted);font-weight:600}
+code{background:#20242e;border-radius:5px;padding:1px 6px;font-size:12.6px}
+</style></head>
+<body>
+<header>
+  <h1>📈 价格研究日报 · 2026-10-17</h1>
+  <div class="sub">
+    覆盖 17 本顶刊 ｜ 抓取 289 篇 ｜ 新候选 217 篇 ｜
+    本期推送 10 篇 ｜ 生成于 2026-10-17 04:46:31
+  </div>
+</header>
+<div class="wrap">
+  <main>
+    <div class="toolbar">
+      <input id="q" type="search" placeholder="搜索标题 / 摘要 / 作者 / 关键词…（按 / 聚焦）">
+      <span class="chip" data-group="农业商品">农业商品</span><span class="chip" data-group="能源资源">能源资源</span><span class="chip" data-group="计量预测">计量预测</span>
+      <span class="chip" id="counter">10 / 10 篇</span>
+    </div>
+    <article class="card" data-group="能源资源" data-blob="financing the low-carbon transition: do energy transition investments improve esg performance?  energy economics carbon kwamie dunbar mohammed alrashdani"><div><span class="rank">1</span><a class="title" href="https://www.sciencedirect.com/science/article/pii/S014098832600472X" target="_blank" rel="noopener">Financing the low-carbon transition: Do energy transition investments improve ESG performance?</a></div><div class="meta"><span class="badge">Energy Economics</span><span class="badge">上线 2026-10-17（0 天前） · 在线 2026-10-01</span><span class="badge t1">T2</span><span class="badge score">38.9 分</span><span class="badge noabs">无摘要</span><span>Kwamie Dunbar、Mohammed Alrashdani</span></div><div class="chips"><span class="kw">carbon</span></div><div class="why"><strong>为什么推荐</strong><ul><li>相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）</li><li>期刊权重 75/100（Energy Economics）</li><li>时效 100/100（上线 0 天前）</li><li>方法匹配 0/100</li></ul></div><div class="links"><a href="https://www.sciencedirect.com/science/article/pii/S014098832600472X" target="_blank" rel="noopener">原文页面 ↗</a></div></article><article class="card" data-group="能源资源" data-blob="investment under government ownership: evidence from oil and gas drilling on the wyoming checkerboard  energy economics oil eric c. edwards trevor o’grady"><div><span class="rank">2</span><a class="title" href="https://www.sciencedirect.com/science/article/pii/S0140988326004901" target="_blank" rel="noopener">Investment under government ownership: Evidence from oil and gas drilling on the Wyoming checkerboard</a></div><div class="meta"><span class="badge">Energy Economics</span><span class="badge">上线 2026-10-17（0 天前） · 在线 2026-11-01</span><span class="badge t1">T2</span><span class="badge score">38.9 分</span><span class="badge noabs">无摘要</span><span>Eric C. Edwards、Trevor O’Grady</span></div><div class="chips"><span class="kw">oil</span></div><div class="why"><strong>为什么推荐</strong><ul><li>相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）</li><li>期刊权重 75/100（Energy Economics）</li><li>时效 100/100（上线 0 天前）</li><li>方法匹配 0/100</li></ul></div><div class="links"><a href="https://www.sciencedirect.com/science/article/pii/S0140988326004901" target="_blank" rel="noopener">原文页面 ↗</a></div></article><article class="card" data-group="能源资源" data-blob="just transition? exploring the climate finance, regulatory quality, trade openness and renewable energy nexus  energy economics renewable lili wang jun pang"><div><span class="rank">3</span><a class="title" href="https://www.sciencedirect.com/science/article/pii/S0140988326004470" target="_blank" rel="noopener">Just transition? Exploring the climate finance, regulatory quality, trade openness and renewable energy nexus</a></div><div class="meta"><span class="badge">Energy Economics</span><span class="badge">上线 2026-10-17（0 天前） · 在线 2026-10-01</span><span class="badge t1">T2</span><span class="badge score">38.9 分</span><span class="badge noabs">无摘要</span><span>Lili Wang、Jun Pang</span></div><div class="chips"><span class="kw">renewable</span></div><div class="why"><strong>为什么推荐</strong><ul><li>相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）</li><li>期刊权重 75/100（Energy Economics）</li><li>时效 100/100（上线 0 天前）</li><li>方法匹配 0/100</li></ul></div><div class="links"><a href="https://www.sciencedirect.com/science/article/pii/S0140988326004470" target="_blank" rel="noopener">原文页面 ↗</a></div></article><article class="card" data-group="能源资源" data-blob="measuring regional economic activity through electricity sales  energy economics electricity changhui kang hwanoong lee sangkon park suyeon cha"><div><span class="rank">4</span><a class="title" href="https://www.sciencedirect.com/science/article/pii/S0140988326005153" target="_blank" rel="noopener">Measuring regional economic activity through electricity sales</a></div><div class="meta"><span class="badge">Energy Economics</span><span class="badge">上线 2026-10-17（0 天前） · 在线 2026-11-01</span><span class="badge t1">T2</span><span class="badge score">38.9 分</span><span class="badge noabs">无摘要</span><span>Changhui Kang、Hwanoong Lee、Sangkon Park 等 4 人</span></div><div class="chips"><span class="kw">electricity</span></div><div class="why"><strong>为什么推荐</strong><ul><li>相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）</li><li>期刊权重 75/100（Energy Economics）</li><li>时效 100/100（上线 0 天前）</li><li>方法匹配 0/100</li></ul></div><div class="links"><a href="https://www.sciencedirect.com/science/article/pii/S0140988326005153" target="_blank" rel="noopener">原文页面 ↗</a></div></article><article class="card" data-group="能源资源" data-blob="the impact of daylight saving time (dst) on electricity consumption in iran  energy economics electricity amirhossein rafati sahneh saraei ali jadidzadeh"><div><span class="rank">5</span><a class="title" href="https://www.sciencedirect.com/science/article/pii/S0140988326004858" target="_blank" rel="noopener">The impact of Daylight Saving Time (DST) on electricity consumption in Iran</a></div><div class="meta"><span class="badge">Energy Economics</span><span class="badge">上线 2026-10-17（0 天前） · 在线 2026-11-01</span><span class="badge t1">T2</span><span class="badge score">38.9 分</span><span class="badge noabs">无摘要</span><span>Amirhossein Rafati Sahneh Saraei、Ali Jadidzadeh</span></div><div class="chips"><span class="kw">electricity</span></div><div class="why"><strong>为什么推荐</strong><ul><li>相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）</li><li>期刊权重 75/100（Energy Economics）</li><li>时效 100/100（上线 0 天前）</li><li>方法匹配 0/100</li></ul></div><div class="links"><a href="https://www.sciencedirect.com/science/article/pii/S0140988326004858" target="_blank" rel="noopener">原文页面 ↗</a></div></article><article class="card" data-group="能源资源" data-blob="trading electrons: predicting dart spread spikes in iso electricity markets  energy economics electricity emma hubert dimitrios lolas ronnie sircar"><div><span class="rank">6</span><a class="title" href="https://www.sciencedirect.com/science/article/pii/S0140988326004706" target="_blank" rel="noopener">Trading electrons: Predicting DART spread spikes in ISO electricity markets</a></div><div class="meta"><span class="badge">Energy Economics</span><span class="badge">上线 2026-10-17（0 天前） · 在线 2026-10-01</span><span class="badge t1">T2</span><span class="badge score">38.9 分</span><span class="badge noabs">无摘要</span><span>Emma Hubert、Dimitrios Lolas、Ronnie Sircar</span></div><div class="chips"><span class="kw">electricity</span></div><div class="why"><strong>为什么推荐</strong><ul><li>相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）</li><li>期刊权重 75/100（Energy Economics）</li><li>时效 100/100（上线 0 天前）</li><li>方法匹配 0/100</li></ul></div><div class="links"><a href="https://www.sciencedirect.com/science/article/pii/S0140988326004706" target="_blank" rel="noopener">原文页面 ↗</a></div></article><article class="card" data-group="能源资源" data-blob="which carbon policies redirect innovation? comparative evidence on policy instruments and policy mixes in china  energy economics carbon qiang li lidong chen wei jin lin zhang"><div><span class="rank">7</span><a class="title" href="https://www.sciencedirect.com/science/article/pii/S0140988326004615" target="_blank" rel="noopener">Which carbon policies redirect innovation? Comparative evidence on policy instruments and policy mixes in China</a></div><div class="meta"><span class="badge">Energy Economics</span><span class="badge">上线 2026-10-17（0 天前） · 在线 2026-10-01</span><span class="badge t1">T2</span><span class="badge score">38.9 分</span><span class="badge noabs">无摘要</span><span>Qiang Li、Lidong Chen、Wei Jin 等 4 人</span></div><div class="chips"><span class="kw">carbon</span></div><div class="why"><strong>为什么推荐</strong><ul><li>相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）</li><li>期刊权重 75/100（Energy Economics）</li><li>时效 100/100（上线 0 天前）</li><li>方法匹配 0/100</li></ul></div><div class="links"><a href="https://www.sciencedirect.com/science/article/pii/S0140988326004615" target="_blank" rel="noopener">原文页面 ↗</a></div></article><article class="card" data-group="农业商品" data-blob="analyzing the dynamic connectedness and quantile dependence between carbon and fossil energy markets  journal of commodity markets carbon walid mensi salem adel ziadat bashar yaser almansour ronald mciver sang hoon kang"><div><span class="rank">8</span><a class="title" href="https://doi.org/10.1016/j.jcomm.2026.100593" target="_blank" rel="noopener">Analyzing the dynamic connectedness and quantile dependence between carbon and fossil energy markets</a></div><div class="meta"><span class="badge">Journal of Commodity Markets</span><span class="badge">上线 2026-10-15（2 天前） · 在线 2026-10-14</span><span class="badge t1">T2</span><span class="badge score">36.8 分</span><span class="badge noabs">无摘要</span><span>Walid Mensi、Salem Adel Ziadat、Bashar Yaser Almansour 等 5 人</span></div><div class="chips"><span class="kw">carbon</span></div><div class="why"><strong>为什么推荐</strong><ul><li>相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）</li><li>期刊权重 75/100（Journal of Commodity Markets）</li><li>时效 86/100（上线 2 天前）</li><li>方法匹配 0/100</li></ul></div><div class="links"><a href="https://doi.org/10.1016/j.jcomm.2026.100593" target="_blank" rel="noopener">DOI / 原文 ↗</a></div></article><article class="card" data-group="计量预测" data-blob="designing cost-effective climate policies through preference prediction: evidence from chinese households’ low-carbon alternatives  international journal of forecasting carbon yuanyuan tang bowei guo"><div><span class="rank">9</span><a class="title" href="https://www.sciencedirect.com/science/article/pii/S0169207026000889" target="_blank" rel="noopener">Designing cost-effective climate policies through preference prediction: Evidence from Chinese households’ low-carbon alternatives</a></div><div class="meta"><span class="badge">International Journal of Forecasting</span><span class="badge">上线 2026-10-17（0 天前） · 在线 2026-09-11</span><span class="badge t1">T2</span><span class="badge score">36.4 分</span><span class="badge noabs">无摘要</span><span>Yuanyuan Tang、Bowei Guo</span></div><div class="chips"><span class="kw">carbon</span></div><div class="why"><strong>为什么推荐</strong><ul><li>相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）</li><li>期刊权重 50/100（International Journal of Forecasting）</li><li>时效 100/100（上线 0 天前）</li><li>方法匹配 25/100（prediction）</li></ul></div><div class="links"><a href="https://www.sciencedirect.com/science/article/pii/S0169207026000889" target="_blank" rel="noopener">原文页面 ↗</a></div></article><article class="card" data-group="计量预测" data-blob="the hybrid renewable energy forecasting and trading competition 2024  international journal of forecasting renewable jethro browell dennis van der meer henrik kälvegren sebastian haglund edoardo simioni ricardo j. bessa yi wang"><div><span class="rank">10</span><a class="title" href="https://www.sciencedirect.com/science/article/pii/S0169207025001013" target="_blank" rel="noopener">The hybrid renewable energy forecasting and trading competition 2024</a></div><div class="meta"><span class="badge">International Journal of Forecasting</span><span class="badge">上线 2026-10-17（0 天前）</span><span class="badge t1">T2</span><span class="badge score">36.4 分</span><span class="badge noabs">无摘要</span><span>Jethro Browell、Dennis van der Meer、Henrik Kälvegren 等 7 人</span></div><div class="chips"><span class="kw">renewable</span></div><div class="why"><strong>为什么推荐</strong><ul><li>相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）</li><li>期刊权重 50/100（International Journal of Forecasting）</li><li>时效 100/100（上线 0 天前）</li><li>方法匹配 25/100（forecasting）</li></ul></div><div class="links"><a href="https://www.sciencedirect.com/science/article/pii/S0169207025001013" target="_blank" rel="noopener">原文页面 ↗</a></div></article>
+    <div class="card"><h3 style="margin:0 0 6px;font-size:15px">抓取覆盖情况</h3><table><thead><tr><th>期刊</th><th>方向</th><th>窗口内新文</th><th>本期入选</th></tr></thead><tbody><tr><td>Energy Economics</td><td>能源资源</td><td>81</td><td>7</td></tr><tr><td>International Journal of Forecasting</td><td>计量预测</td><td>55</td><td>2</td></tr><tr><td>Journal of Financial Economics</td><td>金融经济</td><td>34</td><td>0</td></tr><tr><td>Food Policy</td><td>农业商品</td><td>29</td><td>0</td></tr><tr><td>Journal of Econometrics</td><td>计量预测</td><td>23</td><td>0</td></tr><tr><td>Management Science</td><td>金融经济</td><td>17</td><td>0</td></tr><tr><td>Journal of Environmental Economics and Management</td><td>能源资源</td><td>16</td><td>0</td></tr><tr><td>Journal of Commodity Markets</td><td>农业商品</td><td>9</td><td>1</td></tr><tr><td>The Journal of Finance</td><td>金融经济</td><td>8</td><td>0</td></tr><tr><td>Resource and Energy Economics</td><td>能源资源</td><td>8</td><td>0</td></tr><tr><td>Journal of Forecasting</td><td>计量预测</td><td>5</td><td>0</td></tr><tr><td>Review of Financial Studies</td><td>金融经济</td><td>2</td><td>0</td></tr><tr><td>The Energy Journal</td><td>能源资源</td><td>1</td><td>0</td></tr><tr><td>American Journal of Agricultural Economics</td><td>农业商品</td><td>1</td><td>0</td></tr><tr><td>American Economic Review</td><td>金融经济</td><td>0</td><td>0</td></tr><tr><td>The Quarterly Journal of Economics</td><td>金融经济</td><td>0</td><td>0</td></tr><tr><td>Econometrica</td><td>金融经济</td><td>0</td><td>0</td></tr></tbody></table></div>
+  </main>
+  <aside>
+    <div class="hist"><h3>历史日报</h3><a href="2026-10-17.html"><span>2026-10-17</span><span class="n">10 篇</span></a><a href="2026-10-16.html"><span>2026-10-16</span><span class="n">10 篇</span></a><a href="2026-10-15.html"><span>2026-10-15</span><span class="n">10 篇</span></a><a href="2026-10-14.html"><span>2026-10-14</span><span class="n">10 篇</span></a><a href="2026-10-13.html"><span>2026-10-13</span><span class="n">10 篇</span></a><a href="2026-10-12.html"><span>2026-10-12</span><span class="n">10 篇</span></a><a href="2026-10-11.html"><span>2026-10-11</span><span class="n">10 篇</span></a><a href="2026-10-10.html"><span>2026-10-10</span><span class="n">10 篇</span></a><a href="2026-10-09.html"><span>2026-10-09</span><span class="n">10 篇</span></a><a href="2026-10-08.html"><span>2026-10-08</span><span class="n">10 篇</span></a></div>
+    <div class="hist" style="margin-top:14px">
+      <h3>怎么用</h3>
+      <div class="sub" style="font-size:12.6px;line-height:1.7">
+        每天自动生成。<code>index.html</code> 永远是最新一期。<br>
+        点标题直达 DOI 原文；有「开放获取」标记的可免费读全文。
+      </div>
+    </div>
+  </aside>
+</div>
+<footer>
+  数据源 OpenAlex / Crossref ｜ 打分规则见 <code>config.toml</code> 与 <code>priceradar/score.py</code> ｜
+  每日推送上限 10 篇
+</footer>
+<script>
+const q=document.getElementById('q'), cards=[...document.querySelectorAll('.card')];
+const chips=[...document.querySelectorAll('.chip[data-group]')];
+let active=new Set();
+function apply(){
+  const term=(q.value||'').trim().toLowerCase();
+  cards.forEach(c=>{
+    const okText=!term||c.dataset.blob.includes(term);
+    const g=c.dataset.group||'';
+    const okGroup=active.size===0||active.has(g);
+    c.style.display=(okText&&okGroup)?'':'none';
+  });
+  const vis=cards.filter(c=>c.style.display!=='none').length;
+  const counter=document.getElementById('counter');
+  if(counter) counter.textContent=vis+' / '+cards.length+' 篇';
+}
+if(q){q.addEventListener('input',apply)}
+chips.forEach(ch=>ch.addEventListener('click',()=>{
+  const g=ch.dataset.group;
+  if(active.has(g)){active.delete(g);ch.classList.remove('on')}
+  else{active.add(g);ch.classList.add('on')}
+  apply();
+}));
+document.addEventListener('keydown',e=>{if(e.key==='/'&&q){e.preventDefault();q.focus()}});
+</script>
+</body></html>
