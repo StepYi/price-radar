@@ -6,7 +6,87 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日顶刊价格研究文献精选（大宗商品 / 期货 / 能源 / 农产品价格）</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Oct 2026 05:07:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 04:52:14 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Overcoming the Carbon Trap in the Global South]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0928765526000485</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0928765526000485</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Resource and Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Resource and Energy Economics</strong> ｜ 综合分 30.6 ｜ 上线 2026-10-24（0 天前） · 在线 2026-12-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[A planning framework for enhancing power supply resilience from a climate risk perspective: evidence from the Beijing–Tianjin–Hebei region in China]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0140988326005141</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326005141</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-10-24（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Bubble detection with application to green bubbles: A noncausal approach]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0140988326004809</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326004809</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-10-24（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Container shipping disruptions and the economics of decarbonization]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S014098832600469X</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S014098832600469X</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-10-24（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Looking Under the Hood of Commodity Currency Predictability]]></title>
+      <link>https://doi.org/10.1287/mnsc.2024.07249</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2024.07249</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 66.1 ｜ 上线 2026-10-23（1 天前）</p><p>This paper revisits the exchange rate predictability of commodity currencies through the lens of market efficiency. Focusing on currencies with strong contemporaneous exposure to commodity prices, we show that changes in country-specific commodity export or import prices predict exchange rate fluctuations both in sample and out of sample. We establish four empirical facts: (i) the sign of the predictive relationship runs counter to standard risk-based explanations; (ii) predictability is concentrated at short horizons; (iii) predictability is driven by a small set of thinly traded currencies; and (iv) even sophisticated speculative traders adjust positions sluggishly in response to commodity price shocks in these currencies. Together, these findings suggest that predictability arises from the slow incorporation of information in less actively traded currencies, which is likely due to liquidity and position-building constraints, rather than from compensation for risk. The results also clarify the sources of commodity-based predictability in carry trade returns. This paper was accepted by Lukas Schmid, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07249 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Bargaining and Contract Forms in Distribution Channels: Why Do Slotting Fees Arise and Linear Contracts Persist?]]></title>
+      <link>https://doi.org/10.1287/mnsc.2025.03426</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2025.03426</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 48.6 ｜ 上线 2026-10-23（1 天前）</p><p>Two empirical patterns emerge in business-to-business settings, particularly in retail distribution channels such as grocery markets. First, linear contracts are widely observed alongside nonlinear contracts with fixed payments, despite the claimed efficiency advantages of the latter. Second, when fixed payments arise, they often flow from suppliers to retailers (slotting fees) rather than the reverse. We develop and analyze a model of multilateral bargaining in which a supplier negotiates separately with competing retailers to explain these patterns. The key mechanism is a trade-off between two distortions: under linear contracts, wholesale prices reflect bargaining power and can be either above or below the channel-profit-maximizing level, whereas under two-part tariffs, wholesale prices are set to maximize bilateral surplus independently of bargaining power but are systematically too low from an overall channel perspective because of rent shifting across relationships. As a result, neither contractual form uniformly dominates; instead, relative performance depends on how bargaining shapes gains from trade across firms. When bargaining leads to slotting fees, two-part tariffs yield higher channel profits than linear contracts, whereas when it would imply payments from retailers to suppliers, linear contracts may perform better. These findings offer a unified explanation for the persistence of linear contracts alongside two-part tariffs, the direction of fixed payments, and the conditions under which each contractual form is likely to arise. This paper was accepted by Miguel Villas-Boas, marketing. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2025.03426 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[The Rise of Alternatives]]></title>
+      <link>https://doi.org/10.1093/rfs/hhag091</link>
+      <guid isPermaLink="false">crossref:10.1093/rfs/hhag091</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Review of Financial Studies]]></category>
+      <description><![CDATA[<p><strong>Review of Financial Studies</strong> ｜ 综合分 37.7 ｜ 上线 2026-10-23（1 天前）</p><p>Abstract Since the 2000s, U.S. public pension funds have actively shifted their risky investments away from public equities and toward alternative assets like private equity and hedge funds—some much more than others. We explore a range of possible explanations for these trends and argue that beliefs about the risk-adjusted return of alternatives have played a central role. Pension beliefs are shaped by investment consultants, peers, and experience in the 1990s. Other demand-side channels related to risk-seeking motives, spending needs, and fund governance have weaker empirical support. We also consider supply-side factors and agency interpretations of the data. (JEL G11, G23, G41, H75)</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Climate impacts on economic growth: Evidence on structural heterogeneity and state-dependent adaptation]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109657</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109657</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 31.4 ｜ 上线 2026-10-23（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[An identification-and dimensionality-robust test for instrumental variables models]]></title>
+      <link>https://doi.org/10.1016/j.jeconom.2026.106348</link>
+      <guid isPermaLink="false">crossref:10.1016/j.jeconom.2026.106348</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Econometrics]]></category>
+      <description><![CDATA[<p><strong>Journal of Econometrics</strong> ｜ 综合分 30.6 ｜ 上线 2026-10-23（1 天前） · 期号 2026-11</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Nickell meets Stambaugh: A tale of two biases in panel predictive regressions]]></title>
+      <link>https://doi.org/10.1016/j.jeconom.2026.106347</link>
+      <guid isPermaLink="false">crossref:10.1016/j.jeconom.2026.106347</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Econometrics]]></category>
+      <description><![CDATA[<p><strong>Journal of Econometrics</strong> ｜ 综合分 30.6 ｜ 上线 2026-10-23（1 天前） · 期号 2026-11</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
     <item>
       <title><![CDATA[Do long-term yields help to estimate short-term risk premia?]]></title>
       <link>https://doi.org/10.1016/j.jfineco.2026.104386</link>

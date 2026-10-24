@@ -1,0 +1,677 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24 04:52:14",
+  "stats": {
+    "journals": 17,
+    "fetched": 258,
+    "candidates": 150,
+    "pushed": 10,
+    "digest_size": 10,
+    "per_journal": {
+      "Journal of Finance": {
+        "display": "The Journal of Finance",
+        "group": "金融经济",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 3,
+        "error": ""
+      },
+      "Journal of Financial Economics": {
+        "display": "Journal of Financial Economics",
+        "group": "金融经济",
+        "publisher": "Elsevier",
+        "fetched": 24,
+        "error": ""
+      },
+      "Review of Financial Studies": {
+        "display": "Review of Financial Studies",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 3,
+        "error": ""
+      },
+      "American Economic Review": {
+        "display": "American Economic Review",
+        "group": "金融经济",
+        "publisher": "American Economic Association",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Quarterly Journal of Economics": {
+        "display": "The Quarterly Journal of Economics",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 2,
+        "error": ""
+      },
+      "Econometrica": {
+        "display": "Econometrica",
+        "group": "金融经济",
+        "publisher": "The Econometric Society",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Management Science": {
+        "display": "Management Science",
+        "group": "金融经济",
+        "publisher": "Institute for Operations Research and the Management Sciences",
+        "fetched": 18,
+        "error": ""
+      },
+      "Energy Economics": {
+        "display": "Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 53,
+        "error": ""
+      },
+      "The Energy Journal": {
+        "display": "The Energy Journal",
+        "group": "能源资源",
+        "publisher": "SAGE Publications",
+        "fetched": 1,
+        "error": ""
+      },
+      "Journal of Environmental Economics and Management": {
+        "display": "Journal of Environmental Economics and Management",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 16,
+        "error": ""
+      },
+      "Resource and Energy Economics": {
+        "display": "Resource and Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 10,
+        "error": ""
+      },
+      "American Journal of Agricultural Economics": {
+        "display": "American Journal of Agricultural Economics",
+        "group": "农业商品",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 3,
+        "error": ""
+      },
+      "Journal of Commodity Markets": {
+        "display": "Journal of Commodity Markets",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 9,
+        "error": ""
+      },
+      "Food Policy": {
+        "display": "Food Policy",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 31,
+        "error": ""
+      },
+      "Journal of Econometrics": {
+        "display": "Journal of Econometrics",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 24,
+        "error": ""
+      },
+      "International Journal of Forecasting": {
+        "display": "International Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 55,
+        "error": ""
+      },
+      "Journal of Forecasting": {
+        "display": "Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Wiley (John Wiley & Sons)",
+        "fetched": 6,
+        "error": ""
+      }
+    },
+    "selection_notes": {
+      "strict_pool": 0,
+      "cap_relaxed": false,
+      "relaxed": true,
+      "filled": true,
+      "relaxed_pool": 2
+    },
+    "abstract_coverage": 0.107,
+    "enrich": {
+      "s2_filled": 0,
+      "openalex_filled": 0,
+      "openalex_note": "请求失败（HTTP 400 :: https://api.openalex.org/works?filter=doi%3A10.1016%2Fj.jfineco.2026.104392%7C10.1016%2Fj.jfineco.2026.104387%7C10.1016%2Fj.jfineco.2026.104385%7C10.1016%2Fj.jfineco.2026.104379%7C10.1016%2Fj.jfineco.2026.104377%7C10.1016%2Fj.eneco.2026.109657%7C10.1016%2Fj.eneco.2026.109659%7C10.1016%2Fj.eneco.2026.109651%7C10.1016%2Fj.eneco.2026.109647%7C10.1016%2Fj.eneco.2026.109645%7C10.1016%2Fj.eneco.2026.109646%7C10.1016%2Fj.reseneeco.2026.101605%7C10.1016%2Fj.foodpol.2026.103218%7C10.1016%2Fj.foodpol.2026.103213%7C10.1016%2Fj.foodpol.2026.103208%7C10.1016%2Fj.foodpol.2026.103210%7C10.1016%2Fj.foodpol.2026.103202%7C10.1016%2Fj.foodpol.2026.103204%7C10.1016%2Fj.foodpol.2026.103195%7C10.1016%2Fj.jeconom.2026.106347%7C10.1016%2Fj.jeconom.2026.106348%7C10.1016%2Fj.jeconom.2026.106346%7C10.1016%2Fj.ijforecast.2026.09.008%7C10.1016%2Fj.ijforecast.2026.09.009%7C10.1016%2Fj.ijforecast.2026.08.002&per-page=25&select=doi%2Cabstract_inverted_index%2Ccited_by_count%2Cis_oa%2Cbest_oa_location&mailto=2485892471%40qq.com :: {\"error\":\"Invalid query parameters error.\",\"message\":\"is_oa is not a valid select field. Valid fields for select are: id, doi, title, display_name, relevance_score, rerank_score, publication_year, pub）"
+    }
+  },
+  "items": [
+    {
+      "id": "crossref:10.1287/mnsc.2024.07249",
+      "doi": "10.1287/mnsc.2024.07249",
+      "title": "Looking Under the Hood of Commodity Currency Predictability",
+      "abstract": "This paper revisits the exchange rate predictability of commodity currencies through the lens of market efficiency. Focusing on currencies with strong contemporaneous exposure to commodity prices, we show that changes in country-specific commodity export or import prices predict exchange rate fluctuations both in sample and out of sample. We establish four empirical facts: (i) the sign of the predictive relationship runs counter to standard risk-based explanations; (ii) predictability is concentrated at short horizons; (iii) predictability is driven by a small set of thinly traded currencies; and (iv) even sophisticated speculative traders adjust positions sluggishly in response to commodity price shocks in these currencies. Together, these findings suggest that predictability arises from the slow incorporation of information in less actively traded currencies, which is likely due to liquidity and position-building constraints, rather than from compensation for risk. The results also clarify the sources of commodity-based predictability in carry trade returns. This paper was accepted by Lukas Schmid, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07249 .",
+      "publication_date": "2026-10-23",
+      "created_date": "2026-10-23",
+      "issue_date": "2026-10-23",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Alexandre Jeanneret",
+        "Valeri Sokolovski"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2024.07249",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 66.14,
+      "rank": 1,
+      "relevance_raw": 7.9,
+      "relevance_level": "medium",
+      "keywords": [
+        "price",
+        "prices",
+        "commodity price",
+        "price shock",
+        "price shocks",
+        "exchange rate",
+        "commodity"
+      ],
+      "reasons": [
+        "相关性 56/100（价格词 ×0题名 / ×6摘要；商品期货词 ×1题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 50/100（predict、predictive）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "price",
+          "prices",
+          "commodity price",
+          "price shock",
+          "price shocks",
+          "exchange rate"
+        ],
+        "context_title": [
+          "commodity"
+        ],
+        "context_abstract": [
+          "commodity"
+        ],
+        "method": [
+          "predict",
+          "predictive"
+        ]
+      },
+      "pushed_date": "2026-10-24"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2025.03426",
+      "doi": "10.1287/mnsc.2025.03426",
+      "title": "Bargaining and Contract Forms in Distribution Channels: Why Do Slotting Fees Arise and Linear Contracts Persist?",
+      "abstract": "Two empirical patterns emerge in business-to-business settings, particularly in retail distribution channels such as grocery markets. First, linear contracts are widely observed alongside nonlinear contracts with fixed payments, despite the claimed efficiency advantages of the latter. Second, when fixed payments arise, they often flow from suppliers to retailers (slotting fees) rather than the reverse. We develop and analyze a model of multilateral bargaining in which a supplier negotiates separately with competing retailers to explain these patterns. The key mechanism is a trade-off between two distortions: under linear contracts, wholesale prices reflect bargaining power and can be either above or below the channel-profit-maximizing level, whereas under two-part tariffs, wholesale prices are set to maximize bilateral surplus independently of bargaining power but are systematically too low from an overall channel perspective because of rent shifting across relationships. As a result, neither contractual form uniformly dominates; instead, relative performance depends on how bargaining shapes gains from trade across firms. When bargaining leads to slotting fees, two-part tariffs yield higher channel profits than linear contracts, whereas when it would imply payments from retailers to suppliers, linear contracts may perform better. These findings offer a unified explanation for the persistence of linear contracts alongside two-part tariffs, the direction of fixed payments, and the conditions under which each contractual form is likely to arise. This paper was accepted by Miguel Villas-Boas, marketing. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2025.03426 .",
+      "publication_date": "2026-10-23",
+      "created_date": "2026-10-23",
+      "issue_date": "2026-10-23",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Øystein Foros",
+        "Hans Jarle Kind",
+        "Greg Shaffer"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2025.03426",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 48.64,
+      "rank": 2,
+      "relevance_raw": 4.4,
+      "relevance_level": "medium",
+      "keywords": [
+        "price",
+        "prices",
+        "rent",
+        "yield",
+        "tariff",
+        "tariffs"
+      ],
+      "reasons": [
+        "相关性 31/100（价格词 ×0题名 / ×4摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "price",
+          "prices",
+          "rent",
+          "yield"
+        ],
+        "context_title": [],
+        "context_abstract": [
+          "tariff",
+          "tariffs"
+        ],
+        "method": []
+      },
+      "pushed_date": "2026-10-24"
+    },
+    {
+      "id": "crossref:10.1093/rfs/hhag091",
+      "doi": "10.1093/rfs/hhag091",
+      "title": "The Rise of Alternatives",
+      "abstract": "Abstract Since the 2000s, U.S. public pension funds have actively shifted their risky investments away from public equities and toward alternative assets like private equity and hedge funds—some much more than others. We explore a range of possible explanations for these trends and argue that beliefs about the risk-adjusted return of alternatives have played a central role. Pension beliefs are shaped by investment consultants, peers, and experience in the 1990s. Other demand-side channels related to risk-seeking motives, spending needs, and fund governance have weaker empirical support. We also consider supply-side factors and agency interpretations of the data. (JEL G11, G23, G41, H75)",
+      "publication_date": "2026-10-23",
+      "created_date": "2026-10-23",
+      "issue_date": "2026-10-23",
+      "journal": "Review of Financial Studies",
+      "journal_display": "Review of Financial Studies",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Juliane Begenau",
+        "Pauline Liang",
+        "Emil Siriwardane"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1093/rfs/hhag091",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 37.74,
+      "rank": 3,
+      "relevance_raw": 0.6,
+      "relevance_level": "strong",
+      "keywords": [
+        "hedge"
+      ],
+      "reasons": [
+        "相关性 4/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 83/100（Review of Financial Studies）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [
+          "hedge"
+        ],
+        "method": []
+      },
+      "pushed_date": "2026-10-24"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109657",
+      "doi": "10.1016/j.eneco.2026.109657",
+      "title": "Climate impacts on economic growth: Evidence on structural heterogeneity and state-dependent adaptation",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-10-23",
+      "issue_date": "2026-10-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Chueh-Yung Tsao"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109657",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 31.43,
+      "rank": 4,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（structural）"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "structural"
+        ]
+      },
+      "pushed_date": "2026-10-24"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0928765526000485",
+      "doi": "",
+      "title": "Overcoming the Carbon Trap in the Global South",
+      "abstract": "",
+      "publication_date": "2026-12-01",
+      "created_date": "2026-10-24",
+      "issue_date": "",
+      "journal": "Resource and Energy Economics",
+      "journal_display": "Resource and Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Lucas Bretschger",
+        "Evgenij Komarov",
+        "Matthias Leuthard"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0928765526000485",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 30.6,
+      "rank": 5,
+      "relevance_raw": 2.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "carbon"
+      ],
+      "reasons": [
+        "相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 33/100（Resource and Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "carbon"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-24"
+    },
+    {
+      "id": "crossref:10.1016/j.jeconom.2026.106348",
+      "doi": "10.1016/j.jeconom.2026.106348",
+      "title": "An identification-and dimensionality-robust test for instrumental variables models",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-10-23",
+      "issue_date": "2026-11-01",
+      "journal": "Journal of Econometrics",
+      "journal_display": "Journal of Econometrics",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Manu Navjeevan"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.jeconom.2026.106348",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 30.6,
+      "rank": 6,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 58/100（Journal of Econometrics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 50/100（identification、instrumental variable）"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "identification",
+          "instrumental variable"
+        ]
+      },
+      "pushed_date": "2026-10-24"
+    },
+    {
+      "id": "crossref:10.1016/j.jeconom.2026.106347",
+      "doi": "10.1016/j.jeconom.2026.106347",
+      "title": "Nickell meets Stambaugh: A tale of two biases in panel predictive regressions",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-10-23",
+      "issue_date": "2026-11-01",
+      "journal": "Journal of Econometrics",
+      "journal_display": "Journal of Econometrics",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Chengwang Liao",
+        "Ziwei Mei",
+        "Zhentao Shi"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.jeconom.2026.106347",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 30.6,
+      "rank": 7,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 58/100（Journal of Econometrics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 50/100（predictive、panel）"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "predictive",
+          "panel"
+        ]
+      },
+      "pushed_date": "2026-10-24"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326005141",
+      "doi": "",
+      "title": "A planning framework for enhancing power supply resilience from a climate risk perspective: evidence from the Beijing–Tianjin–Hebei region in China",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-24",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Bowen Yi",
+        "Yulu Ji",
+        "Ying Fan"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326005141",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 30.0,
+      "rank": 8,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-24"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326004809",
+      "doi": "",
+      "title": "Bubble detection with application to green bubbles: A noncausal approach",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-24",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Francesco Giancaterini",
+        "Alain Hecq",
+        "Joann Jasiak",
+        "Aryan Manafi Neyazi"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326004809",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 30.0,
+      "rank": 9,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-24"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S014098832600469X",
+      "doi": "",
+      "title": "Container shipping disruptions and the economics of decarbonization",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-24",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Hugo Morão"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S014098832600469X",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 30.0,
+      "rank": 10,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-24"
+    }
+  ]
+}
