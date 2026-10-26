@@ -1,0 +1,628 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26 05:05:49",
+  "stats": {
+    "journals": 17,
+    "fetched": 260,
+    "candidates": 133,
+    "pushed": 10,
+    "digest_size": 10,
+    "per_journal": {
+      "Journal of Finance": {
+        "display": "The Journal of Finance",
+        "group": "金融经济",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 3,
+        "error": ""
+      },
+      "Journal of Financial Economics": {
+        "display": "Journal of Financial Economics",
+        "group": "金融经济",
+        "publisher": "Elsevier",
+        "fetched": 24,
+        "error": ""
+      },
+      "Review of Financial Studies": {
+        "display": "Review of Financial Studies",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 3,
+        "error": ""
+      },
+      "American Economic Review": {
+        "display": "American Economic Review",
+        "group": "金融经济",
+        "publisher": "American Economic Association",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Quarterly Journal of Economics": {
+        "display": "The Quarterly Journal of Economics",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 2,
+        "error": ""
+      },
+      "Econometrica": {
+        "display": "Econometrica",
+        "group": "金融经济",
+        "publisher": "The Econometric Society",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Management Science": {
+        "display": "Management Science",
+        "group": "金融经济",
+        "publisher": "Institute for Operations Research and the Management Sciences",
+        "fetched": 18,
+        "error": ""
+      },
+      "Energy Economics": {
+        "display": "Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 57,
+        "error": ""
+      },
+      "The Energy Journal": {
+        "display": "The Energy Journal",
+        "group": "能源资源",
+        "publisher": "SAGE Publications",
+        "fetched": 1,
+        "error": ""
+      },
+      "Journal of Environmental Economics and Management": {
+        "display": "Journal of Environmental Economics and Management",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 16,
+        "error": ""
+      },
+      "Resource and Energy Economics": {
+        "display": "Resource and Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 10,
+        "error": ""
+      },
+      "American Journal of Agricultural Economics": {
+        "display": "American Journal of Agricultural Economics",
+        "group": "农业商品",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 3,
+        "error": ""
+      },
+      "Journal of Commodity Markets": {
+        "display": "Journal of Commodity Markets",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 10,
+        "error": ""
+      },
+      "Food Policy": {
+        "display": "Food Policy",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 32,
+        "error": ""
+      },
+      "Journal of Econometrics": {
+        "display": "Journal of Econometrics",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 25,
+        "error": ""
+      },
+      "International Journal of Forecasting": {
+        "display": "International Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 53,
+        "error": ""
+      },
+      "Journal of Forecasting": {
+        "display": "Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Wiley (John Wiley & Sons)",
+        "fetched": 3,
+        "error": ""
+      }
+    },
+    "selection_notes": {
+      "strict_pool": 0,
+      "cap_relaxed": false,
+      "relaxed": false,
+      "filled": true,
+      "relaxed_pool": 0
+    },
+    "abstract_coverage": 0.075,
+    "enrich": {
+      "s2_filled": 0,
+      "openalex_filled": 0,
+      "openalex_note": "请求失败（HTTP 400 :: https://api.openalex.org/works?filter=doi%3A10.1016%2Fj.jfineco.2026.104392%7C10.1016%2Fj.jfineco.2026.104387%7C10.1016%2Fj.jfineco.2026.104385%7C10.1016%2Fj.jfineco.2026.104379%7C10.1016%2Fj.jfineco.2026.104377%7C10.1016%2Fj.eneco.2026.109659%7C10.1016%2Fj.eneco.2026.109651%7C10.1016%2Fj.eneco.2026.109647%7C10.1016%2Fj.eneco.2026.109645%7C10.1016%2Fj.reseneeco.2026.101605%7C10.1016%2Fj.foodpol.2026.103212%7C10.1016%2Fj.foodpol.2026.103218%7C10.1016%2Fj.foodpol.2026.103213%7C10.1016%2Fj.foodpol.2026.103208%7C10.1016%2Fj.foodpol.2026.103210%7C10.1016%2Fj.foodpol.2026.103202%7C10.1016%2Fj.ijforecast.2026.09.008%7C10.1016%2Fj.ijforecast.2026.09.009%7C10.1016%2Fj.ijforecast.2026.08.002&per-page=19&select=doi%2Cabstract_inverted_index%2Ccited_by_count%2Cis_oa%2Cbest_oa_location&mailto=2485892471%40qq.com :: {\"error\":\"Invalid query parameters error.\",\"message\":\"is_oa is not a valid select field. Valid fields for select are: id, doi, title, display_name, relevance_score, rerank_score, publication_year, pub）"
+    }
+  },
+  "items": [
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326005268",
+      "doi": "",
+      "title": "Capacity imbalance and default risk in new energy firms",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-26",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Boqiang Lin",
+        "Jiangnan Li"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326005268",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 30.0,
+      "rank": 1,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-26"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326004895",
+      "doi": "",
+      "title": "Energy market bubbles under the green transition",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-26",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "José Manuel Cueto",
+        "Isabel Figuerola-Ferretti"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326004895",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 30.0,
+      "rank": 2,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-26"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326005050",
+      "doi": "",
+      "title": "Environmental regulatory risk",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-26",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "H. Peter Boswijk",
+        "Cees Diks",
+        "Simon Trimborn",
+        "Matteo Valle"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326005050",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 30.0,
+      "rank": 3,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-26"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326005232",
+      "doi": "",
+      "title": "Reassessing the evidence on Spain's energy poverty amid the green transition: A replication and augmentation",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-26",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Purushottam Yadav",
+        "Sajal Ghosh",
+        "Kakali Kanjilal"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326005232",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 30.0,
+      "rank": 4,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-26"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326004883",
+      "doi": "",
+      "title": "Risk-adjusted multi-objective optimization of industrial energy portfolios: The role of electrification in economic and environmental sustainability",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-26",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Minhye Oh",
+        "Dong Hee Suh"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326004883",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 30.0,
+      "rank": 5,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-26"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326004871",
+      "doi": "",
+      "title": "Shock amplification and delayed recovery in resource economies: The role of fiscal policy reform",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-26",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Livingstone S. Geoffroy Boko",
+        "Sylvain Eloi Dessy"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326004871",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 30.0,
+      "rank": 6,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-26"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326004755",
+      "doi": "",
+      "title": "The macroeconomic effects of a greener technology mix",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-26",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Fabrizio Ferriani",
+        "Andrea Gazzani",
+        "Filippo Natoli"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326004755",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 30.0,
+      "rank": 7,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-26"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S014098832600513X",
+      "doi": "",
+      "title": "Understanding heterogeneous green transitions: An evolutionary approach to policy, innovation, and technological change",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-26",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Fausto Cavalli",
+        "Alessandra Mainini",
+        "Enrico Moretto",
+        "Ahmad Naimzada"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S014098832600513X",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 30.0,
+      "rank": 8,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-26"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326005116",
+      "doi": "",
+      "title": "Unveiling the role of ESG ratings in corporate greenwashing: Impacts on corporate green development and regulatory dynamics",
+      "abstract": "",
+      "publication_date": "2026-12-01",
+      "created_date": "2026-10-26",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Fangxin Jiang",
+        "Ze Yu",
+        "Lei Zhang",
+        "Xiangxi Tang"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326005116",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 30.0,
+      "rank": 9,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-26"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326004822",
+      "doi": "",
+      "title": "Valuing the UHV transmission lines in China: productivity gains, macroeconomic spillovers, and high returns",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-26",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Wenfeng Zhang",
+        "Bowei Song",
+        "Renhao Wang",
+        "Peifei Yang",
+        "Hao Chen"
+      ],
+      "author_count": 5,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326004822",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 30.0,
+      "rank": 10,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-26"
+    }
+  ]
+}
