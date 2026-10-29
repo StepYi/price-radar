@@ -1,0 +1,676 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29 06:06:08",
+  "stats": {
+    "journals": 17,
+    "fetched": 272,
+    "candidates": 119,
+    "pushed": 10,
+    "digest_size": 10,
+    "per_journal": {
+      "Journal of Finance": {
+        "display": "The Journal of Finance",
+        "group": "金融经济",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 1,
+        "error": ""
+      },
+      "Journal of Financial Economics": {
+        "display": "Journal of Financial Economics",
+        "group": "金融经济",
+        "publisher": "Elsevier",
+        "fetched": 27,
+        "error": ""
+      },
+      "Review of Financial Studies": {
+        "display": "Review of Financial Studies",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 4,
+        "error": ""
+      },
+      "American Economic Review": {
+        "display": "American Economic Review",
+        "group": "金融经济",
+        "publisher": "American Economic Association",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Quarterly Journal of Economics": {
+        "display": "The Quarterly Journal of Economics",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 2,
+        "error": ""
+      },
+      "Econometrica": {
+        "display": "Econometrica",
+        "group": "金融经济",
+        "publisher": "The Econometric Society",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Management Science": {
+        "display": "Management Science",
+        "group": "金融经济",
+        "publisher": "Institute for Operations Research and the Management Sciences",
+        "fetched": 20,
+        "error": ""
+      },
+      "Energy Economics": {
+        "display": "Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 62,
+        "error": ""
+      },
+      "The Energy Journal": {
+        "display": "The Energy Journal",
+        "group": "能源资源",
+        "publisher": "SAGE Publications",
+        "fetched": 1,
+        "error": ""
+      },
+      "Journal of Environmental Economics and Management": {
+        "display": "Journal of Environmental Economics and Management",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 16,
+        "error": ""
+      },
+      "Resource and Energy Economics": {
+        "display": "Resource and Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 11,
+        "error": ""
+      },
+      "American Journal of Agricultural Economics": {
+        "display": "American Journal of Agricultural Economics",
+        "group": "农业商品",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 3,
+        "error": ""
+      },
+      "Journal of Commodity Markets": {
+        "display": "Journal of Commodity Markets",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 10,
+        "error": ""
+      },
+      "Food Policy": {
+        "display": "Food Policy",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 33,
+        "error": ""
+      },
+      "Journal of Econometrics": {
+        "display": "Journal of Econometrics",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 24,
+        "error": ""
+      },
+      "International Journal of Forecasting": {
+        "display": "International Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 54,
+        "error": ""
+      },
+      "Journal of Forecasting": {
+        "display": "Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Wiley (John Wiley & Sons)",
+        "fetched": 4,
+        "error": ""
+      }
+    },
+    "selection_notes": {
+      "strict_pool": 2,
+      "cap_relaxed": false,
+      "relaxed": true,
+      "filled": true,
+      "relaxed_pool": 3
+    },
+    "abstract_coverage": 0.084,
+    "enrich": {
+      "s2_filled": 0,
+      "openalex_filled": 0,
+      "openalex_note": "请求失败（HTTP 400 :: https://api.openalex.org/works?filter=doi%3A10.1016%2Fj.jfineco.2026.104392%7C10.1016%2Fj.jfineco.2026.104387%7C10.1016%2Fj.jfineco.2026.104385%7C10.1016%2Fj.eneco.2026.109663%7C10.1016%2Fj.eneco.2026.109660%7C10.1016%2Fj.eneco.2026.109675%7C10.1016%2Fj.eneco.2026.109667%7C10.1016%2Fj.eneco.2026.109659%7C10.1016%2Fj.eneco.2026.109651%7C10.1016%2Fj.reseneeco.2026.101608%7C10.1016%2Fj.reseneeco.2026.101605%7C10.1016%2Fj.foodpol.2026.103185%7C10.1016%2Fj.foodpol.2026.103212%7C10.1016%2Fj.foodpol.2026.103218%7C10.1016%2Fj.foodpol.2026.103213%7C10.1016%2Fj.foodpol.2026.103208%7C10.1016%2Fj.ijforecast.2026.09.008&per-page=17&select=doi%2Cabstract_inverted_index%2Ccited_by_count%2Cis_oa%2Cbest_oa_location&mailto=2485892471%40qq.com :: {\"error\":\"Invalid query parameters error.\",\"message\":\"is_oa is not a valid select field. Valid fields for select are: id, doi, title, display_name, relevance_score, rerank_score, publication_year, pub）"
+    }
+  },
+  "items": [
+    {
+      "id": "crossref:10.1093/rfs/hhag094",
+      "doi": "10.1093/rfs/hhag094",
+      "title": "Correlated Demand Shocks and Asset Pricing",
+      "abstract": "Abstract I propose a mechanism through which institutional investors’ correlated demand shocks provide a source of market risk in asset pricing. Institutional investors have mandates to beat a similar market index. During periods of strong stock market performance, their incentive to outperform intensifies as more of them fall short of the market index. This incentive induces procyclical risk-taking behavior, generating correlated demand that elevates the market betas and risk premia of exposed stocks. Quasi-experiments using exogenous changes in index membership support a causal interpretation of the mechanism. Elevated betas are associated with a higher perceived cost of capital and reduced firm investment. (JEL G1, G2)",
+      "publication_date": "2026-10-28",
+      "created_date": "2026-10-28",
+      "issue_date": "2026-10-28",
+      "journal": "Review of Financial Studies",
+      "journal_display": "Review of Financial Studies",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Byungwook Kim"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1093/rfs/hhag094",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 68.1,
+      "rank": 1,
+      "relevance_raw": 7.7,
+      "relevance_level": "strong",
+      "keywords": [
+        "pricing",
+        "cost of capital",
+        "demand shock"
+      ],
+      "reasons": [
+        "相关性 55/100（价格词 ×1题名 / ×2摘要；商品期货词 ×1题名）",
+        "期刊权重 83/100（Review of Financial Studies）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 50/100（causal、risk premia）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [
+          "pricing"
+        ],
+        "core_abstract": [
+          "pricing",
+          "cost of capital"
+        ],
+        "context_title": [
+          "demand shock"
+        ],
+        "context_abstract": [
+          "demand shock"
+        ],
+        "method": [
+          "causal",
+          "risk premia"
+        ]
+      },
+      "pushed_date": "2026-10-29"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2025.00714",
+      "doi": "10.1287/mnsc.2025.00714",
+      "title": "From Employer Responsibility to Environmental Irresponsibility: Unintended Impacts of Social Insurance Law on Pollution Emissions",
+      "abstract": "This study investigates the unintended effect of the introduction of the 2011 Social Insurance Law on corporate pollution emissions. Using a difference-in-differences framework, our analysis reveals that enhanced social insurance contributions lead to higher industrial pollution emissions, as measured by chemical oxygen demand and wastewater emissions. The mechanism analysis indicates that the enforcement of the law increases firms’ labor costs and financial distress, motivating them to reduce efforts on end-of-pipe treatment activities and measures taken during the production process, which results in higher pollution emission intensity. Our study highlights the potential conflict between employee protection and corporate environmental goals. Further analysis suggests that stronger environmental monitoring and environmental, social, and governance disclosure requirements can partially mitigate this tradeoff, providing valuable insights for policymakers. This paper was accepted by Caroline Flammer, sustainability. Funding: Y. Li acknowledges research support from the National Natural Science Foundation of China [Grant 72403026]. Y. Qin acknowledges research support from the National Natural Science Foundation of China [Grant 72342031]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.00714 .",
+      "publication_date": "2026-10-28",
+      "created_date": "2026-10-28",
+      "issue_date": "2026-10-28",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Yanan Li",
+        "Yu Qin",
+        "Wenjun Wang"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2025.00714",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 57.57,
+      "rank": 2,
+      "relevance_raw": 6.2,
+      "relevance_level": "medium",
+      "keywords": [
+        "emission",
+        "emissions"
+      ],
+      "reasons": [
+        "相关性 44/100（价格词 ×0题名 / ×0摘要；商品期货词 ×2题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（difference in differences）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "emission",
+          "emissions"
+        ],
+        "context_abstract": [
+          "emission",
+          "emissions"
+        ],
+        "method": [
+          "difference in differences"
+        ]
+      },
+      "pushed_date": "2026-10-29"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2025.03608",
+      "doi": "10.1287/mnsc.2025.03608",
+      "title": "Estimating the Pricing Kernel: A Simple Regression-Based Dimension-Reduction Approach",
+      "abstract": "We propose a simple framework for estimating the pricing kernel in factor space by constructing the mean–variance efficient factor portfolio via an ordinary least squares formulation with least absolute shrinkage and selection operator regularization. The method accommodates high-dimensional settings in which the number of candidate factors exceeds the sample size and automatically shrinks redundant factor weights toward zero. We show theoretically that the out-of-sample Sharpe ratio of the estimated portfolio converges to the theoretical maximum at the fastest rate among existing regression-based approaches. Applying the method to 174 characteristic-based factors together with the market factor, we obtain an out-of-sample Sharpe ratio of 3.59, substantially outperforming competing strategies and delivering the smallest aggregate pricing errors. The selected factors vary over time in both composition and number, averaging about 50. We further develop a model comparison test and reject the hypothesis that eight widely used sparse factor models are sufficient to span the pricing kernel. This paper was accepted by Kay Giesecke, finance. Funding: This work was supported by the National Natural Science Foundation of China [Grants 72671091, 72371079, and 72501192, and Key Program 72432005] and the Science and Technology Planning Project of Guangdong Province [Grant 2023B1515020045]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.03608 .",
+      "publication_date": "2026-10-28",
+      "created_date": "2026-10-28",
+      "issue_date": "2026-10-28",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Bin Luo",
+        "Guofu Zhou",
+        "Ti Zhou"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2025.03608",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 46.5,
+      "rank": 3,
+      "relevance_raw": 3.8,
+      "relevance_level": "strong",
+      "keywords": [
+        "pricing"
+      ],
+      "reasons": [
+        "相关性 27/100（价格词 ×1题名 / ×1摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [
+          "pricing"
+        ],
+        "core_abstract": [
+          "pricing"
+        ],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-29"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109663",
+      "doi": "10.1016/j.eneco.2026.109663",
+      "title": "Leveraging surplus electricity: Profitability of Bitcoin mining as a national strategy in South Korea",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-10-28",
+      "issue_date": "2026-10-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Yoonseul Choi",
+        "Jaehong Jeong",
+        "Jungsoon Choi"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109663",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 37.86,
+      "rank": 4,
+      "relevance_raw": 2.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "electricity"
+      ],
+      "reasons": [
+        "相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "electricity"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-29"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2023.02703",
+      "doi": "10.1287/mnsc.2023.02703",
+      "title": "Robust Auction Design with Support Information",
+      "abstract": "A seller wants to sell an item to n buyers. Buyer valuations are independent and identically distributed (i.i.d.) according to a distribution unknown to the seller; the seller only knows that the support is included in [a, b]. To be robust, the seller chooses a dominant strategy incentive compatible mechanism that optimizes the worst-case performance relative to the ideal expected revenue the seller could have collected with knowledge of buyers’ valuations. Our analysis unifies the regret and the ratio objectives. For these objectives, we derive an optimal mechanism and the corresponding performance in quasi-closed form, as a function of the support information [a, b] and the number of buyers n. Our analysis reveals three regimes of support information and a new class of robust mechanisms. (i) When a/b is below a threshold, the optimal mechanism is a second-price auction (SPA) with random reserve, a focal class in earlier literature. (ii) When a/b is above another threshold, SPAs are strictly suboptimal, and an optimal mechanism belongs to a class of mechanisms we introduce, which we call pooling auctions (POOL); whenever the highest value is above a threshold, the mechanism still allocates to the highest bidder, but otherwise the mechanism allocates to a uniformly random buyer, that is, pools low types. (iii) When a/b is between two thresholds, a randomization between SPA and POOL is optimal. We also characterize optimal mechanisms within nested central subclasses of mechanisms: standard mechanisms that only allocate to the highest bidder, SPA with random reserve, and SPA with no reserve. We show strict separations in terms of performance across classes, implying that deviating from standard mechanisms is necessary for robustness. Lastly, we show that the same results hold under other distribution classes that capture “positive dependence,” namely i.i.d., mixture of i.i.d., and exchangeable and affiliated distributions, as well as i.i.d. regular distributions. This paper was accepted by David Simchi-Levi, revenue management and market analytics. Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2023.02703 .",
+      "publication_date": "2026-10-28",
+      "created_date": "2026-10-28",
+      "issue_date": "2026-10-28",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Jerry Anunrojwong",
+        "Santiago R. Balseiro",
+        "Omar Besbes"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2023.02703",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 35.79,
+      "rank": 5,
+      "relevance_raw": 0.8,
+      "relevance_level": "weak",
+      "keywords": [
+        "price"
+      ],
+      "reasons": [
+        "相关性 6/100（价格词 ×0题名 / ×1摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "price"
+        ],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-29"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0304405X26001509",
+      "doi": "",
+      "title": "Disagreement of disagreement",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-29",
+      "issue_date": "",
+      "journal": "Journal of Financial Economics",
+      "journal_display": "Journal of Financial Economics",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Christian L. Goulding",
+        "Campbell R. Harvey",
+        "Hrvoje Kurtović"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0304405X26001509",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 31.67,
+      "rank": 6,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 83/100（Journal of Financial Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-29"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0304407626001521",
+      "doi": "",
+      "title": "Identification of non-additive fixed effects models: Is the return to teacher quality homogeneous?",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-29",
+      "issue_date": "",
+      "journal": "Journal of Econometrics",
+      "journal_display": "Journal of Econometrics",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Jinyong Hahn",
+        "John D. Singleton",
+        "Neşe Yıldız"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0304407626001521",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 29.17,
+      "rank": 7,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 58/100（Journal of Econometrics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（identification）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "identification"
+        ]
+      },
+      "pushed_date": "2026-10-29"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0304407626001351",
+      "doi": "",
+      "title": "Panel data models with interactive fixed effects and (relatively) small T",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-29",
+      "issue_date": "",
+      "journal": "Journal of Econometrics",
+      "journal_display": "Journal of Econometrics",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Ayden Higgins"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0304407626001351",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 29.17,
+      "rank": 8,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 58/100（Journal of Econometrics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（panel）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "panel"
+        ]
+      },
+      "pushed_date": "2026-10-29"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0304407626001570",
+      "doi": "",
+      "title": "Panel threshold regression with unobserved individual-specific threshold effects",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-29",
+      "issue_date": "",
+      "journal": "Journal of Econometrics",
+      "journal_display": "Journal of Econometrics",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Ping Yu",
+        "Shengjie Hong",
+        "Peter C.B. Phillips"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0304407626001570",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 29.17,
+      "rank": 9,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 58/100（Journal of Econometrics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（panel）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "panel"
+        ]
+      },
+      "pushed_date": "2026-10-29"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0304407626001612",
+      "doi": "",
+      "title": "Real-time monitoring for stock return predictability in nonstationary volatility environments",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-10-29",
+      "issue_date": "",
+      "journal": "Journal of Econometrics",
+      "journal_display": "Journal of Econometrics",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Matei Demetrescu",
+        "Fabian Schmidt",
+        "A.M. Robert Taylor"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0304407626001612",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 29.17,
+      "rank": 10,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 58/100（Journal of Econometrics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（volatility）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "volatility"
+        ]
+      },
+      "pushed_date": "2026-10-29"
+    }
+  ]
+}

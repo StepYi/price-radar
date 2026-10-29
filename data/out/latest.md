@@ -1,185 +1,196 @@
-# 价格研究日报 · 2026-10-28
+# 价格研究日报 · 2026-10-29
 
-> 覆盖 17 本顶刊 ｜ 抓取 272 篇 ｜ 新候选 127 篇 ｜ 本期推送 10 篇 ｜ 生成于 2026-10-28 05:59:20
+> 覆盖 17 本顶刊 ｜ 抓取 272 篇 ｜ 新候选 119 篇 ｜ 本期推送 10 篇 ｜ 生成于 2026-10-29 06:06:08
 
-## 1. Do crises integrate or fragment energy transition metals markets? Evidence from a connectedness-based crisis typology
+## 1. Correlated Demand Shocks and Asset Pricing
 
-**Energy Economics** · 上线 2026-10-28（0 天前） · T2 · Abdulla Al-Haddad、Azzam Abu-Rayash · 综合分 **47.9** · 中等相关
+**Review of Financial Studies** · 上线 2026-10-28（1 天前） · T1 · Byungwook Kim · 综合分 **68.1** · 强相关
 
-> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
-
-标签：`metal` `metals`
-
-**为什么推荐**
-
-- 相关性 36/100（价格词 ×0题名 / ×0摘要；商品期货词 ×2题名）
-- 期刊权重 75/100（Energy Economics）
-- 时效 100/100（上线 0 天前）
-- 方法匹配 0/100
-
-[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109671)
-
----
-
-## 2. Navigating the Rugged Data Landscape: The Impact of Data-Extrapolation Technologies on Knowledge Production
-
-**Management Science** · 上线 2026-10-27（1 天前） · T1 · Soomi Kim · 综合分 **35.4** · 强相关
+标签：`pricing` `cost of capital` `demand shock`
 
 **摘要**
 
-Data-extrapolation technologies enable progress by importing and applying empirical patterns from one domain to another. Their reliance on empirical patterns, however, is also their limitation: these tools can only be applied where data are abundant. Using the setting of structural biology, I investigate the impact of a data-extrapolation technology on innovation. I exploit the variation in prior data availability to compare areas in which the tool was usable to those in which it was not. I find that the tool increased the quantity of research in data-rich areas: the resulting output yielded limited biological insights but was methodologically rigorous and contributed to downstream research. This paper was accepted by Toby Stuart, entrepreneurship and innovation. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04115 .
+Abstract I propose a mechanism through which institutional investors’ correlated demand shocks provide a source of market risk in asset pricing. Institutional investors have mandates to beat a similar market index. During periods of strong stock market performance, their incentive to outperform intensifies as more of them fall short of the market index. This incentive induces procyclical risk-taking behavior, generating correlated demand that elevates the market betas and risk premia of exposed stocks. Quasi-experiments using exogenous changes in index membership support a causal interpretation of the mechanism. Elevated betas are associated with a higher perceived cost of capital and reduced firm investment. (JEL G1, G2)
 
 **为什么推荐**
 
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 相关性 55/100（价格词 ×1题名 / ×2摘要；商品期货词 ×1题名）
+- 期刊权重 83/100（Review of Financial Studies）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 50/100（causal、risk premia）
+- 有摘要，可快速判断
+
+[DOI / 原文](https://doi.org/10.1093/rfs/hhag094)
+
+---
+
+## 2. From Employer Responsibility to Environmental Irresponsibility: Unintended Impacts of Social Insurance Law on Pollution Emissions
+
+**Management Science** · 上线 2026-10-28（1 天前） · T1 · Yanan Li、Yu Qin、Wenjun Wang · 综合分 **57.6** · 中等相关
+
+标签：`emission` `emissions`
+
+**摘要**
+
+This study investigates the unintended effect of the introduction of the 2011 Social Insurance Law on corporate pollution emissions. Using a difference-in-differences framework, our analysis reveals that enhanced social insurance contributions lead to higher industrial pollution emissions, as measured by chemical oxygen demand and wastewater emissions. The mechanism analysis indicates that the enforcement of the law increases firms’ labor costs and financial distress, motivating them to reduce efforts on end-of-pipe treatment activities and measures taken during the production process, which results in higher pollution emission intensity. Our study highlights the potential conflict between employee protection and corporate environmental goals. Further analysis suggests that stronger environmental monitoring and environmental, social, and governance disclosure requirements can partially mitigate this tradeoff, providing valuable insights for policymakers. This paper was accepted by Caroline Flammer, sustainability. Funding: Y. Li acknowledges research support from the National Natural Science Foundation of China [Grant 72403026]. Y. Qin acknowledges research support from the National Natural Science Foundation of China [Grant 72342031]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.00714 .
+
+**为什么推荐**
+
+- 相关性 44/100（价格词 ×0题名 / ×0摘要；商品期货词 ×2题名）
 - 期刊权重 70/100（Management Science）
 - 时效 93/100（上线 1 天前）
-- 方法匹配 25/100（structural）
+- 方法匹配 25/100（difference in differences）
 - 有摘要，可快速判断
 
-[DOI / 原文](https://doi.org/10.1287/mnsc.2023.04115)
+[DOI / 原文](https://doi.org/10.1287/mnsc.2025.00714)
 
 ---
 
-## 3. Dual‐Rule Logical Neural Network for Explainable Credit Scoring
+## 3. Estimating the Pricing Kernel: A Simple Regression-Based Dimension-Reduction Approach
 
-**Journal of Forecasting** · 上线 2026-10-27（1 天前） · 在线 2026-10-26 · T3 · Xingyu Lan、Hong Fan、Wanan Liu、Kai Guo 等 7 人 · 综合分 **33.9** · 强相关
+**Management Science** · 上线 2026-10-28（1 天前） · T1 · Bin Luo、Guofu Zhou、Ti Zhou · 综合分 **46.5** · 强相关
 
-**摘要**
-
-ABSTRACT Credit scoring requires modeling complex nonlinear relationships between borrower characteristics and default risk, yet highly expressive predictive models often suffer from limited transparency and weak generalization on small‐scale financial datasets. To address this challenge, this study proposes an interpretable Dual‐Rule Logical Neural Network (DLNet) for credit risk assessment. DLNet first converts continuous features into explicit binary threshold conditions, and then learns risk patterns through differentiable logical operators that explicitly construct conjunctive and disjunctive rule structures. To further improve rule compactness and readability, an explicit logic‐level sparse regularization term is imposed on the continuous logical weights during training, encouraging concise logical connections without penalizing the final prediction layer. In addition, a local rule backtracking extractor is developed to generate instance‐level explanations by tracing the top‐contributing activated logical nodes back to their corresponding threshold or categorical conditions. Experiments on four real‐world credit datasets show that DLNet achieves competitive predictive performance while providing both global rule patterns and local sample‐specific rationales. The learned rules further reveal heterogeneous logical structures across datasets, with disjunctive, conjunctive, and atomic patterns all appearing among high‐contribution rules. These results demonstrate that DLNet offers a practical framework for combining predictive effectiveness, structural sparsity, and decision transparency in credit scoring.
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 25/100（Journal of Forecasting）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 100/100（prediction、predictive、neural network、structural）
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.1002/for.70230)
-
----
-
-## 4. Selection into Financial Education and Effects on Portfolio Choice
-
-**Management Science** · 上线 2026-10-27（1 天前） · T1 · Irina Gemmo、Pierre-Carl Michaud、Olivia S. Mitchell · 综合分 **32.9** · 强相关
+标签：`pricing`
 
 **摘要**
 
-We study the impact of a financial education program on portfolio choices in a setting that allows us to examine both participation decisions and differences in program benefits across individuals. We directly elicit willingness to pay for financial education and show that individuals with higher financial literacy, greater confidence in applying new knowledge, and higher expected returns are willing to pay more. Using incentivized portfolio allocation tasks, we develop outcome measures tailored to individual risk preferences and show that financial education improves decision quality along these dimensions. The program increases the share of participants who experience an improvement by 20 percentage points, corresponding to average gains of 3.2 percentage points of initial wealth. Individuals with the highest willingness to participate benefit disproportionately from the program, with important implications for the design and evaluation of financial education initiatives. By isolating a specific investment skill in a setting with voluntary participation, our design sheds light on how selection into financial education shapes measured program effects and informs the assessment of broader workplace and public training programs. This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis. Funding: The authors thank the Pension Research Council of Wharton School at the University of Pennsylvania, as well as the Retirement and Savings Institute at HEC Montréal, for generous research funding. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.08268 .
+We propose a simple framework for estimating the pricing kernel in factor space by constructing the mean–variance efficient factor portfolio via an ordinary least squares formulation with least absolute shrinkage and selection operator regularization. The method accommodates high-dimensional settings in which the number of candidate factors exceeds the sample size and automatically shrinks redundant factor weights toward zero. We show theoretically that the out-of-sample Sharpe ratio of the estimated portfolio converges to the theoretical maximum at the fastest rate among existing regression-based approaches. Applying the method to 174 characteristic-based factors together with the market factor, we obtain an out-of-sample Sharpe ratio of 3.59, substantially outperforming competing strategies and delivering the smallest aggregate pricing errors. The selected factors vary over time in both composition and number, averaging about 50. We further develop a model comparison test and reject the hypothesis that eight widely used sparse factor models are sufficient to span the pricing kernel. This paper was accepted by Kay Giesecke, finance. Funding: This work was supported by the National Natural Science Foundation of China [Grants 72671091, 72371079, and 72501192, and Key Program 72432005] and the Science and Technology Planning Project of Guangdong Province [Grant 2023B1515020045]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.03608 .
 
 **为什么推荐**
 
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 相关性 27/100（价格词 ×1题名 / ×1摘要；商品期货词 ×0题名）
 - 期刊权重 70/100（Management Science）
 - 时效 93/100（上线 1 天前）
 - 方法匹配 0/100
 - 有摘要，可快速判断
 
-[DOI / 原文](https://doi.org/10.1287/mnsc.2024.08268)
+[DOI / 原文](https://doi.org/10.1287/mnsc.2025.03608)
 
 ---
 
-## 5. Charitable capital allocation: Evidence from private foundations
+## 4. Leveraging surplus electricity: Profitability of Bitcoin mining as a national strategy in South Korea
 
-**Journal of Financial Economics** · 上线 2026-10-28（0 天前） · 在线 2026-11-01 · T1 · Zhongjin (Gene) Lu、Steven Malliaris · 综合分 **31.7** · 强相关
-
-> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 83/100（Journal of Financial Economics）
-- 时效 100/100（上线 0 天前）
-- 方法匹配 0/100
-
-[原文页面](https://www.sciencedirect.com/science/article/pii/S0304405X26001480)
-
----
-
-## 6. Are direct lenders more like banks or arm’s-length investors?
-
-**Journal of Financial Economics** · 上线 2026-10-27（1 天前） · 期号 2026-12 · T1 · Young Soo Jang · 综合分 **30.6** · 强相关
+**Energy Economics** · 上线 2026-10-28（1 天前） · T2 · Yoonseul Choi、Jaehong Jeong、Jungsoon Choi · 综合分 **37.9** · 中等相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 83/100（Journal of Financial Economics）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 0/100
-
-[DOI / 原文](https://doi.org/10.1016/j.jfineco.2026.104397)
-
----
-
-## 7. Innovation booms, easy financing, and human capital accumulation
-
-**Journal of Financial Economics** · 上线 2026-10-27（1 天前） · 期号 2026-12 · T1 · Johan Hombert、Adrien Matray · 综合分 **30.6** · 强相关
-
-> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
+标签：`electricity`
 
 **为什么推荐**
 
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 83/100（Journal of Financial Economics）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 0/100
-
-[DOI / 原文](https://doi.org/10.1016/j.jfineco.2026.104381)
-
----
-
-## 8. Patent agglomeration and environmental efficiency: effects and mechanisms in Africa
-
-**Energy Economics** · 上线 2026-10-28（0 天前） · 在线 2026-10-13 · T2 · Rockson Sai、Hongping Yuan、Ebenezer Kwabena Takyi、Hermas Abudu 等 5 人 · 综合分 **30.0** · 强相关
-
-> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）
 - 期刊权重 75/100（Energy Economics）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 0/100
+
+[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109663)
+
+---
+
+## 5. Robust Auction Design with Support Information
+
+**Management Science** · 上线 2026-10-28（1 天前） · T1 · Jerry Anunrojwong、Santiago R. Balseiro、Omar Besbes · 综合分 **35.8** · 弱相关
+
+标签：`price`
+
+**摘要**
+
+A seller wants to sell an item to n buyers. Buyer valuations are independent and identically distributed (i.i.d.) according to a distribution unknown to the seller; the seller only knows that the support is included in [a, b]. To be robust, the seller chooses a dominant strategy incentive compatible mechanism that optimizes the worst-case performance relative to the ideal expected revenue the seller could have collected with knowledge of buyers’ valuations. Our analysis unifies the regret and the ratio objectives. For these objectives, we derive an optimal mechanism and the corresponding performance in quasi-closed form, as a function of the support information [a, b] and the number of buyers n. Our analysis reveals three regimes of support information and a new class of robust mechanisms. (i) When a/b is below a threshold, the optimal mechanism is a second-price auction (SPA) with random reserve, a focal class in earlier literature. (ii) When a/b is above another threshold, SPAs are strictly suboptimal, and an optimal mechanism belongs to a class of mechanisms we introduce, which we call pooling auctions (POOL); whenever the highest value is above a threshold, the mechanism still allocates to the highest bidder, but otherwise the mechanism allocates to a uniformly random buyer, that is, pools low types. (iii) When a/b is between two thresholds, a randomization between SPA and POOL is optimal. We also characterize optimal mechanisms within nested central subclasses of mechanisms: standard mechanisms that only allocate to the highest bidder, SPA with random reserve, and SPA with no reserve. We show strict separations in terms of performance across classes, implying that deviating from standard mechanisms is necessary for robustness. Lastly, we show that the same results hold under other distribution classes that capture “positive dependence,” namely i.i.d., mixture of i.i.d., and exchangeable and affiliated distributions, as well as i.i.d. regular distributions. This paper was accepted by David Simchi-Levi, revenue management and market analytics. Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2023.02703 .
+
+**为什么推荐**
+
+- 相关性 6/100（价格词 ×0题名 / ×1摘要；商品期货词 ×0题名）
+- 期刊权重 70/100（Management Science）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 0/100
+- 有摘要，可快速判断
+
+[DOI / 原文](https://doi.org/10.1287/mnsc.2023.02703)
+
+---
+
+## 6. Disagreement of disagreement
+
+**Journal of Financial Economics** · 上线 2026-10-29（0 天前） · 在线 2026-11-01 · T1 · Christian L. Goulding、Campbell R. Harvey、Hrvoje Kurtović · 综合分 **31.7** · 强相关
+
+> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
+
+**为什么推荐**
+
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 83/100（Journal of Financial Economics）
 - 时效 100/100（上线 0 天前）
 - 方法匹配 0/100
 
-[原文页面](https://www.sciencedirect.com/science/article/pii/S014098832600527X)
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0304405X26001509)
 
 ---
 
-## 9. High-dimensional portfolio optimization with weight constraints: Forecasting models utilizing GARCH-EVT, R-vine copula, and SCAD penalty
+## 7. Identification of non-additive fixed effects models: Is the return to teacher quality homogeneous?
 
-**International Journal of Forecasting** · 上线 2026-10-28（0 天前） · 在线 2026-10-06 · T2 · Jian Lv、Chenxu Wang、Wenyong Yuan · 综合分 **30.0** · 强相关
+**Journal of Econometrics** · 上线 2026-10-29（0 天前） · 在线 2026-11-01 · T2 · Jinyong Hahn、John D. Singleton、Neşe Yıldız · 综合分 **29.2** · 强相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
 **为什么推荐**
 
 - 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 50/100（International Journal of Forecasting）
+- 期刊权重 58/100（Journal of Econometrics）
 - 时效 100/100（上线 0 天前）
-- 方法匹配 50/100（forecasting、garch）
+- 方法匹配 25/100（identification）
 
-[原文页面](https://www.sciencedirect.com/science/article/pii/S0169207026000920)
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0304407626001521)
 
 ---
 
-## 10. Machine learning and insurer failure prediction
+## 8. Panel data models with interactive fixed effects and (relatively) small T
 
-**International Journal of Forecasting** · 上线 2026-10-28（0 天前） · T2 · Canchun He、Dejin Huang、Ruo Jia、Xi Wang · 综合分 **30.0** · 强相关
+**Journal of Econometrics** · 上线 2026-10-29（0 天前） · 在线 2026-11-01 · T2 · Ayden Higgins · 综合分 **29.2** · 强相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
 **为什么推荐**
 
 - 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 50/100（International Journal of Forecasting）
+- 期刊权重 58/100（Journal of Econometrics）
 - 时效 100/100（上线 0 天前）
-- 方法匹配 50/100（prediction、machine learning）
+- 方法匹配 25/100（panel）
 
-[原文页面](https://www.sciencedirect.com/science/article/pii/S0169207025001256)
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0304407626001351)
+
+---
+
+## 9. Panel threshold regression with unobserved individual-specific threshold effects
+
+**Journal of Econometrics** · 上线 2026-10-29（0 天前） · 在线 2026-11-01 · T2 · Ping Yu、Shengjie Hong、Peter C.B. Phillips · 综合分 **29.2** · 强相关
+
+> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
+
+**为什么推荐**
+
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 58/100（Journal of Econometrics）
+- 时效 100/100（上线 0 天前）
+- 方法匹配 25/100（panel）
+
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0304407626001570)
+
+---
+
+## 10. Real-time monitoring for stock return predictability in nonstationary volatility environments
+
+**Journal of Econometrics** · 上线 2026-10-29（0 天前） · 在线 2026-11-01 · T2 · Matei Demetrescu、Fabian Schmidt、A.M. Robert Taylor · 综合分 **29.2** · 强相关
+
+> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
+
+**为什么推荐**
+
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 58/100（Journal of Econometrics）
+- 时效 100/100（上线 0 天前）
+- 方法匹配 25/100（volatility）
+
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0304407626001612)
 
 ---
 
@@ -187,22 +198,22 @@ We study the impact of a financial education program on portfolio choices in a s
 
 | 期刊 | 方向 | 窗口内新文 | 本期入选 |
 | --- | --- | --- | --- |
-| Energy Economics | 能源资源 | 61 | 2 |
-| International Journal of Forecasting | 计量预测 | 54 | 2 |
+| Energy Economics | 能源资源 | 62 | 1 |
+| International Journal of Forecasting | 计量预测 | 54 | 0 |
 | Food Policy | 农业商品 | 33 | 0 |
-| Journal of Financial Economics | 金融经济 | 27 | 3 |
-| Journal of Econometrics | 计量预测 | 25 | 0 |
-| Management Science | 金融经济 | 20 | 2 |
+| Journal of Financial Economics | 金融经济 | 27 | 1 |
+| Journal of Econometrics | 计量预测 | 24 | 4 |
+| Management Science | 金融经济 | 20 | 3 |
 | Journal of Environmental Economics and Management | 能源资源 | 16 | 0 |
 | Resource and Energy Economics | 能源资源 | 11 | 0 |
 | Journal of Commodity Markets | 农业商品 | 10 | 0 |
-| Journal of Forecasting | 计量预测 | 4 | 1 |
-| Review of Financial Studies | 金融经济 | 3 | 0 |
+| Review of Financial Studies | 金融经济 | 4 | 1 |
+| Journal of Forecasting | 计量预测 | 4 | 0 |
 | American Journal of Agricultural Economics | 农业商品 | 3 | 0 |
-| The Journal of Finance | 金融经济 | 2 | 0 |
 | The Quarterly Journal of Economics | 金融经济 | 2 | 0 |
+| The Journal of Finance | 金融经济 | 1 | 0 |
 | The Energy Journal | 能源资源 | 1 | 0 |
 | American Economic Review | 金融经济 | 0 | 0 |
 | Econometrica | 金融经济 | 0 | 0 |
 
-数据源：OpenAlex（主）+ Crossref（兜底）。抓取时间 2026-10-28 05:59:20。
+数据源：OpenAlex（主）+ Crossref（兜底）。抓取时间 2026-10-29 06:06:08。
