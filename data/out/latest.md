@@ -1,121 +1,203 @@
-# 价格研究日报 · 2026-10-30
+# 价格研究日报 · 2026-10-31
 
-> 覆盖 17 本顶刊 ｜ 抓取 277 篇 ｜ 新候选 114 篇 ｜ 本期推送 10 篇 ｜ 生成于 2026-10-30 06:07:18
+> 覆盖 17 本顶刊 ｜ 抓取 291 篇 ｜ 新候选 121 篇 ｜ 本期推送 10 篇 ｜ 生成于 2026-10-31 06:02:19
 
-## 1. Uncertainty, Volatility, and Renewable Energy Stock Returns: Evidence From Regime‐Dependent and Machine‐Learning Forecasting Models
+## 1. The Unequal Economic Consequences of Carbon Pricing
 
-**Journal of Forecasting** · 上线 2026-10-30（0 天前） · 在线 2026-10-29 · T3 · Georgios Chortareas、Mohamed Abdelaziz Eissa、Houda Arouri · 综合分 **50.4** · 中等相关
+**American Economic Review** · 上线 2026-10-30（1 天前） · 期号 2026-11 · T1 · Diego R. Känzig · 综合分 **79.9** · 强相关
 
-标签：`renewable` `oil` `oil market`
+标签：`pricing` `price` `prices` `energy price` `carbon` `emission` `emissions`
 
 **摘要**
 
-ABSTRACT This study examines the predictability of renewable energy stock returns under economic, financial, and policy uncertainty within a real‐time forecasting framework. Using monthly data from May 2007 to May 2025, we compare conventional econometric models, shrinkage estimators, machine‐learning algorithms, and regime‐dependent forecasting models using a recursive expanding‐window design. Forecast performance is evaluated using statistical accuracy measures, robustness analyses, and an economic portfolio evaluation. The results show that nonlinear forecasting methods consistently outperform conventional linear benchmarks. Gradient boosting achieves the lowest forecast errors, while principal component regression provides stable performance across alternative evaluation designs. Regime‐dependent forecasting models improve directional prediction during periods of heightened financial uncertainty but generate more modest gains in forecast accuracy. Predictor‐importance analysis identifies financial‐market volatility as the dominant source of forecasting information, followed by oil‐market volatility and broader policy uncertainty. Overall, the findings demonstrate that combining multiple sources of uncertainty with flexible forecasting methods improves both statistical forecasting performance and the economic value of investment decisions. JEL Classification: C22 C53 C58 G11 Q42
+This paper studies the economic impacts of carbon pricing. Exploiting institutional features of the European carbon market and high-frequency data, I identify carbon policy shocks and trace their dynamic effects. A restrictive carbon policy shock raises energy prices, reduces emissions, spurs green innovation, but decreases economic activity—disproportionately burdening poorer households. Not only are the poor more affected because of their higher energy spending, but they also experience larger income losses. These indirect, general equilibrium effects via income and employment play an important role in the transmission of carbon pricing policies, accounting for about two-thirds of the aggregate consumption response. (JEL E23, E24, O44, Q41, Q54, Q55, Q58)
 
 **为什么推荐**
 
-- 相关性 31/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）
-- 期刊权重 25/100（Journal of Forecasting）
-- 时效 100/100（上线 0 天前）
-- 方法匹配 100/100（forecast、forecasting、prediction、volatility）
+- 相关性 75/100（价格词 ×1题名 / ×4摘要；商品期货词 ×1题名）
+- 期刊权重 80/100（American Economic Review）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 75/100（high frequency、equilibrium、general equilibrium）
 - 有摘要，可快速判断
 
-[DOI / 原文](https://doi.org/10.1002/for.70238)
+[DOI / 原文](https://doi.org/10.1257/aer.20230448)
 
 ---
 
-## 2. Policy design and firm-level energy efficiency: Evidence from emissions trading versus command-and-control in Korea
+## 2. The Causal Effects of Global Supply Chain Disruptions on Macroeconomic Outcomes: Evidence and Theory
 
-**Energy Economics** · 上线 2026-10-30（0 天前） · T2 · Inseok Park、Donggyu Yi · 综合分 **47.9** · 中等相关
+**American Economic Review** · 上线 2026-10-30（1 天前） · 期号 2026-11 · T1 · Xiwen Bai、Jesús Fernández-Villaverde、Yiliang Li、Francesco Zanetti · 综合分 **54.9** · 中等相关
+
+标签：`price` `prices` `inflation` `supply shock` `supply shocks` `shortage`
+
+**摘要**
+
+We study the causal effects of global supply chain disruptions by constructing a new index of real-time port congestion using Automatic Identification System data from container ships and a spatial clustering algorithm. We develop a model with search frictions between producers and retailers that links upstream production slack to downstream supply shortages and captures output and price responses to supply chain shocks. The co-movements of output, prices, spare capacity, and market tightness provide novel identification restrictions. We find that demand and supply shocks drove US disinflation in 2020, while the inflation surge in 2021 was driven mainly by supply chain shocks. (JEL C43, E31, F14, F23, L14, L92)
+
+**为什么推荐**
+
+- 相关性 30/100（价格词 ×0题名 / ×3摘要；商品期货词 ×0题名）
+- 期刊权重 80/100（American Economic Review）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 50/100（identification、causal）
+- 有摘要，可快速判断
+
+[DOI / 原文](https://doi.org/10.1257/aer.20250081)
+
+---
+
+## 3. The Inflation Attention Threshold and Inflation Surges
+
+**American Economic Review** · 上线 2026-10-30（1 天前） · 期号 2026-11 · T1 · Oliver Pfäuti · 综合分 **52.8** · 强相关
+
+标签：`inflation` `supply shock` `supply shocks`
+
+**摘要**
+
+The recent inflation surge brought inflation back on people's minds. I quantify when and how much attention to inflation changes and derive the macroeconomic implications of these attention changes. I estimate an attention threshold at an inflation rate of 4 percent, that attention doubles when inflation exceeds this threshold, and that supply shocks have stronger and more persistent effects on inflation in times of high attention. Developing a model featuring the attention threshold, I show that attention changes offer a joint explanation for inflation surges, inflation's co-movement with inflation expectations, and a long last mile of disinflation. (JEL D84, E12, E31, E43, E52)
+
+**为什么推荐**
+
+- 相关性 36/100（价格词 ×1题名 / ×1摘要；商品期货词 ×0题名）
+- 期刊权重 80/100（American Economic Review）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 0/100
+- 有摘要，可快速判断
+
+[DOI / 原文](https://doi.org/10.1257/aer.20250051)
+
+---
+
+## 4. Union Bargaining Power and the Amenity-Wage Trade-Off
+
+**American Economic Review** · 上线 2026-10-30（1 天前） · 期号 2026-11 · T1 · Lorenzo Lagos · 综合分 **51.0** · 强相关
+
+标签：`wage`
+
+**摘要**
+
+This paper studies how collective bargaining affects wages and amenities. By merging collective bargaining agreements (CBAs) to linked employer-employee data in Brazil, I combine rich contracted amenities with wage information. I implement a difference-in-differences strategy that exploits a court ruling enforcing CBA continuation (i.e., ultra-activity) to estimate the effects of union bargaining power. Strengthening unions raises wages and amenities without reducing employment—increasing retention despite some labor-labor substitution. A revealed-preference approach shows that amenities account for 45 percent of total compensation gains. These findings suggest that collective bargaining can offset monopsony power, but employers retain the right-to-manage workforce composition. (JEL J31, J32, J42, J51, J52, O15)
+
+**为什么推荐**
+
+- 相关性 27/100（价格词 ×1题名 / ×1摘要；商品期货词 ×0题名）
+- 期刊权重 80/100（American Economic Review）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 25/100（difference in differences）
+- 有摘要，可快速判断
+
+[DOI / 原文](https://doi.org/10.1257/aer.20240766)
+
+---
+
+## 5. The prediction of Bitcoin price with a multi-source information fusion long short-term memory neural network model based on an attention mechanism
+
+**International Journal of Forecasting** · 上线 2026-10-30（1 天前） · T2 · Zi-Xu Lv、Zhao-Cong Liu、Yinghan Zhao、Chi-Chun Zhou 等 5 人 · 综合分 **39.6** · 强相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
-标签：`emission` `emissions`
+标签：`price`
 
 **为什么推荐**
 
-- 相关性 36/100（价格词 ×0题名 / ×0摘要；商品期货词 ×2题名）
-- 期刊权重 75/100（Energy Economics）
-- 时效 100/100（上线 0 天前）
-- 方法匹配 0/100
+- 相关性 21/100（价格词 ×1题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 50/100（International Journal of Forecasting）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 50/100（prediction、neural network）
 
-[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109678)
+[DOI / 原文](https://doi.org/10.1016/j.ijforecast.2026.07.011)
 
 ---
 
-## 3. Multitype Information Acquisition in a Strategic Trading Model
+## 6. Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau
 
-**Management Science** · 上线 2026-10-29（1 天前） · T1 · Hui Ou-Yang、Weili Wu、Xingtan Zhang · 综合分 **46.5** · 中等相关
-
-标签：`price` `prices` `yield`
+**American Economic Review** · 上线 2026-10-30（1 天前） · 期号 2026-11 · T1 · Eric Chyn、Kareem Haggag、Bryan A. Stuart · 综合分 **37.4** · 强相关
 
 **摘要**
 
-We analyze information acquisition in a strategic trading model with multidimensional uncertainties. Our main result is that the equilibrium can exhibit multiplicity because of the integer nature of the number of informed traders and the strategic interactions across different types of informed traders. We show that the number of equilibria can be arbitrarily large. Moreover, asymmetric equilibria can arise even in symmetric settings. As information costs rise, fewer traders acquire information, yet prices can become more informative. These results shed light on the instability of financial markets and yield testable empirical predictions. This paper was accepted by Lukas Schmid, finance. Funding: This work was supported by the National Natural Science Foundation of China [Grants 72472171 and 72372011]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08463 .
+How do majority groups respond to narrowing inequality in racially polarized environments? We study this by examining the Freedmen's Bureau, an agency created after the US Civil War to aid former slaves and launch institutional reform in the South. Using new historical records and an event-study approach, we estimate the bureau's impact on political, social, and economic outcomes. Vote shares for Democrats, the party that previously championed slavery and opposed Black civil rights, initially eroded in bureau counties, but these impacts faded as federal oversight weakened. Racial backlash emerged rapidly and persisted, suggesting White majorities sought to offset Black progress. (JEL D63, D72, J15, N31, N41)
 
 **为什么推荐**
 
-- 相关性 17/100（价格词 ×0题名 / ×3摘要；商品期货词 ×0题名）
-- 期刊权重 70/100（Management Science）
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 80/100（American Economic Review）
 - 时效 93/100（上线 1 天前）
-- 方法匹配 50/100（prediction、equilibrium）
+- 方法匹配 25/100（event study）
 - 有摘要，可快速判断
 
-[DOI / 原文](https://doi.org/10.1287/mnsc.2024.08463)
+[DOI / 原文](https://doi.org/10.1257/aer.20241561)
 
 ---
 
-## 4. Contest or Contract: Assessing the Effectiveness of Contests in Online Labor Markets
+## 7. The Effects of School Phone Bans: National Evidence from Lockable Pouches
 
-**Management Science** · 上线 2026-10-29（1 天前） · T1 · Jason Chan、Jiahui Mo、Tingting Nian、Nila Zhang · 综合分 **38.3** · 弱相关
-
-标签：`yield`
+**The Quarterly Journal of Economics** · 上线 2026-10-30（1 天前） · T1 · Hunt Allcott、Jason Baron、Thomas Dee、Angela L Duckworth 等 6 人 · 综合分 **37.4** · 强相关
 
 **摘要**
 
-Online labor markets have become increasingly popular among companies seeking global access to workers. Some platforms have adopted a contest-based scheme, allowing employers to review multiple submissions before selecting the best one. This practice raises a crucial question: Given a predefined budget, should employers choose a contest or contract scheme for tasks? This study examines the comparative effectiveness of contests versus contracts in achieving better job outcomes, focusing on design tasks characterized by high uncertainty. Using a comprehensive data set from a leading online labor market, we employ multiple empirical strategies, combined with machine learning and text mining techniques, to examine the impact of compensation schemes on job quality. Our results suggest that contract-based jobs yield better performance than contests in the context of ideation tasks. Further analysis, such as examining image similarity among pairwise solutions within a task, identifies “copying” behaviors as a key mechanism undermining the effectiveness of contests. In the public setting of contests, workers can observe others’ submissions and revise their own, leading to imitation rather than innovation. As competition intensity increases, workers have weaker incentives to exert effort, reducing solution quality. Consequently, the negative incentive effects in contests outweigh both the potential positive incentive and parallel effects. Moreover, although information availability can enhance work quality, contests inherently offer limited informational advantages compared with contracts. Taken together, our findings suggest that contract-based schemes are more effective than contests for design tasks, offering important implications for both employers and platform designers in online labor markets. This paper was accepted by Karan Girotra, operations management. Funding: N. Zhang acknowledges the support from the National Natural Science Foundation of China [Grant 72302053]. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.07082 .
+Abstract Schools across the U.S. have sharply restricted student use of phones during the school day. We evaluate one type of restriction—lockable phone pouches—using nationwide data combining a large-scale teacher survey, GPS pings, standardized test scores, and school administrative records, along with sales records from the largest pouch provider. Using a staggered difference-in-differences design, we find that pouch adoption substantially reduces phone use as measured by GPS pings and teacher reports. In the first year after adoption, disciplinary incidents increase, and we find suggestive evidence that student subjective well-being falls, consistent with short-term disruption. However, disciplinary effects fade, while the estimated effects on well-being appear to recover and become positive in later years. For academic achievement, average effects on test scores are consistently close to zero. High schools see modest positive effects, particularly in math, while middle schools see small negative effects. We find little evidence of effects on school attendance and no clear evidence of improvements in self-reported classroom attention or perceived online bullying.
 
 **为什么推荐**
 
-- 相关性 6/100（价格词 ×0题名 / ×1摘要；商品期货词 ×0题名）
-- 期刊权重 70/100（Management Science）
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 80/100（Quarterly Journal of Economics）
 - 时效 93/100（上线 1 天前）
-- 方法匹配 25/100（machine learning）
+- 方法匹配 25/100（difference in differences）
 - 有摘要，可快速判断
 
-[DOI / 原文](https://doi.org/10.1287/mnsc.2024.07082)
+[DOI / 原文](https://doi.org/10.1093/qje/qjag050)
 
 ---
 
-## 5. Inflexibility and Leverage
+## 8. The Returns to Government R&D: Evidence from US Appropriations Shocks
 
-**Management Science** · 上线 2026-10-29（1 天前） · T1 · Lifeng Gu、Dirk Hackbarth、Yuxin Luo · 综合分 **37.6** · 强相关
-
-标签：`supply shock`
+**American Economic Review** · 上线 2026-10-30（1 天前） · 期号 2026-11 · T1 · Andrew J. Fieldhouse、Karel Mertens · 综合分 **37.4** · 强相关
 
 **摘要**
 
-Firms’ inflexibility to adjust their scale persistently explains capital structure variations in a comprehensive sample and randomly selected subsamples. Higher inflexibility leads to lower financial leverage, potentially due to higher default risk and lower value of tax shields. Contraction inflexibility determines leverage more than expansion inflexibility. Moreover, our inflexibility measure explains financial leverage significantly better than other variables that potentially capture certain aspects of adjustment costs for capital or labor. In addition, inflexible firms increase leverage more following a positive credit supply shock. Analyses employing instrumental variables estimation confirm our main finding. Our results suggest inflexibility shapes corporate financial policies. This paper was accepted by Bo Becker, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08672 .
+Based on a narrative classification of all significant postwar changes in R&D appropriations for five major federal agencies, we find that an increase in nondefense R&D appropriations leads to increases in various measures of innovative activity and higher business-sector productivity in the long run. We structurally estimate the production function elasticity of nondefense government R&D capital using the SP-IV methodology of Lewis and Mertens (2024) and obtain implied returns of 140 to 210 percent over the postwar period. The estimates indicate that government-funded R&D accounts for one-fifth of business-sector TFP growth since WWII and imply substantial underfunding of nondefense R&D. (JEL D24, E23, H50, O31, O33, O38)
+
+**为什么推荐**
+
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 80/100（American Economic Review）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 25/100（elasticity）
+- 有摘要，可快速判断
+
+[DOI / 原文](https://doi.org/10.1257/aer.20231684)
+
+---
+
+## 9. Firm Adaptation in Production Networks: Evidence from Extreme Weather Events in Pakistan
+
+**American Economic Review** · 上线 2026-10-30（1 天前） · 期号 2026-11 · T1 · Clare Balboni、Johannes Boehm、Mazhar Waseem · 综合分 **37.1** · 强相关
+
+标签：`future`
+
+**摘要**
+
+This paper considers how far private adaptation may reduce future vulnerability to climate risks. Using data on monthly firm-to-firm transactions from Pakistan, we find that flood-affected firms are more likely to relocate to safer ground and shift purchases toward suppliers in less flood-prone regions and reached via less flood-prone roads. The results indicate that firms are imperfectly informed about flood risk and update their beliefs following floods. We quantify aggregate impacts using a spatial model of endogenous production network formation. The findings suggest that firms' learning will shape the economic impact of increasingly frequent climate-related disasters. (JEL D22, L14, O13, O14, Q54, R32)
 
 **为什么推荐**
 
 - 相关性 4/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 70/100（Management Science）
+- 期刊权重 80/100（American Economic Review）
 - 时效 93/100（上线 1 天前）
-- 方法匹配 25/100（instrumental variable）
+- 方法匹配 0/100
 - 有摘要，可快速判断
 
-[DOI / 原文](https://doi.org/10.1287/mnsc.2024.08672)
+[DOI / 原文](https://doi.org/10.1257/aer.20241027)
 
 ---
 
-## 6. Do Experimental Asset Market Results Replicate? High‐Powered Preregistered Replications of 17 Key Results
+## 10. The Evolution of the Market for Corporate Control
 
-**The Journal of Finance** · 上线 2026-10-29（1 天前） · T1 · CHRISTOPH HUBER、FELIX HOLZMEISTER、MAGNUS JOHANNESSON、CHRISTIAN KÖNIG‐KERSTING 等 7 人 · 综合分 **35.6** · 强相关
+**The Journal of Finance** · 上线 2026-10-30（1 天前） · T1 · MIKE BURKART、SAMUEL LEE、PAUL VOSS · 综合分 **35.6** · 强相关
 
 **摘要**
 
-ABSTRACT Experimental asset markets provide a controlled approach to studying financial markets. We attempt to replicate 17 key results from four prominent studies, collecting new data from 166 markets with 1,544 participants. Only three of the 14 original results reported as statistically significant were successfully replicated. We fail to replicate findings on emotions, self‐control, and gender differences in bubble formation but confirm that experience reduces bubbles and cognitive skills explain trading success. Our study demonstrates the importance of replications in enhancing the credibility of scientific results in this field.
+ABSTRACT We consider an informed large shareholder who can choose between making a takeover bid herself and initiating a sale to another acquirer. Such takeover activism complements direct takeovers because the very choice mitigates the asymmetric information problem, thereby improving efficiency. As more investors enter the market for corporate control, takeover activism increasingly replaces direct takeovers as the prevailing mode of disciplinary control change, matching the evolution in practice. Our model shows how this evolution, characterized by a symbiotic relationship between investor activism and private equity, arises to overcome asymmetric information and collective action problems through intermediated transactions.
 
 **为什么推荐**
 
@@ -125,78 +207,7 @@ ABSTRACT Experimental asset markets provide a controlled approach to studying fi
 - 方法匹配 0/100
 - 有摘要，可快速判断
 
-[DOI / 原文](https://doi.org/10.1111/jofi.70100)
-
----
-
-## 7. Willingness to Compete in Dirty Competitions
-
-**Management Science** · 上线 2026-10-29（1 天前） · T1 · Thomas Buser、Sahar Sangi · 综合分 **35.4** · 强相关
-
-**摘要**
-
-Competitive environments often leave room for “dirty” practices such as sabotage, retaliation, or dishonesty. We use an online experiment to document aggregate levels and individual differences in the willingness to engage in dirty competition and in the willingness to enter competitions where the opponent may play dirty. We then use the experimental data to validate a set of survey questions that capture willingness to engage in dirty competition above general willingness to compete. We elicit these questions in a representative survey panel and show that willingness to engage in dirty competition is a strong predictor of holding a management or supervisory position and of working in the private—versus the public—sector, but also of worse self-esteem, worse social relationships, and increased feelings of guilt and shame. Men, younger people, and lower-educated people are on average more willing to engage in dirty competition. This paper was accepted by Dorothea Kübler, behavioral economics and decision analysis. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01218 .
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 70/100（Management Science）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 25/100（panel）
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.1287/mnsc.2025.01218)
-
----
-
-## 8. Decoupling voting and cash flow rights
-
-**Journal of Financial Economics** · 上线 2026-10-29（1 天前） · 在线 2026-12-01 · T1 · Andre Speit、Paul Voss、András Danis · 综合分 **30.6** · 强相关
-
-> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 83/100（Journal of Financial Economics）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 0/100
-
-[DOI / 原文](https://doi.org/10.1016/j.jfineco.2026.104388)
-
----
-
-## 9. The effect of new housing supply in structural models: A forecasting performance evaluation
-
-**International Journal of Forecasting** · 上线 2026-10-30（0 天前） · 在线 2026-10-15 · T2 · Stefan Girstmair · 综合分 **30.0** · 强相关
-
-> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 50/100（International Journal of Forecasting）
-- 时效 100/100（上线 0 天前）
-- 方法匹配 50/100（forecasting、structural）
-
-[原文页面](https://www.sciencedirect.com/science/article/pii/S0169207026001007)
-
----
-
-## 10. Robust estimation and inference for high-dimensional panel data models
-
-**Journal of Econometrics** · 上线 2026-10-30（0 天前） · 在线 2026-11-01 · T2 · Jiti Gao、Fei Liu、Bin Peng、Yayi Yan · 综合分 **29.2** · 强相关
-
-> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 58/100（Journal of Econometrics）
-- 时效 100/100（上线 0 天前）
-- 方法匹配 25/100（panel）
-
-[原文页面](https://www.sciencedirect.com/science/article/pii/S0304407626001624)
+[DOI / 原文](https://doi.org/10.1111/jofi.70099)
 
 ---
 
@@ -204,22 +215,22 @@ Competitive environments often leave room for “dirty” practices such as sabo
 
 | 期刊 | 方向 | 窗口内新文 | 本期入选 |
 | --- | --- | --- | --- |
-| Energy Economics | 能源资源 | 63 | 1 |
-| International Journal of Forecasting | 计量预测 | 54 | 1 |
-| Food Policy | 农业商品 | 33 | 0 |
-| Journal of Financial Economics | 金融经济 | 28 | 1 |
-| Journal of Econometrics | 计量预测 | 24 | 1 |
-| Management Science | 金融经济 | 22 | 4 |
+| Energy Economics | 能源资源 | 63 | 0 |
+| International Journal of Forecasting | 计量预测 | 55 | 1 |
+| Food Policy | 农业商品 | 34 | 0 |
+| Journal of Financial Economics | 金融经济 | 28 | 0 |
+| Journal of Econometrics | 计量预测 | 25 | 0 |
+| Management Science | 金融经济 | 20 | 0 |
 | Journal of Environmental Economics and Management | 能源资源 | 16 | 0 |
+| American Economic Review | 金融经济 | 11 | 7 |
 | Resource and Energy Economics | 能源资源 | 11 | 0 |
 | Journal of Commodity Markets | 农业商品 | 10 | 0 |
-| Review of Financial Studies | 金融经济 | 4 | 0 |
-| Journal of Forecasting | 计量预测 | 4 | 1 |
-| American Journal of Agricultural Economics | 农业商品 | 3 | 0 |
-| The Journal of Finance | 金融经济 | 2 | 1 |
-| The Quarterly Journal of Economics | 金融经济 | 2 | 0 |
+| Review of Financial Studies | 金融经济 | 5 | 0 |
+| Journal of Forecasting | 计量预测 | 4 | 0 |
+| The Journal of Finance | 金融经济 | 3 | 1 |
+| The Quarterly Journal of Economics | 金融经济 | 3 | 1 |
+| American Journal of Agricultural Economics | 农业商品 | 2 | 0 |
 | The Energy Journal | 能源资源 | 1 | 0 |
-| American Economic Review | 金融经济 | 0 | 0 |
 | Econometrica | 金融经济 | 0 | 0 |
 
-数据源：OpenAlex（主）+ Crossref（兜底）。抓取时间 2026-10-30 06:07:18。
+数据源：OpenAlex（主）+ Crossref（兜底）。抓取时间 2026-10-31 06:02:19。

@@ -1,0 +1,714 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31 06:02:19",
+  "stats": {
+    "journals": 17,
+    "fetched": 291,
+    "candidates": 121,
+    "pushed": 10,
+    "digest_size": 10,
+    "per_journal": {
+      "Journal of Finance": {
+        "display": "The Journal of Finance",
+        "group": "金融经济",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 3,
+        "error": ""
+      },
+      "Journal of Financial Economics": {
+        "display": "Journal of Financial Economics",
+        "group": "金融经济",
+        "publisher": "Elsevier",
+        "fetched": 28,
+        "error": ""
+      },
+      "Review of Financial Studies": {
+        "display": "Review of Financial Studies",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 5,
+        "error": ""
+      },
+      "American Economic Review": {
+        "display": "American Economic Review",
+        "group": "金融经济",
+        "publisher": "American Economic Association",
+        "fetched": 11,
+        "error": ""
+      },
+      "Quarterly Journal of Economics": {
+        "display": "The Quarterly Journal of Economics",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 3,
+        "error": ""
+      },
+      "Econometrica": {
+        "display": "Econometrica",
+        "group": "金融经济",
+        "publisher": "The Econometric Society",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Management Science": {
+        "display": "Management Science",
+        "group": "金融经济",
+        "publisher": "Institute for Operations Research and the Management Sciences",
+        "fetched": 20,
+        "error": ""
+      },
+      "Energy Economics": {
+        "display": "Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 63,
+        "error": ""
+      },
+      "The Energy Journal": {
+        "display": "The Energy Journal",
+        "group": "能源资源",
+        "publisher": "SAGE Publications",
+        "fetched": 1,
+        "error": ""
+      },
+      "Journal of Environmental Economics and Management": {
+        "display": "Journal of Environmental Economics and Management",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 16,
+        "error": ""
+      },
+      "Resource and Energy Economics": {
+        "display": "Resource and Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 11,
+        "error": ""
+      },
+      "American Journal of Agricultural Economics": {
+        "display": "American Journal of Agricultural Economics",
+        "group": "农业商品",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 2,
+        "error": ""
+      },
+      "Journal of Commodity Markets": {
+        "display": "Journal of Commodity Markets",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 10,
+        "error": ""
+      },
+      "Food Policy": {
+        "display": "Food Policy",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 34,
+        "error": ""
+      },
+      "Journal of Econometrics": {
+        "display": "Journal of Econometrics",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 25,
+        "error": ""
+      },
+      "International Journal of Forecasting": {
+        "display": "International Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 55,
+        "error": ""
+      },
+      "Journal of Forecasting": {
+        "display": "Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Wiley (John Wiley & Sons)",
+        "fetched": 4,
+        "error": ""
+      }
+    },
+    "selection_notes": {
+      "strict_pool": 4,
+      "cap_relaxed": false,
+      "relaxed": true,
+      "filled": true,
+      "relaxed_pool": 5
+    },
+    "abstract_coverage": 0.116,
+    "enrich": {
+      "s2_filled": 0,
+      "openalex_filled": 0,
+      "openalex_note": "请求失败（HTTP 400 :: https://api.openalex.org/works?filter=doi%3A10.1016%2Fj.jfineco.2026.104392%7C10.1016%2Fj.jfineco.2026.104387%7C10.1016%2Fj.jfineco.2026.104385%7C10.1093%2Frfs%2Fhhag066%7C10.1257%2Faer.116.11.i%7C10.1016%2Fj.eneco.2026.109660%7C10.1016%2Fj.eneco.2026.109675%7C10.1016%2Fj.eneco.2026.109667%7C10.1016%2Fj.eneco.2026.109659%7C10.1016%2Fj.eneco.2026.109651%7C10.1016%2Fj.reseneeco.2026.101608%7C10.1016%2Fj.reseneeco.2026.101605%7C10.1016%2Fj.foodpol.2026.103226%7C10.1016%2Fj.foodpol.2026.103185%7C10.1016%2Fj.foodpol.2026.103212%7C10.1016%2Fj.foodpol.2026.103218%7C10.1016%2Fj.foodpol.2026.103213%7C10.1016%2Fj.foodpol.2026.103208%7C10.1016%2Fj.jeconom.2026.106351%7C10.1016%2Fj.ijforecast.2026.07.011%7C10.1016%2Fj.ijforecast.2026.09.010&per-page=21&select=doi%2Cabstract_inverted_index%2Ccited_by_count%2Cis_oa%2Cbest_oa_location&mailto=2485892471%40qq.com :: {\"error\":\"Invalid query parameters error.\",\"message\":\"is_oa is not a valid select field. Valid fields for select are: id, doi, title, display_name, relevance_score, rerank_score, publication_year, pub）"
+    }
+  },
+  "items": [
+    {
+      "id": "crossref:10.1257/aer.20230448",
+      "doi": "10.1257/aer.20230448",
+      "title": "The Unequal Economic Consequences of Carbon Pricing",
+      "abstract": "This paper studies the economic impacts of carbon pricing. Exploiting institutional features of the European carbon market and high-frequency data, I identify carbon policy shocks and trace their dynamic effects. A restrictive carbon policy shock raises energy prices, reduces emissions, spurs green innovation, but decreases economic activity—disproportionately burdening poorer households. Not only are the poor more affected because of their higher energy spending, but they also experience larger income losses. These indirect, general equilibrium effects via income and employment play an important role in the transmission of carbon pricing policies, accounting for about two-thirds of the aggregate consumption response. (JEL E23, E24, O44, Q41, Q54, Q55, Q58)",
+      "publication_date": "",
+      "created_date": "2026-10-30",
+      "issue_date": "2026-11-01",
+      "journal": "American Economic Review",
+      "journal_display": "American Economic Review",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Diego R. Känzig"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1257/aer.20230448",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 79.93,
+      "rank": 1,
+      "relevance_raw": 10.5,
+      "relevance_level": "strong",
+      "keywords": [
+        "pricing",
+        "price",
+        "prices",
+        "energy price",
+        "carbon",
+        "emission",
+        "emissions"
+      ],
+      "reasons": [
+        "相关性 75/100（价格词 ×1题名 / ×4摘要；商品期货词 ×1题名）",
+        "期刊权重 80/100（American Economic Review）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 75/100（high frequency、equilibrium、general equilibrium）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [
+          "pricing"
+        ],
+        "core_abstract": [
+          "price",
+          "prices",
+          "pricing",
+          "energy price"
+        ],
+        "context_title": [
+          "carbon"
+        ],
+        "context_abstract": [
+          "carbon",
+          "emission",
+          "emissions"
+        ],
+        "method": [
+          "high frequency",
+          "equilibrium",
+          "general equilibrium"
+        ]
+      },
+      "pushed_date": "2026-10-31"
+    },
+    {
+      "id": "crossref:10.1257/aer.20250081",
+      "doi": "10.1257/aer.20250081",
+      "title": "The Causal Effects of Global Supply Chain Disruptions on Macroeconomic Outcomes: Evidence and Theory",
+      "abstract": "We study the causal effects of global supply chain disruptions by constructing a new index of real-time port congestion using Automatic Identification System data from container ships and a spatial clustering algorithm. We develop a model with search frictions between producers and retailers that links upstream production slack to downstream supply shortages and captures output and price responses to supply chain shocks. The co-movements of output, prices, spare capacity, and market tightness provide novel identification restrictions. We find that demand and supply shocks drove US disinflation in 2020, while the inflation surge in 2021 was driven mainly by supply chain shocks. (JEL C43, E31, F14, F23, L14, L92)",
+      "publication_date": "",
+      "created_date": "2026-10-30",
+      "issue_date": "2026-11-01",
+      "journal": "American Economic Review",
+      "journal_display": "American Economic Review",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Xiwen Bai",
+        "Jesús Fernández-Villaverde",
+        "Yiliang Li",
+        "Francesco Zanetti"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1257/aer.20250081",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 54.93,
+      "rank": 2,
+      "relevance_raw": 4.2,
+      "relevance_level": "medium",
+      "keywords": [
+        "price",
+        "prices",
+        "inflation",
+        "supply shock",
+        "supply shocks",
+        "shortage"
+      ],
+      "reasons": [
+        "相关性 30/100（价格词 ×0题名 / ×3摘要；商品期货词 ×0题名）",
+        "期刊权重 80/100（American Economic Review）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 50/100（identification、causal）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "price",
+          "prices",
+          "inflation"
+        ],
+        "context_title": [],
+        "context_abstract": [
+          "supply shock",
+          "supply shocks",
+          "shortage"
+        ],
+        "method": [
+          "identification",
+          "causal"
+        ]
+      },
+      "pushed_date": "2026-10-31"
+    },
+    {
+      "id": "crossref:10.1257/aer.20250051",
+      "doi": "10.1257/aer.20250051",
+      "title": "The Inflation Attention Threshold and Inflation Surges",
+      "abstract": "The recent inflation surge brought inflation back on people's minds. I quantify when and how much attention to inflation changes and derive the macroeconomic implications of these attention changes. I estimate an attention threshold at an inflation rate of 4 percent, that attention doubles when inflation exceeds this threshold, and that supply shocks have stronger and more persistent effects on inflation in times of high attention. Developing a model featuring the attention threshold, I show that attention changes offer a joint explanation for inflation surges, inflation's co-movement with inflation expectations, and a long last mile of disinflation. (JEL D84, E12, E31, E43, E52)",
+      "publication_date": "",
+      "created_date": "2026-10-30",
+      "issue_date": "2026-11-01",
+      "journal": "American Economic Review",
+      "journal_display": "American Economic Review",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Oliver Pfäuti"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1257/aer.20250051",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 52.79,
+      "rank": 3,
+      "relevance_raw": 5.0,
+      "relevance_level": "strong",
+      "keywords": [
+        "inflation",
+        "supply shock",
+        "supply shocks"
+      ],
+      "reasons": [
+        "相关性 36/100（价格词 ×1题名 / ×1摘要；商品期货词 ×0题名）",
+        "期刊权重 80/100（American Economic Review）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [
+          "inflation"
+        ],
+        "core_abstract": [
+          "inflation"
+        ],
+        "context_title": [],
+        "context_abstract": [
+          "supply shock",
+          "supply shocks"
+        ],
+        "method": []
+      },
+      "pushed_date": "2026-10-31"
+    },
+    {
+      "id": "crossref:10.1257/aer.20240766",
+      "doi": "10.1257/aer.20240766",
+      "title": "Union Bargaining Power and the Amenity-Wage Trade-Off",
+      "abstract": "This paper studies how collective bargaining affects wages and amenities. By merging collective bargaining agreements (CBAs) to linked employer-employee data in Brazil, I combine rich contracted amenities with wage information. I implement a difference-in-differences strategy that exploits a court ruling enforcing CBA continuation (i.e., ultra-activity) to estimate the effects of union bargaining power. Strengthening unions raises wages and amenities without reducing employment—increasing retention despite some labor-labor substitution. A revealed-preference approach shows that amenities account for 45 percent of total compensation gains. These findings suggest that collective bargaining can offset monopsony power, but employers retain the right-to-manage workforce composition. (JEL J31, J32, J42, J51, J52, O15)",
+      "publication_date": "",
+      "created_date": "2026-10-30",
+      "issue_date": "2026-11-01",
+      "journal": "American Economic Review",
+      "journal_display": "American Economic Review",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Lorenzo Lagos"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1257/aer.20240766",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 51.0,
+      "rank": 4,
+      "relevance_raw": 3.8,
+      "relevance_level": "strong",
+      "keywords": [
+        "wage"
+      ],
+      "reasons": [
+        "相关性 27/100（价格词 ×1题名 / ×1摘要；商品期货词 ×0题名）",
+        "期刊权重 80/100（American Economic Review）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（difference in differences）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [
+          "wage"
+        ],
+        "core_abstract": [
+          "wage"
+        ],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "difference in differences"
+        ]
+      },
+      "pushed_date": "2026-10-31"
+    },
+    {
+      "id": "crossref:10.1016/j.ijforecast.2026.07.011",
+      "doi": "10.1016/j.ijforecast.2026.07.011",
+      "title": "The prediction of Bitcoin price with a multi-source information fusion long short-term memory neural network model based on an attention mechanism",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-10-30",
+      "issue_date": "2026-10-01",
+      "journal": "International Journal of Forecasting",
+      "journal_display": "International Journal of Forecasting",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Zi-Xu Lv",
+        "Zhao-Cong Liu",
+        "Yinghan Zhao",
+        "Chi-Chun Zhou",
+        "Ping Zhang"
+      ],
+      "author_count": 5,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.ijforecast.2026.07.011",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 39.64,
+      "rank": 5,
+      "relevance_raw": 3.0,
+      "relevance_level": "strong",
+      "keywords": [
+        "price"
+      ],
+      "reasons": [
+        "相关性 21/100（价格词 ×1题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 50/100（International Journal of Forecasting）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 50/100（prediction、neural network）"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [
+          "price"
+        ],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "prediction",
+          "neural network"
+        ]
+      },
+      "pushed_date": "2026-10-31"
+    },
+    {
+      "id": "crossref:10.1257/aer.20241561",
+      "doi": "10.1257/aer.20241561",
+      "title": "Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau",
+      "abstract": "How do majority groups respond to narrowing inequality in racially polarized environments? We study this by examining the Freedmen's Bureau, an agency created after the US Civil War to aid former slaves and launch institutional reform in the South. Using new historical records and an event-study approach, we estimate the bureau's impact on political, social, and economic outcomes. Vote shares for Democrats, the party that previously championed slavery and opposed Black civil rights, initially eroded in bureau counties, but these impacts faded as federal oversight weakened. Racial backlash emerged rapidly and persisted, suggesting White majorities sought to offset Black progress. (JEL D63, D72, J15, N31, N41)",
+      "publication_date": "",
+      "created_date": "2026-10-30",
+      "issue_date": "2026-11-01",
+      "journal": "American Economic Review",
+      "journal_display": "American Economic Review",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Eric Chyn",
+        "Kareem Haggag",
+        "Bryan A. Stuart"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1257/aer.20241561",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 37.43,
+      "rank": 6,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 80/100（American Economic Review）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（event study）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "event study"
+        ]
+      },
+      "pushed_date": "2026-10-31"
+    },
+    {
+      "id": "crossref:10.1093/qje/qjag050",
+      "doi": "10.1093/qje/qjag050",
+      "title": "The Effects of School Phone Bans: National Evidence from Lockable Pouches",
+      "abstract": "Abstract Schools across the U.S. have sharply restricted student use of phones during the school day. We evaluate one type of restriction—lockable phone pouches—using nationwide data combining a large-scale teacher survey, GPS pings, standardized test scores, and school administrative records, along with sales records from the largest pouch provider. Using a staggered difference-in-differences design, we find that pouch adoption substantially reduces phone use as measured by GPS pings and teacher reports. In the first year after adoption, disciplinary incidents increase, and we find suggestive evidence that student subjective well-being falls, consistent with short-term disruption. However, disciplinary effects fade, while the estimated effects on well-being appear to recover and become positive in later years. For academic achievement, average effects on test scores are consistently close to zero. High schools see modest positive effects, particularly in math, while middle schools see small negative effects. We find little evidence of effects on school attendance and no clear evidence of improvements in self-reported classroom attention or perceived online bullying.",
+      "publication_date": "2026-10-30",
+      "created_date": "2026-10-30",
+      "issue_date": "2026-10-30",
+      "journal": "Quarterly Journal of Economics",
+      "journal_display": "The Quarterly Journal of Economics",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Hunt Allcott",
+        "Jason Baron",
+        "Thomas Dee",
+        "Angela L Duckworth",
+        "Matthew Gentzkow",
+        "Brian Jacob"
+      ],
+      "author_count": 6,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1093/qje/qjag050",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 37.43,
+      "rank": 7,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 80/100（Quarterly Journal of Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（difference in differences）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "difference in differences"
+        ]
+      },
+      "pushed_date": "2026-10-31"
+    },
+    {
+      "id": "crossref:10.1257/aer.20231684",
+      "doi": "10.1257/aer.20231684",
+      "title": "The Returns to Government R&D: Evidence from US Appropriations Shocks",
+      "abstract": "Based on a narrative classification of all significant postwar changes in R&D appropriations for five major federal agencies, we find that an increase in nondefense R&D appropriations leads to increases in various measures of innovative activity and higher business-sector productivity in the long run. We structurally estimate the production function elasticity of nondefense government R&D capital using the SP-IV methodology of Lewis and Mertens (2024) and obtain implied returns of 140 to 210 percent over the postwar period. The estimates indicate that government-funded R&D accounts for one-fifth of business-sector TFP growth since WWII and imply substantial underfunding of nondefense R&D. (JEL D24, E23, H50, O31, O33, O38)",
+      "publication_date": "",
+      "created_date": "2026-10-30",
+      "issue_date": "2026-11-01",
+      "journal": "American Economic Review",
+      "journal_display": "American Economic Review",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Andrew J. Fieldhouse",
+        "Karel Mertens"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1257/aer.20231684",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 37.43,
+      "rank": 8,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 80/100（American Economic Review）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（elasticity）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "elasticity"
+        ]
+      },
+      "pushed_date": "2026-10-31"
+    },
+    {
+      "id": "crossref:10.1257/aer.20241027",
+      "doi": "10.1257/aer.20241027",
+      "title": "Firm Adaptation in Production Networks: Evidence from Extreme Weather Events in Pakistan",
+      "abstract": "This paper considers how far private adaptation may reduce future vulnerability to climate risks. Using data on monthly firm-to-firm transactions from Pakistan, we find that flood-affected firms are more likely to relocate to safer ground and shift purchases toward suppliers in less flood-prone regions and reached via less flood-prone roads. The results indicate that firms are imperfectly informed about flood risk and update their beliefs following floods. We quantify aggregate impacts using a spatial model of endogenous production network formation. The findings suggest that firms' learning will shape the economic impact of increasingly frequent climate-related disasters. (JEL D22, L14, O13, O14, Q54, R32)",
+      "publication_date": "",
+      "created_date": "2026-10-30",
+      "issue_date": "2026-11-01",
+      "journal": "American Economic Review",
+      "journal_display": "American Economic Review",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Clare Balboni",
+        "Johannes Boehm",
+        "Mazhar Waseem"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1257/aer.20241027",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 37.07,
+      "rank": 9,
+      "relevance_raw": 0.6,
+      "relevance_level": "strong",
+      "keywords": [
+        "future"
+      ],
+      "reasons": [
+        "相关性 4/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 80/100（American Economic Review）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [
+          "future"
+        ],
+        "method": []
+      },
+      "pushed_date": "2026-10-31"
+    },
+    {
+      "id": "crossref:10.1111/jofi.70099",
+      "doi": "10.1111/jofi.70099",
+      "title": "The Evolution of the Market for Corporate Control",
+      "abstract": "ABSTRACT We consider an informed large shareholder who can choose between making a takeover bid herself and initiating a sale to another acquirer. Such takeover activism complements direct takeovers because the very choice mitigates the asymmetric information problem, thereby improving efficiency. As more investors enter the market for corporate control, takeover activism increasingly replaces direct takeovers as the prevailing mode of disciplinary control change, matching the evolution in practice. Our model shows how this evolution, characterized by a symbiotic relationship between investor activism and private equity, arises to overcome asymmetric information and collective action problems through intermediated transactions.",
+      "publication_date": "2026-10-30",
+      "created_date": "2026-10-30",
+      "issue_date": "2026-10-30",
+      "journal": "Journal of Finance",
+      "journal_display": "The Journal of Finance",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "MIKE BURKART",
+        "SAMUEL LEE",
+        "PAUL VOSS"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1111/jofi.70099",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 35.6,
+      "rank": 10,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 83/100（Journal of Finance）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-10-31"
+    }
+  ]
+}
