@@ -1,0 +1,659 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01 06:31:37",
+  "stats": {
+    "journals": 17,
+    "fetched": 295,
+    "candidates": 115,
+    "pushed": 10,
+    "digest_size": 10,
+    "per_journal": {
+      "Journal of Finance": {
+        "display": "The Journal of Finance",
+        "group": "金融经济",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 3,
+        "error": ""
+      },
+      "Journal of Financial Economics": {
+        "display": "Journal of Financial Economics",
+        "group": "金融经济",
+        "publisher": "Elsevier",
+        "fetched": 28,
+        "error": ""
+      },
+      "Review of Financial Studies": {
+        "display": "Review of Financial Studies",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 5,
+        "error": ""
+      },
+      "American Economic Review": {
+        "display": "American Economic Review",
+        "group": "金融经济",
+        "publisher": "American Economic Association",
+        "fetched": 11,
+        "error": ""
+      },
+      "Quarterly Journal of Economics": {
+        "display": "The Quarterly Journal of Economics",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 3,
+        "error": ""
+      },
+      "Econometrica": {
+        "display": "Econometrica",
+        "group": "金融经济",
+        "publisher": "The Econometric Society",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Management Science": {
+        "display": "Management Science",
+        "group": "金融经济",
+        "publisher": "Institute for Operations Research and the Management Sciences",
+        "fetched": 20,
+        "error": ""
+      },
+      "Energy Economics": {
+        "display": "Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 64,
+        "error": ""
+      },
+      "The Energy Journal": {
+        "display": "The Energy Journal",
+        "group": "能源资源",
+        "publisher": "SAGE Publications",
+        "fetched": 1,
+        "error": ""
+      },
+      "Journal of Environmental Economics and Management": {
+        "display": "Journal of Environmental Economics and Management",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 17,
+        "error": ""
+      },
+      "Resource and Energy Economics": {
+        "display": "Resource and Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 12,
+        "error": ""
+      },
+      "American Journal of Agricultural Economics": {
+        "display": "American Journal of Agricultural Economics",
+        "group": "农业商品",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 2,
+        "error": ""
+      },
+      "Journal of Commodity Markets": {
+        "display": "Journal of Commodity Markets",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 10,
+        "error": ""
+      },
+      "Food Policy": {
+        "display": "Food Policy",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 34,
+        "error": ""
+      },
+      "Journal of Econometrics": {
+        "display": "Journal of Econometrics",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 25,
+        "error": ""
+      },
+      "International Journal of Forecasting": {
+        "display": "International Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 56,
+        "error": ""
+      },
+      "Journal of Forecasting": {
+        "display": "Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Wiley (John Wiley & Sons)",
+        "fetched": 4,
+        "error": ""
+      }
+    },
+    "selection_notes": {
+      "strict_pool": 0,
+      "cap_relaxed": false,
+      "relaxed": false,
+      "filled": true,
+      "relaxed_pool": 0
+    },
+    "abstract_coverage": 0.043,
+    "enrich": {
+      "s2_filled": 0,
+      "openalex_filled": 0,
+      "openalex_note": "请求失败（HTTP 400 :: https://api.openalex.org/works?filter=doi%3A10.1016%2Fj.jfineco.2026.104392%7C10.1016%2Fj.jfineco.2026.104387%7C10.1016%2Fj.jfineco.2026.104385%7C10.1093%2Frfs%2Fhhag066%7C10.1257%2Faer.116.11.i%7C10.1016%2Fj.eneco.2026.109674%7C10.1016%2Fj.eneco.2026.109660%7C10.1016%2Fj.eneco.2026.109675%7C10.1016%2Fj.eneco.2026.109667%7C10.1016%2Fj.eneco.2026.109659%7C10.1016%2Fj.jeem.2026.103437%7C10.1016%2Fj.reseneeco.2026.101609%7C10.1016%2Fj.reseneeco.2026.101608%7C10.1016%2Fj.reseneeco.2026.101605%7C10.1016%2Fj.foodpol.2026.103226%7C10.1016%2Fj.foodpol.2026.103185%7C10.1016%2Fj.foodpol.2026.103212%7C10.1016%2Fj.foodpol.2026.103218%7C10.1016%2Fj.foodpol.2026.103213%7C10.1016%2Fj.jeconom.2026.106351%7C10.1016%2Fj.ijforecast.2026.10.006%7C10.1016%2Fj.ijforecast.2026.09.010&per-page=22&select=doi%2Cabstract_inverted_index%2Ccited_by_count%2Cis_oa%2Cbest_oa_location&mailto=2485892471%40qq.com :: {\"error\":\"Invalid query parameters error.\",\"message\":\"is_oa is not a valid select field. Valid fields for select are: id, doi, title, display_name, relevance_score, rerank_score, publication_year, pub）"
+    }
+  },
+  "items": [
+    {
+      "id": "crossref:10.1257/aer.20231651",
+      "doi": "10.1257/aer.20231651",
+      "title": "Reproducible Aggregation of Sample-Split Statistics",
+      "abstract": "Statistical inference is often simplified by sample splitting. This simplification comes at the cost of the introduction of randomness not native to the data. We propose a simple procedure for sequentially aggregating statistics constructed with multiple splits of the same sample. The user specifies a bound and a nominal error rate. If the procedure is implemented twice on the same data, the nominal error rate approximates the chance that the results differ by more than the bound. We illustrate the application of the procedure to several widely applied econometric methods. (JEL C20, C30, C52)",
+      "publication_date": "",
+      "created_date": "2026-10-30",
+      "issue_date": "2026-11-01",
+      "journal": "American Economic Review",
+      "journal_display": "American Economic Review",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "David M. Ritzwoller",
+        "Joseph P. Romano"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": true,
+      "oa_url": "https://arxiv.org/pdf/2311.14204",
+      "landing_page": "https://doi.org/10.1257/aer.20231651",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 34.61,
+      "rank": 1,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 80/100（American Economic Review）",
+        "时效 86/100（上线 2 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断",
+        "有开放获取全文"
+      ],
+      "days_old": 2,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-01"
+    },
+    {
+      "id": "crossref:10.1257/aer.20240666",
+      "doi": "10.1257/aer.20240666",
+      "title": "Durables and the Marginal Propensity to Spend",
+      "abstract": "Durables represent a large share of households' marginal propensity to spend (MPX). We develop a quantitative model of spending that takes durables into account and matches a rich set of empirical regularities simultaneously. Scaling the response of nondurables provides a poor approximation of the MPX on durables when it comes to its distribution in the population, its persistence over time, and its cyclicality. As an application, we study how the MPX varies with the size of stimulus checks and find that it declines more slowly compared to a model of purely nondurable spending. (JEL D11, E21, E32, E62, G51)",
+      "publication_date": "",
+      "created_date": "2026-10-30",
+      "issue_date": "2026-11-01",
+      "journal": "American Economic Review",
+      "journal_display": "American Economic Review",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Nathan Zorzi",
+        "Martin Beraja"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1257/aer.20240666",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 33.86,
+      "rank": 2,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 80/100（American Economic Review）",
+        "时效 86/100（上线 2 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 2,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-01"
+    },
+    {
+      "id": "crossref:10.1257/aer.20240179",
+      "doi": "10.1257/aer.20240179",
+      "title": "Residential Segregation and Unequal Access to Local Public Services in India: Evidence from 1.5 Million Neighborhoods",
+      "abstract": "We study residential segregation and access to public services across 1.5 million urban and rural neighborhoods in India. Muslim and Scheduled Caste segregation in India is high by global standards and only slightly lower than Black-White segregation in the United States. Within cities, public facilities and infrastructure are systematically less available in Muslim and Scheduled Caste neighborhoods. Nearly all regressive allocation is across neighborhoods within cities—at the most informal and least studied form of government. These inequalities are not visible in the aggregate data typically used for research and policy. (JEL H76, J15, O15, O17, O18, R23)",
+      "publication_date": "",
+      "created_date": "2026-10-30",
+      "issue_date": "2026-11-01",
+      "journal": "American Economic Review",
+      "journal_display": "American Economic Review",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Sam Asher",
+        "Kritarth Jha",
+        "Paul Novosad",
+        "Anjali Adukia",
+        "Brandon Tan"
+      ],
+      "author_count": 5,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1257/aer.20240179",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 33.86,
+      "rank": 3,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 80/100（American Economic Review）",
+        "时效 86/100（上线 2 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 2,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-01"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326005311",
+      "doi": "",
+      "title": "Electrifying the factory and beyond: The impact of digital proximity on energy transition",
+      "abstract": "",
+      "publication_date": "2026-12-01",
+      "created_date": "2026-11-01",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Yijia Song",
+        "Qinyi Huang",
+        "Jiaqi Chen",
+        "Xitao Li"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326005311",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 30.0,
+      "rank": 4,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-01"
+    },
+    {
+      "id": "crossref:10.1016/j.reseneeco.2026.101609",
+      "doi": "10.1016/j.reseneeco.2026.101609",
+      "title": "Balancing risk diversification and option values in irreversible environmental investment decisions",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-10-31",
+      "issue_date": "2026-10-01",
+      "journal": "Resource and Energy Economics",
+      "journal_display": "Resource and Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Charles Sims",
+        "Payal Shah",
+        "Amy Ando",
+        "Andrew M. Liebhold"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.reseneeco.2026.101609",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 29.52,
+      "rank": 5,
+      "relevance_raw": 2.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "option"
+      ],
+      "reasons": [
+        "相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 33/100（Resource and Energy Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "option"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-01"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109674",
+      "doi": "10.1016/j.eneco.2026.109674",
+      "title": "(Un)intended consequences of extreme heatwaves for air pollution and its social cost: Evidence from the power sector in China",
+      "abstract": "",
+      "publication_date": "2026-10-31",
+      "created_date": "2026-10-31",
+      "issue_date": "2026-10-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Pin Sun",
+        "Yu’an Wang",
+        "Yang Wang",
+        "Wei Dai",
+        "Qingchen Chao",
+        "Bowei Guo",
+        "Chenpeng Wang"
+      ],
+      "author_count": 7,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109674",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 28.93,
+      "rank": 6,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-01"
+    },
+    {
+      "id": "crossref:10.1016/j.ijforecast.2026.10.006",
+      "doi": "10.1016/j.ijforecast.2026.10.006",
+      "title": "A simple new benchmark for forecasting bond risk premia",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-10-31",
+      "issue_date": "2026-10-01",
+      "journal": "International Journal of Forecasting",
+      "journal_display": "International Journal of Forecasting",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Tobias Hoogteijling",
+        "Martin Martens",
+        "Michel van der Wel"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.ijforecast.2026.10.006",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 28.93,
+      "rank": 7,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 50/100（International Journal of Forecasting）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 50/100（forecasting、risk premia）"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "forecasting",
+          "risk premia"
+        ]
+      },
+      "pushed_date": "2026-11-01"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0306919226001612",
+      "doi": "",
+      "title": "Are consumers interested in low-emission milk? A comparison between low- tech and high-tech solutions",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-11-01",
+      "issue_date": "",
+      "journal": "Food Policy",
+      "journal_display": "Food Policy",
+      "group": "农业商品",
+      "tier": 3,
+      "cited_by_count": 0,
+      "authors": [
+        "L. Arata",
+        "M. Casati",
+        "C. Latka",
+        "T. Pilarova",
+        "S. Ahado",
+        "E. Castellari",
+        "P. Sckokai"
+      ],
+      "author_count": 7,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0306919226001612",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 28.93,
+      "rank": 8,
+      "relevance_raw": 2.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "emission"
+      ],
+      "reasons": [
+        "相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 25/100（Food Policy）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "emission"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-01"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0306919226001752",
+      "doi": "",
+      "title": "Does informatization reduce factor misallocation in grain production?",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-11-01",
+      "issue_date": "",
+      "journal": "Food Policy",
+      "journal_display": "Food Policy",
+      "group": "农业商品",
+      "tier": 3,
+      "cited_by_count": 0,
+      "authors": [
+        "Kunyang Zhang",
+        "Zhaofeng Zheng",
+        "Yan Han",
+        "Laping Wu"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0306919226001752",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 28.93,
+      "rank": 9,
+      "relevance_raw": 2.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "grain"
+      ],
+      "reasons": [
+        "相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 25/100（Food Policy）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "grain"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-01"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0306919226001740",
+      "doi": "",
+      "title": "Evidence-graded front-of-pack disclosure for non-sugar sweeteners: Preventing category confusion in Latin America",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-11-01",
+      "issue_date": "",
+      "journal": "Food Policy",
+      "journal_display": "Food Policy",
+      "group": "农业商品",
+      "tier": 3,
+      "cited_by_count": 0,
+      "authors": [
+        "Rodrigo A. Contreras"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0306919226001740",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 28.93,
+      "rank": 10,
+      "relevance_raw": 2.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "sugar"
+      ],
+      "reasons": [
+        "相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 25/100（Food Policy）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "sugar"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-01"
+    }
+  ]
+}
