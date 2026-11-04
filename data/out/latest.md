@@ -1,55 +1,99 @@
-# 价格研究日报 · 2026-11-03
+# 价格研究日报 · 2026-11-04
 
-> 覆盖 17 本顶刊 ｜ 抓取 300 篇 ｜ 新候选 104 篇 ｜ 本期推送 10 篇 ｜ 生成于 2026-11-03 07:02:47
+> 覆盖 17 本顶刊 ｜ 抓取 311 篇 ｜ 新候选 108 篇 ｜ 本期推送 10 篇 ｜ 生成于 2026-11-04 06:48:23
 
-## 1. Income and food price shocks, urban food security, and dietary deprivation: Evidence from Dakar, Senegal
+## 1. The Cross-section of Subjective Expectations: Understanding Prices and Anomalies
 
-**Food Policy** · 上线 2026-11-02（1 天前） · 期号 2026-12 · T3 · Mamadou Abdoulaye Diallo、Abdoulaye Diagne · 综合分 **61.8** · 强相关
+**Review of Financial Studies** · 上线 2026-10-31（4 天前） · 在线 2026-11-03 · T1 · Ricardo Delao、Xiao Han、Sean Myers · 综合分 **67.0** · 强相关
 
-> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
-
-标签：`price` `food price` `price shock` `price shocks`
-
-**为什么推荐**
-
-- 相关性 86/100（价格词 ×4题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 25/100（Food Policy）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 0/100
-
-[DOI / 原文](https://doi.org/10.1016/j.foodpol.2026.103224)
-
----
-
-## 2. Unintended Consequences of Holding Dollar Assets
-
-**The Journal of Finance** · 上线 2026-11-02（1 天前） · T1 · ROBERT CZECH、SHIYANG HUANG、DONG LOU、TIANYU WANG · 综合分 **47.7** · 中等相关
-
-标签：`yield` `yields` `forward` `hedging` `hedge`
+标签：`price` `prices`
 
 **摘要**
 
-ABSTRACT We propose and examine a novel mechanism whereby holdings of dollar assets by foreign institutions can have a large, unexpected impact on foreign Treasury yields in crisis periods. Non‐U.S. institutions hold substantial dollar assets and hedge dollar exposures by selling dollars forward. In crisis periods, the dollar appreciates against other currencies. To meet margin calls on foreign exchange (FX) hedging positions, traditionally passive institutions liquidate domestic safe assets to raise cash. We show that during the recent COVID crisis, U.K. institutions with substantial dollar holdings and FX hedging positions sold large amounts of gilts, contributing significantly to the observed gilt yield spike.
+Abstract We decompose cross-sectional differences in the level of price-earnings ratios using professional forecasts. High price-earnings ratios are accounted for by both low expected returns and overly high expected earnings growth. The magnitudes and timing of the comovements between prices, earnings growth, and returns are consistent with gradual learning rather than expectations being highly sensitive to recent realizations. Earnings growth surprises do not translate 1-1 into one-period returns but instead are gradually reflected in returns over time. A structural risk-premium model incorporating constant-gain learning about mean earnings growth replicates our findings and generates realistic dispersion and persistence in price-earnings ratios. (JEL G11, G12, G14, G40)
 
 **为什么推荐**
 
-- 相关性 24/100（价格词 ×0题名 / ×2摘要；商品期货词 ×0题名）
-- 期刊权重 83/100（Journal of Finance）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 0/100
+- 相关性 54/100（价格词 ×2题名 / ×2摘要；商品期货词 ×0题名）
+- 期刊权重 83/100（Review of Financial Studies）
+- 时效 71/100（上线 4 天前）
+- 方法匹配 75/100（forecast、structural、risk premium）
 - 有摘要，可快速判断
 
-[DOI / 原文](https://doi.org/10.1111/jofi.70097)
+[DOI / 原文](https://doi.org/10.1093/rfs/hhag095)
 
 ---
 
-## 3. Electricity supply reliability and firm productivity: A dual perspective on spatial reallocation and within-industry differentiation
+## 2. Forward Return Expectations
 
-**Energy Economics** · 上线 2026-11-03（0 天前） · T2 · Peng Liu、Xunpeng Shi、Jian Yu、Guoqin Zhao · 综合分 **38.9** · 中等相关
+**Review of Financial Studies** · 上线 2026-10-31（4 天前） · 在线 2026-11-03 · T1 · Mihir Gandhi、Niels Joachim Gormsen、Eben Lazarus · 综合分 **58.1** · 中等相关
+
+标签：`price` `stock price` `forward` `future` `option` `options`
+
+**摘要**
+
+Abstract We measure investors’ short- and long-term stock-return expectations using both options and survey data. These expectations at different horizons reveal what investors think their own short-term expectations will be in the future, or forward return expectations. Across data sources, investors’ forward return expectations are countercyclical, especially when measured as forward risk premiums. This countercyclical variation is, however, excessive, as changes in forward return expectations are too large relative to subsequent realized short-term expectations. The excess variation in forward return expectations can help account for a meaningful share of the stock-price declines during the global financial crisis and the COVID-19 crisis. (JEL G10, G12, G40)
+
+**为什么推荐**
+
+- 相关性 46/100（价格词 ×0题名 / ×2摘要；商品期货词 ×1题名）
+- 期刊权重 83/100（Review of Financial Studies）
+- 时效 71/100（上线 4 天前）
+- 方法匹配 25/100（risk premium）
+- 有摘要，可快速判断
+
+[DOI / 原文](https://doi.org/10.1093/rfs/hhag096)
+
+---
+
+## 3. EU’s Carbon Border Adjustment Mechanism (CBAM) or a Combination of Pre-CBAM Climate Policies?
+
+**The Energy Journal** · 上线 2026-11-04（0 天前） · 在线 2026-11-03 · T2 · Kevin R. Kaushal、Lars Lindholt、Hidemichi Yonezawa · 综合分 **52.9** · 中等相关
+
+标签：`terms of trade` `carbon` `emission` `emissions` `allowance`
+
+**摘要**
+
+Unilateral CO 2 emission reduction policies can induce carbon leakage. Under the EU Emissions Trading System (ETS), power-intensive and trade-exposed (PITE) industries have been granted free emission allowances, alongside optional CO 2 indirect-cost compensation adopted by selected member states, to mitigate this risk. These measures are being phased out as the EU introduces the Carbon Border Adjustment Mechanism (CBAM), which levies imports of PITE goods based on embedded carbon emissions. This paper examines the welfare effects of CBAM and the pre-CBAM anti-leakage policy mix. Theoretical analysis shows that both policies can improve regional and global welfare under certain conditions. Numerical simulations within an EU ETS context indicates that CBAM generates larger regional welfare gains than the optimal combination of free allowances and CO 2 compensation. However, these gains partly reflect terms-of-trade effects that transfer welfare from non-EU regions. Since such transfers cancel globally, CBAM and pre-CBAM policies generate comparable global welfare outcomes. JEL Classification: D61, Allocative Efficiency; Cost-Benefit Analysis; F18, Trade and Environment; H23, Taxation and Subsidies: Externalities; Redistributive Effects; Environmental Taxes and Subsidies; Q54, Climate; Natural Disasters and Their Management; Global Warming
+
+**为什么推荐**
+
+- 相关性 41/100（价格词 ×0题名 / ×1摘要；商品期货词 ×1题名）
+- 期刊权重 50/100（The Energy Journal）
+- 时效 100/100（上线 0 天前）
+- 方法匹配 25/100（welfare）
+- 有摘要，可快速判断
+
+[DOI / 原文](https://doi.org/10.1177/01956574261498623)
+
+---
+
+## 4. Anthropogenic sulfur emissions play a large role in historical declines and forecasts for sea ice in the Northern Hemisphere
+
+**International Journal of Forecasting** · 上线 2026-11-03（1 天前） · T2 · Robert K. Kaufmann · 综合分 **44.3** · 中等相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
-标签：`electricity`
+标签：`emission` `emissions`
+
+**为什么推荐**
+
+- 相关性 36/100（价格词 ×0题名 / ×0摘要；商品期货词 ×2题名）
+- 期刊权重 50/100（International Journal of Forecasting）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 25/100（forecast）
+
+[DOI / 原文](https://doi.org/10.1016/j.ijforecast.2026.09.012)
+
+---
+
+## 5. Who pays for clean power? Evidence on public support and solar adoption intentions in Mexico
+
+**Energy Economics** · 上线 2026-11-04（0 天前） · T2 · Brandon García、Hector H. Sandoval、Hernán Bejarano、Pedro Hancevic · 综合分 **38.9** · 中等相关
+
+> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
+
+标签：`solar`
 
 **为什么推荐**
 
@@ -58,71 +102,66 @@ ABSTRACT We propose and examine a novel mechanism whereby holdings of dollar ass
 - 时效 100/100（上线 0 天前）
 - 方法匹配 0/100
 
-[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109680)
+[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109673)
 
 ---
 
-## 4. Policy uncertainty shocks and farm investments in Europe: Evidence from a newspaper‐based index
+## 6. Recycling, endowments, and market power in exhaustible resource industries
 
-**American Journal of Agricultural Economics** · 上线 2026-11-02（1 天前） · T2 · Viviana Garcia、Scott M. Swinton、Robert Finger · 综合分 **33.2** · 强相关
-
-标签：`forward` `agricultural`
-
-**摘要**
-
-Abstract In order to quantify the impact of agricultural policy uncertainty on European farmers' investment behavior, we construct a newspaper‐based monthly index of European agricultural policy uncertainty from 2013 to 2023. We use 327,224 newspaper articles to assess and compare the trends in policy uncertainty across five top agricultural producers in Europe, that is, Germany, the United Kingdom, France, Spain and Italy. We connect this index of policy uncertainty to bookkeeping data from 13,706 farms in these five countries over the period 2014–2018 ( N = 68,530) to estimate the relationship between policy uncertainty and investment decisions. We find an increasing trend in agricultural policy uncertainty, with significant peaks around key events such as the COVID‐19 pandemic, the introduction of the European Green Deal and Brexit. Despite the presence of a common policy environment, agricultural policy uncertainty is heterogeneous across countries and captures country‐specific uncertainties such as elections and weather shocks. Anticipated policy uncertainties, such as those arising from Brexit and the European Green Deal, allow farmers to analyze optimal responses and make investment plans, and therefore, if they affect farm investment, they do so smoothly over time (e.g., bringing investment forward). In contrast, unanticipated uncertainties, or policy uncertainty shocks, like those caused by the Russian food import ban of 2014 or the US‐China trade war are negatively correlated to farm investment.
-
-**为什么推荐**
-
-- 相关性 9/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 50/100（American Journal of Agricultural Economics）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 0/100
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.1002/ajae.70104)
-
----
-
-## 5. Political Voice and (Mortgage) Market Participation: Evidence from the dilution of Voting Rights Act
-
-**Journal of Financial Economics** · 上线 2026-11-03（0 天前） · 在线 2026-12-01 · T1 · Seongjin Park、Arkodipta Sarkar、Nishant Vats · 综合分 **31.7** · 强相关
+**Energy Economics** · 上线 2026-11-03（1 天前） · T2 · Weize Lin、Ruwen Tan、Chunxiang Guo · 综合分 **28.9** · 强相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
 **为什么推荐**
 
 - 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 83/100（Journal of Financial Economics）
-- 时效 100/100（上线 0 天前）
+- 期刊权重 75/100（Energy Economics）
+- 时效 93/100（上线 1 天前）
 - 方法匹配 0/100
 
-[原文页面](https://www.sciencedirect.com/science/article/pii/S0304405X26001583)
+[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109677)
 
 ---
 
-## 6. Rare earth element security premiums
+## 7. Farmers’ beliefs about the impacts of a CO2e tax on agriculture and their acceptance of the tax: A randomized survey experiment
 
-**Resource and Energy Economics** · 上线 2026-11-03（0 天前） · 在线 2026-12-01 · T2 · Prabuddha Prakash、Charles Sims · 综合分 **30.6** · 中等相关
+**Food Policy** · 上线 2026-11-03（1 天前） · 期号 2026-12 · T3 · Kahsay Haile Zemo、Mette Termansen · 综合分 **27.9** · 中等相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
-标签：`rare earth`
+标签：`agriculture`
 
 **为什么推荐**
 
 - 相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）
-- 期刊权重 33/100（Resource and Energy Economics）
-- 时效 100/100（上线 0 天前）
+- 期刊权重 25/100（Food Policy）
+- 时效 93/100（上线 1 天前）
 - 方法匹配 0/100
 
-[原文页面](https://www.sciencedirect.com/science/article/pii/S0928765526000540)
+[DOI / 原文](https://doi.org/10.1016/j.foodpol.2026.103214)
 
 ---
 
-## 7. Bayesian forecasting of zero-inflated time-series of counts
+## 8. Confidence-scaled margin adaptation boosting for interpretable financial distress prediction
 
-**International Journal of Forecasting** · 上线 2026-11-03（0 天前） · T2 · Tevfik Aktekin、Refik Soyer、Di Zhang · 综合分 **27.5** · 强相关
+**International Journal of Forecasting** · 上线 2026-11-04（0 天前） · T2 · Wanan Liu、Xingyu Lan、Meng Xia、Yao Zou 等 6 人 · 综合分 **27.5** · 强相关
+
+> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
+
+**为什么推荐**
+
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 50/100（International Journal of Forecasting）
+- 时效 100/100（上线 0 天前）
+- 方法匹配 25/100（prediction）
+
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0169207026000130)
+
+---
+
+## 9. Core Concepts and Methods in Load Forecasting, Stephen Haben, Marcus Voss, William Holderbaum. (2023), https://link.springer.com/book/10.1007/978-3-031-27852-5
+
+**International Journal of Forecasting** · 上线 2026-11-04（0 天前） · T2 · Tao Hong · 综合分 **27.5** · 强相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
@@ -133,13 +172,13 @@ Abstract In order to quantify the impact of agricultural policy uncertainty on E
 - 时效 100/100（上线 0 天前）
 - 方法匹配 25/100（forecasting）
 
-[原文页面](https://www.sciencedirect.com/science/article/pii/S0169207025001220)
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0169207025001062)
 
 ---
 
-## 8. Beyond forecast leaderboards: Measuring individual model importance based on contribution to ensemble accuracy
+## 10. Enforcing tail calibration when training probabilistic forecast models
 
-**International Journal of Forecasting** · 上线 2026-11-03（0 天前） · T2 · Minsu Kim、Evan L. Ray、Nicholas G. Reich · 综合分 **27.5** · 强相关
+**International Journal of Forecasting** · 上线 2026-11-04（0 天前） · T2 · Jakob Benjamin Wessel、Maybritt Schillinger、Frank Kwasniok、Sam Allen · 综合分 **27.5** · 强相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
@@ -150,41 +189,7 @@ Abstract In order to quantify the impact of agricultural policy uncertainty on E
 - 时效 100/100（上线 0 天前）
 - 方法匹配 25/100（forecast）
 
-[原文页面](https://www.sciencedirect.com/science/article/pii/S016920702500127X)
-
----
-
-## 9. Beyond news headlines and TF-IDF: Enhancing text-based forecasting models with validated collocations and improved attention
-
-**International Journal of Forecasting** · 上线 2026-11-03（0 天前） · T2 · Gabriel Appau Abeyie · 综合分 **27.5** · 强相关
-
-> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 50/100（International Journal of Forecasting）
-- 时效 100/100（上线 0 天前）
-- 方法匹配 25/100（forecasting）
-
-[原文页面](https://www.sciencedirect.com/science/article/pii/S016920702500086X)
-
----
-
-## 10. Causal discovery in multivariate time series through mutual information featurization
-
-**International Journal of Forecasting** · 上线 2026-11-03（0 天前） · T2 · Gian Marco Paldino、Gianluca Bontempi · 综合分 **27.5** · 强相关
-
-> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 50/100（International Journal of Forecasting）
-- 时效 100/100（上线 0 天前）
-- 方法匹配 25/100（causal）
-
-[原文页面](https://www.sciencedirect.com/science/article/pii/S0169207026000506)
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0169207026000464)
 
 ---
 
@@ -192,22 +197,22 @@ Abstract In order to quantify the impact of agricultural policy uncertainty on E
 
 | 期刊 | 方向 | 窗口内新文 | 本期入选 |
 | --- | --- | --- | --- |
-| Energy Economics | 能源资源 | 65 | 1 |
-| International Journal of Forecasting | 计量预测 | 58 | 4 |
-| Food Policy | 农业商品 | 35 | 1 |
-| Journal of Financial Economics | 金融经济 | 28 | 1 |
-| Journal of Econometrics | 计量预测 | 25 | 0 |
+| Energy Economics | 能源资源 | 67 | 2 |
+| International Journal of Forecasting | 计量预测 | 60 | 4 |
+| Food Policy | 农业商品 | 37 | 1 |
+| Journal of Financial Economics | 金融经济 | 28 | 0 |
+| Journal of Econometrics | 计量预测 | 27 | 0 |
+| Journal of Environmental Economics and Management | 能源资源 | 19 | 0 |
 | Management Science | 金融经济 | 18 | 0 |
-| Journal of Environmental Economics and Management | 能源资源 | 18 | 0 |
-| Resource and Energy Economics | 能源资源 | 12 | 1 |
+| Resource and Energy Economics | 能源资源 | 12 | 0 |
 | American Economic Review | 金融经济 | 11 | 0 |
 | Journal of Commodity Markets | 农业商品 | 10 | 0 |
-| Journal of Forecasting | 计量预测 | 6 | 0 |
-| The Journal of Finance | 金融经济 | 4 | 1 |
-| Review of Financial Studies | 金融经济 | 4 | 0 |
-| The Quarterly Journal of Economics | 金融经济 | 3 | 0 |
-| American Journal of Agricultural Economics | 农业商品 | 2 | 1 |
-| The Energy Journal | 能源资源 | 1 | 0 |
+| Journal of Forecasting | 计量预测 | 8 | 0 |
+| Review of Financial Studies | 金融经济 | 5 | 2 |
+| The Journal of Finance | 金融经济 | 4 | 0 |
+| The Energy Journal | 能源资源 | 2 | 1 |
+| American Journal of Agricultural Economics | 农业商品 | 2 | 0 |
+| The Quarterly Journal of Economics | 金融经济 | 1 | 0 |
 | Econometrica | 金融经济 | 0 | 0 |
 
-数据源：OpenAlex（主）+ Crossref（兜底）。抓取时间 2026-11-03 07:02:47。
+数据源：OpenAlex（主）+ Crossref（兜底）。抓取时间 2026-11-04 06:48:23。
