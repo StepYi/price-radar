@@ -6,7 +6,87 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日顶刊价格研究文献精选（大宗商品 / 期货 / 能源 / 农产品价格）</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 04 Nov 2026 06:48:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:07:16 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Time‐Varying Structural Approximate Dynamic Factor Model]]></title>
+      <link>https://doi.org/10.1002/for.70236</link>
+      <guid isPermaLink="false">crossref:10.1002/for.70236</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Forecasting]]></category>
+      <description><![CDATA[<p><strong>Journal of Forecasting</strong> ｜ 综合分 32.5 ｜ 上线 2026-11-05（0 天前） · 在线 2026-11-04</p><p>ABSTRACT This study proposes a time‐varying structural approximate dynamic factor (TVS‐ADF) model by extending the approximate dynamic factor (ADF) model in state‐space form. The TVS‐ADF model considers time‐varying coefficients and a time‐varying variance–covariance matrix of its innovation terms to capture complex economic dynamics. We propose the identification scheme of the common factors in the TVS‐ADF model and derive the identification theory. We also propose an effective Markov chain Monte Carlo (MCMC) algorithm to estimate the TVS‐ADF model. To avoid the overparameterization caused by the time‐varying characteristics of the TVS‐ADF model, we include the shrinkage and sparsification approaches in the MCMC algorithm. Extensive simulation experiments and empirical applications demonstrate the outstanding performance of the TVS‐ADF model.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Shadow banks on the rise: Evidence across market segments]]></title>
+      <link>https://doi.org/10.1016/j.jfineco.2026.104398</link>
+      <guid isPermaLink="false">crossref:10.1016/j.jfineco.2026.104398</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Financial Economics]]></category>
+      <description><![CDATA[<p><strong>Journal of Financial Economics</strong> ｜ 综合分 31.7 ｜ 上线 2026-11-05（0 天前） · 期号 2026-12</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Asymmetric impacts of clean energy investment and Fintech on land degradation: Kernel quantile evidence from Pakistan]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0140988326005396</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326005396</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-11-05（0 天前） · 在线 2026-12-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Enhancing market return forecasts with an incident-based ESG indicator]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0169207025001219</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207025001219</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[International Journal of Forecasting]]></category>
+      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 27.5 ｜ 上线 2026-11-05（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Enhancing mortality forecasting with ensemble learning: A shapley-based approach]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0169207026000324</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207026000324</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[International Journal of Forecasting]]></category>
+      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 27.5 ｜ 上线 2026-11-05（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Is Informed Short Selling Concentrated in Family Firms? Evidence from a Reinvestigation]]></title>
+      <link>https://doi.org/10.1111/jofi.70098</link>
+      <guid isPermaLink="false">crossref:10.1111/jofi.70098</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Finance]]></category>
+      <description><![CDATA[<p><strong>The Journal of Finance</strong> ｜ 综合分 40.2 ｜ 上线 2026-11-04（1 天前）</p><p>ABSTRACT We reinvestigate Anderson, Reeb, and Zhao&#x27;s findings that informed short selling is unique to family firms and driven by information leakage from internal disputes. Using the same firm sample and more comprehensive short‐selling data, we find that short selling predicts future returns in both family and nonfamily firms. We also find no significant difference in abnormal short selling before negative earnings announcements. In extended sample periods, short selling continues to predict returns for nonfamily firms under both ownership‐based and familial‐link definitions. Overall, our evidence suggests that short sellers are broadly informed and that family firms are not uniquely vulnerable.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[The effect of extreme wildfire exposure on energy poverty: Evidence from Australia's Black Saturday bushfires]]></title>
+      <link>https://doi.org/10.1002/ajae.70106</link>
+      <guid isPermaLink="false">crossref:10.1002/ajae.70106</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[American Journal of Agricultural Economics]]></category>
+      <description><![CDATA[<p><strong>American Journal of Agricultural Economics</strong> ｜ 综合分 36.4 ｜ 上线 2026-11-04（1 天前）</p><p>Abstract This study assesses the effects of the 2009 Black Saturday Bushfires (BSB), which primarily occurred in rural regions of Victoria and represent the deadliest bushfire event in Australia&#x27;s history, on household energy poverty. Using a linear panel event‐study, an entropy‐balanced event‐study, and a staggered difference‐in‐differences (DiD) design, applied to matched longitudinal household and geographical data, our results suggest a significant increase in the likelihood of experiencing energy poverty among households residing within 15 km of wildfire areas. Specifically, we find that for households directly affected by the fires, the likelihood of being in energy poverty increases by 9.9–11.3 percentage points in 2010 and by 13.2–16.7 percentage points in 2011 across specifications, compared to 2005–2007, which is the reference period. We find that the data are statistically consistent with life satisfaction, perceived safety and quality of life fully mediating the effect of BSB exposure on energy poverty in 2010, and with perceived safety fully mediating the relationship in 2011. We also find that adopting longer‐term financial planning mitigated the adverse effects of BSB exposure on energy poverty.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Are dairy cows replaced too early? Evidence from a structural model and cow‐level data]]></title>
+      <link>https://doi.org/10.1002/ajae.70103</link>
+      <guid isPermaLink="false">crossref:10.1002/ajae.70103</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[American Journal of Agricultural Economics]]></category>
+      <description><![CDATA[<p><strong>American Journal of Agricultural Economics</strong> ｜ 综合分 33.6 ｜ 上线 2026-11-04（1 天前）</p><p>Abstract In past analyses of animal replacement decisions, studies have claimed that dairy farms often replace dairy cows too early to be maximizing profits. I estimate a structural model of asset replacement to determine the motives behind early replacement of dairy cows. I specifically test whether the costs from premature removal, an event where cows are removed off‐schedule due to health problems, explain replacement ages on dairy farms that are considered by previous studies to be unprofitable. Using data from over 1000 Wisconsin dairy farms, I find that a cow prematurely leaving the herd costs $2300 per removal, totaling $75 million in lost profit over the sample period. This cost is larger than what has been previously assumed, especially for dairies with less than 200 cows, suggesting that replacement rates appear unprofitable because previous analyses underestimated these costs. Dairy farms may benefit from prioritizing cow longevity and health over productivity to both cut costs and address environmental externalities from dairy. These results highlight the economic damages from poor cattle health on US dairy farms and the extent to which there may be cost savings from increasing cattle resilience to conditions that cause unexpected removal.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[China Walls]]></title>
+      <link>https://doi.org/10.1016/j.jfineco.2026.104403</link>
+      <guid isPermaLink="false">crossref:10.1016/j.jfineco.2026.104403</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Financial Economics]]></category>
+      <description><![CDATA[<p><strong>Journal of Financial Economics</strong> ｜ 综合分 30.6 ｜ 上线 2026-11-04（1 天前） · 期号 2026-12</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Global demographic change and climate policies]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109676</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109676</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 28.9 ｜ 上线 2026-11-04（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
     <item>
       <title><![CDATA[EU’s Carbon Border Adjustment Mechanism (CBAM) or a Combination of Pre-CBAM Climate Policies?]]></title>
       <link>https://doi.org/10.1177/01956574261498623</link>
@@ -1512,92 +1592,12 @@
       <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 35.1 ｜ 上线 2026-10-16（2 天前）</p><p>Recent evidence, both in the laboratory and in the wild, suggests that the use of generative artificial intelligence reduces the diversity of content produced. As generative AI penetrates more markets and reaches widespread adoption, should we still expect to see content homogenization? Our work begins with a simple observation: content producers do not act in isolation. Instead, they compete with one another (e.g., for customers or attention). We explore the impact competition has on both content diversity and overall social welfare when producers use generative AI. Through a formal game-theoretic model, we show that competitive markets select for diverse AI models, mitigating monoculture. We further show that a generative AI model that performs well in isolation (i.e., according to a benchmark) may fail to provide value in a competitive market. Our results highlight the importance of evaluating generative AI models across the breadth of their output distributions, particularly when they will be deployed in competitive environments. We validate our theoretical results with a series of experiments involving generative text and image models. Overall, our results suggest that homogenization due to generative AI is unlikely to persist under strong competition. This paper was accepted by Itai Ashlagi, market design, platform, and demand analytics. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.02761 .</p><p><a href="https://arxiv.org/pdf/2412.08610">开放获取全文</a></p>]]></description>
     </item>
     <item>
-      <title><![CDATA[Information framing and the impact of nutrition label serving size change]]></title>
-      <link>https://doi.org/10.1002/ajae.70100</link>
-      <guid isPermaLink="false">crossref:10.1002/ajae.70100</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[American Journal of Agricultural Economics]]></category>
-      <description><![CDATA[<p><strong>American Journal of Agricultural Economics</strong> ｜ 综合分 45.7 ｜ 上线 2026-10-16（0 天前） · 在线 2026-10-15</p><p>Abstract The framing of information can significantly influence how consumers interpret and respond to it. This paper investigates how the change in serving sizes in Nutrition Facts Panel (NFP) affects consumer choices for carbonated soft drinks (CSD). We first estimate a reduced form difference‐in‐differences (DiD) model to document causal effects on purchasing behavior. We then develop and estimate an equilibrium structural model of both consumer demand and firms&#x27; pricing and nutritional choices. Our results show that larger labeled serving sizes significantly reduced demand for regular CSDs, leading to a decline in the average amount of nutrients sold. Counterfactual simulations indicate that larger serving size adjustments (e.g., 16 oz, 24 oz, or whole bottle) would amplify these effects, while firms would partially offset demand losses through subtle calorie, sodium, and caffeine reductions. These findings suggest that strategic serving size adjustments and product reformulations from food manufacturers may support healthier consumer choices. Our welfare analysis shows that sufficiently aggressive serving size adjustments can dominate soda tax at low to moderate values of the marginal value of public funds, delivering comparable reductions in nutrient purchases without the regressive price burden that excise taxes impose on lower‐income consumers.</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Modeling and forecasting intraday spot volatility]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0169207025001189</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207025001189</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[International Journal of Forecasting]]></category>
-      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 41.4 ｜ 上线 2026-10-16（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[A New Keynesian model of the term structures of equity and bond returns]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0304405X26001224</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0304405X26001224</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Journal of Financial Economics]]></category>
-      <description><![CDATA[<p><strong>Journal of Financial Economics</strong> ｜ 综合分 40.6 ｜ 上线 2026-10-16（0 天前） · 在线 2026-10-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Climate policy uncertainty and U.S. stock returns of carbon-intensive industries]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S2405851326000528</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S2405851326000528</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Journal of Commodity Markets]]></category>
-      <description><![CDATA[<p><strong>Journal of Commodity Markets</strong> ｜ 综合分 38.9 ｜ 上线 2026-10-16（0 天前） · 在线 2026-12-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Designing renewable energy auctions for high realization probability — CfD and payment-only auctions]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0140988326004640</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326004640</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 38.9 ｜ 上线 2026-10-16（0 天前） · 在线 2026-10-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Does the Low-Carbon City Pilot policy promote green innovation collaboration? Evidence from knowledge embeddedness and complexity]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0140988326005037</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326005037</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 38.9 ｜ 上线 2026-10-16（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
       <title><![CDATA[Analyzing the dynamic connectedness and quantile dependence between carbon and fossil energy markets]]></title>
       <link>https://doi.org/10.1016/j.jcomm.2026.100593</link>
       <guid isPermaLink="false">crossref:10.1016/j.jcomm.2026.100593</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[Journal of Commodity Markets]]></category>
       <description><![CDATA[<p><strong>Journal of Commodity Markets</strong> ｜ 综合分 36.8 ｜ 上线 2026-10-15（2 天前） · 在线 2026-10-14</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Critical peak pricing or rebate? An impact analysis in a cold climate market]]></title>
-      <link>https://doi.org/10.1016/j.eneco.2026.109644</link>
-      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109644</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 39.6 ｜ 上线 2026-10-15（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Externalities of Responsible Investments]]></title>
-      <link>https://doi.org/10.1111/jofi.70082</link>
-      <guid isPermaLink="false">crossref:10.1111/jofi.70082</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Journal of Finance]]></category>
-      <description><![CDATA[<p><strong>The Journal of Finance</strong> ｜ 综合分 39.9 ｜ 上线 2026-10-14（2 天前）</p><p>ABSTRACT We develop a model to study the efficiency of socially responsible investing (SRI) as a mechanism to control firms&#x27; externalities. When SRI is not too popular, responsible investors favor strategies that lead to a concentration of SRI in a subset of firms in the economy. This concentration can mitigate coordination issues in adopting green technologies, but it can also crowd out the green investments of excluded firms and increase the price of green products. In equilibrium, responsible investors continue to favor concentration even as SRI becomes more popular, and concentrate the most when concentration is least desirable.</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[AI-Driven Human Task Substitution: Evidence from Google Translate and ChatGPT]]></title>
-      <link>https://doi.org/10.1287/mnsc.2024.06740</link>
-      <guid isPermaLink="false">crossref:10.1287/mnsc.2024.06740</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Management Science]]></category>
-      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 39.4 ｜ 上线 2026-10-14（2 天前）</p><p>We examine how different generations of artificial intelligence (AI) substitute for human knowledge worker tasks, leveraging two sequential natural experiments in the translation industry. We study the introduction of Google Neural Machine Translation (GNMT), a predictive, task-specific AI, as well as ChatGPT, a broad, general-purpose generative AI, in a major online labor market. Distinguishing between analytical tasks (regular translations) and intuitive tasks (transcreations, which require creative and cultural adaptation), we estimate difference-in-differences models on transaction-level data from 2016 to 2017 and 2022 to 2023. We find that GNMT reduced the demand for analytical tasks by economically meaningful magnitudes, while having no detectable effect on intuitive tasks. By contrast, ChatGPT produced substantially larger and more uniform reductions for both analytical and intuitive tasks, indicating a marked expansion in the scope and magnitude of AI substitution. By comparing these two technological shocks within the same labor market, we show that conclusions about which types of human work are resilient to automation do not straightforwardly generalize from predictive to generative AI. This paper was accepted by Joshua Gans, business strategy. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06740 .</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Risk premia in the UK electricity market under policy uncertainty and market fragmentation]]></title>
-      <link>https://doi.org/10.1016/j.eneco.2026.109649</link>
-      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109649</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 39.3 ｜ 上线 2026-10-14（2 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
     </item>
     <item>
       <title><![CDATA[Editor’s Introduction: Bridging Research and Practice: Policy Insights for the Evolving Electricity Sector]]></title>

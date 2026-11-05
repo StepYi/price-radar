@@ -1,0 +1,652 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05 07:07:16",
+  "stats": {
+    "journals": 17,
+    "fetched": 322,
+    "candidates": 110,
+    "pushed": 10,
+    "digest_size": 10,
+    "per_journal": {
+      "Journal of Finance": {
+        "display": "The Journal of Finance",
+        "group": "金融经济",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 5,
+        "error": ""
+      },
+      "Journal of Financial Economics": {
+        "display": "Journal of Financial Economics",
+        "group": "金融经济",
+        "publisher": "Elsevier",
+        "fetched": 30,
+        "error": ""
+      },
+      "Review of Financial Studies": {
+        "display": "Review of Financial Studies",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 5,
+        "error": ""
+      },
+      "American Economic Review": {
+        "display": "American Economic Review",
+        "group": "金融经济",
+        "publisher": "American Economic Association",
+        "fetched": 11,
+        "error": ""
+      },
+      "Quarterly Journal of Economics": {
+        "display": "The Quarterly Journal of Economics",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 1,
+        "error": ""
+      },
+      "Econometrica": {
+        "display": "Econometrica",
+        "group": "金融经济",
+        "publisher": "The Econometric Society",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Management Science": {
+        "display": "Management Science",
+        "group": "金融经济",
+        "publisher": "Institute for Operations Research and the Management Sciences",
+        "fetched": 17,
+        "error": ""
+      },
+      "Energy Economics": {
+        "display": "Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 68,
+        "error": ""
+      },
+      "The Energy Journal": {
+        "display": "The Energy Journal",
+        "group": "能源资源",
+        "publisher": "SAGE Publications",
+        "fetched": 2,
+        "error": ""
+      },
+      "Journal of Environmental Economics and Management": {
+        "display": "Journal of Environmental Economics and Management",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 20,
+        "error": ""
+      },
+      "Resource and Energy Economics": {
+        "display": "Resource and Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 12,
+        "error": ""
+      },
+      "American Journal of Agricultural Economics": {
+        "display": "American Journal of Agricultural Economics",
+        "group": "农业商品",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 4,
+        "error": ""
+      },
+      "Journal of Commodity Markets": {
+        "display": "Journal of Commodity Markets",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 10,
+        "error": ""
+      },
+      "Food Policy": {
+        "display": "Food Policy",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 39,
+        "error": ""
+      },
+      "Journal of Econometrics": {
+        "display": "Journal of Econometrics",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 28,
+        "error": ""
+      },
+      "International Journal of Forecasting": {
+        "display": "International Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 61,
+        "error": ""
+      },
+      "Journal of Forecasting": {
+        "display": "Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Wiley (John Wiley & Sons)",
+        "fetched": 9,
+        "error": ""
+      }
+    },
+    "selection_notes": {
+      "strict_pool": 0,
+      "cap_relaxed": false,
+      "relaxed": false,
+      "filled": true,
+      "relaxed_pool": 0
+    },
+    "abstract_coverage": 0.073,
+    "enrich": {
+      "s2_filled": 0,
+      "openalex_filled": 0,
+      "openalex_note": "请求失败（HTTP 400 :: https://api.openalex.org/works?filter=doi%3A10.1016%2Fj.jfineco.2026.104398%7C10.1016%2Fj.jfineco.2026.104403%7C10.1016%2Fj.jfineco.2026.104392%7C10.1093%2Frfs%2Fhhag066%7C10.1257%2Faer.116.11.i%7C10.1016%2Fj.eneco.2026.109676%7C10.1016%2Fj.eneco.2026.109660%7C10.1016%2Fj.eneco.2026.109675%7C10.1016%2Fj.eneco.2026.109667%7C10.1016%2Fj.jeem.2026.103436%7C10.1016%2Fj.jeem.2026.103438%7C10.1016%2Fj.jeem.2026.103439%7C10.1016%2Fj.jeem.2026.103437%7C10.1016%2Fj.reseneeco.2026.101608%7C10.1016%2Fj.foodpol.2026.103209%7C10.1016%2Fj.foodpol.2026.103225%7C10.1016%2Fj.foodpol.2026.103227%7C10.1016%2Fj.foodpol.2026.103226%7C10.1016%2Fj.foodpol.2026.103185%7C10.1016%2Fj.foodpol.2026.103212%7C10.1016%2Fj.foodpol.2026.103218%7C10.1016%2Fj.jeconom.2026.106350%7C10.1016%2Fj.jeconom.2026.106324%7C10.1016%2Fj.jeconom.2026.106352%7C10.1016%2Fj.jeconom.2026.106351%7C10.1016%2Fj.ijforecast.2026.10.005%7C10.1016%2Fj.ijforecast.2026.09.004%7C10.1016%2Fj.ijforecast.2026.09.006%7C10.1016%2Fj.ijforecast.2026.10.001%7C10.1016%2Fj.ijforecast.2026.09.010%7C10.1002%2Ffor.v45.8%7C10.1002%2Ffor.70240&per-page=32&select=doi%2Cabstract_inverted_index%2Ccited_by_count%2Cis_oa%2Cbest_oa_location&mailto=2485892471%40qq.com :: {\"error\":\"Invalid query parameters error.\",\"message\":\"is_oa is not a valid select field. Valid fields for select are: id, doi, title, display_name, relevance_score, rerank_score, publication_year, pub）"
+    }
+  },
+  "items": [
+    {
+      "id": "crossref:10.1111/jofi.70098",
+      "doi": "10.1111/jofi.70098",
+      "title": "Is Informed Short Selling Concentrated in Family Firms? Evidence from a Reinvestigation",
+      "abstract": "ABSTRACT We reinvestigate Anderson, Reeb, and Zhao's findings that informed short selling is unique to family firms and driven by information leakage from internal disputes. Using the same firm sample and more comprehensive short‐selling data, we find that short selling predicts future returns in both family and nonfamily firms. We also find no significant difference in abnormal short selling before negative earnings announcements. In extended sample periods, short selling continues to predict returns for nonfamily firms under both ownership‐based and familial‐link definitions. Overall, our evidence suggests that short sellers are broadly informed and that family firms are not uniquely vulnerable.",
+      "publication_date": "2026-11-04",
+      "created_date": "2026-11-04",
+      "issue_date": "2026-11-04",
+      "journal": "Journal of Finance",
+      "journal_display": "The Journal of Finance",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "FERHAT AKBAS",
+        "MINJIE HUANG",
+        "FELIX MESCHKE"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1111/jofi.70098",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 40.24,
+      "rank": 1,
+      "relevance_raw": 0.6,
+      "relevance_level": "strong",
+      "keywords": [
+        "future"
+      ],
+      "reasons": [
+        "相关性 4/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 83/100（Journal of Finance）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（predict）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [
+          "future"
+        ],
+        "method": [
+          "predict"
+        ]
+      },
+      "pushed_date": "2026-11-05"
+    },
+    {
+      "id": "crossref:10.1002/ajae.70106",
+      "doi": "10.1002/ajae.70106",
+      "title": "The effect of extreme wildfire exposure on energy poverty: Evidence from Australia's Black Saturday bushfires",
+      "abstract": "Abstract This study assesses the effects of the 2009 Black Saturday Bushfires (BSB), which primarily occurred in rural regions of Victoria and represent the deadliest bushfire event in Australia's history, on household energy poverty. Using a linear panel event‐study, an entropy‐balanced event‐study, and a staggered difference‐in‐differences (DiD) design, applied to matched longitudinal household and geographical data, our results suggest a significant increase in the likelihood of experiencing energy poverty among households residing within 15 km of wildfire areas. Specifically, we find that for households directly affected by the fires, the likelihood of being in energy poverty increases by 9.9–11.3 percentage points in 2010 and by 13.2–16.7 percentage points in 2011 across specifications, compared to 2005–2007, which is the reference period. We find that the data are statistically consistent with life satisfaction, perceived safety and quality of life fully mediating the effect of BSB exposure on energy poverty in 2010, and with perceived safety fully mediating the relationship in 2011. We also find that adopting longer‐term financial planning mitigated the adverse effects of BSB exposure on energy poverty.",
+      "publication_date": "2026-11-04",
+      "created_date": "2026-11-04",
+      "issue_date": "2026-11-04",
+      "journal": "American Journal of Agricultural Economics",
+      "journal_display": "American Journal of Agricultural Economics",
+      "group": "农业商品",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Yitian Wang",
+        "Russell Smyth"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1002/ajae.70106",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 36.43,
+      "rank": 2,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 50/100（American Journal of Agricultural Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 75/100（event study、difference in differences、panel）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "event study",
+          "difference in differences",
+          "panel"
+        ]
+      },
+      "pushed_date": "2026-11-05"
+    },
+    {
+      "id": "crossref:10.1002/ajae.70103",
+      "doi": "10.1002/ajae.70103",
+      "title": "Are dairy cows replaced too early? Evidence from a structural model and cow‐level data",
+      "abstract": "Abstract In past analyses of animal replacement decisions, studies have claimed that dairy farms often replace dairy cows too early to be maximizing profits. I estimate a structural model of asset replacement to determine the motives behind early replacement of dairy cows. I specifically test whether the costs from premature removal, an event where cows are removed off‐schedule due to health problems, explain replacement ages on dairy farms that are considered by previous studies to be unprofitable. Using data from over 1000 Wisconsin dairy farms, I find that a cow prematurely leaving the herd costs $2300 per removal, totaling $75 million in lost profit over the sample period. This cost is larger than what has been previously assumed, especially for dairies with less than 200 cows, suggesting that replacement rates appear unprofitable because previous analyses underestimated these costs. Dairy farms may benefit from prioritizing cow longevity and health over productivity to both cut costs and address environmental externalities from dairy. These results highlight the economic damages from poor cattle health on US dairy farms and the extent to which there may be cost savings from increasing cattle resilience to conditions that cause unexpected removal.",
+      "publication_date": "2026-11-04",
+      "created_date": "2026-11-04",
+      "issue_date": "2026-11-04",
+      "journal": "American Journal of Agricultural Economics",
+      "journal_display": "American Journal of Agricultural Economics",
+      "group": "农业商品",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Jared P. Hutchins"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1002/ajae.70103",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 33.57,
+      "rank": 3,
+      "relevance_raw": 0.6,
+      "relevance_level": "strong",
+      "keywords": [
+        "cattle"
+      ],
+      "reasons": [
+        "相关性 4/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 50/100（American Journal of Agricultural Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（structural）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [
+          "cattle"
+        ],
+        "method": [
+          "structural"
+        ]
+      },
+      "pushed_date": "2026-11-05"
+    },
+    {
+      "id": "crossref:10.1002/for.70236",
+      "doi": "10.1002/for.70236",
+      "title": "Time‐Varying Structural Approximate Dynamic Factor Model",
+      "abstract": "ABSTRACT This study proposes a time‐varying structural approximate dynamic factor (TVS‐ADF) model by extending the approximate dynamic factor (ADF) model in state‐space form. The TVS‐ADF model considers time‐varying coefficients and a time‐varying variance–covariance matrix of its innovation terms to capture complex economic dynamics. We propose the identification scheme of the common factors in the TVS‐ADF model and derive the identification theory. We also propose an effective Markov chain Monte Carlo (MCMC) algorithm to estimate the TVS‐ADF model. To avoid the overparameterization caused by the time‐varying characteristics of the TVS‐ADF model, we include the shrinkage and sparsification approaches in the MCMC algorithm. Extensive simulation experiments and empirical applications demonstrate the outstanding performance of the TVS‐ADF model.",
+      "publication_date": "2026-11-04",
+      "created_date": "2026-11-05",
+      "issue_date": "2026-11-04",
+      "journal": "Journal of Forecasting",
+      "journal_display": "Journal of Forecasting",
+      "group": "计量预测",
+      "tier": 3,
+      "cited_by_count": 0,
+      "authors": [
+        "Ziyan Zhao",
+        "Qingfeng Liu"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1002/for.70236",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 32.5,
+      "rank": 4,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 25/100（Journal of Forecasting）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 75/100（state space、structural、identification）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "state space",
+          "structural",
+          "identification"
+        ]
+      },
+      "pushed_date": "2026-11-05"
+    },
+    {
+      "id": "crossref:10.1016/j.jfineco.2026.104398",
+      "doi": "10.1016/j.jfineco.2026.104398",
+      "title": "Shadow banks on the rise: Evidence across market segments",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-05",
+      "issue_date": "2026-12-01",
+      "journal": "Journal of Financial Economics",
+      "journal_display": "Journal of Financial Economics",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Kim Fe Cramer",
+        "Pulak Ghosh",
+        "Nirupama Kulkarni",
+        "Nishant Vats"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.jfineco.2026.104398",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 31.67,
+      "rank": 5,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 83/100（Journal of Financial Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-05"
+    },
+    {
+      "id": "crossref:10.1016/j.jfineco.2026.104403",
+      "doi": "10.1016/j.jfineco.2026.104403",
+      "title": "China Walls",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-04",
+      "issue_date": "2026-12-01",
+      "journal": "Journal of Financial Economics",
+      "journal_display": "Journal of Financial Economics",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Tomy Lee",
+        "Daniel Nathan",
+        "Chaojun Wang"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.jfineco.2026.104403",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 30.6,
+      "rank": 6,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 83/100（Journal of Financial Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-05"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326005396",
+      "doi": "",
+      "title": "Asymmetric impacts of clean energy investment and Fintech on land degradation: Kernel quantile evidence from Pakistan",
+      "abstract": "",
+      "publication_date": "2026-12-01",
+      "created_date": "2026-11-05",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Sami Ullah",
+        "Zuopeng Justin Zhang",
+        "Runqing Zhu"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326005396",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 30.0,
+      "rank": 7,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-05"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109676",
+      "doi": "10.1016/j.eneco.2026.109676",
+      "title": "Global demographic change and climate policies",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-04",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Reyer Gerlagh",
+        "Richard Jaimes",
+        "Ali Motavasseli"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109676",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 28.93,
+      "rank": 8,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-05"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0169207025001219",
+      "doi": "",
+      "title": "Enhancing market return forecasts with an incident-based ESG indicator",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-05",
+      "issue_date": "",
+      "journal": "International Journal of Forecasting",
+      "journal_display": "International Journal of Forecasting",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Zhiyong Li",
+        "Weiping Qin"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0169207025001219",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 27.5,
+      "rank": 9,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 50/100（International Journal of Forecasting）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（forecast）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "forecast"
+        ]
+      },
+      "pushed_date": "2026-11-05"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0169207026000324",
+      "doi": "",
+      "title": "Enhancing mortality forecasting with ensemble learning: A shapley-based approach",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-05",
+      "issue_date": "",
+      "journal": "International Journal of Forecasting",
+      "journal_display": "International Journal of Forecasting",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Giovanna Bimonte",
+        "Maria Russolillo",
+        "Yang Yang",
+        "Han Lin Shang"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0169207026000324",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 27.5,
+      "rank": 10,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 50/100（International Journal of Forecasting）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（forecasting）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "forecasting"
+        ]
+      },
+      "pushed_date": "2026-11-05"
+    }
+  ]
+}
