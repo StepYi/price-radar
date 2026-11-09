@@ -1,30 +1,53 @@
-# 价格研究日报 · 2026-11-08
+# 价格研究日报 · 2026-11-09
 
-> 覆盖 17 本顶刊 ｜ 抓取 324 篇 ｜ 新候选 91 篇 ｜ 本期推送 10 篇 ｜ 生成于 2026-11-08 06:26:14
+> 覆盖 17 本顶刊 ｜ 抓取 325 篇 ｜ 新候选 82 篇 ｜ 本期推送 10 篇 ｜ 生成于 2026-11-09 06:57:31
 
-## 1. Restoring Predictability: A Variance Risk Premium Modified for Overnight Returns
+## 1. Resource‐driven agricultural clusters: Coagglomeration effects of the High Plains Aquifer
 
-**Journal of Forecasting** · 上线 2026-11-07（1 天前） · 在线 2026-11-06 · T3 · Zhenxiong Li、Xingzhi Yao、Marwan Izzeldin · 综合分 **33.9** · 强相关
+**American Journal of Agricultural Economics** · 上线 2026-11-09（0 天前） · 在线 2026-11-08 · T2 · Kihwan Yu、Nathan P. Hendricks · 综合分 **43.2** · 中等相关
+
+标签：`agricultural` `livestock`
 
 **摘要**
 
-ABSTRACT Recent literature documents that the variance risk premium (VRP) loses its predictive power for market returns during the pandemic. We show that this failure is largely attributable to the standard measurement of realized variance, which equally weights overnight squared returns and intraday realized variance. Simulations demonstrate that the predictive performance of the conventional VRP deteriorates as overnight volatility and jump activity increase. To address this issue, we propose a new linear forecasting model for expected variance that separately captures the dynamics of daytime and overnight variance. Empirically, our model‐based VRP restores significant in‐sample predictability. In out‐of‐sample exercises, it achieves the best performance among competing predictors and generates substantial economic gains for a mean‐variance investor over short and medium horizons.
+Abstract Quantifying the regional economic impacts of crop production is critical for assessing the broader implications of access to natural resources and government policies. However, most existing estimates rely on input–output models with restrictive assumptions, and competing theories of economic mechanisms provide little guidance on the sign or magnitude. We estimate local economic spillovers by exploiting a large increase in crop production that occurred due to the expansion of irrigation in counties overlying the High Plains Aquifer after World War II. While crop production was directly impacted by access to groundwater, we find that livestock product sales also increased significantly, reaching a 235% increase in sales compared to counties outside the aquifer. The primary spillover to non‐farm sectors was an increase in sales in the wholesale sector, perhaps driven by sales of agricultural‐related products. These findings provide evidence of coagglomeration incentives, where clusters of agricultural industries find it optimal to produce within the same region.
 
 **为什么推荐**
 
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 25/100（Journal of Forecasting）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 100/100（forecasting、predictive、volatility、intraday）
+- 相关性 26/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）
+- 期刊权重 50/100（American Journal of Agricultural Economics）
+- 时效 100/100（上线 0 天前）
+- 方法匹配 0/100
 - 有摘要，可快速判断
 
-[DOI / 原文](https://doi.org/10.1002/for.70237)
+[DOI / 原文](https://doi.org/10.1002/ajae.70105)
 
 ---
 
-## 2. Clustering with potential multidimensionality: Inference and practice
+## 2. Two-stage least squares with treatment-covariate interactions for treatment effect heterogeneity
 
-**Journal of Econometrics** · 上线 2026-11-08（0 天前） · 在线 2026-11-01 · T2 · Ruonan Xu、Luther Yap · 综合分 **26.7** · 强相关
+**Journal of Econometrics** · 上线 2026-11-04（5 天前） · 在线 2026-11-01 · T2 · Anqi Zhao、Peng Ding、Fan Li · 综合分 **32.1** · 强相关
+
+**摘要**
+
+Treatment effect heterogeneity with respect to covariates is common in instrumental variable (IV) analyses. An intuitive approach, which we call the interacted two-stage least squares (2sls), is to regress the outcome on the treatment, covariates, and treatment-covariate interactions, using the IV, covariates, and IV-covariate interactions as instruments. We clarify the causal interpretation of the interacted 2sls under the local average treatment effect (LATE) framework when the IV is valid conditional on the covariates. Our main findings are twofold. First, we show that the coefficients on the treatment-covariate interactions from the interacted 2sls identify treatment effect heterogeneity with respect to covariates among compliers for any outcome-generating process if and only if the product of the IV propensity score and the covariates is linear in the covariates, a requirement we call the linear IV-covariate interactions condition. Second, when the covariate vector has dimension K and includes a constant term, we show that the linear IV-covariate interactions condition requires the IV propensity score to take at most K distinct values. The condition holds when (a) the covariates take exactly K distinct values, or (b) the IV is randomly assigned independently of the covariates, but is restrictive beyond these cases. These results underscore the difficulty of interpreting regression coefficients from specifications with treatment-covariate interactions when the covariates are not saturated and the IV is not unconditionally randomized, absent correct specification of the outcome model. We then connect these results to the literature on LATE estimation, and show that under the linear IV-covariate interactions condition, the interacted 2sls with covariates demeaned by their complier means recovers the LATE as a single coefficient.
+
+**为什么推荐**
+
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 58/100（Journal of Econometrics）
+- 时效 64/100（上线 5 天前）
+- 方法匹配 50/100（instrumental variable、causal）
+- 有摘要，可快速判断
+- 有开放获取全文
+
+[DOI / 原文](https://doi.org/10.1016/j.jeconom.2026.106324) ｜ [开放获取全文](https://arxiv.org/pdf/2502.00251)
+
+---
+
+## 3. Multivariate inference for dynamic systemic risk measures
+
+**Journal of Econometrics** · 上线 2026-11-09（0 天前） · 在线 2026-11-01 · T2 · Yuan Chen、Nikolaus Hautsch、Jérémy Leymarie、Melanie Schienle · 综合分 **26.7** · 强相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
@@ -35,13 +58,13 @@ ABSTRACT Recent literature documents that the variance risk premium (VRP) loses 
 - 时效 100/100（上线 0 天前）
 - 方法匹配 0/100
 
-[原文页面](https://www.sciencedirect.com/science/article/pii/S0304407626001417)
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0304407626001429)
 
 ---
 
-## 3. Feasible GLS for time series regression
+## 4. Normal approximation for U-statistics with cross-sectional dependence
 
-**Journal of Econometrics** · 上线 2026-11-08（0 天前） · 在线 2026-11-01 · T2 · Pierre Perron、Emilio González-Coya · 综合分 **26.7** · 强相关
+**Journal of Econometrics** · 上线 2026-11-09（0 天前） · 在线 2026-11-01 · T2 · Weiguang Liu · 综合分 **26.7** · 强相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
@@ -52,13 +75,30 @@ ABSTRACT Recent literature documents that the variance risk premium (VRP) loses 
 - 时效 100/100（上线 0 天前）
 - 方法匹配 0/100
 
-[原文页面](https://www.sciencedirect.com/science/article/pii/S0304407626001661)
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0304407626001454)
 
 ---
 
-## 4. Incentivizing environmental public goods: Evidence from urban greening in China
+## 5. Principal component analysis for a mix of stationary and nonstationary variables
 
-**Journal of Environmental Economics and Management** · 上线 2026-11-08（0 天前） · 在线 2027-01-01 · T2 · Ding Ma、Zhiren Hu、Xintong Li · 综合分 **26.7** · 强相关
+**Journal of Econometrics** · 上线 2026-11-09（0 天前） · 在线 2026-11-01 · T2 · James D. Hamilton、Xinwei Ma、Jin Xi · 综合分 **26.7** · 强相关
+
+> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
+
+**为什么推荐**
+
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 58/100（Journal of Econometrics）
+- 时效 100/100（上线 0 天前）
+- 方法匹配 0/100
+
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0304407626001375)
+
+---
+
+## 6. Reducing transport externalities through nudging: Results from a GPS-tracked experiment
+
+**Journal of Environmental Economics and Management** · 上线 2026-11-09（0 天前） · 在线 2027-01-01 · T2 · Laura Schwab、Beat Hintermann、Alexander Goetz、Joseph Molloy · 综合分 **26.7** · 强相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
@@ -69,13 +109,13 @@ ABSTRACT Recent literature documents that the variance risk premium (VRP) loses 
 - 时效 100/100（上线 0 天前）
 - 方法匹配 0/100
 
-[原文页面](https://www.sciencedirect.com/science/article/pii/S0095069626001476)
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0095069626001506)
 
 ---
 
-## 5. Iterative distributed multinomial regression
+## 7. Robust inference for time varying predictability: A Sieve-IVX approach
 
-**Journal of Econometrics** · 上线 2026-11-08（0 天前） · 在线 2026-11-01 · T2 · Yanqin Fan、Yigit Okar、Xuetao Shi · 综合分 **26.7** · 强相关
+**Journal of Econometrics** · 上线 2026-11-09（0 天前） · 在线 2026-11-01 · T2 · Nan Liu、Yanbo Liu、Peter C.B. Phillips、Yajie Zhang · 综合分 **26.7** · 强相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
@@ -86,13 +126,13 @@ ABSTRACT Recent literature documents that the variance risk premium (VRP) loses 
 - 时效 100/100（上线 0 天前）
 - 方法匹配 0/100
 
-[原文页面](https://www.sciencedirect.com/science/article/pii/S0304407626001545)
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0304407626001405)
 
 ---
 
-## 6. Jackknife variance estimators for two-way clustering with serially correlated time effects
+## 8. Spatio-temporal autoregressions for high dimensional matrix-valued time series
 
-**Journal of Econometrics** · 上线 2026-11-08（0 天前） · 在线 2026-11-01 · T2 · Ulrich Hounyo、Jiahao Lin · 综合分 **26.7** · 强相关
+**Journal of Econometrics** · 上线 2026-11-09（0 天前） · 在线 2026-11-01 · T2 · Baojun Dou、Jing He、Sudhir Tiwari、Qiwei Yao · 综合分 **26.7** · 强相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
@@ -103,13 +143,13 @@ ABSTRACT Recent literature documents that the variance risk premium (VRP) loses 
 - 时效 100/100（上线 0 天前）
 - 方法匹配 0/100
 
-[原文页面](https://www.sciencedirect.com/science/article/pii/S0304407626001636)
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0304407626001399)
 
 ---
 
-## 7. Land registration and conflict reduction: Evidence from the Brazilian Amazon
+## 9. Standards and technology innovation with search
 
-**Journal of Environmental Economics and Management** · 上线 2026-11-08（0 天前） · 在线 2027-01-01 · T2 · Nilesh Shinde、Stella Z. Schons、Alexandre G. Maia、Gregory S. Amacher · 综合分 **26.7** · 强相关
+**Journal of Environmental Economics and Management** · 上线 2026-11-09（0 天前） · 在线 2027-01-01 · T2 · Lluís M. Granero、Santiago J. Rubio · 综合分 **26.7** · 强相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
@@ -120,30 +160,13 @@ ABSTRACT Recent literature documents that the variance risk premium (VRP) loses 
 - 时效 100/100（上线 0 天前）
 - 方法匹配 0/100
 
-[原文页面](https://www.sciencedirect.com/science/article/pii/S009506962600152X)
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0095069626001518)
 
 ---
 
-## 8. Local charger availability and electric vehicle adoption: Evidence from Norway
+## 10. Treatment evaluation at the intensive and extensive margins
 
-**Journal of Environmental Economics and Management** · 上线 2026-11-08（0 天前） · 在线 2027-01-01 · T2 · Costanza Cincotta、Øyvind Thomassen · 综合分 **26.7** · 强相关
-
-> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 58/100（Journal of Environmental Economics and Management）
-- 时效 100/100（上线 0 天前）
-- 方法匹配 0/100
-
-[原文页面](https://www.sciencedirect.com/science/article/pii/S0095069626001361)
-
----
-
-## 9. Matrix-valued spatial autoregressions with dynamic heterogeneous spillovers
-
-**Journal of Econometrics** · 上线 2026-11-08（0 天前） · 在线 2026-11-01 · T2 · Yicong Lin、Andre Lucas、Shiqi Ye · 综合分 **26.7** · 强相关
+**Journal of Econometrics** · 上线 2026-11-09（0 天前） · 在线 2026-11-01 · T2 · Phillip Heiler、Asbjørn Kaufmann、Bezirgen Veliyev · 综合分 **26.7** · 强相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
@@ -154,24 +177,7 @@ ABSTRACT Recent literature documents that the variance risk premium (VRP) loses 
 - 时效 100/100（上线 0 天前）
 - 方法匹配 0/100
 
-[原文页面](https://www.sciencedirect.com/science/article/pii/S0304407626001430)
-
----
-
-## 10. Measurement error and peer effects in networks
-
-**Journal of Econometrics** · 上线 2026-11-08（0 天前） · 在线 2026-11-01 · T2 · Yann Bramoullé、Sebastiaan Maes · 综合分 **26.7** · 强相关
-
-> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 58/100（Journal of Econometrics）
-- 时效 100/100（上线 0 天前）
-- 方法匹配 0/100
-
-[原文页面](https://www.sciencedirect.com/science/article/pii/S0304407626001594)
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0304407626001648)
 
 ---
 
@@ -183,18 +189,18 @@ ABSTRACT Recent literature documents that the variance risk premium (VRP) loses 
 | International Journal of Forecasting | 计量预测 | 62 | 0 |
 | Food Policy | 农业商品 | 39 | 0 |
 | Journal of Financial Economics | 金融经济 | 31 | 0 |
-| Journal of Econometrics | 计量预测 | 29 | 6 |
-| Journal of Environmental Economics and Management | 能源资源 | 21 | 3 |
+| Journal of Econometrics | 计量预测 | 29 | 7 |
+| Journal of Environmental Economics and Management | 能源资源 | 21 | 2 |
 | Management Science | 金融经济 | 13 | 0 |
 | Resource and Energy Economics | 能源资源 | 12 | 0 |
 | American Economic Review | 金融经济 | 11 | 0 |
 | Journal of Commodity Markets | 农业商品 | 11 | 0 |
-| Journal of Forecasting | 计量预测 | 9 | 1 |
+| Journal of Forecasting | 计量预测 | 9 | 0 |
 | The Journal of Finance | 金融经济 | 5 | 0 |
 | Review of Financial Studies | 金融经济 | 4 | 0 |
-| American Journal of Agricultural Economics | 农业商品 | 3 | 0 |
+| American Journal of Agricultural Economics | 农业商品 | 4 | 1 |
 | The Quarterly Journal of Economics | 金融经济 | 2 | 0 |
 | The Energy Journal | 能源资源 | 2 | 0 |
 | Econometrica | 金融经济 | 0 | 0 |
 
-数据源：OpenAlex（主）+ Crossref（兜底）。抓取时间 2026-11-08 06:26:14。
+数据源：OpenAlex（主）+ Crossref（兜底）。抓取时间 2026-11-09 06:57:31。
