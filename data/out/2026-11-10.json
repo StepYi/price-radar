@@ -1,0 +1,656 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10 07:36:01",
+  "stats": {
+    "journals": 17,
+    "fetched": 330,
+    "candidates": 80,
+    "pushed": 10,
+    "digest_size": 10,
+    "per_journal": {
+      "Journal of Finance": {
+        "display": "The Journal of Finance",
+        "group": "金融经济",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 5,
+        "error": ""
+      },
+      "Journal of Financial Economics": {
+        "display": "Journal of Financial Economics",
+        "group": "金融经济",
+        "publisher": "Elsevier",
+        "fetched": 32,
+        "error": ""
+      },
+      "Review of Financial Studies": {
+        "display": "Review of Financial Studies",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 4,
+        "error": ""
+      },
+      "American Economic Review": {
+        "display": "American Economic Review",
+        "group": "金融经济",
+        "publisher": "American Economic Association",
+        "fetched": 11,
+        "error": ""
+      },
+      "Quarterly Journal of Economics": {
+        "display": "The Quarterly Journal of Economics",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 2,
+        "error": ""
+      },
+      "Econometrica": {
+        "display": "Econometrica",
+        "group": "金融经济",
+        "publisher": "The Econometric Society",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Management Science": {
+        "display": "Management Science",
+        "group": "金融经济",
+        "publisher": "Institute for Operations Research and the Management Sciences",
+        "fetched": 11,
+        "error": ""
+      },
+      "Energy Economics": {
+        "display": "Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 72,
+        "error": ""
+      },
+      "The Energy Journal": {
+        "display": "The Energy Journal",
+        "group": "能源资源",
+        "publisher": "SAGE Publications",
+        "fetched": 2,
+        "error": ""
+      },
+      "Journal of Environmental Economics and Management": {
+        "display": "Journal of Environmental Economics and Management",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 22,
+        "error": ""
+      },
+      "Resource and Energy Economics": {
+        "display": "Resource and Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 13,
+        "error": ""
+      },
+      "American Journal of Agricultural Economics": {
+        "display": "American Journal of Agricultural Economics",
+        "group": "农业商品",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 4,
+        "error": ""
+      },
+      "Journal of Commodity Markets": {
+        "display": "Journal of Commodity Markets",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 11,
+        "error": ""
+      },
+      "Food Policy": {
+        "display": "Food Policy",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 39,
+        "error": ""
+      },
+      "Journal of Econometrics": {
+        "display": "Journal of Econometrics",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 29,
+        "error": ""
+      },
+      "International Journal of Forecasting": {
+        "display": "International Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 65,
+        "error": ""
+      },
+      "Journal of Forecasting": {
+        "display": "Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Wiley (John Wiley & Sons)",
+        "fetched": 8,
+        "error": ""
+      }
+    },
+    "selection_notes": {
+      "strict_pool": 0,
+      "cap_relaxed": false,
+      "relaxed": true,
+      "filled": true,
+      "relaxed_pool": 3
+    },
+    "abstract_coverage": 0.025,
+    "enrich": {
+      "s2_filled": 0,
+      "openalex_filled": 0,
+      "openalex_note": "请求失败（HTTP 400 :: https://api.openalex.org/works?filter=doi%3A10.1016%2Fj.jfineco.2026.104401%7C10.1093%2Frfs%2Fhhag066%7C10.1257%2Faer.116.11.i%7C10.1287%2Fmnsc.2026.eb.v72n11%7C10.1016%2Fj.eneco.2026.109686%7C10.1016%2Fj.eneco.2026.109691%7C10.1016%2Fj.eneco.2026.109660%7C10.1016%2Fj.jeem.2026.103441%7C10.1016%2Fj.jeem.2026.103440%7C10.1016%2Fj.jeem.2026.103436%7C10.1016%2Fj.jeem.2026.103438%7C10.1016%2Fj.jeem.2026.103439%7C10.1016%2Fj.jeem.2026.103437%7C10.1016%2Fj.reseneeco.2026.101607%7C10.1016%2Fj.reseneeco.2026.101608%7C10.1016%2Fj.foodpol.2026.103209%7C10.1016%2Fj.foodpol.2026.103225%7C10.1016%2Fj.foodpol.2026.103227%7C10.1016%2Fj.foodpol.2026.103226%7C10.1016%2Fj.jeconom.2026.106350%7C10.1016%2Fj.jeconom.2026.106352%7C10.1016%2Fj.jeconom.2026.106351%7C10.1016%2Fj.ijforecast.2026.10.007%7C10.1016%2Fj.ijforecast.2026.10.012%7C10.1016%2Fj.ijforecast.2026.10.004%7C10.1016%2Fj.ijforecast.2026.10.010%7C10.1016%2Fj.ijforecast.2026.10.003%7C10.1016%2Fj.ijforecast.2026.10.005%7C10.1016%2Fj.ijforecast.2026.09.004%7C10.1016%2Fj.ijforecast.2026.09.006%7C10.1016%2Fj.ijforecast.2026.10.001%7C10.1016%2Fj.ijforecast.2026.09.010%7C10.1002%2Ffor.v45.8%7C10.1002%2Ffor.70240&per-page=34&select=doi%2Cabstract_inverted_index%2Ccited_by_count%2Cis_oa%2Cbest_oa_location&mailto=2485892471%40qq.com :: {\"error\":\"Invalid query parameters error.\",\"message\":\"is_oa is not a valid select field. Valid fields for select are: id, doi, title, display_name, relevance_score, rerank_score, publication_year, pub）"
+    }
+  },
+  "items": [
+    {
+      "id": "crossref:10.1016/j.ijforecast.2026.10.007",
+      "doi": "10.1016/j.ijforecast.2026.10.007",
+      "title": "Modeling asymmetric risk contagion between Chinese and global commodity markets: A network quantile GARCH approach",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-09",
+      "issue_date": "2026-11-01",
+      "journal": "International Journal of Forecasting",
+      "journal_display": "International Journal of Forecasting",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Xiaohang Ren",
+        "Yue He",
+        "Jianxin Pan",
+        "Lulu Wang"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.ijforecast.2026.10.007",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 53.21,
+      "rank": 1,
+      "relevance_raw": 7.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "commodity",
+        "commodity market",
+        "commodity markets"
+      ],
+      "reasons": [
+        "相关性 54/100（价格词 ×0题名 / ×0摘要；商品期货词 ×3题名）",
+        "期刊权重 50/100（International Journal of Forecasting）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（garch）"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "commodity",
+          "commodity market",
+          "commodity markets"
+        ],
+        "context_abstract": [],
+        "method": [
+          "garch"
+        ]
+      },
+      "pushed_date": "2026-11-10"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109686",
+      "doi": "10.1016/j.eneco.2026.109686",
+      "title": "Does cross-regional electricity transfer reduce carbon inequality? Evidence from ultra-high voltage transmission in China",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-09",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Fan Zhang",
+        "Shujie Yao",
+        "Xiyi Chen",
+        "Feng Wang"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109686",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 46.79,
+      "rank": 2,
+      "relevance_raw": 5.0,
+      "relevance_level": "medium",
+      "keywords": [
+        "electricity",
+        "carbon"
+      ],
+      "reasons": [
+        "相关性 36/100（价格词 ×0题名 / ×0摘要；商品期货词 ×2题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "electricity",
+          "carbon"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-10"
+    },
+    {
+      "id": "crossref:10.1016/j.jeem.2026.103441",
+      "doi": "10.1016/j.jeem.2026.103441",
+      "title": "Stormy futures? The impact of climatic shocks on retirement savings",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-09",
+      "issue_date": "2026-11-01",
+      "journal": "Journal of Environmental Economics and Management",
+      "journal_display": "Journal of Environmental Economics and Management",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Merve Kucuk",
+        "Mehmet Ulubasoglu"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.jeem.2026.103441",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 43.45,
+      "rank": 3,
+      "relevance_raw": 5.0,
+      "relevance_level": "medium",
+      "keywords": [
+        "futures",
+        "future"
+      ],
+      "reasons": [
+        "相关性 36/100（价格词 ×0题名 / ×0摘要；商品期货词 ×2题名）",
+        "期刊权重 58/100（Journal of Environmental Economics and Management）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "futures",
+          "future"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-10"
+    },
+    {
+      "id": "crossref:10.1016/j.ijforecast.2026.10.004",
+      "doi": "10.1016/j.ijforecast.2026.10.004",
+      "title": "PING: Physics-informed graph neural network for advection–diffusion processes with applications to solar power forecasting",
+      "abstract": "",
+      "publication_date": "2026-11-09",
+      "created_date": "2026-11-09",
+      "issue_date": "2026-11-01",
+      "journal": "International Journal of Forecasting",
+      "journal_display": "International Journal of Forecasting",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Jelena Simeunović",
+        "Baptiste Schubnel",
+        "Pierre-Jean Alet",
+        "Pascal Frossard",
+        "Rafael E. Carrillo"
+      ],
+      "author_count": 5,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.ijforecast.2026.10.004",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 37.86,
+      "rank": 4,
+      "relevance_raw": 2.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "solar"
+      ],
+      "reasons": [
+        "相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 50/100（International Journal of Forecasting）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 50/100（forecasting、neural network）"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "solar"
+        ],
+        "context_abstract": [],
+        "method": [
+          "forecasting",
+          "neural network"
+        ]
+      },
+      "pushed_date": "2026-11-10"
+    },
+    {
+      "id": "crossref:10.1016/j.jfineco.2026.104401",
+      "doi": "10.1016/j.jfineco.2026.104401",
+      "title": "Private debt versus bank debt in corporate borrowing",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-09",
+      "issue_date": "2026-12-01",
+      "journal": "Journal of Financial Economics",
+      "journal_display": "Journal of Financial Economics",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Sharjil Haque",
+        "Simon Mayer",
+        "Irina Stefanescu"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.jfineco.2026.104401",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 30.6,
+      "rank": 5,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 83/100（Journal of Financial Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-10"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0140988326005554",
+      "doi": "",
+      "title": "The effectiveness of statutory environmental disclosure: The roles of regulatory supervision and climate risk awareness",
+      "abstract": "",
+      "publication_date": "2026-12-01",
+      "created_date": "2026-11-10",
+      "issue_date": "",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Jinfan Zhi",
+        "Yuchen Gao"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0140988326005554",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 30.0,
+      "rank": 6,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-10"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109691",
+      "doi": "10.1016/j.eneco.2026.109691",
+      "title": "Climate policy spillovers through global value chains: Directional asymmetry and supply-chain heterogeneity in manufacturing",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-09",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Minji Kim",
+        "Eunnyeong Heo"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109691",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 28.93,
+      "rank": 7,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-10"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S009506962600149X",
+      "doi": "",
+      "title": "Waste-to-energy power plants with less compromise: Optimizing location and capacity for biodiversity protection",
+      "abstract": "",
+      "publication_date": "2027-01-01",
+      "created_date": "2026-11-10",
+      "issue_date": "",
+      "journal": "Journal of Environmental Economics and Management",
+      "journal_display": "Journal of Environmental Economics and Management",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Jing Liang",
+        "Wenqian Ren",
+        "Xiangrui Wang"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S009506962600149X",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 26.67,
+      "rank": 8,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 58/100（Journal of Environmental Economics and Management）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-10"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0095069626001452",
+      "doi": "",
+      "title": "Why did air conditioning adoption accelerate faster than predicted? Evidence from Mexico",
+      "abstract": "",
+      "publication_date": "2027-01-01",
+      "created_date": "2026-11-10",
+      "issue_date": "",
+      "journal": "Journal of Environmental Economics and Management",
+      "journal_display": "Journal of Environmental Economics and Management",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Lucas W. Davis",
+        "Paul Gertler"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0095069626001452",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 26.67,
+      "rank": 9,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 58/100（Journal of Environmental Economics and Management）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-10"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S009506962600135X",
+      "doi": "",
+      "title": "Window-dressing in environmental regulation: Short-term incentives and temporary abatement",
+      "abstract": "",
+      "publication_date": "2027-01-01",
+      "created_date": "2026-11-10",
+      "issue_date": "",
+      "journal": "Journal of Environmental Economics and Management",
+      "journal_display": "Journal of Environmental Economics and Management",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Zhengwen Liu",
+        "Hong Ma",
+        "Fangrui Zhang"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S009506962600135X",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 26.67,
+      "rank": 10,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 58/100（Journal of Environmental Economics and Management）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-10"
+    }
+  ]
+}

@@ -6,7 +6,87 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日顶刊价格研究文献精选（大宗商品 / 期货 / 能源 / 农产品价格）</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 09 Nov 2026 06:57:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 07:36:01 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[The effectiveness of statutory environmental disclosure: The roles of regulatory supervision and climate risk awareness]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0140988326005554</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326005554</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-11-10（0 天前） · 在线 2026-12-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Waste-to-energy power plants with less compromise: Optimizing location and capacity for biodiversity protection]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S009506962600149X</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S009506962600149X</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Environmental Economics and Management]]></category>
+      <description><![CDATA[<p><strong>Journal of Environmental Economics and Management</strong> ｜ 综合分 26.7 ｜ 上线 2026-11-10（0 天前） · 在线 2027-01-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Why did air conditioning adoption accelerate faster than predicted? Evidence from Mexico]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0095069626001452</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0095069626001452</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Environmental Economics and Management]]></category>
+      <description><![CDATA[<p><strong>Journal of Environmental Economics and Management</strong> ｜ 综合分 26.7 ｜ 上线 2026-11-10（0 天前） · 在线 2027-01-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Window-dressing in environmental regulation: Short-term incentives and temporary abatement]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S009506962600135X</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S009506962600135X</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Environmental Economics and Management]]></category>
+      <description><![CDATA[<p><strong>Journal of Environmental Economics and Management</strong> ｜ 综合分 26.7 ｜ 上线 2026-11-10（0 天前） · 在线 2027-01-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Modeling asymmetric risk contagion between Chinese and global commodity markets: A network quantile GARCH approach]]></title>
+      <link>https://doi.org/10.1016/j.ijforecast.2026.10.007</link>
+      <guid isPermaLink="false">crossref:10.1016/j.ijforecast.2026.10.007</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[International Journal of Forecasting]]></category>
+      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 53.2 ｜ 上线 2026-11-09（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Does cross-regional electricity transfer reduce carbon inequality? Evidence from ultra-high voltage transmission in China]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109686</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109686</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 46.8 ｜ 上线 2026-11-09（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Stormy futures? The impact of climatic shocks on retirement savings]]></title>
+      <link>https://doi.org/10.1016/j.jeem.2026.103441</link>
+      <guid isPermaLink="false">crossref:10.1016/j.jeem.2026.103441</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Environmental Economics and Management]]></category>
+      <description><![CDATA[<p><strong>Journal of Environmental Economics and Management</strong> ｜ 综合分 43.5 ｜ 上线 2026-11-09（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[PING: Physics-informed graph neural network for advection–diffusion processes with applications to solar power forecasting]]></title>
+      <link>https://doi.org/10.1016/j.ijforecast.2026.10.004</link>
+      <guid isPermaLink="false">crossref:10.1016/j.ijforecast.2026.10.004</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[International Journal of Forecasting]]></category>
+      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 37.9 ｜ 上线 2026-11-09（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Private debt versus bank debt in corporate borrowing]]></title>
+      <link>https://doi.org/10.1016/j.jfineco.2026.104401</link>
+      <guid isPermaLink="false">crossref:10.1016/j.jfineco.2026.104401</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Financial Economics]]></category>
+      <description><![CDATA[<p><strong>Journal of Financial Economics</strong> ｜ 综合分 30.6 ｜ 上线 2026-11-09（1 天前） · 期号 2026-12</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Climate policy spillovers through global value chains: Directional asymmetry and supply-chain heterogeneity in manufacturing]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109691</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109691</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 28.9 ｜ 上线 2026-11-09（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
     <item>
       <title><![CDATA[Resource‐driven agricultural clusters: Coagglomeration effects of the High Plains Aquifer]]></title>
       <link>https://doi.org/10.1002/ajae.70105</link>
@@ -1504,70 +1584,6 @@
       <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 31.4 ｜ 上线 2026-10-21（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
     </item>
     <item>
-      <title><![CDATA[Along and beyond the curve: Disentangling the volatility effects of renewable energy]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0140988326005128</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326005128</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 41.4 ｜ 上线 2026-10-21（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Chronologically consistent large language models]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0304405X26001455</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0304405X26001455</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Journal of Financial Economics]]></category>
-      <description><![CDATA[<p><strong>Journal of Financial Economics</strong> ｜ 综合分 31.7 ｜ 上线 2026-10-21（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Related exposures to distressed borrowers and bank lending]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0304405X26001479</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0304405X26001479</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Journal of Financial Economics]]></category>
-      <description><![CDATA[<p><strong>Journal of Financial Economics</strong> ｜ 综合分 31.7 ｜ 上线 2026-10-21（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Removing the fine print: Disclosure, standardized products, and consumer outcomes]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0304405X26001248</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0304405X26001248</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Journal of Financial Economics]]></category>
-      <description><![CDATA[<p><strong>Journal of Financial Economics</strong> ｜ 综合分 31.7 ｜ 上线 2026-10-21（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Signaling with debt currency choice]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0304405X26001261</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0304405X26001261</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Journal of Financial Economics]]></category>
-      <description><![CDATA[<p><strong>Journal of Financial Economics</strong> ｜ 综合分 31.7 ｜ 上线 2026-10-21（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Sustainable organizations]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0304405X26001285</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0304405X26001285</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Journal of Financial Economics]]></category>
-      <description><![CDATA[<p><strong>Journal of Financial Economics</strong> ｜ 综合分 31.7 ｜ 上线 2026-10-21（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[The decline of branch banking]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0304405X26001546</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0304405X26001546</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Journal of Financial Economics]]></category>
-      <description><![CDATA[<p><strong>Journal of Financial Economics</strong> ｜ 综合分 31.7 ｜ 上线 2026-10-21（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[The value of trademarks]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0304405X26001297</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0304405X26001297</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Journal of Financial Economics]]></category>
-      <description><![CDATA[<p><strong>Journal of Financial Economics</strong> ｜ 综合分 31.7 ｜ 上线 2026-10-21（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
       <title><![CDATA[How New Products Enter Markets: Social Networks, Consumer Imports, and Retailer Learning]]></title>
       <link>https://doi.org/10.1093/qje/qjag052</link>
       <guid isPermaLink="false">crossref:10.1093/qje/qjag052</guid>
@@ -1582,22 +1598,6 @@
       <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[Quarterly Journal of Economics]]></category>
       <description><![CDATA[<p><strong>The Quarterly Journal of Economics</strong> ｜ 综合分 35.3 ｜ 上线 2026-10-20（3 天前） · 在线 2026-10-22</p><p>Abstract Intensifying climate change makes protection against natural disaster risk – either through ex ante insurance or ex post aid – a first-order public policy issue. Flood risk protection in the U.S. traditionally featured ex post aid through FEMA and heavily subsidized insurance through the National Flood Insurance Program (NFIP). In an effort to correct subsidy-induced overbuilding and under-mitigation in flood-prone areas, the NFIP recently moved to actuarially fair insurance premiums. But this change has two unintended consequences: a fiscal spillover onto FEMA disaster aid as insurance coverage declines in flood-prone areas, and household exposure to uninsurable reclassification risk from uncertain climate projections. We develop a model of optimal flood insurance that incorporates the static and dynamic tradeoffs of subsidizing premiums. We then use a variety of identification strategies and data to estimate the five key parameters needed to implement this model. We find that the fiscal spillover and reclassification risk protection benefits significantly outweigh the moral hazard costs, and that the optimal subsidy to flood insurance is 51%, comparable to the level of subsidization before the recent reform.</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Did China’s Pilot Emissions Trading Scheme reduce CO2 Emissions? Evidence from a Meta-analysis]]></title>
-      <link>https://doi.org/10.1016/j.reseneeco.2026.101606</link>
-      <guid isPermaLink="false">crossref:10.1016/j.reseneeco.2026.101606</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Resource and Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Resource and Energy Economics</strong> ｜ 综合分 38.5 ｜ 上线 2026-10-20（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[How Private Equity Fuels Nonbank Lending]]></title>
-      <link>https://doi.org/10.1093/rfs/hhag092</link>
-      <guid isPermaLink="false">crossref:10.1093/rfs/hhag092</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Review of Financial Studies]]></category>
-      <description><![CDATA[<p><strong>Review of Financial Studies</strong> ｜ 综合分 35.6 ｜ 上线 2026-10-20（1 天前） · 在线 2026-10-19</p><p>Abstract We demonstrate how private equity (PE) promotes nonbank lending by substituting for bank monitoring. Relative to non-PE-backed loans, PE-backed loans exhibit lower bank monitoring, smaller loan shares retained by lead banks, and larger shares held by nonbanks. The substitution is strongest when sponsors have greater incentives to engage with portfolio firms, is not associated with weaker loan performance, and persists during borrower distress. Our findings suggest that PE sponsors’ active engagement—through monitoring and support in distress—reduces banks’ need for monitoring and information production, enabling them to retain less skin in the game and sell loans to nonbanks.</p>]]></description>
     </item>
     <item>
       <title><![CDATA[Combining value-at-risk and expected-shortfall forecasts via the model confidence set]]></title>
