@@ -1,196 +1,193 @@
-# 价格研究日报 · 2026-11-11
+# 价格研究日报 · 2026-11-12
 
-> 覆盖 17 本顶刊 ｜ 抓取 336 篇 ｜ 新候选 79 篇 ｜ 本期推送 10 篇 ｜ 生成于 2026-11-11 06:52:51
+> 覆盖 17 本顶刊 ｜ 抓取 313 篇 ｜ 新候选 70 篇 ｜ 本期推送 10 篇 ｜ 生成于 2026-11-12 07:29:56
 
-## 1. Presidential Address: Human Finance: Incorporating Insights from the Life Sciences
+## 1. Improving Energy Price Forecasts: Autometrics With Indicator Saturation
 
-**The Journal of Finance** · 上线 2026-11-10（1 天前） · 在线 2026-11-09 · T1 · ULRIKE MALMENDIER · 综合分 **41.0** · 弱相关
+**Journal of Forecasting** · 上线 2026-11-11（1 天前） · T3 · Manish Aggarwal、Shipra Aggarwal、Josh R. Stillwagon · 综合分 **75.4** · 强相关
 
-标签：`inflation`
+标签：`price` `energy price` `yield` `yields` `brent` `wti` `oil` `coal`
 
 **摘要**
 
-ABSTRACT Many of the key determinants of human behavior identified in the life sciences, such as stress response, impulse control, and mood regulation, remain absent from standard economic and finance models. This paper illustrates how such insights can enhance economic models in the context of inflation expectations. Combining a retrospective survey that elicits personal inflation histories with an experimental intervention that induces the reexperiencing of historic inflation, I show that physiological, emotional, and cognitive stress markers predict heightened inflation expectations and sharper memory recall, while also shaping personal economic narratives. These findings suggest novel policy tools to counter the persistent scars of economic distress and crisis experiences, for example, by designing experiences to provide predictability and control.
+ABSTRACT In this study, we evaluate Autometrics, an automated model selection method with controls for outliers and location shifts, against artificial neural networks (ANN) and random forests for six monthly energy price series (WTI, Brent, Dubai, US and Russian gas, Australian coal) from IMF data. Autometrics generally delivers lower RMSE/MAPE and higher directional accuracy than the ANN and random forest specifications considered here, particularly in the more volatile oil and coal markets. Autometrics also has the benefit of being interpretable in a familiar regression context as opposed to more “blackbox” machine learning. The CARDt method often delivers predictive accuracy which is not statistically different from Autometrics, but there is some evidence that simple model averaging of the two with intercept‐corrected Autometrics yields further gains relative to either alone.
 
 **为什么推荐**
 
-- 相关性 6/100（价格词 ×0题名 / ×1摘要；商品期货词 ×0题名）
-- 期刊权重 83/100（Journal of Finance）
+- 相关性 83/100（价格词 ×2题名 / ×4摘要；商品期货词 ×0题名）
+- 期刊权重 25/100（Journal of Forecasting）
 - 时效 93/100（上线 1 天前）
-- 方法匹配 25/100（predict）
+- 方法匹配 100/100（forecast、predictive、machine learning、neural network）
 - 有摘要，可快速判断
 
-[DOI / 原文](https://doi.org/10.1111/jofi.70096)
+[DOI / 原文](https://doi.org/10.1002/for.70239)
 
 ---
 
-## 2. When Insurers Exit: Climate Losses, Fragile Insurers, and Mortgage Markets
+## 2. Risk, time and social preferences shape cross-country support for carbon dioxide removal technologies
 
-**The Quarterly Journal of Economics** · 上线 2026-11-07（4 天前） · 在线 2026-11-10 · T1 · Parinitha Sastry、Ishita Sen、Ana-Maria Tenekedjieva · 综合分 **37.1** · 弱相关
-
-标签：`pricing`
-
-**摘要**
-
-Abstract This paper uses a range of natural experiments to show how mispricing of climate risk in mortgages and property insurance creates large taxpayer exposures and leads to excess credit flows to risky areas. Our central finding is that the government-sponsored enterprises’ (GSEs) policies for evaluating property insurers are a crucial source of this mispricing. We assemble a comprehensive new dataset on both mortgages and insurance to analyze these dynamics in Florida from 2009-2018. We begin by documenting a breakdown in the quality of insurance provision, with new under-capitalized and under-diversified insurers dominating insurance markets. These fragile insurers have high rates of insolvency, which we show causally increases mortgage defaults after natural disasters. We find that the GSEs’ reliance on third-party ratings of insurers leads them to accept insurance from companies at high risk of insolvency without pricing for it. This creates large taxpayer exposures, with an estimated 25% of the GSEs’ expected losses in Florida coming from insurance fragility. Most starkly, we show that private lenders strategically respond to the GSE mispricing. Mortgage denial rates are sensitive to insurance quality in the jumbo segment where loans are retained, but not in the conforming segment where loans are offloaded to the GSEs. This suggests that, all else equal, fewer conforming mortgages would have been originated if lenders screened insurance fragility as they do in jumbos.
-
-**为什么推荐**
-
-- 相关性 6/100（价格词 ×0题名 / ×1摘要；商品期货词 ×0题名）
-- 期刊权重 80/100（Quarterly Journal of Economics）
-- 时效 71/100（上线 4 天前）
-- 方法匹配 25/100（natural experiment）
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.1093/qje/qjag053)
-
----
-
-## 3. Deadly Disease, Fear, and Ostracism in the Credit Market
-
-**Management Science** · 上线 2026-11-10（1 天前） · T1 · Sumit Agarwal、Pengsheng Lin、Yupeng Lin、Ruichang Lu 等 5 人 · 综合分 **35.4** · 强相关
-
-**摘要**
-
-This paper exploits the 2014 U.S. Ebola outbreak as a natural experiment to examine how fear distorts mortgage credit allocation. We find a 3.8-percentage-point increase in mortgage denial rates for Black applicants during the outbreak, despite negligible infection risk. Approved Black borrowers have stronger credit profiles and lower default rates, yet are less likely to receive loan modifications when delinquent. These effects are absent in algorithm-driven FinTech lending and reverse quickly postoutbreak—patterns inconsistent with statistical discrimination. Robustness tests rule out alternative explanations related to political cycles, labor market impacts, applicant pool composition changes, and bank financial conditions. Consistent with diagnostic expectation theory, higher exposure to Ebola fear does not result in a significant learning effect during the COVID-19 pandemic. This paper was accepted by Bo Becker, finance. Funding: S. Agarwal acknowledges the financial support from the National Natural Science Foundation of China [Grant 72495154]. Y. Lin gratefully acknowledges financial support from the NUS Research Grant [Grants A-8001725 and A-8004426]. R. Lu and X. Zhang acknowledge the financial support of the National Natural Science Foundation of China [Grants 71903005, 72402005, and 72472001]. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2025.01919 .
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 70/100（Management Science）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 25/100（natural experiment）
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.1287/mnsc.2025.01919)
-
----
-
-## 4. Uncertainty Attitudes, Subjective Beliefs, and Decisions Under Uncertainty
-
-**Management Science** · 上线 2026-11-10（1 天前） · T1 · Adeline Delavande、Jayant Ganguli、Friederike Mengel · 综合分 **35.4** · 强相关
-
-**摘要**
-
-We conducted survey experiments to gather new data on uncertainty attitudes and subjective beliefs. Our survey targets a general population, focusing on health and financial decisions. We collect data on (i) individual attitudes toward risk and ambiguity, including individual-specific probability weighting and loss aversion, and (ii) individual probabilistic beliefs about events related to the decisions we consider. The joint availability of individual preference parameters and subjective beliefs allows us to study heterogeneity and cross-correlations across these parameters in depth and to estimate structural models of decision making under uncertainty that go beyond subjective expected utility. We find that both preferences and beliefs are highly heterogeneous. Compared with subjective expected utility, prospect theory combined with source-dependent probability weighting fits the data strictly better in some contexts and equally well in others. Prospect theory performs particularly well when the belief distribution is concentrated toward extreme values. This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis. Funding: A. Delavande acknowledges funding from the Economic and Social Research Council Research Centre on Micro-Social Change [Grants ES/L009153/1 and ES/S012486/1] and the National Institute on Aging [Grant P01AG008291]. J. Ganguli acknowledges research support from the Economic and Social Research Council [Grant ES/K00168X/1]. F. Mengel acknowledges support from the European Research Council [Grant DYNNET-805017]. Ethical approval was obtained by the Ethics Social Sciences subcommittee at the University of Essex in August 2015. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.06232 .
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 70/100（Management Science）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 25/100（structural）
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.1287/mnsc.2024.06232)
-
----
-
-## 5. Channeled Attention and Stable Errors
-
-**The Quarterly Journal of Economics** · 上线 2026-11-09（2 天前） · 在线 2026-11-10 · T1 · Tristan Gagnon-Bartsch、Matthew Rabin、Joshua Schwartzstein · 综合分 **33.9** · 强相关
-
-**摘要**
-
-Abstract People persist in mistaken beliefs even in settings with high stakes, abundant data, and repeated opportunities to learn—settings where standard arguments imply they should correct their errors. We develop an attention-based framework for understanding why errors persist. When a person channels his attention through the lens of his potentially misspecified model, exposure to data is not the same as tracking the statistics necessary to tell him his model is wrong. A model is attentionally stable when the data the person deems relevant will, in the long run, fail to make the model look implausible. Models that erroneously rule things out—e.g., beliefs that a variable doesn’t matter or that a distinction doesn’t exist—tend to be attentionally stable because they divert attention away from data that would refute the models. Conversely, models that erroneously rule things in are less likely to be stable. Whether an error is discovered depends on the structure of the decision problem but is not tightly linked to its level of harm; arbitrarily costly errors can persist while trivially inexpensive ones may be detected. Nevertheless, no error is robust both to changes in the decision environment and to shocks that expand attention: every channeled-attention error is vulnerable to some perturbation that would reveal it. We use the framework to analyze the stability of psychological biases and empirical misconceptions, as well as to explain why fresh eyes catch mistakes, why people use overly coarse rather than overly fine categorizations, and why people recognize errors in others that they miss in themselves.
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 80/100（Quarterly Journal of Economics）
-- 时效 86/100（上线 2 天前）
-- 方法匹配 0/100
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.1093/qje/qjag055)
-
----
-
-## 6. Recommender Systems Under Privacy Protection
-
-**Management Science** · 上线 2026-11-10（1 天前） · T1 · Can Küçükgül、Özalp Özer、Shouqiang Wang · 综合分 **32.9** · 强相关
-
-**摘要**
-
-We examine how a profit-driven platform designs its recommender policies under varying privacy protection regimes. We demonstrate a functional equivalence between opt-out protection and unprotected privacy. Notably, granting consumers the autonomy to misrepresent personal data can compel the platform to distort recommendations, inadvertently harming both parties. When recommendations are purely informative, such privacy controls can deter personalization entirely. However, when recommendations also serve an allocative role—controlling product access—algorithmic discrimination may emerge, restricting the disadvantaged minority from valuable opportunities. These findings remain robust even with endogenous profit margins. This paper was accepted by Omar Besbes, revenue management and market analytics. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.05007 .
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 70/100（Management Science）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 0/100
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.1287/mnsc.2024.05007)
-
----
-
-## 7. The role of financial markets in the unraveling of credit
-
-**Journal of Financial Economics** · 上线 2026-11-10（1 天前） · 期号 2027-01 · T1 · Elena Asparouhova、Peter Bossaerts、Anh Tran · 综合分 **30.6** · 强相关
+**Energy Economics** · 上线 2026-11-12（0 天前） · T2 · Chad M. Baum、Leonhard K. Lades、Livia Fritz、Benjamin K. Sovacool · 综合分 **38.9** · 中等相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 83/100（Journal of Financial Economics）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 0/100
-
-[DOI / 原文](https://doi.org/10.1016/j.jfineco.2026.104400)
-
----
-
-## 8. Beyond GDP: Quantifying heterogeneous impact of climate change on social progress
-
-**Energy Economics** · 上线 2026-11-11（0 天前） · 在线 2026-12-01 · T2 · Naveen Kumar · 综合分 **30.0** · 强相关
-
-> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
+标签：`carbon`
 
 **为什么推荐**
 
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）
 - 期刊权重 75/100（Energy Economics）
 - 时效 100/100（上线 0 天前）
 - 方法匹配 0/100
 
-[原文页面](https://www.sciencedirect.com/science/article/pii/S0140988326005402)
+[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109696)
 
 ---
 
-## 9. Consumer income heterogeneity and firm sustainability investments
+## 3. Contracts in crisis: The war in Ukraine and long-term contracts in energy markets
 
-**Energy Economics** · 上线 2026-11-10（1 天前） · T2 · Ekundayo Shittu、Carmen Weigelt · 综合分 **28.9** · 强相关
+**Resource and Energy Economics** · 上线 2026-11-09（3 天前） · T2 · Mats Kröger、Karsten Neuhoff、Sebastian Schwenen · 综合分 **34.9** · 中等相关
+
+标签：`price` `price shock` `price shocks` `hedging`
+
+**摘要**
+
+We examine the impact of the war in Ukraine on long-term contracts in energy markets. We find that traded contract volumes fall by 65 percent in the first months of the war. A collapse in bilateral trading contributes most to this decline. To protect themselves from price shocks, firms increasingly turned to long-term contracts already before the war. In sum, our results show that the market continued to serve firms’ hedging needs during the crisis, but bilateral trading networks collapsed, and liquidity was largely provided by centralized markets.
+
+**为什么推荐**
+
+- 相关性 21/100（价格词 ×0题名 / ×3摘要；商品期货词 ×0题名）
+- 期刊权重 33/100（Resource and Energy Economics）
+- 时效 79/100（上线 3 天前）
+- 方法匹配 0/100
+- 有摘要，可快速判断
+- 有开放获取全文
+
+[DOI / 原文](https://doi.org/10.1016/j.reseneeco.2026.101607) ｜ [开放获取全文](https://doi.org/10.1016/j.reseneeco.2026.101607)
+
+---
+
+## 4. Coherent forecast combination for linearly constrained multiple time series
+
+**International Journal of Forecasting** · 上线 2026-11-06（6 天前） · T2 · Daniele Girolimetto、Tommaso Di Fonzo · 综合分 **31.5** · 强相关
+
+标签：`electricity`
+
+**摘要**
+
+Forecasting linearly constrained multiple time series, as those arising in National Accounts, energy systems and supply chain planning, requires that the forecasts of all variables jointly satisfy the underlying accounting or resource-balance identities. When several experts provide forecasts for some or all of the variables, classical forecast combination operates on each variable and ignores the linear constraints, while forecast reconciliation enforces such constraints by using a single forecast per variable. To bridge this gap, we develop an original coherent forecast combination framework, in which the joint problem of combination across experts and coherence across variables is formulated as a linearly constrained optimization problem. Closed-form expressions are derived for the coherent combined forecast and its error covariance matrix, and the statistical properties of the resulting estimators are discussed. A Monte Carlo experiment and a forecasting application to an Australian daily electricity generation dataset confirm that the proposed approach significantly improves forecast accuracy with respect to standard forecast combination and reconciliation alternatives.
+
+**为什么推荐**
+
+- 相关性 4/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 50/100（International Journal of Forecasting）
+- 时效 57/100（上线 6 天前）
+- 方法匹配 50/100（forecast、forecasting）
+- 有摘要，可快速判断
+- 有开放获取全文
+
+[DOI / 原文](https://doi.org/10.1016/j.ijforecast.2026.10.003) ｜ [开放获取全文](https://www.sciencedirect.com/science/article/pii/S016920702600107X/pdf)
+
+---
+
+## 5. Adaptive voting stacking with attention mechanism for enhanced credit scoring
+
+**International Journal of Forecasting** · 上线 2026-11-12（0 天前） · T2 · Lingyi Meng、Shanshan Jiang、Min Xia · 综合分 **25.0** · 强相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
 **为什么推荐**
 
 - 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 75/100（Energy Economics）
-- 时效 93/100（上线 1 天前）
+- 期刊权重 50/100（International Journal of Forecasting）
+- 时效 100/100（上线 0 天前）
 - 方法匹配 0/100
 
-[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109683)
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0169207026000336)
 
 ---
 
-## 10. Multidimensional time–frequency risk spillovers among global energy enterprises: Firm-level evidence from higher-moment connectedness
+## 6. Assessing cross-currency predictability in forex markets: Insights from limit order book data
 
-**Energy Economics** · 上线 2026-11-10（1 天前） · T2 · Ran Wu、Chaoyu Gong、Zhigang Su · 综合分 **28.9** · 强相关
+**International Journal of Forecasting** · 上线 2026-11-12（0 天前） · T2 · Yana Petrova、Anders Vilhelmsson、Lars L. Nordén · 综合分 **25.0** · 强相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
 **为什么推荐**
 
 - 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 75/100（Energy Economics）
-- 时效 93/100（上线 1 天前）
+- 期刊权重 50/100（International Journal of Forecasting）
+- 时效 100/100（上线 0 天前）
 - 方法匹配 0/100
 
-[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109679)
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0169207025001281)
+
+---
+
+## 7. Certainty amid uncertainty: Relationship between macroeconomic uncertainty and individual expectations
+
+**International Journal of Forecasting** · 上线 2026-11-12（0 天前） · T2 · Giulia Piccillo、Poramapa Poonpakdee · 综合分 **25.0** · 强相关
+
+> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
+
+**为什么推荐**
+
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 50/100（International Journal of Forecasting）
+- 时效 100/100（上线 0 天前）
+- 方法匹配 0/100
+
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0169207026000154)
+
+---
+
+## 8. Identifying good forecasters via adaptive cognitive tests
+
+**International Journal of Forecasting** · 上线 2026-11-12（0 天前） · 在线 2026-09-29 · T2 · Edgar C. Merkle、Nikolay Petrov、Sophie Ma Zhu、Ezra Karger 等 6 人 · 综合分 **25.0** · 强相关
+
+> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
+
+**为什么推荐**
+
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 50/100（International Journal of Forecasting）
+- 时效 100/100（上线 0 天前）
+- 方法匹配 0/100
+
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0169207026000919)
+
+---
+
+## 9. Long Memory Time Series Analysis, G.S. Dissanayake, H. Doosti. CRC Press, Boca Raton (2026), p. 172, ISBN: 978-1-032-62696-3
+
+**International Journal of Forecasting** · 上线 2026-11-12（0 天前） · T2 · Han Lin Shang · 综合分 **25.0** · 强相关
+
+> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
+
+**为什么推荐**
+
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 50/100（International Journal of Forecasting）
+- 时效 100/100（上线 0 天前）
+- 方法匹配 0/100
+
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0169207026000531)
+
+---
+
+## 10. Visualizing technical analysis
+
+**International Journal of Forecasting** · 上线 2026-11-12（0 天前） · T2 · Ruidong Yi、Jiajie Wang · 综合分 **25.0** · 强相关
+
+> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
+
+**为什么推荐**
+
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 50/100（International Journal of Forecasting）
+- 时效 100/100（上线 0 天前）
+- 方法匹配 0/100
+
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0169207026000579)
 
 ---
 
@@ -198,22 +195,22 @@ We examine how a profit-driven platform designs its recommender policies under v
 
 | 期刊 | 方向 | 窗口内新文 | 本期入选 |
 | --- | --- | --- | --- |
-| Energy Economics | 能源资源 | 74 | 3 |
-| International Journal of Forecasting | 计量预测 | 65 | 0 |
+| Energy Economics | 能源资源 | 75 | 1 |
+| International Journal of Forecasting | 计量预测 | 65 | 7 |
 | Food Policy | 农业商品 | 39 | 0 |
-| Journal of Financial Economics | 金融经济 | 33 | 1 |
 | Journal of Econometrics | 计量预测 | 29 | 0 |
 | Journal of Environmental Economics and Management | 能源资源 | 22 | 0 |
-| Resource and Energy Economics | 能源资源 | 13 | 0 |
-| Management Science | 金融经济 | 12 | 3 |
+| Resource and Energy Economics | 能源资源 | 13 | 1 |
+| Journal of Financial Economics | 金融经济 | 12 | 0 |
 | American Economic Review | 金融经济 | 11 | 0 |
 | Journal of Commodity Markets | 农业商品 | 11 | 0 |
-| Journal of Forecasting | 计量预测 | 7 | 0 |
-| The Journal of Finance | 金融经济 | 6 | 1 |
-| Review of Financial Studies | 金融经济 | 4 | 0 |
-| The Quarterly Journal of Economics | 金融经济 | 4 | 2 |
+| Management Science | 金融经济 | 9 | 0 |
+| Journal of Forecasting | 计量预测 | 8 | 1 |
+| The Journal of Finance | 金融经济 | 6 | 0 |
+| The Quarterly Journal of Economics | 金融经济 | 4 | 0 |
 | American Journal of Agricultural Economics | 农业商品 | 4 | 0 |
+| Review of Financial Studies | 金融经济 | 3 | 0 |
 | The Energy Journal | 能源资源 | 2 | 0 |
 | Econometrica | 金融经济 | 0 | 0 |
 
-数据源：OpenAlex（主）+ Crossref（兜底）。抓取时间 2026-11-11 06:52:51。
+数据源：OpenAlex（主）+ Crossref（兜底）。抓取时间 2026-11-12 07:29:56。
