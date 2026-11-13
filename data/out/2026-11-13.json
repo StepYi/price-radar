@@ -1,0 +1,679 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13 07:00:05",
+  "stats": {
+    "journals": 17,
+    "fetched": 319,
+    "candidates": 72,
+    "pushed": 10,
+    "digest_size": 10,
+    "per_journal": {
+      "Journal of Finance": {
+        "display": "The Journal of Finance",
+        "group": "金融经济",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 5,
+        "error": ""
+      },
+      "Journal of Financial Economics": {
+        "display": "Journal of Financial Economics",
+        "group": "金融经济",
+        "publisher": "Elsevier",
+        "fetched": 12,
+        "error": ""
+      },
+      "Review of Financial Studies": {
+        "display": "Review of Financial Studies",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 4,
+        "error": ""
+      },
+      "American Economic Review": {
+        "display": "American Economic Review",
+        "group": "金融经济",
+        "publisher": "American Economic Association",
+        "fetched": 11,
+        "error": ""
+      },
+      "Quarterly Journal of Economics": {
+        "display": "The Quarterly Journal of Economics",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 5,
+        "error": ""
+      },
+      "Econometrica": {
+        "display": "Econometrica",
+        "group": "金融经济",
+        "publisher": "The Econometric Society",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Management Science": {
+        "display": "Management Science",
+        "group": "金融经济",
+        "publisher": "Institute for Operations Research and the Management Sciences",
+        "fetched": 8,
+        "error": ""
+      },
+      "Energy Economics": {
+        "display": "Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 81,
+        "error": ""
+      },
+      "The Energy Journal": {
+        "display": "The Energy Journal",
+        "group": "能源资源",
+        "publisher": "SAGE Publications",
+        "fetched": 2,
+        "error": ""
+      },
+      "Journal of Environmental Economics and Management": {
+        "display": "Journal of Environmental Economics and Management",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 22,
+        "error": ""
+      },
+      "Resource and Energy Economics": {
+        "display": "Resource and Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 13,
+        "error": ""
+      },
+      "American Journal of Agricultural Economics": {
+        "display": "American Journal of Agricultural Economics",
+        "group": "农业商品",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 4,
+        "error": ""
+      },
+      "Journal of Commodity Markets": {
+        "display": "Journal of Commodity Markets",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 12,
+        "error": ""
+      },
+      "Food Policy": {
+        "display": "Food Policy",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 39,
+        "error": ""
+      },
+      "Journal of Econometrics": {
+        "display": "Journal of Econometrics",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 29,
+        "error": ""
+      },
+      "International Journal of Forecasting": {
+        "display": "International Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 64,
+        "error": ""
+      },
+      "Journal of Forecasting": {
+        "display": "Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Wiley (John Wiley & Sons)",
+        "fetched": 8,
+        "error": ""
+      }
+    },
+    "selection_notes": {
+      "strict_pool": 3,
+      "cap_relaxed": false,
+      "relaxed": true,
+      "filled": true,
+      "relaxed_pool": 4
+    },
+    "abstract_coverage": 0.097,
+    "enrich": {
+      "s2_filled": 0,
+      "openalex_filled": 0,
+      "openalex_note": "请求失败（HTTP 400 :: https://api.openalex.org/works?filter=doi%3A10.1093%2Frfs%2Fhhag066%7C10.1257%2Faer.116.11.i%7C10.1287%2Fmnsc.2026.eb.v72n11%7C10.1016%2Fj.eneco.2026.109703%7C10.1016%2Fj.eneco.2026.109701%7C10.1016%2Fj.eneco.2026.109685%7C10.1016%2Fj.eneco.2026.109689%7C10.1016%2Fj.eneco.2026.109688%7C10.1016%2Fj.eneco.2026.109697%7C10.1016%2Fj.jeem.2026.103440%7C10.1016%2Fj.jeem.2026.103436%7C10.1016%2Fj.jeem.2026.103438%7C10.1016%2Fj.jeem.2026.103439%7C10.1016%2Fj.jeem.2026.103437%7C10.1016%2Fj.jcomm.2026.100595%7C10.1016%2Fj.foodpol.2026.103209%7C10.1016%2Fj.foodpol.2026.103225%7C10.1016%2Fj.foodpol.2026.103227%7C10.1016%2Fj.foodpol.2026.103226%7C10.1016%2Fj.jeconom.2026.106350%7C10.1016%2Fj.jeconom.2026.106352%7C10.1016%2Fj.jeconom.2026.106351%7C10.1016%2Fj.ijforecast.2026.10.012%7C10.1016%2Fj.ijforecast.2026.10.010%7C10.1016%2Fj.ijforecast.2026.10.005%7C10.1016%2Fj.ijforecast.2026.09.004%7C10.1016%2Fj.ijforecast.2026.09.006%7C10.1016%2Fj.ijforecast.2026.10.001%7C10.1016%2Fj.ijforecast.2026.09.010%7C10.1002%2Ffor.v45.8%7C10.1002%2Ffor.70240&per-page=31&select=doi%2Cabstract_inverted_index%2Ccited_by_count%2Cis_oa%2Cbest_oa_location&mailto=2485892471%40qq.com :: {\"error\":\"Invalid query parameters error.\",\"message\":\"is_oa is not a valid select field. Valid fields for select are: id, doi, title, display_name, relevance_score, rerank_score, publication_year, pub）"
+    }
+  },
+  "items": [
+    {
+      "id": "crossref:10.1016/j.jcomm.2026.100595",
+      "doi": "10.1016/j.jcomm.2026.100595",
+      "title": "Where tariffs become prices: Trading-clock handoffs and risk-channel information absorption in soybean futures",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-12",
+      "issue_date": "2026-11-01",
+      "journal": "Journal of Commodity Markets",
+      "journal_display": "Journal of Commodity Markets",
+      "group": "农业商品",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Changyi Liu"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.jcomm.2026.100595",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 78.93,
+      "rank": 1,
+      "relevance_raw": 18.5,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "prices",
+        "futures",
+        "future",
+        "soybean",
+        "tariff",
+        "tariffs"
+      ],
+      "reasons": [
+        "相关性 100/100（价格词 ×2题名 / ×0摘要；商品期货词 ×5题名）",
+        "期刊权重 75/100（Journal of Commodity Markets）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [
+          "price",
+          "prices"
+        ],
+        "core_abstract": [],
+        "context_title": [
+          "futures",
+          "future",
+          "soybean",
+          "tariff",
+          "tariffs"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-13"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109688",
+      "doi": "10.1016/j.eneco.2026.109688",
+      "title": "Flow-based market coupling and market integration in the Nordic electricity market: Evidence from price convergence and transmission",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-12",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Kyriaki Tselika",
+        "Maria Tselika",
+        "Elias Demetriades"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109688",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 48.57,
+      "rank": 2,
+      "relevance_raw": 5.5,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "electricity"
+      ],
+      "reasons": [
+        "相关性 39/100（价格词 ×1题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [
+          "price"
+        ],
+        "core_abstract": [],
+        "context_title": [
+          "electricity"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-13"
+    },
+    {
+      "id": "crossref:10.1093/rfs/hhag097",
+      "doi": "10.1093/rfs/hhag097",
+      "title": "The Horizon of Investors’ Information and Corporate Investment",
+      "abstract": "Abstract The quality of investors’ information across different horizons has real effects. When managers care about the effect of investment on their stock price, a decline in the informativeness of investors’ signals about long-term cash flows leads firms with long-term projects to cut investment more than firms with short-term projects. Using a novel, hand-collected measure of project horizons, we confirm this hypothesis: relative to firms with short-term projects, the investment of firms with long-term projects decreases by 3.7% following a 1-standard-deviation drop in the quality of investors’ long-term information. This effect becomes larger when managers prioritize current stock prices. (JEL D84, G14, G17, M41).",
+      "publication_date": "2026-11-12",
+      "created_date": "2026-11-10",
+      "issue_date": "2026-11-12",
+      "journal": "Review of Financial Studies",
+      "journal_display": "Review of Financial Studies",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Olivier Dessaint",
+        "Thierry Foucault",
+        "Laurent Frésard"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1093/rfs/hhag097",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 42.02,
+      "rank": 3,
+      "relevance_raw": 2.4,
+      "relevance_level": "medium",
+      "keywords": [
+        "price",
+        "prices",
+        "stock price"
+      ],
+      "reasons": [
+        "相关性 17/100（价格词 ×0题名 / ×3摘要；商品期货词 ×0题名）",
+        "期刊权重 83/100（Review of Financial Studies）",
+        "时效 79/100（上线 3 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 3,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "price",
+          "prices",
+          "stock price"
+        ],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-13"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109701",
+      "doi": "10.1016/j.eneco.2026.109701",
+      "title": "Environmental policy design under unionized wage-setting: Regulatory timing and green preferences",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-13",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Elias Asproudis",
+        "Eleftherios Filippiadis"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109701",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 40.71,
+      "rank": 4,
+      "relevance_raw": 3.0,
+      "relevance_level": "strong",
+      "keywords": [
+        "wage"
+      ],
+      "reasons": [
+        "相关性 21/100（价格词 ×1题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "wage"
+        ],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-13"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109703",
+      "doi": "10.1016/j.eneco.2026.109703",
+      "title": "Electricity demand without shared thermal comfort: Intra-household thermal preference heterogeneity under heat",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-13",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Natalia Borzino",
+        "Samuel Chng",
+        "Harvey Neo"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109703",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 38.93,
+      "rank": 5,
+      "relevance_raw": 2.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "electricity"
+      ],
+      "reasons": [
+        "相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "electricity"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-13"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2025.00955",
+      "doi": "10.1287/mnsc.2025.00955",
+      "title": "Effortful vs. Opportunistic Consumption of Discretionary Time: How Time-Reporting Decisions Influence Extra-Role Effort",
+      "abstract": "Employees often work under incomplete contracts, performing both contracted in-role tasks and valuable but noncontracted extra-role activities. Once employees have completed in-role tasks, discretionary time remains, which they may allocate to extra-role activities or consume opportunistically. This study examines how managers’ time-reporting decisions, as a less intrusive form of control, affect subordinates’ effort-allocation decisions. I propose two opposing predictions. First, managers’ control implementations may signal distrust, resulting in more opportunism and thus less extra-role effort. Second, I identify value signaling as a novel theoretical mechanism through which time-reporting decisions may increase extra-role effort. The main experiment manipulated two factors: the type of time report (aggregated versus disaggregated) and its implementation source (managerial choice versus random assignment) to isolate signaling effects from monitoring effects. Results reveal that when managers choose not to implement disaggregated time reporting—that is, reports that make discretionary time salient—subordinates significantly reduce their extra-role effort. Structural equation modeling shows that value signaling outweighs distrust signaling in driving employees’ effort-allocation decisions. In contrast, when the time-reporting format is randomly assigned, effort remains unchanged, underscoring the signaling role of managerial choice. An additional online experiment shows directionally consistent results with the main experiment. These findings reveal a hidden cost of not controlling and contribute to the literature on incomplete contracts, slack resources, and input-based controls in modern work contexts. This paper was accepted by Ranjani Krishnan, accounting. Funding: This work was supported by the Bijzonder Onderzoeksfonds UGent [Grant BOF/STA/202009/047]. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2025.00955 .",
+      "publication_date": "2026-11-12",
+      "created_date": "2026-11-12",
+      "issue_date": "2026-11-12",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Sophie Maussen"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2025.00955",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 37.93,
+      "rank": 6,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 50/100（prediction、structural）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "prediction",
+          "structural"
+        ]
+      },
+      "pushed_date": "2026-11-13"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109685",
+      "doi": "10.1016/j.eneco.2026.109685",
+      "title": "How energy system developments affect elasticities in day-ahead electricity markets: Evidence from bid curves",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-12",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Arjen T. Veenstra",
+        "Michaela Kesina",
+        "Machiel Mulder"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109685",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 37.86,
+      "rank": 7,
+      "relevance_raw": 2.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "electricity"
+      ],
+      "reasons": [
+        "相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "electricity"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-13"
+    },
+    {
+      "id": "crossref:10.1093/qje/qjag057",
+      "doi": "10.1093/qje/qjag057",
+      "title": "Labor Market Tightness and the Reversal of Inequality Trends in Germany",
+      "abstract": "Abstract Germany experienced a sharp rise in wage inequality over the two decades leading up to the Great Recession. However, a remarkable trend reversal occurred in 2010—well before the introduction of the minimum wage in 2015—when wages at the bottom of the distribution began to grow more rapidly than those higher up. This paper attributes the reversal to an increasingly tight labor market after the Great Recession, supported by strong domestic demand, and operating through several interrelated and mutually reinforcing channels. Consistent with this hypothesis, job-to-job transition rates and between-job wage growth rose markedly after the recession, especially for workers at the lower rungs of the job ladder. Concurrently, workers increasingly moved from low-paying to higher-paying firms, compressing the worker-weighted distribution of firm wage premia. Tighter labor markets also reduced assortative matching between workers and firms, lowered the skill premium, and weakened firms’ monopsony power.",
+      "publication_date": "2026-11-11",
+      "created_date": "2026-11-10",
+      "issue_date": "2026-11-11",
+      "journal": "Quarterly Journal of Economics",
+      "journal_display": "The Quarterly Journal of Economics",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Christian Dustmann",
+        "Martin Friedrich",
+        "Carl Gergs",
+        "Uta Schönberg"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1093/qje/qjag057",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 35.64,
+      "rank": 8,
+      "relevance_raw": 0.8,
+      "relevance_level": "weak",
+      "keywords": [
+        "wage"
+      ],
+      "reasons": [
+        "相关性 6/100（价格词 ×0题名 / ×1摘要；商品期货词 ×0题名）",
+        "期刊权重 80/100（Quarterly Journal of Economics）",
+        "时效 79/100（上线 3 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 3,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "wage"
+        ],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-13"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2023.01626",
+      "doi": "10.1287/mnsc.2023.01626",
+      "title": "Redeploying the Jockeys: The Intermediary Role of Venture Capital in Entrepreneurial Labor Markets",
+      "abstract": "This paper explores how venture capitalists (VCs) add value by examining their role as labor market intermediaries. Using novel data, I show that VCs create internal labor markets (ILMs) to facilitate entrepreneurial mobility across their portfolio firms. Survey evidence suggests that VCs leverage private information about founders’ abilities to strategically match talent to portfolio firms, creating value for the recipient companies. Consistent with this mechanism of asymmetric learning, I find that (a) former VC partners continue to influence founder mobility, (b) ILM intensity positively predicts VC fund returns, and (c) the ILM effect is stronger when information asymmetry is greater. This paper was accepted by Lin William Cong, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01626 .",
+      "publication_date": "2026-11-12",
+      "created_date": "2026-11-12",
+      "issue_date": "2026-11-12",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Zhongchen Hu"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2023.01626",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 35.43,
+      "rank": 9,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（predict）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "predict"
+        ]
+      },
+      "pushed_date": "2026-11-13"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2025.01128",
+      "doi": "10.1287/mnsc.2025.01128",
+      "title": "Deregulation, Market Structure, and the Evolution of U.S. Banking",
+      "abstract": "We construct novel network-based measures of U.S. state-level bank deregulation intensity that allow us to separately identify the effects of deregulation on competition and investment opportunities. In contrast to existing studies, we find that increased competition leads to higher deposit funding costs and a reduction in banks’ net interest margins and profitability. In response, banks shift their business models and persistently increase their risk taking. Our findings resolve conflicting evidence in the literature and support theories in which reductions in bank charter values lead to higher bank risk taking. This paper was accepted by Camelia Kuhnen, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01128 .",
+      "publication_date": "2026-11-12",
+      "created_date": "2026-11-12",
+      "issue_date": "2026-11-12",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Emilio Bisetti",
+        "Stephen A. Karolyi",
+        "Stefan Lewellen"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2025.01128",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 32.93,
+      "rank": 10,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-13"
+    }
+  ]
+}
