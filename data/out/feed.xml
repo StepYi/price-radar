@@ -6,7 +6,87 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日顶刊价格研究文献精选（大宗商品 / 期货 / 能源 / 农产品价格）</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Nov 2026 07:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 06:49:05 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Does what goes up come back down? Pass-through of fuel-tax cuts and restorations in Korea]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109708</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109708</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 40.7 ｜ 上线 2026-11-14（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Insurers’ Investments and Insurance Prices]]></title>
+      <link>https://doi.org/10.1287/mnsc.2024.09038</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2024.09038</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 62.6 ｜ 上线 2026-11-13（1 天前）</p><p>We develop a theory in which stable funding from insurance underwriting allows insurers to earn the liquidity premium on illiquid assets and pass part of it back to policyholders through lower prices. Consistent with the model’s predictions, we show empirically that (1) insurance prices are lower when the liquidity premium is higher, for both life insurers and property and casualty insurers. (2) In the cross-section, insurers with more stable funding earn higher expected returns and set lower prices. (3) It is specifically the part of expected returns driven by stable funding that passes through to prices. The findings highlight the value of insurance underwriting as a stable source of funding, with benefits that flow back to policyholders. This paper was accepted by Bo Becker, finance. Funding: The authors acknowledge support from the FRIC Center for Financial Frictions [Grant DNRF102]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.09038 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Climate Risk Disclosure and Risk Sharing in Financial Markets]]></title>
+      <link>https://doi.org/10.1093/rfs/hhag009</link>
+      <guid isPermaLink="false">crossref:10.1093/rfs/hhag009</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Review of Financial Studies]]></category>
+      <description><![CDATA[<p><strong>Review of Financial Studies</strong> ｜ 综合分 42.7 ｜ 上线 2026-11-13（1 天前）</p><p>Abstract In this paper, I model how climate risk disclosure impacts climate risk sharing among investors. I show that this disclosure can improve risk sharing by helping investors identify stocks that effectively hedge climate risk, and I analyze the disclosure’s impact on investors’ equilibrium portfolio choices. I then study firms’ voluntary disclosure incentives and analyze when disclosure mandates enhance risk sharing. Finally, I demonstrate that, by facilitating risk sharing, climate risk disclosure reduces the climate risk premium among stocks held by climate-focused investors. Hence, disclosure can lower the valuations of firms with low climate exposures and the overall market. (JEL: D82, D84, G12, G14)</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[What’s at Stake? Understanding the Role of Home Equity in Flood Insurance Demand]]></title>
+      <link>https://doi.org/10.1287/mnsc.2025.01302</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2025.01302</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 38.3 ｜ 上线 2026-11-13（1 天前）</p><p>Changing flood insurance demand shifts climate risk across homeowners, lenders, and governments. We show that flood insurance take-up follows rising and falling home equity over the housing boom and bust across markets with different price dynamics. To isolate the causal effect of risk shifting on insurance demand, we study flood insurance policy renewals over the housing bust, exploiting granular differences in purchase timing that led policyholders to experience differential changes in skin-in-the-game exposure to flood risk for the same change in home equity. When homeowners have less equity exposure to flood losses, they are less likely to renew their policies. Lenders, in turn, have little incentive to require flood insurance when they can sell their mortgages to federally backed mortgage purchasers. This paper was accepted by Tomasz Piskorski, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01302 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Rethinking Distribution Shifts: Empirical Analysis and Modeling for Tabular Data]]></title>
+      <link>https://doi.org/10.1287/mnsc.2024.08298</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2024.08298</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 37.9 ｜ 上线 2026-11-13（1 天前）</p><p>Different distribution shifts require different interventions, and algorithms must be grounded in the specific shifts they address. However, methodological development for robust algorithms typically relies on structural assumptions that lack empirical validation. Advocating for an empirically grounded data-driven approach to algorithm development, we build an empirical testbed comprising natural shifts across 8 tabular data sets, 172 distribution pairs over 45 methods, and 90,000 method configurations encompassing empirical risk minimization and distributionally robust optimization (DRO) methods. We find that Y|X-shifts are most prevalent in our testbed, in stark contrast to the heavy focus on X (covariate)-shifts in the machine learning literature, and that the performance of robust algorithms is no better than that of vanilla methods. To understand why, we conduct an in-depth empirical analysis of DRO methods and find that underlooked implementation details—such as the choice of underlying model class (e.g., LightGBM) and hyperparameter selection—have a bigger impact on performance than the ambiguity set or its radius. We illustrate via case studies how a data-driven understanding of distribution shifts can provide a new approach to algorithm development. This paper was accepted by Wolfram Wiesemann, data science. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08298 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Comparing Factor Models Under Regime Switching]]></title>
+      <link>https://doi.org/10.1287/mnsc.2025.04942</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2025.04942</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 35.8 ｜ 上线 2026-11-13（1 天前）</p><p>We compare factor pricing models using the “test-asset irrelevance” result but under regime switching. We show that the unconditional squared Sharpe ratio measure is no longer appropriate for model comparison when returns are subject to regime shifts. However, conditional on a given regime, model comparison can be performed using the conditional squared Sharpe ratio metric. We find that the Fama-French six-factor model that employs a cash-based profitability factor, the Barillas-Shanken six-factor model, and the Stambaugh-Yuan four-factor model are jointly the best-performing models under the bull regime. However, no model performs significantly better than others under the bear regime. Importantly, these findings are robust to regime uncertainty. We also find that unconditional model rankings closely mirror those in bull markets, overstating the superiority of the models identified as best performing in expansions by ignoring the performance convergence across models that emerges in downturns. This underscores the importance of evaluating factor models conditional on market regimes. This paper was accepted by Lukas Schmid, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.04942 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[The Economics of Waste Valorization]]></title>
+      <link>https://doi.org/10.1287/mnsc.2024.08500</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2024.08500</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 35.8 ｜ 上线 2026-11-13（1 天前）</p><p>As the spread of waste imposes substantial environmental and economic burdens, a newer operational strategy, waste valorization, is gaining attention. This approach transforms production-generated byproduct waste into valuable, distinct products, creating intricate production and demand interdependencies that traditional strategies like remanufacturing and coproduction cannot fully capture. In this study, we examine the impacts of these interdependencies within a two-stage stochastic production decision model to determine optimal production quantities under waste valorization. Our findings reveal that a higher waste valorization rate does not always benefit the manufacturer, especially if the waste incurs disposal costs. When product demands are uncorrelated, the manufacturer’s optimal profit can exhibit an inverse U-shaped relationship with the valorization rate, attaining its maximum at a moderate level that maintains a perfect balance in production. Conversely, when product demands are correlated, the manufacturer employs a “pool-to-center” strategy, using different pooling policies to smooth production quantities and minimize disparities with respect to the valorization rate. Surprisingly, as demand randomness or correlation intensifies, the optimal profit becomes M-shaped, with profit maximum shifting toward either low or high valorization rates, a phenomenon we term “go-to-extreme.” Although waste valorization can yield both economic and environmental benefits, we caution that a more efficient waste valorization process may lead to negative outcomes for both the manufacturer and the environment. This analysis not only sheds light on how waste valorization contributes to waste reduction and economic value, but also provides insights for production decision making. This paper was accepted by Caroline Flammer, sustainability. Funding: Financial support from the National Science Foundation of China [Grants 72301055, 72322017, 72471244, and 72101102] is gratefully acknowledged. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08500 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Banking on a Corporate Rebrand]]></title>
+      <link>https://doi.org/10.1287/mnsc.2025.03635</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2025.03635</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 35.4 ｜ 上线 2026-11-13（1 天前）</p><p>Firms often rebrand to counter negative shocks, but can it work? Using a historical natural experiment, we analyze a large sample of companies from the same industry (banking) that shared very similar names, but overwhelmingly decided to change them in response to a common, negative news shock. U.S. entry into World War I in 1917 created a sudden anti-German backlash against anything that invoked an association with the now enemy. The shock itself was thus orthogonal to bank fundamentals and pre-existing trends, but pushed banks to reconsider their brands. After 1917, the few German-named banks that kept their tainted names saw significant declines in assets, deposits, and market share relative to other banks. However, German-named banks that rebranded mitigated much of the negative shock. Specifically, German-named banks that adopted a new non-ethnic brand name avoided between 75% and 85% of the anti-German effect, and those that adopted a new patriotic brand name were able to neutralize it completely. Overall, we find that “crisis rebranding” paid off in our historical setting regardless of the chosen brand, with patriotic rebranding proving the most effective at offsetting the exogenous shock. This paper was accepted by Jean-Pierre Dube, marketing. Funding: K. J. Mitchener thanks the Ciocca Center for Entrepreneurship and Innovation at Santa Clara University for funding this research (Grant 2024-CIOG11). Any views expressed in this paper exclusively represent those of the authors and do not reflect the official viewpoint of the Oesterreichische Nationalbank, the European Central Bank, or the Eurosystem. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.03635 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[The Data-Driven Censored Newsvendor Problem]]></title>
+      <link>https://doi.org/10.1287/mnsc.2024.09021</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2024.09021</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 32.9 ｜ 上线 2026-11-13（1 天前）</p><p>We study a censored variant of the data-driven newsvendor problem, where the decision maker must select an ordering quantity that minimizes expected overage and underage costs based only on offline censored sales data rather than historical demand realizations. Our goal is to understand how the degree of historical demand censoring affects the performance of any learning algorithm for this problem. To isolate this impact, we adopt a distributionally robust optimization framework, evaluating policies according to their worst-case regret over an ambiguity set of distributions. This set is defined by the largest historical order quantity (the observable boundary of the data set), and contains all distributions matching the true demand distribution up to this boundary while allowing them to be arbitrary afterward. We demonstrate a spectrum of achievability under demand censoring by deriving a natural necessary and sufficient condition under which vanishing regret is an achievable goal. In regimes in which it is not, we exactly characterize the information loss due to censoring: an insurmountable lower bound on the performance of any policy, even when the decision maker has access to infinitely many demand samples. We then leverage these sharp characterizations to propose a natural robust algorithm that adapts to the historical level of demand censoring. We derive finite-sample guarantees for this algorithm across all possible censoring regimes and show its near-optimality with matching lower bounds (up to polylogarithmic factors). We moreover demonstrate its robust performance via extensive numerical experiments on both synthetic and real-world data sets. This paper was accepted by Wolfram Wiesemann, data science. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.09021 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Bond funds and credit risk]]></title>
+      <link>https://doi.org/10.1016/j.jfineco.2026.104396</link>
+      <guid isPermaLink="false">crossref:10.1016/j.jfineco.2026.104396</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Financial Economics]]></category>
+      <description><![CDATA[<p><strong>Journal of Financial Economics</strong> ｜ 综合分 30.6 ｜ 上线 2026-11-13（1 天前） · 期号 2027-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
     <item>
       <title><![CDATA[Environmental policy design under unionized wage-setting: Regulatory timing and green preferences]]></title>
       <link>https://doi.org/10.1016/j.eneco.2026.109701</link>
@@ -1526,86 +1606,6 @@
       <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[Energy Economics]]></category>
       <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-10-26（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Heterogeneous consumer responses to added sugar disclosures: Evidence from the U.S. nutrition facts panel update]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0306919226001648</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0306919226001648</guid>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Food Policy]]></category>
-      <description><![CDATA[<p><strong>Food Policy</strong> ｜ 综合分 31.4 ｜ 上线 2026-10-25（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Corporate climate risk perception and labor income share: Empirical evidence from China]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S014098832600486X</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S014098832600486X</guid>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-10-25（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Cross-border risk co-movement and multidimensional network resilience in global clean energy markets: Evidence from a higher-order downside co-movement network]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0140988326005062</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326005062</guid>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-10-25（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Economy-wide and international spillovers of the economic impacts of climate change]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0140988326004767</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326004767</guid>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-10-25（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Uncovering household carbon emissions in a lower-fertility, shrinking society]]></title>
-      <link>https://doi.org/10.1016/j.eneco.2026.109672</link>
-      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109672</guid>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 55.7 ｜ 上线 2026-10-24（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Does Coal Price Uncertainty Amplify Firm Risk? Evidence from China’s Market]]></title>
-      <link>https://doi.org/10.1016/j.jcomm.2026.100594</link>
-      <guid isPermaLink="false">crossref:10.1016/j.jcomm.2026.100594</guid>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Journal of Commodity Markets]]></category>
-      <description><![CDATA[<p><strong>Journal of Commodity Markets</strong> ｜ 综合分 48.6 ｜ 上线 2026-10-24（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Effects of trade barriers on foreign direct investment: Evidence from Chinese solar panels]]></title>
-      <link>https://doi.org/10.1016/j.eneco.2026.109653</link>
-      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109653</guid>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 40.4 ｜ 上线 2026-10-24（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Long-term impacts of climate change on electricity demand and household expenditure in Saudi Arabia]]></title>
-      <link>https://doi.org/10.1016/j.eneco.2026.109648</link>
-      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109648</guid>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 37.9 ｜ 上线 2026-10-24（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Financial contagion of climate risk: evidence from cross-industry complex networks and machine learning]]></title>
-      <link>https://doi.org/10.1016/j.eneco.2026.109670</link>
-      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109670</guid>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 31.4 ｜ 上线 2026-10-24（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Practical estimation methods for high-dimensional multivariate stochastic volatility models]]></title>
-      <link>https://doi.org/10.1016/j.jeconom.2026.106349</link>
-      <guid isPermaLink="false">crossref:10.1016/j.jeconom.2026.106349</guid>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Journal of Econometrics]]></category>
-      <description><![CDATA[<p><strong>Journal of Econometrics</strong> ｜ 综合分 30.6 ｜ 上线 2026-10-24（1 天前） · 期号 2026-11</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
     </item>
   </channel>
 </rss>
