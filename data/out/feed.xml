@@ -6,7 +6,55 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日顶刊价格研究文献精选（大宗商品 / 期货 / 能源 / 农产品价格）</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Nov 2026 06:49:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 06:53:20 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Forecasting atmospheric ethane]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0169207026001020</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207026001020</guid>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[International Journal of Forecasting]]></category>
+      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 27.5 ｜ 上线 2026-11-15（0 天前） · 在线 2026-10-30</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Fading Away: Tropical Storms and the Decline of Internal Migrant Self-employment in China]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0095069626001579</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0095069626001579</guid>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Environmental Economics and Management]]></category>
+      <description><![CDATA[<p><strong>Journal of Environmental Economics and Management</strong> ｜ 综合分 26.7 ｜ 上线 2026-11-15（0 天前） · 在线 2026-10-31</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Maximum likelihood estimation of fractional Ornstein-Uhlenbeck process with discretely sampled data]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0304407626001715</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0304407626001715</guid>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Econometrics]]></category>
+      <description><![CDATA[<p><strong>Journal of Econometrics</strong> ｜ 综合分 26.7 ｜ 上线 2026-11-15（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Hybrid Forecasting Model for Carbon Price: Integrating Chronological and Weekday‐Structured Temporal Representations]]></title>
+      <link>https://doi.org/10.1002/for.70242</link>
+      <guid isPermaLink="false">crossref:10.1002/for.70242</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Forecasting]]></category>
+      <description><![CDATA[<p><strong>Journal of Forecasting</strong> ｜ 综合分 74.3 ｜ 上线 2026-11-14（1 天前） · 在线 2026-11-13</p><p>ABSTRACT Accurate carbon price forecasts support allowance trading, compliance planning and market supervision. This study examines whether two temporal representations of the same carbon price series—the original chronological sequence (horizontal dimension) and five weekday‐structured subsequences (vertical dimension) obtained by regrouping Monday‐to‐Friday observations—contain complementary predictive information. Both representations are modeled within a common decomposition‐reconstruction‐forecasting framework: Dynamic time warping (DTW) diagnoses the correspondence between them, complete ensemble empirical mode decomposition with adaptive noise (CEEMDAN) and sample entropy (SE) decompose and reconstruct each series, and a leaky‐integrator echo state network (LiESN) generates the forecasts. The weekday‐specific forecasts are restored to chronological order and fused with the horizontal forecast by least squares (LS), and kernel density estimation (KDE) is used to construct prediction intervals. In the Hubei carbon market, the proposed model achieves an MAE of 0.365, a MAPE of 0.800%, an RMSE of 0.538 and an R 2 of 0.949 in the test period, reducing the MAE, MAPE, and RMSE of the chronological‐only benchmark by 2.41%, 2.20%, and 2.89%, respectively, and the Wilcoxon signed‐rank test indicates that its improvements over all benchmark models are significant at the 5% level. The model also attains the highest or tied‐highest interval coverage and the highest composite interval score. Additional experiments on the Shenzhen and Chongqing carbon markets show that the incremental gain is modest, and its statistical significance is market‐dependent: It is significant in Chongqing but not in Shenzhen. These results support the view that weekday‐structured forecasts can provide complementary predictive information beyond adjacent‐day chronological dependence, without treating the weekday sequences as independent multivariate variables or claiming a newly discovered weekday anomaly.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[How do supply chain disruptions affect critical mineral prices?]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109692</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109692</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 50.4 ｜ 上线 2026-11-14（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Is endogenous technical change better for modeling co-benefits of air pollution control and carbon abatement in China? A comparative analysis of LBD and AEEI of renewable energy based on CGE model]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109711</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109711</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 46.8 ｜ 上线 2026-11-14（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
     <item>
       <title><![CDATA[Does what goes up come back down? Pass-through of fuel-tax cuts and restorations in Korea]]></title>
       <link>https://doi.org/10.1016/j.eneco.2026.109708</link>
@@ -14,6 +62,22 @@
       <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[Energy Economics]]></category>
       <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 40.7 ｜ 上线 2026-11-14（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[The rise of refinery margins: The case of the energy tax cut in Germany]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109681</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109681</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 27.9 ｜ 上线 2026-11-13（2 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Shining a light on nature: The unintended biodiversity costs of photovoltaic deployment]]></title>
+      <link>https://doi.org/10.1016/j.jeem.2026.103443</link>
+      <guid isPermaLink="false">crossref:10.1016/j.jeem.2026.103443</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Environmental Economics and Management]]></category>
+      <description><![CDATA[<p><strong>Journal of Environmental Economics and Management</strong> ｜ 综合分 25.3 ｜ 上线 2026-11-13（2 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p><p><a href="https://doi.org/10.2139/ssrn.5352688">开放获取全文</a></p>]]></description>
     </item>
     <item>
       <title><![CDATA[Insurers’ Investments and Insurance Prices]]></title>
@@ -102,6 +166,22 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[Energy Economics]]></category>
       <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 38.9 ｜ 上线 2026-11-13（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Strategies to minimize energy vulnerability: A machine learning assessment of the roles of artificial intelligence innovations, green investments, and energy balance]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109697</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109697</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-11-12（3 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p><p><a href="https://doi.org/10.1016/j.eneco.2026.109697">开放获取全文</a></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Clean vehicle incentive design and urban air quality: Evidence from Italy]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109689</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109689</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 27.5 ｜ 上线 2026-11-12（3 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p><p><a href="https://www.sciencedirect.com/science/article/pii/S0140988326005694/pdf">开放获取全文</a></p>]]></description>
     </item>
     <item>
       <title><![CDATA[Where tariffs become prices: Trading-clock handoffs and risk-channel information absorption in soybean futures]]></title>
@@ -1526,86 +1606,6 @@
       <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[Journal of Forecasting]]></category>
       <description><![CDATA[<p><strong>Journal of Forecasting</strong> ｜ 综合分 33.6 ｜ 上线 2026-10-26（1 天前） · 在线 2026-10-25</p><p>ABSTRACT We develop Galerkin–ARIMA, a projection‐based forecasting framework that expands observation‐ and innovation‐lag states with finite basis functions while nesting classical multiplicative SARIMA as a restricted linear specification. The model is estimated using preliminary residual proxies followed by a joint least‐squares or ridge regression, which supports efficient rolling refitting. For the fixed‐dimensional unpenalized estimator, we establish asymptotic normality while accounting explicitly for generated regressors. Across 10 US macroeconomic and financial series, Galerkin–ARIMA has competitive one‐step‐ahead forecast accuracy, with nonlinear gains varying across series and the linear specification providing the most stable performance. In pre‐specified runtime experiments on Real GDP, the S&amp;P 500, and the Unemployment Rate, Ridge Galerkin–ARIMA is substantially faster than likelihood/state‐space SARIMA under fixed, initially tuned, and repeatedly retuned rolling specifications. The results suggest that the main value of the framework is flexible lag‐state modeling and computationally efficient forecasting. Nonlinear enrichment does not produce uniform accuracy gains.</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Capacity imbalance and default risk in new energy firms]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0140988326005268</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326005268</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-10-26（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Energy market bubbles under the green transition]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0140988326004895</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326004895</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-10-26（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Environmental regulatory risk]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0140988326005050</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326005050</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-10-26（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Reassessing the evidence on Spain's energy poverty amid the green transition: A replication and augmentation]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0140988326005232</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326005232</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-10-26（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Risk-adjusted multi-objective optimization of industrial energy portfolios: The role of electrification in economic and environmental sustainability]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0140988326004883</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326004883</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-10-26（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Shock amplification and delayed recovery in resource economies: The role of fiscal policy reform]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0140988326004871</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326004871</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-10-26（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[The macroeconomic effects of a greener technology mix]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0140988326004755</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326004755</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-10-26（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Understanding heterogeneous green transitions: An evolutionary approach to policy, innovation, and technological change]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S014098832600513X</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S014098832600513X</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-10-26（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Unveiling the role of ESG ratings in corporate greenwashing: Impacts on corporate green development and regulatory dynamics]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0140988326005116</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326005116</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-10-26（0 天前） · 在线 2026-12-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Valuing the UHV transmission lines in China: productivity gains, macroeconomic spillovers, and high returns]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0140988326004822</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0140988326004822</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-10-26（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
     </item>
   </channel>
 </rss>
