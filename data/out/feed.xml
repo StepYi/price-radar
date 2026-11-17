@@ -6,7 +6,87 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日顶刊价格研究文献精选（大宗商品 / 期货 / 能源 / 农产品价格）</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 16 Nov 2026 06:57:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 08:14:54 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[A Credit Risk Assessment Model Based on SVM With a Hypersphere‐Based Adaptive Oversampling Technique]]></title>
+      <link>https://doi.org/10.1002/for.70245</link>
+      <guid isPermaLink="false">crossref:10.1002/for.70245</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Forecasting]]></category>
+      <description><![CDATA[<p><strong>Journal of Forecasting</strong> ｜ 综合分 29.6 ｜ 上线 2026-11-17（0 天前） · 在线 2026-11-16</p><p>ABSTRACT Credit risk prediction for small and medium‐sized enterprises (SMEs) is challenging under imbalanced data conditions, where the scarcity of high‐risk SME samples undermines the performance of traditional classifiers. However, SME credit risk studies addressing data imbalance have mainly focused on class imbalance, while other performance‐degrading data difficulty factors, such as outliers, small disjuncts, and class overlap, remain underexplored. To address these challenges, we develop a customized credit risk assessment framework, termed DCHO‐SVM, that integrates the DCHO oversampling method for data preprocessing with SVM for classification. The model first employs principal component analysis (PCA) to reduce data dimensionality and derives a compact feature representation from the constructed indicator system. Subsequently, DCHO preprocesses the training data by dynamically constructing hyperspheres, adaptively determining their oversampling weights based on local distribution characteristics to address within‐class imbalance, and then performing oversampling within the hyperspheres to avoid class overlap. Finally, the balanced training set obtained after oversampling is used to train the SVM classifier, which is subsequently utilized for SME credit risk prediction. Empirical analysis on 551 Chinese listed manufacturing SMEs shows that the proposed model outperforms the conventional classifier, with , , , , and improving from 0.741, 0.507, 0.763, 0.602, and 0.455 to 0.924, 0.752, 0.935, 0.920, and 0.734, respectively. In addition, robustness tests on various real‐world imbalanced credit datasets from UCI and Fannie Mae repositories further verify the effectiveness and generalizability of the proposed model. These results indicate that DCHO‐SVM provides an effective solution for SME credit risk assessment under complex imbalanced scenarios.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Feed-in-Tariff with unexpected emission rebound? Incomplete carbon pricing and inter-fuel substitution in manufacturing]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109704</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109704</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 66.4 ｜ 上线 2026-11-16（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Synergistic policy intervention for green investment and bond pricing: An optimization framework with carbon credits and subsidies]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109705</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109705</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 48.6 ｜ 上线 2026-11-16（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[A latent regional greenhouse gas emissions index for Ukraine's energy sector: Insights from a MIMIC model]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109710</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109710</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 46.8 ｜ 上线 2026-11-16（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Biodiversity Risk in the Corporate Bond Market]]></title>
+      <link>https://doi.org/10.1287/mnsc.2024.07660</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2024.07660</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 41.1 ｜ 上线 2026-11-16（1 天前）</p><p>We show that a biodiversity risk premium has emerged in the U.S. corporate bond market following the United Nations Biodiversity Conference (COP15) in October 2021. COP15 placed biodiversity on the global regulatory agenda and raised transition risks for exposed firms. After COP15, a one standard deviation increase in a firm’s biodiversity footprint is associated with a 7% increase in its secondary market yield spreads, whereas this relation is insignificant before COP15. The biodiversity effect is also present in primary bond markets, most pronounced for medium-term bonds and distinct from climate-related mechanisms. Furthermore, a higher biodiversity footprint is associated with a lower likelihood of issuing medium-term bonds after COP15, consistent with firms managing their biodiversity-related risks. Evidence from firms’ biodiversity dependencies suggests that physical biodiversity risks are also priced in the bond market. This paper was accepted by Bo Becker, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07660 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Whiplash: Congestion Dissipation in a Disrupted Circulatory Shipping System]]></title>
+      <link>https://doi.org/10.1287/mnsc.2024.05427</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2024.05427</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 40.4 ｜ 上线 2026-11-16（1 天前）</p><p>The (post)pandemic period was marked by numerous port disruptions, leading to delays and rising costs for shippers. We build a fluid model in transient states to investigate how a disruption at one port can affect the disrupted port and its counterpart in another country in a circulatory container shipping system, where a stream of fleets moves goods back and forth between the two ports. Port disruption leads to two types of congestion: the inbound backlogs, which occur when ships are unable to enter the port, and the outbound backlogs, which arise when goods are unable to be loaded onto ships for transport to other ports. We analytically characterize the system’s recovery time, measured from the onset of the port closure until normal operations are restored, and the dynamics of inbound and outbound backlogs during recovery. We identify a whiplash effect in which outbound backlogs alternate between ports, creating oscillatory congestion patterns because of the disruption-induced uneven spatial distribution of ships. Our analysis reveals that simply increasing ship capacity may not expedite system recovery, highlighting the importance of coordination between port authorities and shipping companies when jointly planning capacity expansions. Furthermore, we examine several extensions of the model. We use the two-port system as a building block to analyze bipartite and cyclic network structures, and we also consider scenarios in which a port experiences multiple disruptions. In all cases, the whiplash effect persists, thereby demonstrating the robustness of our findings. Finally, we use our theory model prediction as a feature and apply machine learning techniques to predict the time that vessels spend in Shanghai Port after a typhoon disruption and show that using our model predictor, alongside all relevant vessel and voyage attributes as raw features, significantly reduces prediction errors by 10%–30% on average compared with not using it. This paper was accepted by Elena Katok, operations management. Funding: This work was supported by the Natural Sciences and Engineering Research Council of Canada [Grant RGPIN-2021-04295]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05427 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Do Fund Managers’ Commitments to Responsible Investing Affect Private Information Acquisition, Information Environment, and Corporate Sustainability?]]></title>
+      <link>https://doi.org/10.1287/mnsc.2024.08443</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2024.08443</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 35.4 ｜ 上线 2026-11-16（1 天前）</p><p>We investigate the effects of mutual funds’ commitments to responsible investing on their information acquisition activities and the corresponding externalities for other stakeholders. After committing to responsible investing (via United Nations Principles for Responsible Investment (UNPRI)), fund managers increase private information acquisition activities, that is, corporate site visits, particularly focusing on environmental and social issues. These visits generate negligible private investment value for the visiting funds. However, the information environment at the stock level improves following these visits with lower consensus analyst forecast errors. In addition to the information production role of these visits, they also generate positive externalities for other stakeholders through incremental improvements in the sustainability practices of the firms receiving sustainability-focused site visits from UNPRI fund managers. Collectively, the paper highlights the private costs and social benefits of responsible investing. This paper was accepted by Will Cong, finance. Funding: S. Agarwal and J. Sulaeman acknowledge research support from Sustainable and Green Finance Institute [Grant WBS A-0006413-00-00]. Y. Zhang acknowledges financial support from the National Natural Science Foundation of China [Grant 72402239] and China Scholarship Council. This work was supported by the Ministry of Education, Singapore [Social Science and Humanities Research Thematic Grant SSRC2024-SSHRTG-022]. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not reflect the views of the Social Science Research Council (Singapore) and the Ministry of Education (Singapore). Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08443 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Advertising by Recruiting Influencers]]></title>
+      <link>https://doi.org/10.1287/mnsc.2024.07919</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2024.07919</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 32.9 ｜ 上线 2026-11-16（1 天前）</p><p>The rise of social media platforms has enabled customers to rely on influencers and peer reviews to guide their purchasing decisions. As products increasingly focus on experiences, firms are leveraging influencer marketing as a crucial tool. This paper addresses key challenges of influencer marketing by considering different types of influencers and partnership schemes alongside the impact of social learning. We introduce a two-period model wherein, in the initial period, the firm unveils a new product experience of unknown quality alongside an influencer marketing campaign. The campaign relies on two types of influencers that differ in popularity and engagement levels and two partnerships: sponsored advertising and public relations. Customers base their purchasing decisions on their original (heterogeneous) beliefs, influencer-driven information, and reviews from early adopters in the second period. When customers are equally likely to follow any given influencer, the firm should choose a single influencer type and partnership. Consumer reviews complement influencer marketing when products are initially undervalued, increasing the returns to influencer investment. Moreover, within a societal structure characterized by distinct classes, in which followers and influencers often belong to the same class, a mix of influencer types and partnership schemes may become optimal. Our study provides guidance on selecting influencer types, partnership schemes, and social media platforms based on engagement, popularity, audience composition, and platform characteristics. This paper was accepted by Jeanette Song, operations management. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07919 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Beyond external pressure: how management technical proficiency and financial slack shape hospitals' response to environmental regulation]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109719</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109719</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 28.9 ｜ 上线 2026-11-16（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Corporate reporting under the EU taxonomy framework: a sectoral and geographical analysis of eligibility and alignment]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109715</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109715</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 28.9 ｜ 上线 2026-11-16（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
     <item>
       <title><![CDATA[Simultaneous prediction of multiple dimensions of food security]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0306919226001387</link>
@@ -1526,86 +1606,6 @@
       <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[Management Science]]></category>
       <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 35.8 ｜ 上线 2026-10-28（1 天前）</p><p>A seller wants to sell an item to n buyers. Buyer valuations are independent and identically distributed (i.i.d.) according to a distribution unknown to the seller; the seller only knows that the support is included in [a, b]. To be robust, the seller chooses a dominant strategy incentive compatible mechanism that optimizes the worst-case performance relative to the ideal expected revenue the seller could have collected with knowledge of buyers’ valuations. Our analysis unifies the regret and the ratio objectives. For these objectives, we derive an optimal mechanism and the corresponding performance in quasi-closed form, as a function of the support information [a, b] and the number of buyers n. Our analysis reveals three regimes of support information and a new class of robust mechanisms. (i) When a/b is below a threshold, the optimal mechanism is a second-price auction (SPA) with random reserve, a focal class in earlier literature. (ii) When a/b is above another threshold, SPAs are strictly suboptimal, and an optimal mechanism belongs to a class of mechanisms we introduce, which we call pooling auctions (POOL); whenever the highest value is above a threshold, the mechanism still allocates to the highest bidder, but otherwise the mechanism allocates to a uniformly random buyer, that is, pools low types. (iii) When a/b is between two thresholds, a randomization between SPA and POOL is optimal. We also characterize optimal mechanisms within nested central subclasses of mechanisms: standard mechanisms that only allocate to the highest bidder, SPA with random reserve, and SPA with no reserve. We show strict separations in terms of performance across classes, implying that deviating from standard mechanisms is necessary for robustness. Lastly, we show that the same results hold under other distribution classes that capture “positive dependence,” namely i.i.d., mixture of i.i.d., and exchangeable and affiliated distributions, as well as i.i.d. regular distributions. This paper was accepted by David Simchi-Levi, revenue management and market analytics. Supplemental Material: The online appendices are available at https://doi.org/10.1287/mnsc.2023.02703 .</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Do crises integrate or fragment energy transition metals markets? Evidence from a connectedness-based crisis typology]]></title>
-      <link>https://doi.org/10.1016/j.eneco.2026.109671</link>
-      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109671</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 47.9 ｜ 上线 2026-10-28（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Charitable capital allocation: Evidence from private foundations]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0304405X26001480</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0304405X26001480</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Journal of Financial Economics]]></category>
-      <description><![CDATA[<p><strong>Journal of Financial Economics</strong> ｜ 综合分 31.7 ｜ 上线 2026-10-28（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Patent agglomeration and environmental efficiency: effects and mechanisms in Africa]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S014098832600527X</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S014098832600527X</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-10-28（0 天前） · 在线 2026-10-13</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[High-dimensional portfolio optimization with weight constraints: Forecasting models utilizing GARCH-EVT, R-vine copula, and SCAD penalty]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0169207026000920</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207026000920</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[International Journal of Forecasting]]></category>
-      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 30.0 ｜ 上线 2026-10-28（0 天前） · 在线 2026-10-06</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Machine learning and insurer failure prediction]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0169207025001256</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207025001256</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[International Journal of Forecasting]]></category>
-      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 30.0 ｜ 上线 2026-10-28（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Navigating the Rugged Data Landscape: The Impact of Data-Extrapolation Technologies on Knowledge Production]]></title>
-      <link>https://doi.org/10.1287/mnsc.2023.04115</link>
-      <guid isPermaLink="false">crossref:10.1287/mnsc.2023.04115</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Management Science]]></category>
-      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 35.4 ｜ 上线 2026-10-27（1 天前）</p><p>Data-extrapolation technologies enable progress by importing and applying empirical patterns from one domain to another. Their reliance on empirical patterns, however, is also their limitation: these tools can only be applied where data are abundant. Using the setting of structural biology, I investigate the impact of a data-extrapolation technology on innovation. I exploit the variation in prior data availability to compare areas in which the tool was usable to those in which it was not. I find that the tool increased the quantity of research in data-rich areas: the resulting output yielded limited biological insights but was methodologically rigorous and contributed to downstream research. This paper was accepted by Toby Stuart, entrepreneurship and innovation. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.04115 .</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Dual‐Rule Logical Neural Network for Explainable Credit Scoring]]></title>
-      <link>https://doi.org/10.1002/for.70230</link>
-      <guid isPermaLink="false">crossref:10.1002/for.70230</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Journal of Forecasting]]></category>
-      <description><![CDATA[<p><strong>Journal of Forecasting</strong> ｜ 综合分 33.9 ｜ 上线 2026-10-27（1 天前） · 在线 2026-10-26</p><p>ABSTRACT Credit scoring requires modeling complex nonlinear relationships between borrower characteristics and default risk, yet highly expressive predictive models often suffer from limited transparency and weak generalization on small‐scale financial datasets. To address this challenge, this study proposes an interpretable Dual‐Rule Logical Neural Network (DLNet) for credit risk assessment. DLNet first converts continuous features into explicit binary threshold conditions, and then learns risk patterns through differentiable logical operators that explicitly construct conjunctive and disjunctive rule structures. To further improve rule compactness and readability, an explicit logic‐level sparse regularization term is imposed on the continuous logical weights during training, encouraging concise logical connections without penalizing the final prediction layer. In addition, a local rule backtracking extractor is developed to generate instance‐level explanations by tracing the top‐contributing activated logical nodes back to their corresponding threshold or categorical conditions. Experiments on four real‐world credit datasets show that DLNet achieves competitive predictive performance while providing both global rule patterns and local sample‐specific rationales. The learned rules further reveal heterogeneous logical structures across datasets, with disjunctive, conjunctive, and atomic patterns all appearing among high‐contribution rules. These results demonstrate that DLNet offers a practical framework for combining predictive effectiveness, structural sparsity, and decision transparency in credit scoring.</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Selection into Financial Education and Effects on Portfolio Choice]]></title>
-      <link>https://doi.org/10.1287/mnsc.2024.08268</link>
-      <guid isPermaLink="false">crossref:10.1287/mnsc.2024.08268</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Management Science]]></category>
-      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 32.9 ｜ 上线 2026-10-27（1 天前）</p><p>We study the impact of a financial education program on portfolio choices in a setting that allows us to examine both participation decisions and differences in program benefits across individuals. We directly elicit willingness to pay for financial education and show that individuals with higher financial literacy, greater confidence in applying new knowledge, and higher expected returns are willing to pay more. Using incentivized portfolio allocation tasks, we develop outcome measures tailored to individual risk preferences and show that financial education improves decision quality along these dimensions. The program increases the share of participants who experience an improvement by 20 percentage points, corresponding to average gains of 3.2 percentage points of initial wealth. Individuals with the highest willingness to participate benefit disproportionately from the program, with important implications for the design and evaluation of financial education initiatives. By isolating a specific investment skill in a setting with voluntary participation, our design sheds light on how selection into financial education shapes measured program effects and informs the assessment of broader workplace and public training programs. This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis. Funding: The authors thank the Pension Research Council of Wharton School at the University of Pennsylvania, as well as the Retirement and Savings Institute at HEC Montréal, for generous research funding. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.08268 .</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Are direct lenders more like banks or arm’s-length investors?]]></title>
-      <link>https://doi.org/10.1016/j.jfineco.2026.104397</link>
-      <guid isPermaLink="false">crossref:10.1016/j.jfineco.2026.104397</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Journal of Financial Economics]]></category>
-      <description><![CDATA[<p><strong>Journal of Financial Economics</strong> ｜ 综合分 30.6 ｜ 上线 2026-10-27（1 天前） · 期号 2026-12</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Innovation booms, easy financing, and human capital accumulation]]></title>
-      <link>https://doi.org/10.1016/j.jfineco.2026.104381</link>
-      <guid isPermaLink="false">crossref:10.1016/j.jfineco.2026.104381</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Journal of Financial Economics]]></category>
-      <description><![CDATA[<p><strong>Journal of Financial Economics</strong> ｜ 综合分 30.6 ｜ 上线 2026-10-27（1 天前） · 期号 2026-12</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
     </item>
   </channel>
 </rss>
