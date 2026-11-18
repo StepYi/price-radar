@@ -1,199 +1,213 @@
-# 价格研究日报 · 2026-11-17
+# 价格研究日报 · 2026-11-18
 
-> 覆盖 17 本顶刊 ｜ 抓取 332 篇 ｜ 新候选 62 篇 ｜ 本期推送 10 篇 ｜ 生成于 2026-11-17 08:14:54
+> 覆盖 17 本顶刊 ｜ 抓取 345 篇 ｜ 新候选 66 篇 ｜ 本期推送 10 篇 ｜ 生成于 2026-11-18 07:47:06
 
-## 1. Feed-in-Tariff with unexpected emission rebound? Incomplete carbon pricing and inter-fuel substitution in manufacturing
+## 1. Can shadow prices from energy system optimization models serve as reliable electricity price indicators?
 
-**Energy Economics** · 上线 2026-11-16（1 天前） · T2 · Aline Mortha、Toshi H. Arimura · 综合分 **66.4** · 强相关
+**Energy Economics** · 上线 2026-11-17（1 天前） · T2 · Daniel Cäsar、Anne Neumann、Sebastian Zwickl-Bernhard · 综合分 **78.9** · 强相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
-标签：`pricing` `carbon` `emission` `tariff`
+标签：`price` `prices` `electricity price` `shadow price` `electricity`
 
 **为什么推荐**
 
-- 相关性 75/100（价格词 ×1题名 / ×0摘要；商品期货词 ×3题名）
+- 相关性 100/100（价格词 ×4题名 / ×0摘要；商品期货词 ×1题名）
 - 期刊权重 75/100（Energy Economics）
 - 时效 93/100（上线 1 天前）
 - 方法匹配 0/100
 
-[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109704)
+[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109702)
 
 ---
 
-## 2. Synergistic policy intervention for green investment and bond pricing: An optimization framework with carbon credits and subsidies
+## 2. Market power abuse in wholesale electricity markets
 
-**Energy Economics** · 上线 2026-11-16（1 天前） · T2 · Huiling Huang、Yixiang Tian、Chabi Marcellin Daki Dominique、Wenjun Zhu · 综合分 **48.6** · 强相关
-
-> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
-
-标签：`pricing` `carbon`
-
-**为什么推荐**
-
-- 相关性 39/100（价格词 ×1题名 / ×0摘要；商品期货词 ×1题名）
-- 期刊权重 75/100（Energy Economics）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 0/100
-
-[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109705)
-
----
-
-## 3. A latent regional greenhouse gas emissions index for Ukraine's energy sector: Insights from a MIMIC model
-
-**Energy Economics** · 上线 2026-11-16（1 天前） · T2 · Serhiy Lyeonov、Aleksandra Kuzior、Nadiya Kostyuchenko、Denys Smolennikov · 综合分 **46.8** · 中等相关
+**Energy Economics** · 上线 2026-11-18（0 天前） · T2 · Alice Lixuan Xu、Jorge Sánchez Canales、Chiara Fusar Bassini、Lynn H. Kaack 等 5 人 · 综合分 **47.9** · 中等相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
-标签：`emission` `emissions`
+标签：`electricity` `wholesale electricity`
 
 **为什么推荐**
 
 - 相关性 36/100（价格词 ×0题名 / ×0摘要；商品期货词 ×2题名）
 - 期刊权重 75/100（Energy Economics）
-- 时效 93/100（上线 1 天前）
+- 时效 100/100（上线 0 天前）
 - 方法匹配 0/100
 
-[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109710)
+[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109700)
 
 ---
 
-## 4. Biodiversity Risk in the Corporate Bond Market
+## 3. Connectors and Influencers
 
-**Management Science** · 上线 2026-11-16（1 天前） · T1 · Sevgi Soylemezgil、Cihan Uzmanoglu · 综合分 **41.1** · 中等相关
+**Management Science** · 上线 2026-11-17（1 天前） · T1 · Frédéric Moisan、Syngjoo Choi、Sanjeev Goyal · 综合分 **42.6** · 强相关
 
-标签：`priced` `yield`
-
-**摘要**
-
-We show that a biodiversity risk premium has emerged in the U.S. corporate bond market following the United Nations Biodiversity Conference (COP15) in October 2021. COP15 placed biodiversity on the global regulatory agenda and raised transition risks for exposed firms. After COP15, a one standard deviation increase in a firm’s biodiversity footprint is associated with a 7% increase in its secondary market yield spreads, whereas this relation is insignificant before COP15. The biodiversity effect is also present in primary bond markets, most pronounced for medium-term bonds and distinct from climate-related mechanisms. Furthermore, a higher biodiversity footprint is associated with a lower likelihood of issuing medium-term bonds after COP15, consistent with firms managing their biodiversity-related risks. Evidence from firms’ biodiversity dependencies suggests that physical biodiversity risks are also priced in the bond market. This paper was accepted by Bo Becker, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07660 .
-
-**为什么推荐**
-
-- 相关性 11/100（价格词 ×0题名 / ×2摘要；商品期货词 ×0题名）
-- 期刊权重 70/100（Management Science）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 25/100（risk premium）
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.1287/mnsc.2024.07660)
-
----
-
-## 5. Whiplash: Congestion Dissipation in a Disrupted Circulatory Shipping System
-
-**Management Science** · 上线 2026-11-16（1 天前） · T1 · Ming Hu、Chaoyu Zhang · 综合分 **40.4** · 强相关
+标签：`future`
 
 **摘要**
 
-The (post)pandemic period was marked by numerous port disruptions, leading to delays and rising costs for shippers. We build a fluid model in transient states to investigate how a disruption at one port can affect the disrupted port and its counterpart in another country in a circulatory container shipping system, where a stream of fleets moves goods back and forth between the two ports. Port disruption leads to two types of congestion: the inbound backlogs, which occur when ships are unable to enter the port, and the outbound backlogs, which arise when goods are unable to be loaded onto ships for transport to other ports. We analytically characterize the system’s recovery time, measured from the onset of the port closure until normal operations are restored, and the dynamics of inbound and outbound backlogs during recovery. We identify a whiplash effect in which outbound backlogs alternate between ports, creating oscillatory congestion patterns because of the disruption-induced uneven spatial distribution of ships. Our analysis reveals that simply increasing ship capacity may not expedite system recovery, highlighting the importance of coordination between port authorities and shipping companies when jointly planning capacity expansions. Furthermore, we examine several extensions of the model. We use the two-port system as a building block to analyze bipartite and cyclic network structures, and we also consider scenarios in which a port experiences multiple disruptions. In all cases, the whiplash effect persists, thereby demonstrating the robustness of our findings. Finally, we use our theory model prediction as a feature and apply machine learning techniques to predict the time that vessels spend in Shanghai Port after a typhoon disruption and show that using our model predictor, alongside all relevant vessel and voyage attributes as raw features, significantly reduces prediction errors by 10%–30% on average compared with not using it. This paper was accepted by Elena Katok, operations management. Funding: This work was supported by the Natural Sciences and Engineering Research Council of Canada [Grant RGPIN-2021-04295]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05427 .
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 70/100（Management Science）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 75/100（predict、prediction、machine learning）
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.1287/mnsc.2024.05427)
-
----
-
-## 6. Do Fund Managers’ Commitments to Responsible Investing Affect Private Information Acquisition, Information Environment, and Corporate Sustainability?
-
-**Management Science** · 上线 2026-11-16（1 天前） · T1 · Sumit Agarwal、Johan Sulaeman、Yue Zhang、Zhe Zong · 综合分 **35.4** · 强相关
-
-**摘要**
-
-We investigate the effects of mutual funds’ commitments to responsible investing on their information acquisition activities and the corresponding externalities for other stakeholders. After committing to responsible investing (via United Nations Principles for Responsible Investment (UNPRI)), fund managers increase private information acquisition activities, that is, corporate site visits, particularly focusing on environmental and social issues. These visits generate negligible private investment value for the visiting funds. However, the information environment at the stock level improves following these visits with lower consensus analyst forecast errors. In addition to the information production role of these visits, they also generate positive externalities for other stakeholders through incremental improvements in the sustainability practices of the firms receiving sustainability-focused site visits from UNPRI fund managers. Collectively, the paper highlights the private costs and social benefits of responsible investing. This paper was accepted by Will Cong, finance. Funding: S. Agarwal and J. Sulaeman acknowledge research support from Sustainable and Green Finance Institute [Grant WBS A-0006413-00-00]. Y. Zhang acknowledges financial support from the National Natural Science Foundation of China [Grant 72402239] and China Scholarship Council. This work was supported by the Ministry of Education, Singapore [Social Science and Humanities Research Thematic Grant SSRC2024-SSHRTG-022]. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not reflect the views of the Social Science Research Council (Singapore) and the Ministry of Education (Singapore). Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08443 .
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 70/100（Management Science）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 25/100（forecast）
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.1287/mnsc.2024.08443)
-
----
-
-## 7. Advertising by Recruiting Influencers
-
-**Management Science** · 上线 2026-11-16（1 天前） · T1 · Maya Jalloul、Vasiliki Kostami · 综合分 **32.9** · 强相关
-
-**摘要**
-
-The rise of social media platforms has enabled customers to rely on influencers and peer reviews to guide their purchasing decisions. As products increasingly focus on experiences, firms are leveraging influencer marketing as a crucial tool. This paper addresses key challenges of influencer marketing by considering different types of influencers and partnership schemes alongside the impact of social learning. We introduce a two-period model wherein, in the initial period, the firm unveils a new product experience of unknown quality alongside an influencer marketing campaign. The campaign relies on two types of influencers that differ in popularity and engagement levels and two partnerships: sponsored advertising and public relations. Customers base their purchasing decisions on their original (heterogeneous) beliefs, influencer-driven information, and reviews from early adopters in the second period. When customers are equally likely to follow any given influencer, the firm should choose a single influencer type and partnership. Consumer reviews complement influencer marketing when products are initially undervalued, increasing the returns to influencer investment. Moreover, within a societal structure characterized by distinct classes, in which followers and influencers often belong to the same class, a mix of influencer types and partnership schemes may become optimal. Our study provides guidance on selecting influencer types, partnership schemes, and social media platforms based on engagement, popularity, audience composition, and platform characteristics. This paper was accepted by Jeanette Song, operations management. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07919 .
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 70/100（Management Science）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 0/100
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.1287/mnsc.2024.07919)
-
----
-
-## 8. A Credit Risk Assessment Model Based on SVM With a Hypersphere‐Based Adaptive Oversampling Technique
-
-**Journal of Forecasting** · 上线 2026-11-17（0 天前） · 在线 2026-11-16 · T3 · Shi Lihang、Tao Xinmin、Wang Ge · 综合分 **29.6** · 强相关
-
-标签：`scarcity`
-
-**摘要**
-
-ABSTRACT Credit risk prediction for small and medium‐sized enterprises (SMEs) is challenging under imbalanced data conditions, where the scarcity of high‐risk SME samples undermines the performance of traditional classifiers. However, SME credit risk studies addressing data imbalance have mainly focused on class imbalance, while other performance‐degrading data difficulty factors, such as outliers, small disjuncts, and class overlap, remain underexplored. To address these challenges, we develop a customized credit risk assessment framework, termed DCHO‐SVM, that integrates the DCHO oversampling method for data preprocessing with SVM for classification. The model first employs principal component analysis (PCA) to reduce data dimensionality and derives a compact feature representation from the constructed indicator system. Subsequently, DCHO preprocesses the training data by dynamically constructing hyperspheres, adaptively determining their oversampling weights based on local distribution characteristics to address within‐class imbalance, and then performing oversampling within the hyperspheres to avoid class overlap. Finally, the balanced training set obtained after oversampling is used to train the SVM classifier, which is subsequently utilized for SME credit risk prediction. Empirical analysis on 551 Chinese listed manufacturing SMEs shows that the proposed model outperforms the conventional classifier, with , , , , and improving from 0.741, 0.507, 0.763, 0.602, and 0.455 to 0.924, 0.752, 0.935, 0.920, and 0.734, respectively. In addition, robustness tests on various real‐world imbalanced credit datasets from UCI and Fannie Mae repositories further verify the effectiveness and generalizability of the proposed model. These results indicate that DCHO‐SVM provides an effective solution for SME credit risk assessment under complex imbalanced scenarios.
+We study a setting in which personal acquisition of information is costly and maintaining personal contacts to share information socially is also costly. The theory predicts star networks, with small groups sustaining an active hub and large groups allowing in addition for an inactive hub equilibrium. Experiments with small (8 subjects) and large (50 subjects) groups show star-like networks throughout. In small groups, behavior matches the active hub prediction. In large groups, hubs are inactive or engage in activity far in excess of the active hub equilibrium depending on how much information subjects are given on their own and others’ earnings. The hub’s activity level shapes relative earnings of subjects and the overall performance of the group. This paper was accepted by Roberto Weber, behavioral economics and decision analysis. Funding: This work was supported by H2020 Future and Emerging Technologies [IBSEN Contract 662725]; the Keynes Fund, University of Cambridge; and the Creative-Pioneering Researchers Program, Seoul National University. S. Goyal acknowledges financial support from the Center of Behavioural Institutional Design and Tamkeen [New York University Abu Dhabi Research Institute Award CG005]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07308 .
 
 **为什么推荐**
 
 - 相关性 4/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 25/100（Journal of Forecasting）
-- 时效 100/100（上线 0 天前）
+- 期刊权重 70/100（Management Science）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 75/100（predict、prediction、equilibrium）
+- 有摘要，可快速判断
+
+[DOI / 原文](https://doi.org/10.1287/mnsc.2024.07308)
+
+---
+
+## 4. Earnings Instability
+
+**The Quarterly Journal of Economics** · 上线 2026-11-17（1 天前） · T1 · Peter Ganong、Pascal Noel、Christina Patterson、Joseph Vavra 等 5 人 · 综合分 **39.9** · 强相关
+
+**摘要**
+
+Abstract This paper uses high-frequency administrative data to show that most U.S. workers experience substantial month-to-month fluctuations in pay, even within ongoing employment relationships. Monthly earnings instability is pervasive but is masked in annual data. Moreover, this instability is unequally distributed: lower-income, hourly workers face more instability than higher-income, salaried workers. Firm-driven fluctuations in hours account for a large share of this instability. Monthly earnings instability, in turn, increases spending volatility and job separations. Short-term earnings risk is therefore a significant feature of the labor market and falls disproportionately on the most financially fragile workers.
+
+**为什么推荐**
+
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 80/100（Quarterly Journal of Economics）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 50/100（volatility、high frequency）
+- 有摘要，可快速判断
+
+[DOI / 原文](https://doi.org/10.1093/qje/qjag059)
+
+---
+
+## 5. Break‐even reference dependence in crop insurance decisions: Theory and evidence
+
+**American Journal of Agricultural Economics** · 上线 2026-11-17（1 天前） · T2 · Xuche Gong、Hongli Feng、David A. Hennessy、Jennifer Ifft 等 6 人 · 综合分 **39.3** · 中等相关
+
+标签：`yield` `yields` `corn`
+
+**摘要**
+
+Abstract We study farmers' crop insurance choices using a behavioral framework in which break‐even status serves as a salient, economically grounded, and empirically observable reference point. The framework nests the standard expected‐utility model as a special case and incorporates three forces: risk reduction, aversion to falling below break‐even status, and disutility from paying premiums. It yields sharp predictions about coverage choices, including bunching at the break‐even coverage level (BECL), defined as the coverage level where the insurance guarantee just covers total cost. We test these predictions using a survey of corn producers in Iowa and Kansas that elicits farmers' perceived BECLs, attitudes toward break‐even protection and premium costs, and their actual Federal Crop Insurance Program coverage choices. Coverage decisions display pronounced and asymmetric bunching around the BECL, with a sharp decline in frequency just below it and a smoother distribution above. Proxy measures of behavioral attitudes are also associated with observed choices in the predicted directions: farmers reporting stronger aversion to not breaking even are more likely to insure exactly at the BECL but not above it, while those reporting stronger premium aversion are more likely to insure below it. Using illustrative simulations, we further examine how subsidy changes interact with these behavioral forces and find that aversion to not breaking even may play an anchoring role that dampens the effects of premium subsidy cuts on coverage choices.
+
+**为什么推荐**
+
+- 相关性 16/100（价格词 ×0题名 / ×2摘要；商品期货词 ×0题名）
+- 期刊权重 50/100（American Journal of Agricultural Economics）
+- 时效 93/100（上线 1 天前）
 - 方法匹配 25/100（prediction）
 - 有摘要，可快速判断
 
-[DOI / 原文](https://doi.org/10.1002/for.70245)
+[DOI / 原文](https://doi.org/10.1002/ajae.70107)
 
 ---
 
-## 9. Beyond external pressure: how management technical proficiency and financial slack shape hospitals' response to environmental regulation
+## 6. Rare earth markets and the energy transition: Multifractal cross-correlations with macro-financial factors before and after COVID-19
 
-**Energy Economics** · 上线 2026-11-16（1 天前） · T2 · Shanshan Yu、Jie Wu、Juntao Du、Yanwu Song · 综合分 **28.9** · 强相关
+**Energy Economics** · 上线 2026-11-18（0 天前） · T2 · Lucas Pordeus、Werner Kristjanpoller、Benjamin Miranda Tabak · 综合分 **38.9** · 中等相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
+标签：`rare earth`
+
 **为什么推荐**
 
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）
 - 期刊权重 75/100（Energy Economics）
-- 时效 93/100（上线 1 天前）
+- 时效 100/100（上线 0 天前）
 - 方法匹配 0/100
 
-[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109719)
+[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109698)
 
 ---
 
-## 10. Corporate reporting under the EU taxonomy framework: a sectoral and geographical analysis of eligibility and alignment
+## 7. The Asymmetry in Responsible Investing Preferences and Beliefs
 
-**Energy Economics** · 上线 2026-11-16（1 天前） · T2 · Andreea Corina Nita、Carmen Nastase、Gabriela Prelipcean、Miika Kajanus 等 5 人 · 综合分 **28.9** · 强相关
+**Management Science** · 上线 2026-11-17（1 天前） · T1 · Jacquelyn Humphrey、Shimon Kogan、Jacob S. Sagi、Laura T. Starks · 综合分 **37.9** · 弱相关
 
-> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
+标签：`pricing` `future`
+
+**摘要**
+
+Empirical stylized facts in the literature concerning “sin” versus “angel” stocks display marked asymmetries in investor behavior. Through a set of experiments, we examine whether such biases can be micro-founded via individuals’ preferences and belief formations. With respect to portfolio allocation decisions, we find that the responses to negative environmental and social externalities are several times larger in magnitude than their responses to comparable positive externalities, ceteris paribus. Negative externalities also modestly increase pessimism about future investment performance, whereas positive externalities have little discernible effect on beliefs. This asymmetry is pervasive across our sample, exhibits heterogeneity across individuals, and is comparable to or greater in magnitude than estimates observed in loss aversion analyses. These findings help rationalize several existing stylized empirical facts documented in the responsible investing literature and carry implications for the growing body of theoretical work modeling the role of nonpecuniary investor preferences in asset pricing. This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06826 .
 
 **为什么推荐**
 
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 75/100（Energy Economics）
+- 相关性 10/100（价格词 ×0题名 / ×1摘要；商品期货词 ×0题名）
+- 期刊权重 70/100（Management Science）
 - 时效 93/100（上线 1 天前）
 - 方法匹配 0/100
+- 有摘要，可快速判断
 
-[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109715)
+[DOI / 原文](https://doi.org/10.1287/mnsc.2024.06826)
+
+---
+
+## 8. How Do Standard Time Series Forecasting Benchmarks Translate to Finance? A Broad Study of Risk Adjusted Performance
+
+**Journal of Forecasting** · 上线 2026-11-17（1 天前） · T3 · Adir Saly‐Kaufmann、Kieran Wood、Jan‐Peter Calliess、Stefan Zohren · 综合分 **35.7** · 强相关
+
+标签：`futures` `future`
+
+**摘要**
+
+ABSTRACT Forecasting financial asset returns is challenging due to low signal‐to‐noise ratios, nonstationarity and heavy‐tailed distributions. We benchmark 16 deep learning architectures for time series forecasting, including Transformers, State Space Models (SSMs), xLSTMs, and recurrent hybrids, on a 15‐year daily futures dataset using an end‐to‐end volatility‐targeted Sharpe ratio optimization task. Our results challenge prevailing assumptions in the literature. Several widely used “state‐of‐the‐art” architectures, including generic Transformers and SSMs, underperformed a simple AR(1) benchmark in a realistic financial forecasting task. The strongest results came from comparatively simple hybrid approaches using recurrent structures: a Variable Selection Network combined with an LSTM achieved the highest Sharpe ratio, while xLSTM showed the greatest robustness to transaction costs. These findings suggest that success on standard time‐series benchmarks does not reliably transfer to finance, and that architectures tailored to the unique properties of asset returns may remain more effective than generic attention‐based approaches for financial forecasting.
+
+**为什么推荐**
+
+- 相关性 9/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 25/100（Journal of Forecasting）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 75/100（forecasting、volatility、state space）
+- 有摘要，可快速判断
+
+[DOI / 原文](https://doi.org/10.1002/for.70233)
+
+---
+
+## 9. Does Feedback Enhance Diversity in Selection Decisions?
+
+**Management Science** · 上线 2026-11-17（1 天前） · T1 · Jose A. Cervantez、Sophia L. Pink、Linda W. Chang、Aneesh Rai 等 5 人 · 综合分 **35.1** · 强相关
+
+标签：`future`
+
+**摘要**
+
+Some organizations provide employees with feedback on the demographics of people they have chosen to spotlight, hire, and promote, hoping to spur more diverse future selections. However, it is an open question whether purely descriptive feedback accomplishes this. We theorize and show that descriptive feedback highlighting low past selection rates of women or racial minorities (e.g., “5% of previous experts interviewed were women”) triggers a motivation to respond without prejudice, increasing the subsequent selection of members of underrepresented groups. Conversely, providing descriptive feedback about low selection rates of people with other attributes (e.g., areas of expertise, geographical location) that do not evoke image or reputational concerns has less influence on future decisions. We demonstrate these patterns across seven preregistered experiments (total n = 6,502), including one framed field experiment (Study 2). One study identifies motivation to respond without prejudice as a mediator of the effect of descriptive feedback about past choices on future selections of women and racial minorities. Another study shows that when women are overrepresented, the effect of descriptive feedback reverses in direction, increasing the subsequent selection of men (due to concerns about fairness), but this effect is significantly smaller in magnitude than the feedback effect produced when women are underrepresented. Practically, the effects of descriptive feedback were 45%–80% as large as simulating a strict quota requiring that at least one woman or racial minority be selected for a given opportunity, highlighting that descriptive feedback is a light-touch but potentially powerful intervention for promoting diversity. This paper was accepted by George Wu, behavioral economics and decision analysis. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01479 .
+
+**为什么推荐**
+
+- 相关性 4/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 70/100（Management Science）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 0/100
+- 有摘要，可快速判断
+
+[DOI / 原文](https://doi.org/10.1287/mnsc.2025.01479)
+
+---
+
+## 10. Human Performance at Solving 0-1 Knapsack Problems: Results from a Large-Scale Field Experiment
+
+**Management Science** · 上线 2026-11-17（1 天前） · T1 · Sumit Agarwal、Joel Goh、Wenlan Qian、Xin Zou · 综合分 **35.1** · 强相关
+
+标签：`future`
+
+**摘要**
+
+The 0-1 knapsack problem is a fundamental problem of discrete choice that permeates many diverse fields and applications, but relatively little is known about what instances human solvers find more difficult than others. This paper reports the results of the first large-scale randomized controlled field experiment investigating this question, conducted in partnership with a global mobile gaming platform. A total of 100,000 different knapsack instances were predesigned for this study and randomly assigned to each player attempt at the knapsack problem. For our base-case analysis, there were 17,950,838 distinct player accounts who made a total of 150,284,195 submitted solution attempts. Contrary to expectations, players performed better on problems that were rated as more difficult by two traditional measures of knapsack difficulty (the Pearson correlation between value and weight vectors and Sahni complexity), but performed worse on problem instances that featured large optimality gaps from a suite of heuristic solution algorithms. These suggest that optimality gaps can serve as promising measures of human-perceived knapsack difficulty and potentially could be used to measure human-perceived problem difficulty for other types of discrete choice problems. We found evidence that players improved their performance with repeated attempts at the knapsack task overall, but less-experienced players of the mobile game improved more quickly than more-experienced players. Through the construction of a new measure of human-perceived difficulty rating for each knapsack instance, we found evidence that players who were assigned to instances with a higher difficulty rating in the past tended to perform better on future attempts. This paper was accepted by Manel Baucells, behavioral economics and decision analysis. Funding: S. Agarwal’s research is supported by the Ministry of Education, Singapore, under its Social Science and Humanities Research Thematic [Grant SSRC2024-SSHRTG-022] and the National Natural Science Foundation of China [Grant 72495154]. J. Goh’s research is supported by a Startup [Grant R-314-000-110-133] and a 2021 Humanities and Social Sciences Faculty Research Fellowship from the National University of Singapore. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00747 .
+
+**为什么推荐**
+
+- 相关性 4/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 70/100（Management Science）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 0/100
+- 有摘要，可快速判断
+
+[DOI / 原文](https://doi.org/10.1287/mnsc.2023.00747)
 
 ---
 
@@ -201,22 +215,22 @@ ABSTRACT Credit risk prediction for small and medium‐sized enterprises (SMEs) 
 
 | 期刊 | 方向 | 窗口内新文 | 本期入选 |
 | --- | --- | --- | --- |
-| Energy Economics | 能源资源 | 92 | 5 |
-| International Journal of Forecasting | 计量预测 | 65 | 0 |
-| Food Policy | 农业商品 | 42 | 0 |
+| Energy Economics | 能源资源 | 95 | 3 |
+| International Journal of Forecasting | 计量预测 | 67 | 0 |
+| Food Policy | 农业商品 | 44 | 0 |
 | Journal of Econometrics | 计量预测 | 29 | 0 |
+| Management Science | 金融经济 | 25 | 4 |
 | Journal of Environmental Economics and Management | 能源资源 | 23 | 0 |
-| Management Science | 金融经济 | 19 | 4 |
 | Journal of Financial Economics | 金融经济 | 14 | 0 |
 | Resource and Energy Economics | 能源资源 | 13 | 0 |
 | Journal of Commodity Markets | 农业商品 | 12 | 0 |
-| Journal of Forecasting | 计量预测 | 9 | 1 |
-| The Quarterly Journal of Economics | 金融经济 | 4 | 0 |
+| Journal of Forecasting | 计量预测 | 8 | 1 |
+| The Quarterly Journal of Economics | 金融经济 | 4 | 1 |
+| American Journal of Agricultural Economics | 农业商品 | 4 | 1 |
 | The Journal of Finance | 金融经济 | 3 | 0 |
-| American Journal of Agricultural Economics | 农业商品 | 3 | 0 |
 | Review of Financial Studies | 金融经济 | 2 | 0 |
 | The Energy Journal | 能源资源 | 2 | 0 |
 | American Economic Review | 金融经济 | 0 | 0 |
 | Econometrica | 金融经济 | 0 | 0 |
 
-数据源：OpenAlex（主）+ Crossref（兜底）。抓取时间 2026-11-17 08:14:54。
+数据源：OpenAlex（主）+ Crossref（兜底）。抓取时间 2026-11-18 07:47:06。

@@ -1,0 +1,716 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18 07:47:06",
+  "stats": {
+    "journals": 17,
+    "fetched": 345,
+    "candidates": 66,
+    "pushed": 10,
+    "digest_size": 10,
+    "per_journal": {
+      "Journal of Finance": {
+        "display": "The Journal of Finance",
+        "group": "金融经济",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 3,
+        "error": ""
+      },
+      "Journal of Financial Economics": {
+        "display": "Journal of Financial Economics",
+        "group": "金融经济",
+        "publisher": "Elsevier",
+        "fetched": 14,
+        "error": ""
+      },
+      "Review of Financial Studies": {
+        "display": "Review of Financial Studies",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 2,
+        "error": ""
+      },
+      "American Economic Review": {
+        "display": "American Economic Review",
+        "group": "金融经济",
+        "publisher": "American Economic Association",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Quarterly Journal of Economics": {
+        "display": "The Quarterly Journal of Economics",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 4,
+        "error": ""
+      },
+      "Econometrica": {
+        "display": "Econometrica",
+        "group": "金融经济",
+        "publisher": "The Econometric Society",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Management Science": {
+        "display": "Management Science",
+        "group": "金融经济",
+        "publisher": "Institute for Operations Research and the Management Sciences",
+        "fetched": 25,
+        "error": ""
+      },
+      "Energy Economics": {
+        "display": "Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 95,
+        "error": ""
+      },
+      "The Energy Journal": {
+        "display": "The Energy Journal",
+        "group": "能源资源",
+        "publisher": "SAGE Publications",
+        "fetched": 2,
+        "error": ""
+      },
+      "Journal of Environmental Economics and Management": {
+        "display": "Journal of Environmental Economics and Management",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 23,
+        "error": ""
+      },
+      "Resource and Energy Economics": {
+        "display": "Resource and Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 13,
+        "error": ""
+      },
+      "American Journal of Agricultural Economics": {
+        "display": "American Journal of Agricultural Economics",
+        "group": "农业商品",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 4,
+        "error": ""
+      },
+      "Journal of Commodity Markets": {
+        "display": "Journal of Commodity Markets",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 12,
+        "error": ""
+      },
+      "Food Policy": {
+        "display": "Food Policy",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 44,
+        "error": ""
+      },
+      "Journal of Econometrics": {
+        "display": "Journal of Econometrics",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 29,
+        "error": ""
+      },
+      "International Journal of Forecasting": {
+        "display": "International Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 67,
+        "error": ""
+      },
+      "Journal of Forecasting": {
+        "display": "Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Wiley (John Wiley & Sons)",
+        "fetched": 8,
+        "error": ""
+      }
+    },
+    "selection_notes": {
+      "strict_pool": 1,
+      "cap_relaxed": false,
+      "relaxed": true,
+      "filled": true,
+      "relaxed_pool": 3
+    },
+    "abstract_coverage": 0.152,
+    "enrich": {
+      "s2_filled": 0,
+      "openalex_filled": 0,
+      "openalex_note": "请求失败（HTTP 400 :: https://api.openalex.org/works?filter=doi%3A10.1016%2Fj.jfineco.2026.104410%7C10.1287%2Fmnsc.2026.eb.v72n11%7C10.1016%2Fj.eneco.2026.109700%7C10.1016%2Fj.eneco.2026.109698%7C10.1016%2Fj.eneco.2026.109702%7C10.1016%2Fj.eneco.2026.109716%7C10.1016%2Fj.jeem.2026.103440%7C10.1016%2Fj.jeem.2026.103436%7C10.1016%2Fj.foodpol.2026.103231%7C10.1016%2Fj.foodpol.2026.103229%7C10.1016%2Fj.foodpol.2026.103228%7C10.1016%2Fj.foodpol.2026.103200%7C10.1016%2Fj.foodpol.2026.103232%7C10.1016%2Fj.foodpol.2026.103209%7C10.1016%2Fj.foodpol.2026.103225%7C10.1016%2Fj.jeconom.2026.106350%7C10.1016%2Fj.ijforecast.2026.10.011%7C10.1016%2Fj.ijforecast.2026.10.009%7C10.1016%2Fj.ijforecast.2026.09.002%7C10.1016%2Fj.ijforecast.2026.10.010%7C10.1016%2Fj.ijforecast.2026.10.005%7C10.1002%2Ffor.v45.8&per-page=22&select=doi%2Cabstract_inverted_index%2Ccited_by_count%2Cis_oa%2Cbest_oa_location&mailto=2485892471%40qq.com :: {\"error\":\"Invalid query parameters error.\",\"message\":\"is_oa is not a valid select field. Valid fields for select are: id, doi, title, display_name, alternate_titles, relevance_score, rerank_score, pub）"
+    }
+  },
+  "items": [
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109702",
+      "doi": "10.1016/j.eneco.2026.109702",
+      "title": "Can shadow prices from energy system optimization models serve as reliable electricity price indicators?",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-17",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Daniel Cäsar",
+        "Anne Neumann",
+        "Sebastian Zwickl-Bernhard"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109702",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 78.93,
+      "rank": 1,
+      "relevance_raw": 14.5,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "prices",
+        "electricity price",
+        "shadow price",
+        "electricity"
+      ],
+      "reasons": [
+        "相关性 100/100（价格词 ×4题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [
+          "price",
+          "prices",
+          "electricity price",
+          "shadow price"
+        ],
+        "core_abstract": [],
+        "context_title": [
+          "electricity"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-18"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109700",
+      "doi": "10.1016/j.eneco.2026.109700",
+      "title": "Market power abuse in wholesale electricity markets",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-18",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Alice Lixuan Xu",
+        "Jorge Sánchez Canales",
+        "Chiara Fusar Bassini",
+        "Lynn H. Kaack",
+        "Lion Hirth"
+      ],
+      "author_count": 5,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109700",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 47.86,
+      "rank": 2,
+      "relevance_raw": 5.0,
+      "relevance_level": "medium",
+      "keywords": [
+        "electricity",
+        "wholesale electricity"
+      ],
+      "reasons": [
+        "相关性 36/100（价格词 ×0题名 / ×0摘要；商品期货词 ×2题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "electricity",
+          "wholesale electricity"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-18"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2024.07308",
+      "doi": "10.1287/mnsc.2024.07308",
+      "title": "Connectors and Influencers",
+      "abstract": "We study a setting in which personal acquisition of information is costly and maintaining personal contacts to share information socially is also costly. The theory predicts star networks, with small groups sustaining an active hub and large groups allowing in addition for an inactive hub equilibrium. Experiments with small (8 subjects) and large (50 subjects) groups show star-like networks throughout. In small groups, behavior matches the active hub prediction. In large groups, hubs are inactive or engage in activity far in excess of the active hub equilibrium depending on how much information subjects are given on their own and others’ earnings. The hub’s activity level shapes relative earnings of subjects and the overall performance of the group. This paper was accepted by Roberto Weber, behavioral economics and decision analysis. Funding: This work was supported by H2020 Future and Emerging Technologies [IBSEN Contract 662725]; the Keynes Fund, University of Cambridge; and the Creative-Pioneering Researchers Program, Seoul National University. S. Goyal acknowledges financial support from the Center of Behavioural Institutional Design and Tamkeen [New York University Abu Dhabi Research Institute Award CG005]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07308 .",
+      "publication_date": "2026-11-17",
+      "created_date": "2026-11-17",
+      "issue_date": "2026-11-17",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Frédéric Moisan",
+        "Syngjoo Choi",
+        "Sanjeev Goyal"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2024.07308",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 42.57,
+      "rank": 3,
+      "relevance_raw": 0.6,
+      "relevance_level": "strong",
+      "keywords": [
+        "future"
+      ],
+      "reasons": [
+        "相关性 4/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 75/100（predict、prediction、equilibrium）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [
+          "future"
+        ],
+        "method": [
+          "predict",
+          "prediction",
+          "equilibrium"
+        ]
+      },
+      "pushed_date": "2026-11-18"
+    },
+    {
+      "id": "crossref:10.1093/qje/qjag059",
+      "doi": "10.1093/qje/qjag059",
+      "title": "Earnings Instability",
+      "abstract": "Abstract This paper uses high-frequency administrative data to show that most U.S. workers experience substantial month-to-month fluctuations in pay, even within ongoing employment relationships. Monthly earnings instability is pervasive but is masked in annual data. Moreover, this instability is unequally distributed: lower-income, hourly workers face more instability than higher-income, salaried workers. Firm-driven fluctuations in hours account for a large share of this instability. Monthly earnings instability, in turn, increases spending volatility and job separations. Short-term earnings risk is therefore a significant feature of the labor market and falls disproportionately on the most financially fragile workers.",
+      "publication_date": "2026-11-17",
+      "created_date": "2026-11-17",
+      "issue_date": "2026-11-17",
+      "journal": "Quarterly Journal of Economics",
+      "journal_display": "The Quarterly Journal of Economics",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Peter Ganong",
+        "Pascal Noel",
+        "Christina Patterson",
+        "Joseph Vavra",
+        "Alexander Weinberg"
+      ],
+      "author_count": 5,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1093/qje/qjag059",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 39.93,
+      "rank": 4,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 80/100（Quarterly Journal of Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 50/100（volatility、high frequency）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "volatility",
+          "high frequency"
+        ]
+      },
+      "pushed_date": "2026-11-18"
+    },
+    {
+      "id": "crossref:10.1002/ajae.70107",
+      "doi": "10.1002/ajae.70107",
+      "title": "Break‐even reference dependence in crop insurance decisions: Theory and evidence",
+      "abstract": "Abstract We study farmers' crop insurance choices using a behavioral framework in which break‐even status serves as a salient, economically grounded, and empirically observable reference point. The framework nests the standard expected‐utility model as a special case and incorporates three forces: risk reduction, aversion to falling below break‐even status, and disutility from paying premiums. It yields sharp predictions about coverage choices, including bunching at the break‐even coverage level (BECL), defined as the coverage level where the insurance guarantee just covers total cost. We test these predictions using a survey of corn producers in Iowa and Kansas that elicits farmers' perceived BECLs, attitudes toward break‐even protection and premium costs, and their actual Federal Crop Insurance Program coverage choices. Coverage decisions display pronounced and asymmetric bunching around the BECL, with a sharp decline in frequency just below it and a smoother distribution above. Proxy measures of behavioral attitudes are also associated with observed choices in the predicted directions: farmers reporting stronger aversion to not breaking even are more likely to insure exactly at the BECL but not above it, while those reporting stronger premium aversion are more likely to insure below it. Using illustrative simulations, we further examine how subsidy changes interact with these behavioral forces and find that aversion to not breaking even may play an anchoring role that dampens the effects of premium subsidy cuts on coverage choices.",
+      "publication_date": "2026-11-17",
+      "created_date": "2026-11-17",
+      "issue_date": "2026-11-17",
+      "journal": "American Journal of Agricultural Economics",
+      "journal_display": "American Journal of Agricultural Economics",
+      "group": "农业商品",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Xuche Gong",
+        "Hongli Feng",
+        "David A. Hennessy",
+        "Jennifer Ifft",
+        "Robert Shupp",
+        "Michel Regenwetter"
+      ],
+      "author_count": 6,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1002/ajae.70107",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 39.29,
+      "rank": 5,
+      "relevance_raw": 2.2,
+      "relevance_level": "medium",
+      "keywords": [
+        "yield",
+        "yields",
+        "corn"
+      ],
+      "reasons": [
+        "相关性 16/100（价格词 ×0题名 / ×2摘要；商品期货词 ×0题名）",
+        "期刊权重 50/100（American Journal of Agricultural Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（prediction）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "yield",
+          "yields"
+        ],
+        "context_title": [],
+        "context_abstract": [
+          "corn"
+        ],
+        "method": [
+          "prediction"
+        ]
+      },
+      "pushed_date": "2026-11-18"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109698",
+      "doi": "10.1016/j.eneco.2026.109698",
+      "title": "Rare earth markets and the energy transition: Multifractal cross-correlations with macro-financial factors before and after COVID-19",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-18",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Lucas Pordeus",
+        "Werner Kristjanpoller",
+        "Benjamin Miranda Tabak"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109698",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 38.93,
+      "rank": 6,
+      "relevance_raw": 2.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "rare earth"
+      ],
+      "reasons": [
+        "相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "rare earth"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-18"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2024.06826",
+      "doi": "10.1287/mnsc.2024.06826",
+      "title": "The Asymmetry in Responsible Investing Preferences and Beliefs",
+      "abstract": "Empirical stylized facts in the literature concerning “sin” versus “angel” stocks display marked asymmetries in investor behavior. Through a set of experiments, we examine whether such biases can be micro-founded via individuals’ preferences and belief formations. With respect to portfolio allocation decisions, we find that the responses to negative environmental and social externalities are several times larger in magnitude than their responses to comparable positive externalities, ceteris paribus. Negative externalities also modestly increase pessimism about future investment performance, whereas positive externalities have little discernible effect on beliefs. This asymmetry is pervasive across our sample, exhibits heterogeneity across individuals, and is comparable to or greater in magnitude than estimates observed in loss aversion analyses. These findings help rationalize several existing stylized empirical facts documented in the responsible investing literature and carry implications for the growing body of theoretical work modeling the role of nonpecuniary investor preferences in asset pricing. This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06826 .",
+      "publication_date": "2026-11-17",
+      "created_date": "2026-11-17",
+      "issue_date": "2026-11-17",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Jacquelyn Humphrey",
+        "Shimon Kogan",
+        "Jacob S. Sagi",
+        "Laura T. Starks"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2024.06826",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 37.93,
+      "rank": 7,
+      "relevance_raw": 1.4,
+      "relevance_level": "weak",
+      "keywords": [
+        "pricing",
+        "future"
+      ],
+      "reasons": [
+        "相关性 10/100（价格词 ×0题名 / ×1摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "pricing"
+        ],
+        "context_title": [],
+        "context_abstract": [
+          "future"
+        ],
+        "method": []
+      },
+      "pushed_date": "2026-11-18"
+    },
+    {
+      "id": "crossref:10.1002/for.70233",
+      "doi": "10.1002/for.70233",
+      "title": "How Do Standard Time Series Forecasting Benchmarks Translate to Finance? A Broad Study of Risk Adjusted Performance",
+      "abstract": "ABSTRACT Forecasting financial asset returns is challenging due to low signal‐to‐noise ratios, nonstationarity and heavy‐tailed distributions. We benchmark 16 deep learning architectures for time series forecasting, including Transformers, State Space Models (SSMs), xLSTMs, and recurrent hybrids, on a 15‐year daily futures dataset using an end‐to‐end volatility‐targeted Sharpe ratio optimization task. Our results challenge prevailing assumptions in the literature. Several widely used “state‐of‐the‐art” architectures, including generic Transformers and SSMs, underperformed a simple AR(1) benchmark in a realistic financial forecasting task. The strongest results came from comparatively simple hybrid approaches using recurrent structures: a Variable Selection Network combined with an LSTM achieved the highest Sharpe ratio, while xLSTM showed the greatest robustness to transaction costs. These findings suggest that success on standard time‐series benchmarks does not reliably transfer to finance, and that architectures tailored to the unique properties of asset returns may remain more effective than generic attention‐based approaches for financial forecasting.",
+      "publication_date": "2026-11-17",
+      "created_date": "2026-11-17",
+      "issue_date": "2026-11-17",
+      "journal": "Journal of Forecasting",
+      "journal_display": "Journal of Forecasting",
+      "group": "计量预测",
+      "tier": 3,
+      "cited_by_count": 0,
+      "authors": [
+        "Adir Saly‐Kaufmann",
+        "Kieran Wood",
+        "Jan‐Peter Calliess",
+        "Stefan Zohren"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1002/for.70233",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 35.71,
+      "rank": 8,
+      "relevance_raw": 1.2,
+      "relevance_level": "strong",
+      "keywords": [
+        "futures",
+        "future"
+      ],
+      "reasons": [
+        "相关性 9/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 25/100（Journal of Forecasting）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 75/100（forecasting、volatility、state space）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [
+          "futures",
+          "future"
+        ],
+        "method": [
+          "forecasting",
+          "volatility",
+          "state space"
+        ]
+      },
+      "pushed_date": "2026-11-18"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2025.01479",
+      "doi": "10.1287/mnsc.2025.01479",
+      "title": "Does Feedback Enhance Diversity in Selection Decisions?",
+      "abstract": "Some organizations provide employees with feedback on the demographics of people they have chosen to spotlight, hire, and promote, hoping to spur more diverse future selections. However, it is an open question whether purely descriptive feedback accomplishes this. We theorize and show that descriptive feedback highlighting low past selection rates of women or racial minorities (e.g., “5% of previous experts interviewed were women”) triggers a motivation to respond without prejudice, increasing the subsequent selection of members of underrepresented groups. Conversely, providing descriptive feedback about low selection rates of people with other attributes (e.g., areas of expertise, geographical location) that do not evoke image or reputational concerns has less influence on future decisions. We demonstrate these patterns across seven preregistered experiments (total n = 6,502), including one framed field experiment (Study 2). One study identifies motivation to respond without prejudice as a mediator of the effect of descriptive feedback about past choices on future selections of women and racial minorities. Another study shows that when women are overrepresented, the effect of descriptive feedback reverses in direction, increasing the subsequent selection of men (due to concerns about fairness), but this effect is significantly smaller in magnitude than the feedback effect produced when women are underrepresented. Practically, the effects of descriptive feedback were 45%–80% as large as simulating a strict quota requiring that at least one woman or racial minority be selected for a given opportunity, highlighting that descriptive feedback is a light-touch but potentially powerful intervention for promoting diversity. This paper was accepted by George Wu, behavioral economics and decision analysis. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01479 .",
+      "publication_date": "2026-11-17",
+      "created_date": "2026-11-17",
+      "issue_date": "2026-11-17",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Jose A. Cervantez",
+        "Sophia L. Pink",
+        "Linda W. Chang",
+        "Aneesh Rai",
+        "Katherine L. Milkman"
+      ],
+      "author_count": 5,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2025.01479",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 35.07,
+      "rank": 9,
+      "relevance_raw": 0.6,
+      "relevance_level": "strong",
+      "keywords": [
+        "future"
+      ],
+      "reasons": [
+        "相关性 4/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [
+          "future"
+        ],
+        "method": []
+      },
+      "pushed_date": "2026-11-18"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2023.00747",
+      "doi": "10.1287/mnsc.2023.00747",
+      "title": "Human Performance at Solving 0-1 Knapsack Problems: Results from a Large-Scale Field Experiment",
+      "abstract": "The 0-1 knapsack problem is a fundamental problem of discrete choice that permeates many diverse fields and applications, but relatively little is known about what instances human solvers find more difficult than others. This paper reports the results of the first large-scale randomized controlled field experiment investigating this question, conducted in partnership with a global mobile gaming platform. A total of 100,000 different knapsack instances were predesigned for this study and randomly assigned to each player attempt at the knapsack problem. For our base-case analysis, there were 17,950,838 distinct player accounts who made a total of 150,284,195 submitted solution attempts. Contrary to expectations, players performed better on problems that were rated as more difficult by two traditional measures of knapsack difficulty (the Pearson correlation between value and weight vectors and Sahni complexity), but performed worse on problem instances that featured large optimality gaps from a suite of heuristic solution algorithms. These suggest that optimality gaps can serve as promising measures of human-perceived knapsack difficulty and potentially could be used to measure human-perceived problem difficulty for other types of discrete choice problems. We found evidence that players improved their performance with repeated attempts at the knapsack task overall, but less-experienced players of the mobile game improved more quickly than more-experienced players. Through the construction of a new measure of human-perceived difficulty rating for each knapsack instance, we found evidence that players who were assigned to instances with a higher difficulty rating in the past tended to perform better on future attempts. This paper was accepted by Manel Baucells, behavioral economics and decision analysis. Funding: S. Agarwal’s research is supported by the Ministry of Education, Singapore, under its Social Science and Humanities Research Thematic [Grant SSRC2024-SSHRTG-022] and the National Natural Science Foundation of China [Grant 72495154]. J. Goh’s research is supported by a Startup [Grant R-314-000-110-133] and a 2021 Humanities and Social Sciences Faculty Research Fellowship from the National University of Singapore. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00747 .",
+      "publication_date": "2026-11-17",
+      "created_date": "2026-11-17",
+      "issue_date": "2026-11-17",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Sumit Agarwal",
+        "Joel Goh",
+        "Wenlan Qian",
+        "Xin Zou"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2023.00747",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 35.07,
+      "rank": 10,
+      "relevance_raw": 0.6,
+      "relevance_level": "strong",
+      "keywords": [
+        "future"
+      ],
+      "reasons": [
+        "相关性 4/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [
+          "future"
+        ],
+        "method": []
+      },
+      "pushed_date": "2026-11-18"
+    }
+  ]
+}
