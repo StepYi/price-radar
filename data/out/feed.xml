@@ -6,7 +6,87 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日顶刊价格研究文献精选（大宗商品 / 期货 / 能源 / 农产品价格）</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Nov 2026 07:47:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 07:43:53 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Production Function Estimation With Factor‐Augmenting Technology: An Application to Markups]]></title>
+      <link>https://doi.org/10.3982/ecta19299</link>
+      <guid isPermaLink="false">crossref:10.3982/ecta19299</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Econometrica]]></category>
+      <description><![CDATA[<p><strong>Econometrica</strong> ｜ 综合分 67.5 ｜ 上线 2026-11-19（0 天前） · 在线 2026-01-01</p><p>I develop a new method for estimating production functions with labor‐augmenting technology and apply it to markup estimation. The method imposes limited parametric restrictions and generalizes prior approaches that rely on the CES production function. I first extend the canonical Olley–Pakes framework assumptions to multidimensional productivity and then develop an identification strategy based on a control variable approach and first‐order conditions. I use this method to estimate output elasticities and markups in manufacturing industries in the US and four developing countries. I find that neglecting labor‐augmenting productivity underestimates capital elasticity, overestimates variable input elasticity, and overestimates markups in all countries.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Two‐Sided Markets Shaped by Platform‐Guided Search]]></title>
+      <link>https://doi.org/10.3982/ecta22288</link>
+      <guid isPermaLink="false">crossref:10.3982/ecta22288</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Econometrica]]></category>
+      <description><![CDATA[<p><strong>Econometrica</strong> ｜ 综合分 49.3 ｜ 上线 2026-11-19（0 天前） · 在线 2026-01-01</p><p>This paper investigates concerns that vertically integrated platforms like Amazon steer demand toward their own offers via algorithmic prominence, potentially harming consumers. On Amazon, for each product, the Buybox prominence algorithm selects one seller to feature, influencing which offers consumers consider. Using novel Amazon sales and Buybox (prominence) data, we estimate a structural model capturing the effects of such algorithmic prominence on consumer choices, seller pricing, and entry. We find that the platform can indeed steer demand as 95% of consumers consider only the Buybox offer. The Buybox is highly price‐elastic (−21), but skews toward Amazon&#x27;s own offers, which are featured as frequently as observably similar offers priced 5% cheaper. Still, as consumers prefer these offers, this skew does not amount to self‐preferencing in the sense of harming consumers: consumer surplus is roughly maximized at the estimated Amazon Buybox advantage, which balances higher prices against showing consumers their preferred offers.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Intermediate Input Substitutability]]></title>
+      <link>https://doi.org/10.3982/ecta21141</link>
+      <guid isPermaLink="false">crossref:10.3982/ecta21141</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Econometrica]]></category>
+      <description><![CDATA[<p><strong>Econometrica</strong> ｜ 综合分 48.5 ｜ 上线 2026-11-19（0 天前） · 在线 2026-01-01</p><p>We estimate long‐run elasticities of substitution between intermediate inputs for Indian manufacturing plants. India&#x27;s trade liberalization in the early 1990s provides an ideal natural policy experiment, with permanent and heterogeneous tariff reductions inducing changes in relative prices which we use for identification. We find a high degree of substitutability at the plant‐level between 8 broad categories of material inputs, significantly above the Cobb–Douglas benchmark of 1. In contrast, when considering shorter time horizons or more transitory shocks to relative prices, we find evidence of much lower elasticities. Using our long‐run elasticities in a quantitative model, we find that misallocation of intermediate inputs causes a reduction in aggregate output of 29%–3.5 times larger relative to a standard calibration with complementary inputs.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Putting the ‘Finance’ Into ‘Public Finance’: A Theory of Capital Gains Taxation]]></title>
+      <link>https://doi.org/10.3982/ecta24013</link>
+      <guid isPermaLink="false">crossref:10.3982/ecta24013</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Econometrica]]></category>
+      <description><![CDATA[<p><strong>Econometrica</strong> ｜ 综合分 46.8 ｜ 上线 2026-11-19（0 天前） · 在线 2026-01-01</p><p>Standard optimal capital tax theory abstracts from modeling asset prices, making it unsuitable for thinking about capital gains and wealth taxation. We study optimal redistributive taxation in an environment with asset‐price movements, adopting the modern finance view that asset prices fluctuate not only because of changing cash flows, but also due to other factors (“discount rates”). We show that a combination of realization‐based capital gains and cash flow taxes implements the optimal allocation regardless of the source of asset‐price fluctuations. Moreover, the capital gains tax avoids distortions in portfolio choice (the so‐called lock‐in effect) by targeting total net trades rather than gains from selling individual assets. These results stand in contrast to the classic Haig–Simons comprehensive income tax concept as well as recent proposals for wealth or accrual‐based capital gains taxes.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[From Predictive Algorithms to the Automatic Generation of Anomalies]]></title>
+      <link>https://doi.org/10.3982/ecta22958</link>
+      <guid isPermaLink="false">crossref:10.3982/ecta22958</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Econometrica]]></category>
+      <description><![CDATA[<p><strong>Econometrica</strong> ｜ 综合分 45.3 ｜ 上线 2026-11-19（0 天前） · 在线 2026-01-01</p><p>How can we extract theoretical insights from machine learning algorithms? We take a familiar lesson: researchers often turn intuition into theoretical insight by constructing “anomalies”—specific examples highlighting hypothesized flaws in a theory, such as the Allais paradox. We develop procedures that replace researchers&#x27; intuitions with predictive algorithms: given a predictive algorithm and a theory, our procedures automatically generate anomalies for that theory. We illustrate our procedures by generating anomalies for expected utility theory. Based on a neural network that accurately predicts lottery choices, we recover known anomalies for expected utility theory and discover novel ones. In incentivized experiments, subjects violate expected utility theory on these algorithmically generated anomalies at rates similar to the Allais paradox and common ratio effect.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Extreme Value Theory With Heterogeneous Agents]]></title>
+      <link>https://doi.org/10.3982/ecta22276</link>
+      <guid isPermaLink="false">crossref:10.3982/ecta22276</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Econometrica]]></category>
+      <description><![CDATA[<p><strong>Econometrica</strong> ｜ 综合分 41.0 ｜ 上线 2026-11-19（0 天前） · 在线 2026-01-01</p><p>Extreme value processes feature in any economic model in which agents receive a number of draws from some distribution of values and we examine the behavior of the maximum value in the limit as the number of draws becomes large. This paper asks: Do the average outcomes of such processes change when different agents receive a different number of draws? To answer this, we allow the number of draws an agent receives from the underlying distribution of values (e.g., productivities, ideas, or utility shocks) to be given by a search technology , which reflects heterogeneity in the expected number of draws across different types of agents. We derive a new class of extreme value distributions that generalizes the three standard distributions (Fréchet, Gumbel, Weibull) by incorporating heterogeneity across agents. We generalize a result from Gabaix, Laibson, Li, Li, Resnick, and de Vries (2016) regarding extreme value outcomes and consider applications to aggregate productivity, markups, and social networks.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Optimal Formula Instruments]]></title>
+      <link>https://doi.org/10.3982/ecta24250</link>
+      <guid isPermaLink="false">crossref:10.3982/ecta24250</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Econometrica]]></category>
+      <description><![CDATA[<p><strong>Econometrica</strong> ｜ 综合分 41.0 ｜ 上线 2026-11-19（0 天前） · 在线 2026-01-01</p><p>When estimating the effects of treatments defined by complex formulas, researchers often use simple functions of exogenous shocks as instruments. A leading example is “simulated instruments” for public policy eligibility, which capture variation in state‐level policy generosity. We show how more powerful instruments can be constructed by incorporating heterogeneous shock exposure while using a recentering procedure to avoid bias. We characterize the asymptotically efficient instruments in this class and propose an algorithm for constructing feasible approximations to them. Compared to a simulated instrument approach, our approach yields a 44% smaller standard error on the private insurance crowd‐out effect of Medicaid enrollment from the 2014 Affordable Care Act expansions.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Pass-through of international fossil fuel prices to electricity prices]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109690</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109690</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 78.9 ｜ 上线 2026-11-18（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Oil Price Collapses, Bank Distress, and Firm Borrowing in Resource-Dependent Economies]]></title>
+      <link>https://doi.org/10.1016/j.jcomm.2026.100598</link>
+      <guid isPermaLink="false">crossref:10.1016/j.jcomm.2026.100598</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Commodity Markets]]></category>
+      <description><![CDATA[<p><strong>Journal of Commodity Markets</strong> ｜ 综合分 59.3 ｜ 上线 2026-11-18（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Valuing sequential e-fuel investments under market uncertainty and permitting delays: A compound real options approach]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109693</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109693</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 46.8 ｜ 上线 2026-11-18（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
     <item>
       <title><![CDATA[Market power abuse in wholesale electricity markets]]></title>
       <link>https://doi.org/10.1016/j.eneco.2026.109700</link>
@@ -1526,86 +1606,6 @@
       <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[Journal of Finance]]></category>
       <description><![CDATA[<p><strong>The Journal of Finance</strong> ｜ 综合分 35.6 ｜ 上线 2026-10-30（1 天前）</p><p>ABSTRACT We consider an informed large shareholder who can choose between making a takeover bid herself and initiating a sale to another acquirer. Such takeover activism complements direct takeovers because the very choice mitigates the asymmetric information problem, thereby improving efficiency. As more investors enter the market for corporate control, takeover activism increasingly replaces direct takeovers as the prevailing mode of disciplinary control change, matching the evolution in practice. Our model shows how this evolution, characterized by a symbiotic relationship between investor activism and private equity, arises to overcome asymmetric information and collective action problems through intermediated transactions.</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Uncertainty, Volatility, and Renewable Energy Stock Returns: Evidence From Regime‐Dependent and Machine‐Learning Forecasting Models]]></title>
-      <link>https://doi.org/10.1002/for.70238</link>
-      <guid isPermaLink="false">crossref:10.1002/for.70238</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Journal of Forecasting]]></category>
-      <description><![CDATA[<p><strong>Journal of Forecasting</strong> ｜ 综合分 50.4 ｜ 上线 2026-10-30（0 天前） · 在线 2026-10-29</p><p>ABSTRACT This study examines the predictability of renewable energy stock returns under economic, financial, and policy uncertainty within a real‐time forecasting framework. Using monthly data from May 2007 to May 2025, we compare conventional econometric models, shrinkage estimators, machine‐learning algorithms, and regime‐dependent forecasting models using a recursive expanding‐window design. Forecast performance is evaluated using statistical accuracy measures, robustness analyses, and an economic portfolio evaluation. The results show that nonlinear forecasting methods consistently outperform conventional linear benchmarks. Gradient boosting achieves the lowest forecast errors, while principal component regression provides stable performance across alternative evaluation designs. Regime‐dependent forecasting models improve directional prediction during periods of heightened financial uncertainty but generate more modest gains in forecast accuracy. Predictor‐importance analysis identifies financial‐market volatility as the dominant source of forecasting information, followed by oil‐market volatility and broader policy uncertainty. Overall, the findings demonstrate that combining multiple sources of uncertainty with flexible forecasting methods improves both statistical forecasting performance and the economic value of investment decisions. JEL Classification: C22 C53 C58 G11 Q42</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Policy design and firm-level energy efficiency: Evidence from emissions trading versus command-and-control in Korea]]></title>
-      <link>https://doi.org/10.1016/j.eneco.2026.109678</link>
-      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109678</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 47.9 ｜ 上线 2026-10-30（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[The effect of new housing supply in structural models: A forecasting performance evaluation]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0169207026001007</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207026001007</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[International Journal of Forecasting]]></category>
-      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 30.0 ｜ 上线 2026-10-30（0 天前） · 在线 2026-10-15</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Robust estimation and inference for high-dimensional panel data models]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0304407626001624</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0304407626001624</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Journal of Econometrics]]></category>
-      <description><![CDATA[<p><strong>Journal of Econometrics</strong> ｜ 综合分 29.2 ｜ 上线 2026-10-30（0 天前） · 在线 2026-11-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Multitype Information Acquisition in a Strategic Trading Model]]></title>
-      <link>https://doi.org/10.1287/mnsc.2024.08463</link>
-      <guid isPermaLink="false">crossref:10.1287/mnsc.2024.08463</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Management Science]]></category>
-      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 46.5 ｜ 上线 2026-10-29（1 天前）</p><p>We analyze information acquisition in a strategic trading model with multidimensional uncertainties. Our main result is that the equilibrium can exhibit multiplicity because of the integer nature of the number of informed traders and the strategic interactions across different types of informed traders. We show that the number of equilibria can be arbitrarily large. Moreover, asymmetric equilibria can arise even in symmetric settings. As information costs rise, fewer traders acquire information, yet prices can become more informative. These results shed light on the instability of financial markets and yield testable empirical predictions. This paper was accepted by Lukas Schmid, finance. Funding: This work was supported by the National Natural Science Foundation of China [Grants 72472171 and 72372011]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08463 .</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Contest or Contract: Assessing the Effectiveness of Contests in Online Labor Markets]]></title>
-      <link>https://doi.org/10.1287/mnsc.2024.07082</link>
-      <guid isPermaLink="false">crossref:10.1287/mnsc.2024.07082</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Management Science]]></category>
-      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 38.3 ｜ 上线 2026-10-29（1 天前）</p><p>Online labor markets have become increasingly popular among companies seeking global access to workers. Some platforms have adopted a contest-based scheme, allowing employers to review multiple submissions before selecting the best one. This practice raises a crucial question: Given a predefined budget, should employers choose a contest or contract scheme for tasks? This study examines the comparative effectiveness of contests versus contracts in achieving better job outcomes, focusing on design tasks characterized by high uncertainty. Using a comprehensive data set from a leading online labor market, we employ multiple empirical strategies, combined with machine learning and text mining techniques, to examine the impact of compensation schemes on job quality. Our results suggest that contract-based jobs yield better performance than contests in the context of ideation tasks. Further analysis, such as examining image similarity among pairwise solutions within a task, identifies “copying” behaviors as a key mechanism undermining the effectiveness of contests. In the public setting of contests, workers can observe others’ submissions and revise their own, leading to imitation rather than innovation. As competition intensity increases, workers have weaker incentives to exert effort, reducing solution quality. Consequently, the negative incentive effects in contests outweigh both the potential positive incentive and parallel effects. Moreover, although information availability can enhance work quality, contests inherently offer limited informational advantages compared with contracts. Taken together, our findings suggest that contract-based schemes are more effective than contests for design tasks, offering important implications for both employers and platform designers in online labor markets. This paper was accepted by Karan Girotra, operations management. Funding: N. Zhang acknowledges the support from the National Natural Science Foundation of China [Grant 72302053]. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.07082 .</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Inflexibility and Leverage]]></title>
-      <link>https://doi.org/10.1287/mnsc.2024.08672</link>
-      <guid isPermaLink="false">crossref:10.1287/mnsc.2024.08672</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Management Science]]></category>
-      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 37.6 ｜ 上线 2026-10-29（1 天前）</p><p>Firms’ inflexibility to adjust their scale persistently explains capital structure variations in a comprehensive sample and randomly selected subsamples. Higher inflexibility leads to lower financial leverage, potentially due to higher default risk and lower value of tax shields. Contraction inflexibility determines leverage more than expansion inflexibility. Moreover, our inflexibility measure explains financial leverage significantly better than other variables that potentially capture certain aspects of adjustment costs for capital or labor. In addition, inflexible firms increase leverage more following a positive credit supply shock. Analyses employing instrumental variables estimation confirm our main finding. Our results suggest inflexibility shapes corporate financial policies. This paper was accepted by Bo Becker, finance. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08672 .</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Do Experimental Asset Market Results Replicate? High‐Powered Preregistered Replications of 17 Key Results]]></title>
-      <link>https://doi.org/10.1111/jofi.70100</link>
-      <guid isPermaLink="false">crossref:10.1111/jofi.70100</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Journal of Finance]]></category>
-      <description><![CDATA[<p><strong>The Journal of Finance</strong> ｜ 综合分 35.6 ｜ 上线 2026-10-29（1 天前）</p><p>ABSTRACT Experimental asset markets provide a controlled approach to studying financial markets. We attempt to replicate 17 key results from four prominent studies, collecting new data from 166 markets with 1,544 participants. Only three of the 14 original results reported as statistically significant were successfully replicated. We fail to replicate findings on emotions, self‐control, and gender differences in bubble formation but confirm that experience reduces bubbles and cognitive skills explain trading success. Our study demonstrates the importance of replications in enhancing the credibility of scientific results in this field.</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Willingness to Compete in Dirty Competitions]]></title>
-      <link>https://doi.org/10.1287/mnsc.2025.01218</link>
-      <guid isPermaLink="false">crossref:10.1287/mnsc.2025.01218</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Management Science]]></category>
-      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 35.4 ｜ 上线 2026-10-29（1 天前）</p><p>Competitive environments often leave room for “dirty” practices such as sabotage, retaliation, or dishonesty. We use an online experiment to document aggregate levels and individual differences in the willingness to engage in dirty competition and in the willingness to enter competitions where the opponent may play dirty. We then use the experimental data to validate a set of survey questions that capture willingness to engage in dirty competition above general willingness to compete. We elicit these questions in a representative survey panel and show that willingness to engage in dirty competition is a strong predictor of holding a management or supervisory position and of working in the private—versus the public—sector, but also of worse self-esteem, worse social relationships, and increased feelings of guilt and shame. Men, younger people, and lower-educated people are on average more willing to engage in dirty competition. This paper was accepted by Dorothea Kübler, behavioral economics and decision analysis. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01218 .</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Decoupling voting and cash flow rights]]></title>
-      <link>https://doi.org/10.1016/j.jfineco.2026.104388</link>
-      <guid isPermaLink="false">crossref:10.1016/j.jfineco.2026.104388</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Journal of Financial Economics]]></category>
-      <description><![CDATA[<p><strong>Journal of Financial Economics</strong> ｜ 综合分 30.6 ｜ 上线 2026-10-29（1 天前） · 在线 2026-12-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
     </item>
   </channel>
 </rss>

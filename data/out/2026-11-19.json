@@ -1,0 +1,716 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19 07:43:53",
+  "stats": {
+    "journals": 17,
+    "fetched": 368,
+    "candidates": 83,
+    "pushed": 10,
+    "digest_size": 10,
+    "per_journal": {
+      "Journal of Finance": {
+        "display": "The Journal of Finance",
+        "group": "金融经济",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 2,
+        "error": ""
+      },
+      "Journal of Financial Economics": {
+        "display": "Journal of Financial Economics",
+        "group": "金融经济",
+        "publisher": "Elsevier",
+        "fetched": 14,
+        "error": ""
+      },
+      "Review of Financial Studies": {
+        "display": "Review of Financial Studies",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 2,
+        "error": ""
+      },
+      "American Economic Review": {
+        "display": "American Economic Review",
+        "group": "金融经济",
+        "publisher": "American Economic Association",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Quarterly Journal of Economics": {
+        "display": "The Quarterly Journal of Economics",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 4,
+        "error": ""
+      },
+      "Econometrica": {
+        "display": "Econometrica",
+        "group": "金融经济",
+        "publisher": "The Econometric Society",
+        "fetched": 17,
+        "error": ""
+      },
+      "Management Science": {
+        "display": "Management Science",
+        "group": "金融经济",
+        "publisher": "Institute for Operations Research and the Management Sciences",
+        "fetched": 25,
+        "error": ""
+      },
+      "Energy Economics": {
+        "display": "Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 100,
+        "error": ""
+      },
+      "The Energy Journal": {
+        "display": "The Energy Journal",
+        "group": "能源资源",
+        "publisher": "SAGE Publications",
+        "fetched": 2,
+        "error": ""
+      },
+      "Journal of Environmental Economics and Management": {
+        "display": "Journal of Environmental Economics and Management",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 25,
+        "error": ""
+      },
+      "Resource and Energy Economics": {
+        "display": "Resource and Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 13,
+        "error": ""
+      },
+      "American Journal of Agricultural Economics": {
+        "display": "American Journal of Agricultural Economics",
+        "group": "农业商品",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 2,
+        "error": ""
+      },
+      "Journal of Commodity Markets": {
+        "display": "Journal of Commodity Markets",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 13,
+        "error": ""
+      },
+      "Food Policy": {
+        "display": "Food Policy",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 45,
+        "error": ""
+      },
+      "Journal of Econometrics": {
+        "display": "Journal of Econometrics",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 29,
+        "error": ""
+      },
+      "International Journal of Forecasting": {
+        "display": "International Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 69,
+        "error": ""
+      },
+      "Journal of Forecasting": {
+        "display": "Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Wiley (John Wiley & Sons)",
+        "fetched": 6,
+        "error": ""
+      }
+    },
+    "selection_notes": {
+      "strict_pool": 3,
+      "cap_relaxed": false,
+      "relaxed": true,
+      "filled": true,
+      "relaxed_pool": 9
+    },
+    "abstract_coverage": 0.193,
+    "enrich": {
+      "s2_filled": 0,
+      "openalex_filled": 0,
+      "openalex_note": "请求失败（HTTP 400 :: https://api.openalex.org/works?filter=doi%3A10.1016%2Fj.jfineco.2026.104410%7C10.3982%2Fecta25748%7C10.3982%2Fecta22886%7C10.3982%2Fecta946fm%7C10.3982%2Fecta946bm%7C10.1287%2Fmnsc.2026.eb.v72n11%7C10.1016%2Fj.eneco.2026.109693%7C10.1016%2Fj.eneco.2026.109714%7C10.1016%2Fj.eneco.2026.109690%7C10.1016%2Fj.eneco.2026.109694%7C10.1016%2Fj.eneco.2026.109695%7C10.1016%2Fj.eneco.2026.109716%7C10.1016%2Fj.jeem.2026.103442%7C10.1016%2Fj.jeem.2026.103445%7C10.1016%2Fj.jeem.2026.103440%7C10.1016%2Fj.jcomm.2026.100598%7C10.1016%2Fj.foodpol.2026.103211%7C10.1016%2Fj.foodpol.2026.103231%7C10.1016%2Fj.foodpol.2026.103229%7C10.1016%2Fj.foodpol.2026.103228%7C10.1016%2Fj.foodpol.2026.103200%7C10.1016%2Fj.foodpol.2026.103232%7C10.1016%2Fj.ijforecast.2026.09.007%7C10.1016%2Fj.ijforecast.2026.10.008%7C10.1016%2Fj.ijforecast.2026.10.011%7C10.1016%2Fj.ijforecast.2026.10.009%7C10.1016%2Fj.ijforecast.2026.09.002%7C10.1016%2Fj.ijforecast.2026.10.010%7C10.1016%2Fj.ijforecast.2026.10.005&per-page=29&select=doi%2Cabstract_inverted_index%2Ccited_by_count%2Cis_oa%2Cbest_oa_location&mailto=2485892471%40qq.com :: {\"error\":\"Invalid query parameters error.\",\"message\":\"is_oa is not a valid select field. Valid fields for select are: id, doi, title, display_name, alternate_titles, relevance_score, rerank_score, pub）"
+    }
+  },
+  "items": [
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109690",
+      "doi": "10.1016/j.eneco.2026.109690",
+      "title": "Pass-through of international fossil fuel prices to electricity prices",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-18",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Tiho Ancev",
+        "Kelly Neill",
+        "Songze Qu"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109690",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 78.93,
+      "rank": 1,
+      "relevance_raw": 14.5,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "prices",
+        "pass through",
+        "electricity price",
+        "electricity"
+      ],
+      "reasons": [
+        "相关性 100/100（价格词 ×4题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [
+          "price",
+          "prices",
+          "pass through",
+          "electricity price"
+        ],
+        "core_abstract": [],
+        "context_title": [
+          "electricity"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-19"
+    },
+    {
+      "id": "crossref:10.3982/ecta19299",
+      "doi": "10.3982/ecta19299",
+      "title": "Production Function Estimation With Factor‐Augmenting Technology: An Application to Markups",
+      "abstract": "I develop a new method for estimating production functions with labor‐augmenting technology and apply it to markup estimation. The method imposes limited parametric restrictions and generalizes prior approaches that rely on the CES production function. I first extend the canonical Olley–Pakes framework assumptions to multidimensional productivity and then develop an identification strategy based on a control variable approach and first‐order conditions. I use this method to estimate output elasticities and markups in manufacturing industries in the US and four developing countries. I find that neglecting labor‐augmenting productivity underestimates capital elasticity, overestimates variable input elasticity, and overestimates markups in all countries.",
+      "publication_date": "2026-01-01",
+      "created_date": "2026-11-19",
+      "issue_date": "2026-01-01",
+      "journal": "Econometrica",
+      "journal_display": "Econometrica",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Mert Demirer"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.3982/ecta19299",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 67.48,
+      "rank": 2,
+      "relevance_raw": 7.6,
+      "relevance_level": "strong",
+      "keywords": [
+        "markup",
+        "markups"
+      ],
+      "reasons": [
+        "相关性 54/100（价格词 ×2题名 / ×2摘要；商品期货词 ×0题名）",
+        "期刊权重 77/100（Econometrica）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 50/100（identification、elasticity）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "markup",
+          "markups"
+        ],
+        "core_abstract": [
+          "markup",
+          "markups"
+        ],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "identification",
+          "elasticity"
+        ]
+      },
+      "pushed_date": "2026-11-19"
+    },
+    {
+      "id": "crossref:10.1016/j.jcomm.2026.100598",
+      "doi": "10.1016/j.jcomm.2026.100598",
+      "title": "Oil Price Collapses, Bank Distress, and Firm Borrowing in Resource-Dependent Economies",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-18",
+      "issue_date": "2026-11-01",
+      "journal": "Journal of Commodity Markets",
+      "journal_display": "Journal of Commodity Markets",
+      "group": "农业商品",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Sanna Kurronen"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.jcomm.2026.100598",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 59.29,
+      "rank": 3,
+      "relevance_raw": 8.5,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "oil price",
+        "oil"
+      ],
+      "reasons": [
+        "相关性 61/100（价格词 ×2题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 75/100（Journal of Commodity Markets）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [
+          "price",
+          "oil price"
+        ],
+        "core_abstract": [],
+        "context_title": [
+          "oil"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-19"
+    },
+    {
+      "id": "crossref:10.3982/ecta22288",
+      "doi": "10.3982/ecta22288",
+      "title": "Two‐Sided Markets Shaped by Platform‐Guided Search",
+      "abstract": "This paper investigates concerns that vertically integrated platforms like Amazon steer demand toward their own offers via algorithmic prominence, potentially harming consumers. On Amazon, for each product, the Buybox prominence algorithm selects one seller to feature, influencing which offers consumers consider. Using novel Amazon sales and Buybox (prominence) data, we estimate a structural model capturing the effects of such algorithmic prominence on consumer choices, seller pricing, and entry. We find that the platform can indeed steer demand as 95% of consumers consider only the Buybox offer. The Buybox is highly price‐elastic (−21), but skews toward Amazon's own offers, which are featured as frequently as observably similar offers priced 5% cheaper. Still, as consumers prefer these offers, this skew does not amount to self‐preferencing in the sense of harming consumers: consumer surplus is roughly maximized at the estimated Amazon Buybox advantage, which balances higher prices against showing consumers their preferred offers.",
+      "publication_date": "2026-01-01",
+      "created_date": "2026-11-19",
+      "issue_date": "2026-01-01",
+      "journal": "Econometrica",
+      "journal_display": "Econometrica",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Kwok Hao Lee",
+        "Leon Musolff"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.3982/ecta22288",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 49.26,
+      "rank": 4,
+      "relevance_raw": 3.2,
+      "relevance_level": "medium",
+      "keywords": [
+        "price",
+        "prices",
+        "pricing",
+        "priced"
+      ],
+      "reasons": [
+        "相关性 23/100（价格词 ×0题名 / ×4摘要；商品期货词 ×0题名）",
+        "期刊权重 77/100（Econometrica）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（structural）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "price",
+          "prices",
+          "pricing",
+          "priced"
+        ],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "structural"
+        ]
+      },
+      "pushed_date": "2026-11-19"
+    },
+    {
+      "id": "crossref:10.3982/ecta21141",
+      "doi": "10.3982/ecta21141",
+      "title": "Intermediate Input Substitutability",
+      "abstract": "We estimate long‐run elasticities of substitution between intermediate inputs for Indian manufacturing plants. India's trade liberalization in the early 1990s provides an ideal natural policy experiment, with permanent and heterogeneous tariff reductions inducing changes in relative prices which we use for identification. We find a high degree of substitutability at the plant‐level between 8 broad categories of material inputs, significantly above the Cobb–Douglas benchmark of 1. In contrast, when considering shorter time horizons or more transitory shocks to relative prices, we find evidence of much lower elasticities. Using our long‐run elasticities in a quantitative model, we find that misallocation of intermediate inputs causes a reduction in aggregate output of 29%–3.5 times larger relative to a standard calibration with complementary inputs.",
+      "publication_date": "2026-01-01",
+      "created_date": "2026-11-19",
+      "issue_date": "2026-01-01",
+      "journal": "Econometrica",
+      "journal_display": "Econometrica",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Alessandra Peter",
+        "Cian Ruane"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.3982/ecta21141",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 48.55,
+      "rank": 5,
+      "relevance_raw": 3.0,
+      "relevance_level": "medium",
+      "keywords": [
+        "price",
+        "prices",
+        "relative price",
+        "tariff"
+      ],
+      "reasons": [
+        "相关性 21/100（价格词 ×0题名 / ×3摘要；商品期货词 ×0题名）",
+        "期刊权重 77/100（Econometrica）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（identification）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "price",
+          "prices",
+          "relative price"
+        ],
+        "context_title": [],
+        "context_abstract": [
+          "tariff"
+        ],
+        "method": [
+          "identification"
+        ]
+      },
+      "pushed_date": "2026-11-19"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109693",
+      "doi": "10.1016/j.eneco.2026.109693",
+      "title": "Valuing sequential e-fuel investments under market uncertainty and permitting delays: A compound real options approach",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-18",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Martín Álvarez",
+        "Tomás Reyes",
+        "Enzo Sauma"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109693",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 46.79,
+      "rank": 6,
+      "relevance_raw": 5.0,
+      "relevance_level": "medium",
+      "keywords": [
+        "option",
+        "options"
+      ],
+      "reasons": [
+        "相关性 36/100（价格词 ×0题名 / ×0摘要；商品期货词 ×2题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "option",
+          "options"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-19"
+    },
+    {
+      "id": "crossref:10.3982/ecta24013",
+      "doi": "10.3982/ecta24013",
+      "title": "Putting the ‘Finance’ Into ‘Public Finance’: A Theory of Capital Gains Taxation",
+      "abstract": "Standard optimal capital tax theory abstracts from modeling asset prices, making it unsuitable for thinking about capital gains and wealth taxation. We study optimal redistributive taxation in an environment with asset‐price movements, adopting the modern finance view that asset prices fluctuate not only because of changing cash flows, but also due to other factors (“discount rates”). We show that a combination of realization‐based capital gains and cash flow taxes implements the optimal allocation regardless of the source of asset‐price fluctuations. Moreover, the capital gains tax avoids distortions in portfolio choice (the so‐called lock‐in effect) by targeting total net trades rather than gains from selling individual assets. These results stand in contrast to the classic Haig–Simons comprehensive income tax concept as well as recent proposals for wealth or accrual‐based capital gains taxes.",
+      "publication_date": "2026-01-01",
+      "created_date": "2026-11-19",
+      "issue_date": "2026-01-01",
+      "journal": "Econometrica",
+      "journal_display": "Econometrica",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Mark Aguiar",
+        "Benjamin Moll",
+        "Florian Scheuer"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.3982/ecta24013",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 46.76,
+      "rank": 7,
+      "relevance_raw": 3.2,
+      "relevance_level": "medium",
+      "keywords": [
+        "price",
+        "prices",
+        "asset price",
+        "asset prices"
+      ],
+      "reasons": [
+        "相关性 23/100（价格词 ×0题名 / ×4摘要；商品期货词 ×0题名）",
+        "期刊权重 77/100（Econometrica）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "price",
+          "prices",
+          "asset price",
+          "asset prices"
+        ],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-19"
+    },
+    {
+      "id": "crossref:10.3982/ecta22958",
+      "doi": "10.3982/ecta22958",
+      "title": "From Predictive Algorithms to the Automatic Generation of Anomalies",
+      "abstract": "How can we extract theoretical insights from machine learning algorithms? We take a familiar lesson: researchers often turn intuition into theoretical insight by constructing “anomalies”—specific examples highlighting hypothesized flaws in a theory, such as the Allais paradox. We develop procedures that replace researchers' intuitions with predictive algorithms: given a predictive algorithm and a theory, our procedures automatically generate anomalies for that theory. We illustrate our procedures by generating anomalies for expected utility theory. Based on a neural network that accurately predicts lottery choices, we recover known anomalies for expected utility theory and discover novel ones. In incentivized experiments, subjects violate expected utility theory on these algorithmically generated anomalies at rates similar to the Allais paradox and common ratio effect.",
+      "publication_date": "2026-01-01",
+      "created_date": "2026-11-19",
+      "issue_date": "2026-01-01",
+      "journal": "Econometrica",
+      "journal_display": "Econometrica",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 1,
+      "authors": [
+        "Sendhil Mullainathan",
+        "Ashesh Rambachan"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.3982/ecta22958",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 45.33,
+      "rank": 8,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 77/100（Econometrica）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 100/100（predict、predictive、machine learning、neural network）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "predict",
+          "predictive",
+          "machine learning",
+          "neural network"
+        ]
+      },
+      "pushed_date": "2026-11-19"
+    },
+    {
+      "id": "crossref:10.3982/ecta22276",
+      "doi": "10.3982/ecta22276",
+      "title": "Extreme Value Theory With Heterogeneous Agents",
+      "abstract": "Extreme value processes feature in any economic model in which agents receive a number of draws from some distribution of values and we examine the behavior of the maximum value in the limit as the number of draws becomes large. This paper asks: Do the average outcomes of such processes change when different agents receive a different number of draws? To answer this, we allow the number of draws an agent receives from the underlying distribution of values (e.g., productivities, ideas, or utility shocks) to be given by a search technology , which reflects heterogeneity in the expected number of draws across different types of agents. We derive a new class of extreme value distributions that generalizes the three standard distributions (Fréchet, Gumbel, Weibull) by incorporating heterogeneity across agents. We generalize a result from Gabaix, Laibson, Li, Li, Resnick, and de Vries (2016) regarding extreme value outcomes and consider applications to aggregate productivity, markups, and social networks.",
+      "publication_date": "2026-01-01",
+      "created_date": "2026-11-19",
+      "issue_date": "2026-01-01",
+      "journal": "Econometrica",
+      "journal_display": "Econometrica",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Sephorah Mangin"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.3982/ecta22276",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 41.05,
+      "rank": 9,
+      "relevance_raw": 1.6,
+      "relevance_level": "medium",
+      "keywords": [
+        "markup",
+        "markups"
+      ],
+      "reasons": [
+        "相关性 11/100（价格词 ×0题名 / ×2摘要；商品期货词 ×0题名）",
+        "期刊权重 77/100（Econometrica）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "markup",
+          "markups"
+        ],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-19"
+    },
+    {
+      "id": "crossref:10.3982/ecta24250",
+      "doi": "10.3982/ecta24250",
+      "title": "Optimal Formula Instruments",
+      "abstract": "When estimating the effects of treatments defined by complex formulas, researchers often use simple functions of exogenous shocks as instruments. A leading example is “simulated instruments” for public policy eligibility, which capture variation in state‐level policy generosity. We show how more powerful instruments can be constructed by incorporating heterogeneous shock exposure while using a recentering procedure to avoid bias. We characterize the asymptotically efficient instruments in this class and propose an algorithm for constructing feasible approximations to them. Compared to a simulated instrument approach, our approach yields a 44% smaller standard error on the private insurance crowd‐out effect of Medicaid enrollment from the 2014 Affordable Care Act expansions.",
+      "publication_date": "2026-01-01",
+      "created_date": "2026-11-19",
+      "issue_date": "2026-01-01",
+      "journal": "Econometrica",
+      "journal_display": "Econometrica",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Kirill Borusyak",
+        "Peter Hull"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.3982/ecta24250",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 41.05,
+      "rank": 10,
+      "relevance_raw": 1.6,
+      "relevance_level": "medium",
+      "keywords": [
+        "yield",
+        "yields"
+      ],
+      "reasons": [
+        "相关性 11/100（价格词 ×0题名 / ×2摘要；商品期货词 ×0题名）",
+        "期刊权重 77/100（Econometrica）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "yield",
+          "yields"
+        ],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-19"
+    }
+  ]
+}
