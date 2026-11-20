@@ -6,7 +6,71 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日顶刊价格研究文献精选（大宗商品 / 期货 / 能源 / 农产品价格）</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 19 Nov 2026 07:43:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 07:33:48 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Comment on ‘Selection and Comparative Advantage in Technology Adoption’ by Tavneet Suri]]></title>
+      <link>https://doi.org/10.3982/ecta21760</link>
+      <guid isPermaLink="false">crossref:10.3982/ecta21760</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Econometrica]]></category>
+      <description><![CDATA[<p><strong>Econometrica</strong> ｜ 综合分 41.4 ｜ 上线 2026-11-19（1 天前） · 在线 2026-01-01</p><p>This paper illustrates and addresses weak identification in the correlated random coefficient (CRC) model that Suri (2011) uses to study agricultural technology adoption. Using the publicly available data set, which differs slightly from the version used in Suri (2011), we obtain different point estimates for the paper&#x27;s main CRC model. To understand why these differences are as large as they are, we recast the CRC model as a more general random coefficient model in which the returns to hybrid adoption are restricted to be linear in comparative advantage. This reveals that the key structural parameter in the CRC model ( ϕ ), which governs the relationship between baseline productivity and the returns to adoption, is prone to a weak‐identification problem. We then propose a procedure to conduct weak‐identification robust inference on ϕ using test inversion. Our weak‐identification robust confidence intervals contain the original Suri (2011) point estimates, which suggests that the difference in results may be attributable to a combination of minor data differences and weak identification.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Consumer behaviour and the uptake of solar panels]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109682</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109682</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 40.4 ｜ 上线 2026-11-19（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Sample Range as Subjective Variability and Implications for Experience-Based Decision Making]]></title>
+      <link>https://doi.org/10.1287/mnsc.2024.05050</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2024.05050</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 38.6 ｜ 上线 2026-11-19（1 天前）</p><p>Variance and standard deviation are common metrics of statistical variability in the management and decision-making literature. In everyday contexts, however, information about sample range prevails. Range is arguably easier to comprehend and compute than variance, yet it often yields equivalent judgments about variability. Hence, we reason that decision makers often rely on range to judge variability. We test this hypothesis across four behavioral experiments (total n = 1,093). When comparing the variability of two number sets, decision makers predominantly based their judgments on sample range rather than sample variance when the two metrics disagree (experiment 1). Sample range tends to increase with sample size, whereas sample variance does not. Consistent with the range as variability hypothesis, decision makers perceived distributions as more variable after observing larger samples (experiment 2). This perceived variability, in turn, influenced risky decisions, as larger sample sizes led to decreased valuations of uncertain rewards for risk-averse decision makers (experiment 3). In further support of the hypothesis, when asked to mentally simulate new samples from a previously experienced distribution, participants generated more numbers within the observed range and fewer numbers outside of it than the true distribution implies (experiment 4). To model the data, we propose a “cognitive fence” idea as a potential psychological explanation for how experience shapes subjective variability. We conclude by discussing implications for research on overconfidence, distributional learning, risk perception, and communication. This paper was accepted by Jack Soll, behavioral economics and decision analysis. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05050 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Distributional and efficiency impacts of supranational carbon budget allocations]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109699</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109699</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 37.9 ｜ 上线 2026-11-19（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Coalitions in Repeated Games]]></title>
+      <link>https://doi.org/10.3982/ecta23921</link>
+      <guid isPermaLink="false">crossref:10.3982/ecta23921</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Econometrica]]></category>
+      <description><![CDATA[<p><strong>Econometrica</strong> ｜ 综合分 37.1 ｜ 上线 2026-11-19（1 天前） · 在线 2026-01-01</p><p>This paper proposes a framework and solution concept for repeated coalitional behavior. We model history‐dependent schemes that use continuation promises and punishments to deter coalitions from blocking. We evaluate the effectiveness of these schemes with and without transferable utility, and apply the framework to study the implications of wage transparency in labor markets.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[The Social Learning Barrier]]></title>
+      <link>https://doi.org/10.3982/ecta24769</link>
+      <guid isPermaLink="false">crossref:10.3982/ecta24769</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Econometrica]]></category>
+      <description><![CDATA[<p><strong>Econometrica</strong> ｜ 综合分 36.8 ｜ 上线 2026-11-19（1 天前） · 在线 2026-01-01</p><p>Long‐lived agents interact repeatedly in a social network. In each period, each agent observes a private signal, chooses an action, and then observes the actions of her neighbors. We show that the learning rate of the slowest‐learning agent is capped by a constant that depends only on the distribution of the most informative private signal, but not on the number of agents, the network structure, correlations between the private signals, or the agents&#x27; strategies. For equilibrium learning with rational agents, the same result bounds the learning rate of every agent in any equilibrium under a broad class of conditions. The result is driven by an information‐theoretic tradeoff between optimal action choices and information revelation.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Why Are the Wealthiest so Wealthy? New Longitudinal Empirical Evidence and Implications for Theories of Wealth Inequality]]></title>
+      <link>https://doi.org/10.3982/ecta23194</link>
+      <guid isPermaLink="false">crossref:10.3982/ecta23194</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Econometrica]]></category>
+      <description><![CDATA[<p><strong>Econometrica</strong> ｜ 综合分 36.8 ｜ 上线 2026-11-19（1 天前） · 在线 2026-01-01</p><p>We study the lifecycle dynamics of wealth inequality using 1993–2019 Norwegian administrative panel data on wealth and income. Employing a novel budget‐constraint approach, we decompose the excess wealth of the top 0.1% households relative to the median between ages 45 and 64 into higher saving rates (36%), inheritances (31%), returns (28%), and labor income (5%). One‐quarter of the wealthiest—the “New Money”—start with negative wealth on average but accumulate rapidly through high labor income and exceptionally high saving rates and returns. The “Old Money” inherit substantial wealth and grow it through above‐average though more modest saving and returns. We use these dynamic facts to evaluate five standard wealth inequality models. Although these models match cross‐sectional wealth concentration, they fail to reproduce the distinct dynamics of New and Old Money. A heterogeneous entrepreneurship model with decreasing returns to scale technology and nonhomothetic preferences is consistent with the observed dynamics.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[An Exact t ‐Test]]></title>
+      <link>https://doi.org/10.3982/ecta22545</link>
+      <guid isPermaLink="false">crossref:10.3982/ecta22545</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Econometrica]]></category>
+      <description><![CDATA[<p><strong>Econometrica</strong> ｜ 综合分 34.3 ｜ 上线 2026-11-19（1 天前） · 在线 2026-01-01</p><p>Multivariate linear regression and randomization‐based inference are two essential methods in statistics and econometrics. Nevertheless, the problem of producing a randomized test for the value of a single regression coefficient that is exactly valid when errors are exchangeable, and which is asymptotically valid for the best linear predictor, has remained elusive. In this paper, we produce a test that is exactly valid with exchangeable errors and which allows for general covariate designs; covariates may be continuous as well as discrete and may be correlated. The test is asymptotically valid when the errors are not exchangeable, in particular in the presence of conditional heteroskedasticity.</p>]]></description>
+    </item>
     <item>
       <title><![CDATA[Production Function Estimation With Factor‐Augmenting Technology: An Application to Markups]]></title>
       <link>https://doi.org/10.3982/ecta19299</link>
@@ -62,6 +126,22 @@
       <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[Econometrica]]></category>
       <description><![CDATA[<p><strong>Econometrica</strong> ｜ 综合分 41.0 ｜ 上线 2026-11-19（0 天前） · 在线 2026-01-01</p><p>When estimating the effects of treatments defined by complex formulas, researchers often use simple functions of exogenous shocks as instruments. A leading example is “simulated instruments” for public policy eligibility, which capture variation in state‐level policy generosity. We show how more powerful instruments can be constructed by incorporating heterogeneous shock exposure while using a recentering procedure to avoid bias. We characterize the asymptotically efficient instruments in this class and propose an algorithm for constructing feasible approximations to them. Compared to a simulated instrument approach, our approach yields a 44% smaller standard error on the private insurance crowd‐out effect of Medicaid enrollment from the 2014 Affordable Care Act expansions.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Transmission Investment and Cost Allocation in Electricity Markets: A Paper in Honor of Stephen Littlechild]]></title>
+      <link>https://doi.org/10.1177/01956574261505757</link>
+      <guid isPermaLink="false">crossref:10.1177/01956574261505757</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[The Energy Journal]]></category>
+      <description><![CDATA[<p><strong>The Energy Journal</strong> ｜ 综合分 38.9 ｜ 上线 2026-11-18（2 天前） · 在线 2026-11-17</p><p>Large electric power transmission investments interact with electricity markets and can produce material changes in costs and benefits. The early case of Argentina with its “Public Contest” method for investment selection and cost allocation foreshadowed later developments in organized markets in North America. A common central challenge is to define the costs and benefits within the context of market and regulatory decisions. JEL Classification: Q40, Energy: General</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Carbon reduction effects of market access deregulation: evidence from China's market access negative list pilot]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109714</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109714</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 36.8 ｜ 上线 2026-11-18（2 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
     </item>
     <item>
       <title><![CDATA[Pass-through of international fossil fuel prices to electricity prices]]></title>
@@ -1526,86 +1606,6 @@
       <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[American Economic Review]]></category>
       <description><![CDATA[<p><strong>American Economic Review</strong> ｜ 综合分 33.9 ｜ 上线 2026-10-30（2 天前） · 期号 2026-11</p><p>We study residential segregation and access to public services across 1.5 million urban and rural neighborhoods in India. Muslim and Scheduled Caste segregation in India is high by global standards and only slightly lower than Black-White segregation in the United States. Within cities, public facilities and infrastructure are systematically less available in Muslim and Scheduled Caste neighborhoods. Nearly all regressive allocation is across neighborhoods within cities—at the most informal and least studied form of government. These inequalities are not visible in the aggregate data typically used for research and policy. (JEL H76, J15, O15, O17, O18, R23)</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[The Unequal Economic Consequences of Carbon Pricing]]></title>
-      <link>https://doi.org/10.1257/aer.20230448</link>
-      <guid isPermaLink="false">crossref:10.1257/aer.20230448</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[American Economic Review]]></category>
-      <description><![CDATA[<p><strong>American Economic Review</strong> ｜ 综合分 79.9 ｜ 上线 2026-10-30（1 天前） · 期号 2026-11</p><p>This paper studies the economic impacts of carbon pricing. Exploiting institutional features of the European carbon market and high-frequency data, I identify carbon policy shocks and trace their dynamic effects. A restrictive carbon policy shock raises energy prices, reduces emissions, spurs green innovation, but decreases economic activity—disproportionately burdening poorer households. Not only are the poor more affected because of their higher energy spending, but they also experience larger income losses. These indirect, general equilibrium effects via income and employment play an important role in the transmission of carbon pricing policies, accounting for about two-thirds of the aggregate consumption response. (JEL E23, E24, O44, Q41, Q54, Q55, Q58)</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[The Causal Effects of Global Supply Chain Disruptions on Macroeconomic Outcomes: Evidence and Theory]]></title>
-      <link>https://doi.org/10.1257/aer.20250081</link>
-      <guid isPermaLink="false">crossref:10.1257/aer.20250081</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[American Economic Review]]></category>
-      <description><![CDATA[<p><strong>American Economic Review</strong> ｜ 综合分 54.9 ｜ 上线 2026-10-30（1 天前） · 期号 2026-11</p><p>We study the causal effects of global supply chain disruptions by constructing a new index of real-time port congestion using Automatic Identification System data from container ships and a spatial clustering algorithm. We develop a model with search frictions between producers and retailers that links upstream production slack to downstream supply shortages and captures output and price responses to supply chain shocks. The co-movements of output, prices, spare capacity, and market tightness provide novel identification restrictions. We find that demand and supply shocks drove US disinflation in 2020, while the inflation surge in 2021 was driven mainly by supply chain shocks. (JEL C43, E31, F14, F23, L14, L92)</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[The Inflation Attention Threshold and Inflation Surges]]></title>
-      <link>https://doi.org/10.1257/aer.20250051</link>
-      <guid isPermaLink="false">crossref:10.1257/aer.20250051</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[American Economic Review]]></category>
-      <description><![CDATA[<p><strong>American Economic Review</strong> ｜ 综合分 52.8 ｜ 上线 2026-10-30（1 天前） · 期号 2026-11</p><p>The recent inflation surge brought inflation back on people&#x27;s minds. I quantify when and how much attention to inflation changes and derive the macroeconomic implications of these attention changes. I estimate an attention threshold at an inflation rate of 4 percent, that attention doubles when inflation exceeds this threshold, and that supply shocks have stronger and more persistent effects on inflation in times of high attention. Developing a model featuring the attention threshold, I show that attention changes offer a joint explanation for inflation surges, inflation&#x27;s co-movement with inflation expectations, and a long last mile of disinflation. (JEL D84, E12, E31, E43, E52)</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Union Bargaining Power and the Amenity-Wage Trade-Off]]></title>
-      <link>https://doi.org/10.1257/aer.20240766</link>
-      <guid isPermaLink="false">crossref:10.1257/aer.20240766</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[American Economic Review]]></category>
-      <description><![CDATA[<p><strong>American Economic Review</strong> ｜ 综合分 51.0 ｜ 上线 2026-10-30（1 天前） · 期号 2026-11</p><p>This paper studies how collective bargaining affects wages and amenities. By merging collective bargaining agreements (CBAs) to linked employer-employee data in Brazil, I combine rich contracted amenities with wage information. I implement a difference-in-differences strategy that exploits a court ruling enforcing CBA continuation (i.e., ultra-activity) to estimate the effects of union bargaining power. Strengthening unions raises wages and amenities without reducing employment—increasing retention despite some labor-labor substitution. A revealed-preference approach shows that amenities account for 45 percent of total compensation gains. These findings suggest that collective bargaining can offset monopsony power, but employers retain the right-to-manage workforce composition. (JEL J31, J32, J42, J51, J52, O15)</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[The prediction of Bitcoin price with a multi-source information fusion long short-term memory neural network model based on an attention mechanism]]></title>
-      <link>https://doi.org/10.1016/j.ijforecast.2026.07.011</link>
-      <guid isPermaLink="false">crossref:10.1016/j.ijforecast.2026.07.011</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[International Journal of Forecasting]]></category>
-      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 39.6 ｜ 上线 2026-10-30（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Inequality and Racial Backlash: Evidence from the Reconstruction Era and the Freedmen's Bureau]]></title>
-      <link>https://doi.org/10.1257/aer.20241561</link>
-      <guid isPermaLink="false">crossref:10.1257/aer.20241561</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[American Economic Review]]></category>
-      <description><![CDATA[<p><strong>American Economic Review</strong> ｜ 综合分 37.4 ｜ 上线 2026-10-30（1 天前） · 期号 2026-11</p><p>How do majority groups respond to narrowing inequality in racially polarized environments? We study this by examining the Freedmen&#x27;s Bureau, an agency created after the US Civil War to aid former slaves and launch institutional reform in the South. Using new historical records and an event-study approach, we estimate the bureau&#x27;s impact on political, social, and economic outcomes. Vote shares for Democrats, the party that previously championed slavery and opposed Black civil rights, initially eroded in bureau counties, but these impacts faded as federal oversight weakened. Racial backlash emerged rapidly and persisted, suggesting White majorities sought to offset Black progress. (JEL D63, D72, J15, N31, N41)</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[The Effects of School Phone Bans: National Evidence from Lockable Pouches]]></title>
-      <link>https://doi.org/10.1093/qje/qjag050</link>
-      <guid isPermaLink="false">crossref:10.1093/qje/qjag050</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Quarterly Journal of Economics]]></category>
-      <description><![CDATA[<p><strong>The Quarterly Journal of Economics</strong> ｜ 综合分 37.4 ｜ 上线 2026-10-30（1 天前）</p><p>Abstract Schools across the U.S. have sharply restricted student use of phones during the school day. We evaluate one type of restriction—lockable phone pouches—using nationwide data combining a large-scale teacher survey, GPS pings, standardized test scores, and school administrative records, along with sales records from the largest pouch provider. Using a staggered difference-in-differences design, we find that pouch adoption substantially reduces phone use as measured by GPS pings and teacher reports. In the first year after adoption, disciplinary incidents increase, and we find suggestive evidence that student subjective well-being falls, consistent with short-term disruption. However, disciplinary effects fade, while the estimated effects on well-being appear to recover and become positive in later years. For academic achievement, average effects on test scores are consistently close to zero. High schools see modest positive effects, particularly in math, while middle schools see small negative effects. We find little evidence of effects on school attendance and no clear evidence of improvements in self-reported classroom attention or perceived online bullying.</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[The Returns to Government R&D: Evidence from US Appropriations Shocks]]></title>
-      <link>https://doi.org/10.1257/aer.20231684</link>
-      <guid isPermaLink="false">crossref:10.1257/aer.20231684</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[American Economic Review]]></category>
-      <description><![CDATA[<p><strong>American Economic Review</strong> ｜ 综合分 37.4 ｜ 上线 2026-10-30（1 天前） · 期号 2026-11</p><p>Based on a narrative classification of all significant postwar changes in R&amp;D appropriations for five major federal agencies, we find that an increase in nondefense R&amp;D appropriations leads to increases in various measures of innovative activity and higher business-sector productivity in the long run. We structurally estimate the production function elasticity of nondefense government R&amp;D capital using the SP-IV methodology of Lewis and Mertens (2024) and obtain implied returns of 140 to 210 percent over the postwar period. The estimates indicate that government-funded R&amp;D accounts for one-fifth of business-sector TFP growth since WWII and imply substantial underfunding of nondefense R&amp;D. (JEL D24, E23, H50, O31, O33, O38)</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Firm Adaptation in Production Networks: Evidence from Extreme Weather Events in Pakistan]]></title>
-      <link>https://doi.org/10.1257/aer.20241027</link>
-      <guid isPermaLink="false">crossref:10.1257/aer.20241027</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[American Economic Review]]></category>
-      <description><![CDATA[<p><strong>American Economic Review</strong> ｜ 综合分 37.1 ｜ 上线 2026-10-30（1 天前） · 期号 2026-11</p><p>This paper considers how far private adaptation may reduce future vulnerability to climate risks. Using data on monthly firm-to-firm transactions from Pakistan, we find that flood-affected firms are more likely to relocate to safer ground and shift purchases toward suppliers in less flood-prone regions and reached via less flood-prone roads. The results indicate that firms are imperfectly informed about flood risk and update their beliefs following floods. We quantify aggregate impacts using a spatial model of endogenous production network formation. The findings suggest that firms&#x27; learning will shape the economic impact of increasingly frequent climate-related disasters. (JEL D22, L14, O13, O14, Q54, R32)</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[The Evolution of the Market for Corporate Control]]></title>
-      <link>https://doi.org/10.1111/jofi.70099</link>
-      <guid isPermaLink="false">crossref:10.1111/jofi.70099</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Journal of Finance]]></category>
-      <description><![CDATA[<p><strong>The Journal of Finance</strong> ｜ 综合分 35.6 ｜ 上线 2026-10-30（1 天前）</p><p>ABSTRACT We consider an informed large shareholder who can choose between making a takeover bid herself and initiating a sale to another acquirer. Such takeover activism complements direct takeovers because the very choice mitigates the asymmetric information problem, thereby improving efficiency. As more investors enter the market for corporate control, takeover activism increasingly replaces direct takeovers as the prevailing mode of disciplinary control change, matching the evolution in practice. Our model shows how this evolution, characterized by a symbiotic relationship between investor activism and private equity, arises to overcome asymmetric information and collective action problems through intermediated transactions.</p>]]></description>
     </item>
   </channel>
 </rss>

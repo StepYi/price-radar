@@ -1,0 +1,672 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20 07:33:48",
+  "stats": {
+    "journals": 17,
+    "fetched": 331,
+    "candidates": 78,
+    "pushed": 10,
+    "digest_size": 10,
+    "per_journal": {
+      "Journal of Finance": {
+        "display": "The Journal of Finance",
+        "group": "金融经济",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 2,
+        "error": ""
+      },
+      "Journal of Financial Economics": {
+        "display": "Journal of Financial Economics",
+        "group": "金融经济",
+        "publisher": "Elsevier",
+        "fetched": 15,
+        "error": ""
+      },
+      "Review of Financial Studies": {
+        "display": "Review of Financial Studies",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 2,
+        "error": ""
+      },
+      "American Economic Review": {
+        "display": "American Economic Review",
+        "group": "金融经济",
+        "publisher": "American Economic Association",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Quarterly Journal of Economics": {
+        "display": "The Quarterly Journal of Economics",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 4,
+        "error": ""
+      },
+      "Econometrica": {
+        "display": "Econometrica",
+        "group": "金融经济",
+        "publisher": "The Econometric Society",
+        "fetched": 17,
+        "error": ""
+      },
+      "Management Science": {
+        "display": "Management Science",
+        "group": "金融经济",
+        "publisher": "Institute for Operations Research and the Management Sciences",
+        "fetched": 25,
+        "error": ""
+      },
+      "Energy Economics": {
+        "display": "Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 63,
+        "error": ""
+      },
+      "The Energy Journal": {
+        "display": "The Energy Journal",
+        "group": "能源资源",
+        "publisher": "SAGE Publications",
+        "fetched": 2,
+        "error": ""
+      },
+      "Journal of Environmental Economics and Management": {
+        "display": "Journal of Environmental Economics and Management",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 25,
+        "error": ""
+      },
+      "Resource and Energy Economics": {
+        "display": "Resource and Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 13,
+        "error": ""
+      },
+      "American Journal of Agricultural Economics": {
+        "display": "American Journal of Agricultural Economics",
+        "group": "农业商品",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 2,
+        "error": ""
+      },
+      "Journal of Commodity Markets": {
+        "display": "Journal of Commodity Markets",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 14,
+        "error": ""
+      },
+      "Food Policy": {
+        "display": "Food Policy",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 46,
+        "error": ""
+      },
+      "Journal of Econometrics": {
+        "display": "Journal of Econometrics",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 29,
+        "error": ""
+      },
+      "International Journal of Forecasting": {
+        "display": "International Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 67,
+        "error": ""
+      },
+      "Journal of Forecasting": {
+        "display": "Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Wiley (John Wiley & Sons)",
+        "fetched": 5,
+        "error": ""
+      }
+    },
+    "selection_notes": {
+      "strict_pool": 0,
+      "cap_relaxed": false,
+      "relaxed": true,
+      "filled": true,
+      "relaxed_pool": 1
+    },
+    "abstract_coverage": 0.128,
+    "enrich": {
+      "s2_filled": 0,
+      "openalex_filled": 0,
+      "openalex_note": "请求失败（HTTP 400 :: https://api.openalex.org/works?filter=doi%3A10.1016%2Fj.jfineco.2026.104395%7C10.1016%2Fj.jfineco.2026.104410%7C10.3982%2Fecta946fm%7C10.3982%2Fecta22886%7C10.3982%2Fecta25748%7C10.3982%2Fecta946bm%7C10.1016%2Fj.eneco.2026.109707%7C10.1016%2Fj.eneco.2026.109682%7C10.1016%2Fj.eneco.2026.109699%7C10.1016%2Fj.eneco.2026.109721%7C10.1016%2Fj.eneco.2026.109714%7C10.1016%2Fj.eneco.2026.109694%7C10.1016%2Fj.eneco.2026.109695%7C10.1016%2Fj.eneco.2026.109716%7C10.1016%2Fj.jeem.2026.103442%7C10.1016%2Fj.jeem.2026.103445%7C10.1016%2Fj.jcomm.2026.100596%7C10.1016%2Fj.foodpol.2026.103233%7C10.1016%2Fj.foodpol.2026.103211%7C10.1016%2Fj.foodpol.2026.103231%7C10.1016%2Fj.foodpol.2026.103229%7C10.1016%2Fj.foodpol.2026.103228%7C10.1016%2Fj.foodpol.2026.103200%7C10.1016%2Fj.foodpol.2026.103232%7C10.1016%2Fj.ijforecast.2026.09.007%7C10.1016%2Fj.ijforecast.2026.10.008%7C10.1016%2Fj.ijforecast.2026.10.011%7C10.1016%2Fj.ijforecast.2026.10.009%7C10.1016%2Fj.ijforecast.2026.09.002%7C10.1016%2Fj.ijforecast.2026.10.010&per-page=30&select=doi%2Cabstract_inverted_index%2Ccited_by_count%2Cis_oa%2Cbest_oa_location&mailto=2485892471%40qq.com :: {\"error\":\"Invalid query parameters error.\",\"message\":\"is_oa is not a valid select field. Valid fields for select are: id, doi, title, display_name, alternate_titles, relevance_score, rerank_score, pub）"
+    }
+  },
+  "items": [
+    {
+      "id": "crossref:10.3982/ecta21760",
+      "doi": "10.3982/ecta21760",
+      "title": "Comment on ‘Selection and Comparative Advantage in Technology Adoption’ by Tavneet Suri",
+      "abstract": "This paper illustrates and addresses weak identification in the correlated random coefficient (CRC) model that Suri (2011) uses to study agricultural technology adoption. Using the publicly available data set, which differs slightly from the version used in Suri (2011), we obtain different point estimates for the paper's main CRC model. To understand why these differences are as large as they are, we recast the CRC model as a more general random coefficient model in which the returns to hybrid adoption are restricted to be linear in comparative advantage. This reveals that the key structural parameter in the CRC model ( ϕ ), which governs the relationship between baseline productivity and the returns to adoption, is prone to a weak‐identification problem. We then propose a procedure to conduct weak‐identification robust inference on ϕ using test inversion. Our weak‐identification robust confidence intervals contain the original Suri (2011) point estimates, which suggests that the difference in results may be attributable to a combination of minor data differences and weak identification.",
+      "publication_date": "2026-01-01",
+      "created_date": "2026-11-19",
+      "issue_date": "2026-01-01",
+      "journal": "Econometrica",
+      "journal_display": "Econometrica",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Emilia Tjernström",
+        "Dalia Ghanem",
+        "Aleksandr Michuda",
+        "Oscar Barriga-Cabanillas",
+        "Travis J. Lybbert",
+        "Jeffrey D. Michler"
+      ],
+      "author_count": 6,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.3982/ecta21760",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 41.4,
+      "rank": 1,
+      "relevance_raw": 0.6,
+      "relevance_level": "strong",
+      "keywords": [
+        "agricultural"
+      ],
+      "reasons": [
+        "相关性 4/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 77/100（Econometrica）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 50/100（structural、identification）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [
+          "agricultural"
+        ],
+        "method": [
+          "structural",
+          "identification"
+        ]
+      },
+      "pushed_date": "2026-11-20"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109682",
+      "doi": "10.1016/j.eneco.2026.109682",
+      "title": "Consumer behaviour and the uptake of solar panels",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-19",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Shivani Taneja",
+        "Filip Mandys"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109682",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 40.36,
+      "rank": 2,
+      "relevance_raw": 2.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "solar"
+      ],
+      "reasons": [
+        "相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（panel）"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "solar"
+        ],
+        "context_abstract": [],
+        "method": [
+          "panel"
+        ]
+      },
+      "pushed_date": "2026-11-20"
+    },
+    {
+      "id": "crossref:10.1177/01956574261505757",
+      "doi": "10.1177/01956574261505757",
+      "title": "Transmission Investment and Cost Allocation in Electricity Markets: A Paper in Honor of Stephen Littlechild",
+      "abstract": "Large electric power transmission investments interact with electricity markets and can produce material changes in costs and benefits. The early case of Argentina with its “Public Contest” method for investment selection and cost allocation foreshadowed later developments in organized markets in North America. A common central challenge is to define the costs and benefits within the context of market and regulatory decisions. JEL Classification: Q40, Energy: General",
+      "publication_date": "2026-11-17",
+      "created_date": "2026-11-18",
+      "issue_date": "2026-11-17",
+      "journal": "The Energy Journal",
+      "journal_display": "The Energy Journal",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "William W. Hogan"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1177/01956574261505757",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 38.93,
+      "rank": 3,
+      "relevance_raw": 3.1,
+      "relevance_level": "medium",
+      "keywords": [
+        "electricity"
+      ],
+      "reasons": [
+        "相关性 22/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 50/100（The Energy Journal）",
+        "时效 86/100（上线 2 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 2,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "electricity"
+        ],
+        "context_abstract": [
+          "electricity"
+        ],
+        "method": []
+      },
+      "pushed_date": "2026-11-20"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2024.05050",
+      "doi": "10.1287/mnsc.2024.05050",
+      "title": "Sample Range as Subjective Variability and Implications for Experience-Based Decision Making",
+      "abstract": "Variance and standard deviation are common metrics of statistical variability in the management and decision-making literature. In everyday contexts, however, information about sample range prevails. Range is arguably easier to comprehend and compute than variance, yet it often yields equivalent judgments about variability. Hence, we reason that decision makers often rely on range to judge variability. We test this hypothesis across four behavioral experiments (total n = 1,093). When comparing the variability of two number sets, decision makers predominantly based their judgments on sample range rather than sample variance when the two metrics disagree (experiment 1). Sample range tends to increase with sample size, whereas sample variance does not. Consistent with the range as variability hypothesis, decision makers perceived distributions as more variable after observing larger samples (experiment 2). This perceived variability, in turn, influenced risky decisions, as larger sample sizes led to decreased valuations of uncertain rewards for risk-averse decision makers (experiment 3). In further support of the hypothesis, when asked to mentally simulate new samples from a previously experienced distribution, participants generated more numbers within the observed range and fewer numbers outside of it than the true distribution implies (experiment 4). To model the data, we propose a “cognitive fence” idea as a potential psychological explanation for how experience shapes subjective variability. We conclude by discussing implications for research on overconfidence, distributional learning, risk perception, and communication. This paper was accepted by Jack Soll, behavioral economics and decision analysis. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05050 .",
+      "publication_date": "2026-11-19",
+      "created_date": "2026-11-19",
+      "issue_date": "2026-11-19",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Tianwei Liu",
+        "Benjamin Scheibehenne"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2024.05050",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 38.64,
+      "rank": 4,
+      "relevance_raw": 1.6,
+      "relevance_level": "medium",
+      "keywords": [
+        "yield",
+        "yields"
+      ],
+      "reasons": [
+        "相关性 11/100（价格词 ×0题名 / ×2摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "yield",
+          "yields"
+        ],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-20"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109699",
+      "doi": "10.1016/j.eneco.2026.109699",
+      "title": "Distributional and efficiency impacts of supranational carbon budget allocations",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-19",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Gustav Fredriksson",
+        "Florian Landis",
+        "Sebastian Rausch"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109699",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 37.86,
+      "rank": 5,
+      "relevance_raw": 2.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "carbon"
+      ],
+      "reasons": [
+        "相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "carbon"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-20"
+    },
+    {
+      "id": "crossref:10.3982/ecta23921",
+      "doi": "10.3982/ecta23921",
+      "title": "Coalitions in Repeated Games",
+      "abstract": "This paper proposes a framework and solution concept for repeated coalitional behavior. We model history‐dependent schemes that use continuation promises and punishments to deter coalitions from blocking. We evaluate the effectiveness of these schemes with and without transferable utility, and apply the framework to study the implications of wage transparency in labor markets.",
+      "publication_date": "2026-01-01",
+      "created_date": "2026-11-19",
+      "issue_date": "2026-01-01",
+      "journal": "Econometrica",
+      "journal_display": "Econometrica",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "S. Nageeb Ali",
+        "Ce Liu"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.3982/ecta23921",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 37.12,
+      "rank": 6,
+      "relevance_raw": 0.8,
+      "relevance_level": "weak",
+      "keywords": [
+        "wage"
+      ],
+      "reasons": [
+        "相关性 6/100（价格词 ×0题名 / ×1摘要；商品期货词 ×0题名）",
+        "期刊权重 77/100（Econometrica）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "wage"
+        ],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-20"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109714",
+      "doi": "10.1016/j.eneco.2026.109714",
+      "title": "Carbon reduction effects of market access deregulation: evidence from China's market access negative list pilot",
+      "abstract": "",
+      "publication_date": "2026-11-18",
+      "created_date": "2026-11-18",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Song Nie",
+        "Chenghao Xie",
+        "Gang Zeng",
+        "Qiang Ji",
+        "Lihao Wang"
+      ],
+      "author_count": 5,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109714",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 36.79,
+      "rank": 7,
+      "relevance_raw": 2.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "carbon"
+      ],
+      "reasons": [
+        "相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 86/100（上线 2 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 2,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "carbon"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-20"
+    },
+    {
+      "id": "crossref:10.3982/ecta24769",
+      "doi": "10.3982/ecta24769",
+      "title": "The Social Learning Barrier",
+      "abstract": "Long‐lived agents interact repeatedly in a social network. In each period, each agent observes a private signal, chooses an action, and then observes the actions of her neighbors. We show that the learning rate of the slowest‐learning agent is capped by a constant that depends only on the distribution of the most informative private signal, but not on the number of agents, the network structure, correlations between the private signals, or the agents' strategies. For equilibrium learning with rational agents, the same result bounds the learning rate of every agent in any equilibrium under a broad class of conditions. The result is driven by an information‐theoretic tradeoff between optimal action choices and information revelation.",
+      "publication_date": "2026-01-01",
+      "created_date": "2026-11-19",
+      "issue_date": "2026-01-01",
+      "journal": "Econometrica",
+      "journal_display": "Econometrica",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Florian Brandl"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.3982/ecta24769",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 36.76,
+      "rank": 8,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 77/100（Econometrica）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（equilibrium）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "equilibrium"
+        ]
+      },
+      "pushed_date": "2026-11-20"
+    },
+    {
+      "id": "crossref:10.3982/ecta23194",
+      "doi": "10.3982/ecta23194",
+      "title": "Why Are the Wealthiest so Wealthy? New Longitudinal Empirical Evidence and Implications for Theories of Wealth Inequality",
+      "abstract": "We study the lifecycle dynamics of wealth inequality using 1993–2019 Norwegian administrative panel data on wealth and income. Employing a novel budget‐constraint approach, we decompose the excess wealth of the top 0.1% households relative to the median between ages 45 and 64 into higher saving rates (36%), inheritances (31%), returns (28%), and labor income (5%). One‐quarter of the wealthiest—the “New Money”—start with negative wealth on average but accumulate rapidly through high labor income and exceptionally high saving rates and returns. The “Old Money” inherit substantial wealth and grow it through above‐average though more modest saving and returns. We use these dynamic facts to evaluate five standard wealth inequality models. Although these models match cross‐sectional wealth concentration, they fail to reproduce the distinct dynamics of New and Old Money. A heterogeneous entrepreneurship model with decreasing returns to scale technology and nonhomothetic preferences is consistent with the observed dynamics.",
+      "publication_date": "2026-01-01",
+      "created_date": "2026-11-19",
+      "issue_date": "2026-01-01",
+      "journal": "Econometrica",
+      "journal_display": "Econometrica",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Joachim Hubmer",
+        "Elin Halvorsen",
+        "Sergio Salgado",
+        "Serdar Ozkan"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.3982/ecta23194",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 36.76,
+      "rank": 9,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 77/100（Econometrica）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（panel）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "panel"
+        ]
+      },
+      "pushed_date": "2026-11-20"
+    },
+    {
+      "id": "crossref:10.3982/ecta22545",
+      "doi": "10.3982/ecta22545",
+      "title": "An Exact t ‐Test",
+      "abstract": "Multivariate linear regression and randomization‐based inference are two essential methods in statistics and econometrics. Nevertheless, the problem of producing a randomized test for the value of a single regression coefficient that is exactly valid when errors are exchangeable, and which is asymptotically valid for the best linear predictor, has remained elusive. In this paper, we produce a test that is exactly valid with exchangeable errors and which allows for general covariate designs; covariates may be continuous as well as discrete and may be correlated. The test is asymptotically valid when the errors are not exchangeable, in particular in the presence of conditional heteroskedasticity.",
+      "publication_date": "2026-01-01",
+      "created_date": "2026-11-19",
+      "issue_date": "2026-01-01",
+      "journal": "Econometrica",
+      "journal_display": "Econometrica",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Guillaume A. Pouliot"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.3982/ecta22545",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 34.26,
+      "rank": 10,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 77/100（Econometrica）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-20"
+    }
+  ]
+}
