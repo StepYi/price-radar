@@ -1,209 +1,189 @@
-# 价格研究日报 · 2026-11-20
+# 价格研究日报 · 2026-11-21
 
-> 覆盖 17 本顶刊 ｜ 抓取 331 篇 ｜ 新候选 78 篇 ｜ 本期推送 10 篇 ｜ 生成于 2026-11-20 07:33:48
+> 覆盖 17 本顶刊 ｜ 抓取 332 篇 ｜ 新候选 72 篇 ｜ 本期推送 10 篇 ｜ 生成于 2026-11-21 07:30:15
 
-## 1. Comment on ‘Selection and Comparative Advantage in Technology Adoption’ by Tavneet Suri
+## 1. Where Does the Marginal Methane Molecule Come From? Implications of LNG Exports for US Natural Gas Supply and Methane Emissions
 
-**Econometrica** · 上线 2026-11-19（1 天前） · 在线 2026-01-01 · T1 · Emilia Tjernström、Dalia Ghanem、Aleksandr Michuda、Oscar Barriga-Cabanillas 等 6 人 · 综合分 **41.4** · 强相关
-
-标签：`agricultural`
-
-**摘要**
-
-This paper illustrates and addresses weak identification in the correlated random coefficient (CRC) model that Suri (2011) uses to study agricultural technology adoption. Using the publicly available data set, which differs slightly from the version used in Suri (2011), we obtain different point estimates for the paper's main CRC model. To understand why these differences are as large as they are, we recast the CRC model as a more general random coefficient model in which the returns to hybrid adoption are restricted to be linear in comparative advantage. This reveals that the key structural parameter in the CRC model ( ϕ ), which governs the relationship between baseline productivity and the returns to adoption, is prone to a weak‐identification problem. We then propose a procedure to conduct weak‐identification robust inference on ϕ using test inversion. Our weak‐identification robust confidence intervals contain the original Suri (2011) point estimates, which suggests that the difference in results may be attributable to a combination of minor data differences and weak identification.
-
-**为什么推荐**
-
-- 相关性 4/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 77/100（Econometrica）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 50/100（structural、identification）
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.3982/ecta21760)
-
----
-
-## 2. Consumer behaviour and the uptake of solar panels
-
-**Energy Economics** · 上线 2026-11-19（1 天前） · T2 · Shivani Taneja、Filip Mandys · 综合分 **40.4** · 中等相关
+**Journal of Environmental Economics and Management** · 上线 2026-11-20（1 天前） · T2 · Brian C. Prest · 综合分 **61.3** · 中等相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
-标签：`solar`
+标签：`natural gas` `lng` `emission` `emissions`
 
 **为什么推荐**
 
-- 相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）
-- 期刊权重 75/100（Energy Economics）
+- 相关性 71/100（价格词 ×0题名 / ×0摘要；商品期货词 ×4题名）
+- 期刊权重 58/100（Journal of Environmental Economics and Management）
 - 时效 93/100（上线 1 天前）
-- 方法匹配 25/100（panel）
+- 方法匹配 0/100
 
-[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109682)
+[DOI / 原文](https://doi.org/10.1016/j.jeem.2026.103444)
 
 ---
 
-## 3. Transmission Investment and Cost Allocation in Electricity Markets: A Paper in Honor of Stephen Littlechild
+## 2. Informal Redistribution Through Work
 
-**The Energy Journal** · 上线 2026-11-18（2 天前） · 在线 2026-11-17 · T2 · William W. Hogan · 综合分 **38.9** · 中等相关
-
-标签：`electricity`
+**Econometrica** · 上线 2026-11-19（2 天前） · 在线 2026-01-01 · T1 · Elisa Macchi、Jeremia Stalder · 综合分 **33.9** · 强相关
 
 **摘要**
 
-Large electric power transmission investments interact with electricity markets and can produce material changes in costs and benefits. The early case of Argentina with its “Public Contest” method for investment selection and cost allocation foreshadowed later developments in organized markets in North America. A common central challenge is to define the costs and benefits within the context of market and regulatory decisions. JEL Classification: Q40, Energy: General
+We investigate work as informal redistribution, leveraging field experiments and firm‐level survey data from Kampala, Uganda. Employers and workers consistently choose redistribution through work over cash transfers, revealing a willingness to pay for work. By randomizing work tasks—some designed to have zero marginal product—we find that production value does not explain these choices: employers pay for zero‐value work. These patterns are also inconsistent with other relational benefits, such as social image concerns or networking. Instead, motivations are normative. Experimental evidence reveals an internalized norm for redistribution through work rooted in incentive arguments on the demand side—as employers stop requiring work only when workers have verifiable emergencies—and in reciprocity and dignity from earning on the supply side. The norm shapes both the organization and measurement of production: failing to account for redistribution through work makes firms appear significantly larger and less productive than they are.
 
 **为什么推荐**
 
-- 相关性 22/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）
-- 期刊权重 50/100（The Energy Journal）
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 77/100（Econometrica）
 - 时效 86/100（上线 2 天前）
 - 方法匹配 0/100
 - 有摘要，可快速判断
+- 有开放获取全文
 
-[DOI / 原文](https://doi.org/10.1177/01956574261505757)
+[DOI / 原文](https://doi.org/10.3982/ecta22079) ｜ [开放获取全文](https://www.econometricsociety.org/publications/econometrica/2026/11/01/Informal-Redistribution-Through-Work/supp/ecta70090-sup-0001-onlineappendix.pdf)
 
 ---
 
-## 4. Sample Range as Subjective Variability and Implications for Experience-Based Decision Making
+## 3. Corporate Contributions to Ballot Measure Campaigns: Real Effects and Valuation
 
-**Management Science** · 上线 2026-11-19（1 天前） · T1 · Tianwei Liu、Benjamin Scheibehenne · 综合分 **38.6** · 中等相关
-
-标签：`yield` `yields`
+**Management Science** · 上线 2026-11-17（4 天前） · T1 · Rüdiger Fahlenbrach、Alexei Ovtchinnikov、Philip Valta · 综合分 **30.5** · 强相关
 
 **摘要**
 
-Variance and standard deviation are common metrics of statistical variability in the management and decision-making literature. In everyday contexts, however, information about sample range prevails. Range is arguably easier to comprehend and compute than variance, yet it often yields equivalent judgments about variability. Hence, we reason that decision makers often rely on range to judge variability. We test this hypothesis across four behavioral experiments (total n = 1,093). When comparing the variability of two number sets, decision makers predominantly based their judgments on sample range rather than sample variance when the two metrics disagree (experiment 1). Sample range tends to increase with sample size, whereas sample variance does not. Consistent with the range as variability hypothesis, decision makers perceived distributions as more variable after observing larger samples (experiment 2). This perceived variability, in turn, influenced risky decisions, as larger sample sizes led to decreased valuations of uncertain rewards for risk-averse decision makers (experiment 3). In further support of the hypothesis, when asked to mentally simulate new samples from a previously experienced distribution, participants generated more numbers within the observed range and fewer numbers outside of it than the true distribution implies (experiment 4). To model the data, we propose a “cognitive fence” idea as a potential psychological explanation for how experience shapes subjective variability. We conclude by discussing implications for research on overconfidence, distributional learning, risk perception, and communication. This paper was accepted by Jack Soll, behavioral economics and decision analysis. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05050 .
+We analyze novel data on corporate contributions to ballot initiatives at the U.S. state level. Firms make large contributions to ballot measure campaigns in favor of or against specific initiatives. They contribute significantly more to business initiatives compared with ideological initiatives. Corporate campaign spending is systematically associated with the likelihood that a ballot measure passes. Contributing firms experience changes in sales growth following the passage of important ballot measures. Following successful (failed) initiatives, all firms in affected industries exhibit significantly more positive (negative) cumulative abnormal returns around the election, but contributing firms do more so than peers. This paper was accepted by Bo Becker, finance. Funding: R. Fahlenbrach gratefully acknowledges financial support from the Swiss Finance Institute. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.06801 .
 
 **为什么推荐**
 
-- 相关性 11/100（价格词 ×0题名 / ×2摘要；商品期货词 ×0题名）
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
 - 期刊权重 70/100（Management Science）
-- 时效 93/100（上线 1 天前）
+- 时效 71/100（上线 4 天前）
 - 方法匹配 0/100
 - 有摘要，可快速判断
+- 有开放获取全文
 
-[DOI / 原文](https://doi.org/10.1287/mnsc.2024.05050)
-
----
-
-## 5. Distributional and efficiency impacts of supranational carbon budget allocations
-
-**Energy Economics** · 上线 2026-11-19（1 天前） · T2 · Gustav Fredriksson、Florian Landis、Sebastian Rausch · 综合分 **37.9** · 中等相关
-
-> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
-
-标签：`carbon`
-
-**为什么推荐**
-
-- 相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）
-- 期刊权重 75/100（Energy Economics）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 0/100
-
-[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109699)
+[DOI / 原文](https://doi.org/10.1287/mnsc.2024.06801) ｜ [开放获取全文](https://doi.org/10.2139/ssrn.3801024)
 
 ---
 
-## 6. Coalitions in Repeated Games
+## 4. Opinion Trumps Fact: Entry and Competition in Online Political News
 
-**Econometrica** · 上线 2026-11-19（1 天前） · 在线 2026-01-01 · T1 · S. Nageeb Ali、Ce Liu · 综合分 **37.1** · 弱相关
-
-标签：`wage`
+**Management Science** · 上线 2026-11-17（4 天前） · T1 · Aaron Chatterji、Sharique Hasan、William D. Miles、Dror Shvadron · 综合分 **30.5** · 强相关
 
 **摘要**
 
-This paper proposes a framework and solution concept for repeated coalitional behavior. We model history‐dependent schemes that use continuation promises and punishments to deter coalitions from blocking. We evaluate the effectiveness of these schemes with and without transferable utility, and apply the framework to study the implications of wage transparency in labor markets.
+This paper examines how new entrants influenced content strategies in the U.S. online political news business from 2014 to 2021. Using a novel measure of article opinionation that captures the extent to which an article displays editorializing and persuasive language, we provide correlational evidence that new entrants produce articles that are more opinionated than those of incumbents, even when reporting on the same event. We then show that there is an economic rationale for this content strategy: opinionated articles receive more engagement on Twitter, and this engagement translates to increased webpage visits, crucial for advertising revenue. Consistent with these incentives, we provide evidence that news providers increase the average opinion level in their articles in response to competition and advertiser pressure. These shifts are accompanied by a possibly unintended consequence: opinionated content is associated with greater anger and hate speech in social media engagement. This paper was accepted by Alfonso Gambardella, business strategy. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01487 .
 
 **为什么推荐**
 
-- 相关性 6/100（价格词 ×0题名 / ×1摘要；商品期货词 ×0题名）
-- 期刊权重 77/100（Econometrica）
-- 时效 93/100（上线 1 天前）
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 70/100（Management Science）
+- 时效 71/100（上线 4 天前）
 - 方法匹配 0/100
 - 有摘要，可快速判断
+- 有开放获取全文
 
-[DOI / 原文](https://doi.org/10.3982/ecta23921)
+[DOI / 原文](https://doi.org/10.1287/mnsc.2025.01487) ｜ [开放获取全文](https://doi.org/10.2139/ssrn.5121585)
 
 ---
 
-## 7. Carbon reduction effects of market access deregulation: evidence from China's market access negative list pilot
+## 5. Time-series efficient factors
 
-**Energy Economics** · 上线 2026-11-18（2 天前） · T2 · Song Nie、Chenghao Xie、Gang Zeng、Qiang Ji 等 5 人 · 综合分 **36.8** · 中等相关
+**Journal of Financial Economics** · 上线 2026-11-19（2 天前） · 在线 2027-01-01 · T1 · Sina Ehsani、Serhiy Kozak、Juhani Linnainmaa · 综合分 **30.3** · 强相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
-标签：`carbon`
+**为什么推荐**
+
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 83/100（Journal of Financial Economics）
+- 时效 86/100（上线 2 天前）
+- 方法匹配 0/100
+- 有开放获取全文
+
+[DOI / 原文](https://doi.org/10.1016/j.jfineco.2026.104395) ｜ [开放获取全文](https://doi.org/10.2139/ssrn.3555473)
+
+---
+
+## 6. Power system decarbonisation and unequal labour reallocation across regions and demographics in China
+
+**Energy Economics** · 上线 2026-11-21（0 天前） · T2 · Siqi Zhao、Ze Wang、Dequn Zhou、Qunwei Wang · 综合分 **30.0** · 强相关
+
+> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
 **为什么推荐**
 
-- 相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
 - 期刊权重 75/100（Energy Economics）
+- 时效 100/100（上线 0 天前）
+- 方法匹配 0/100
+
+[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109717)
+
+---
+
+## 7. Adaptation to climate-induced macrofinancial risks: Top-down and bottom-up solutions
+
+**Energy Economics** · 上线 2026-11-20（1 天前） · T2 · Demis Legrenzi、Emanuele Ciola、Davide Bazzana · 综合分 **28.9** · 强相关
+
+> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
+
+**为什么推荐**
+
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 75/100（Energy Economics）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 0/100
+
+[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109713)
+
+---
+
+## 8. Decarbonization with heterogeneous knowledge creation and technology tipping
+
+**Energy Economics** · 上线 2026-11-20（1 天前） · 在线 2026-11-19 · T2 · Lucas Bretschger · 综合分 **28.9** · 强相关
+
+> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
+
+**为什么推荐**
+
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 75/100（Energy Economics）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 0/100
+
+[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109707)
+
+---
+
+## 9. Backmatter of Econometrica Vol. 94 Iss. 6
+
+**Econometrica** · 上线 2026-11-19（2 天前） · 在线 2026-01-01 · T1 · 作者信息缺失 · 综合分 **28.2** · 强相关
+
+> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
+
+**为什么推荐**
+
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 77/100（Econometrica）
 - 时效 86/100（上线 2 天前）
 - 方法匹配 0/100
 
-[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109714)
+[DOI / 原文](https://doi.org/10.3982/ecta946bm)
 
 ---
 
-## 8. The Social Learning Barrier
+## 10. Frontmatter of Econometrica 94 Iss. 6
 
-**Econometrica** · 上线 2026-11-19（1 天前） · 在线 2026-01-01 · T1 · Florian Brandl · 综合分 **36.8** · 强相关
+**Econometrica** · 上线 2026-11-19（2 天前） · 在线 2026-01-01 · T1 · 作者信息缺失 · 综合分 **28.2** · 强相关
 
-**摘要**
-
-Long‐lived agents interact repeatedly in a social network. In each period, each agent observes a private signal, chooses an action, and then observes the actions of her neighbors. We show that the learning rate of the slowest‐learning agent is capped by a constant that depends only on the distribution of the most informative private signal, but not on the number of agents, the network structure, correlations between the private signals, or the agents' strategies. For equilibrium learning with rational agents, the same result bounds the learning rate of every agent in any equilibrium under a broad class of conditions. The result is driven by an information‐theoretic tradeoff between optimal action choices and information revelation.
+> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
 **为什么推荐**
 
 - 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
 - 期刊权重 77/100（Econometrica）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 25/100（equilibrium）
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.3982/ecta24769)
-
----
-
-## 9. Why Are the Wealthiest so Wealthy? New Longitudinal Empirical Evidence and Implications for Theories of Wealth Inequality
-
-**Econometrica** · 上线 2026-11-19（1 天前） · 在线 2026-01-01 · T1 · Joachim Hubmer、Elin Halvorsen、Sergio Salgado、Serdar Ozkan · 综合分 **36.8** · 强相关
-
-**摘要**
-
-We study the lifecycle dynamics of wealth inequality using 1993–2019 Norwegian administrative panel data on wealth and income. Employing a novel budget‐constraint approach, we decompose the excess wealth of the top 0.1% households relative to the median between ages 45 and 64 into higher saving rates (36%), inheritances (31%), returns (28%), and labor income (5%). One‐quarter of the wealthiest—the “New Money”—start with negative wealth on average but accumulate rapidly through high labor income and exceptionally high saving rates and returns. The “Old Money” inherit substantial wealth and grow it through above‐average though more modest saving and returns. We use these dynamic facts to evaluate five standard wealth inequality models. Although these models match cross‐sectional wealth concentration, they fail to reproduce the distinct dynamics of New and Old Money. A heterogeneous entrepreneurship model with decreasing returns to scale technology and nonhomothetic preferences is consistent with the observed dynamics.
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 77/100（Econometrica）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 25/100（panel）
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.3982/ecta23194)
-
----
-
-## 10. An Exact t ‐Test
-
-**Econometrica** · 上线 2026-11-19（1 天前） · 在线 2026-01-01 · T1 · Guillaume A. Pouliot · 综合分 **34.3** · 强相关
-
-**摘要**
-
-Multivariate linear regression and randomization‐based inference are two essential methods in statistics and econometrics. Nevertheless, the problem of producing a randomized test for the value of a single regression coefficient that is exactly valid when errors are exchangeable, and which is asymptotically valid for the best linear predictor, has remained elusive. In this paper, we produce a test that is exactly valid with exchangeable errors and which allows for general covariate designs; covariates may be continuous as well as discrete and may be correlated. The test is asymptotically valid when the errors are not exchangeable, in particular in the presence of conditional heteroskedasticity.
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 77/100（Econometrica）
-- 时效 93/100（上线 1 天前）
+- 时效 86/100（上线 2 天前）
 - 方法匹配 0/100
-- 有摘要，可快速判断
 
-[DOI / 原文](https://doi.org/10.3982/ecta22545)
+[DOI / 原文](https://doi.org/10.3982/ecta946fm)
 
 ---
 
@@ -212,21 +192,21 @@ Multivariate linear regression and randomization‐based inference are two essen
 | 期刊 | 方向 | 窗口内新文 | 本期入选 |
 | --- | --- | --- | --- |
 | International Journal of Forecasting | 计量预测 | 67 | 0 |
-| Energy Economics | 能源资源 | 63 | 3 |
+| Energy Economics | 能源资源 | 65 | 3 |
 | Food Policy | 农业商品 | 46 | 0 |
-| Journal of Econometrics | 计量预测 | 29 | 0 |
-| Management Science | 金融经济 | 25 | 1 |
-| Journal of Environmental Economics and Management | 能源资源 | 25 | 0 |
-| Econometrica | 金融经济 | 17 | 5 |
-| Journal of Financial Economics | 金融经济 | 15 | 0 |
+| Journal of Econometrics | 计量预测 | 30 | 0 |
+| Journal of Environmental Economics and Management | 能源资源 | 26 | 1 |
+| Management Science | 金融经济 | 24 | 2 |
+| Econometrica | 金融经济 | 17 | 3 |
+| Journal of Financial Economics | 金融经济 | 15 | 1 |
 | Journal of Commodity Markets | 农业商品 | 14 | 0 |
 | Resource and Energy Economics | 能源资源 | 13 | 0 |
 | Journal of Forecasting | 计量预测 | 5 | 0 |
 | The Quarterly Journal of Economics | 金融经济 | 4 | 0 |
-| The Journal of Finance | 金融经济 | 2 | 0 |
 | Review of Financial Studies | 金融经济 | 2 | 0 |
-| The Energy Journal | 能源资源 | 2 | 1 |
 | American Journal of Agricultural Economics | 农业商品 | 2 | 0 |
+| The Journal of Finance | 金融经济 | 1 | 0 |
+| The Energy Journal | 能源资源 | 1 | 0 |
 | American Economic Review | 金融经济 | 0 | 0 |
 
-数据源：OpenAlex（主）+ Crossref（兜底）。抓取时间 2026-11-20 07:33:48。
+数据源：OpenAlex（主）+ Crossref（兜底）。抓取时间 2026-11-21 07:30:15。
