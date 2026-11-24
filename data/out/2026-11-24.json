@@ -1,0 +1,684 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24 10:10:54",
+  "stats": {
+    "journals": 17,
+    "fetched": 346,
+    "candidates": 61,
+    "pushed": 10,
+    "digest_size": 10,
+    "per_journal": {
+      "Journal of Finance": {
+        "display": "The Journal of Finance",
+        "group": "金融经济",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 1,
+        "error": ""
+      },
+      "Journal of Financial Economics": {
+        "display": "Journal of Financial Economics",
+        "group": "金融经济",
+        "publisher": "Elsevier",
+        "fetched": 17,
+        "error": ""
+      },
+      "Review of Financial Studies": {
+        "display": "Review of Financial Studies",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 4,
+        "error": ""
+      },
+      "American Economic Review": {
+        "display": "American Economic Review",
+        "group": "金融经济",
+        "publisher": "American Economic Association",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Quarterly Journal of Economics": {
+        "display": "The Quarterly Journal of Economics",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 2,
+        "error": ""
+      },
+      "Econometrica": {
+        "display": "Econometrica",
+        "group": "金融经济",
+        "publisher": "The Econometric Society",
+        "fetched": 17,
+        "error": ""
+      },
+      "Management Science": {
+        "display": "Management Science",
+        "group": "金融经济",
+        "publisher": "Institute for Operations Research and the Management Sciences",
+        "fetched": 30,
+        "error": ""
+      },
+      "Energy Economics": {
+        "display": "Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 71,
+        "error": ""
+      },
+      "The Energy Journal": {
+        "display": "The Energy Journal",
+        "group": "能源资源",
+        "publisher": "SAGE Publications",
+        "fetched": 1,
+        "error": ""
+      },
+      "Journal of Environmental Economics and Management": {
+        "display": "Journal of Environmental Economics and Management",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 26,
+        "error": ""
+      },
+      "Resource and Energy Economics": {
+        "display": "Resource and Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 14,
+        "error": ""
+      },
+      "American Journal of Agricultural Economics": {
+        "display": "American Journal of Agricultural Economics",
+        "group": "农业商品",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 1,
+        "error": ""
+      },
+      "Journal of Commodity Markets": {
+        "display": "Journal of Commodity Markets",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 14,
+        "error": ""
+      },
+      "Food Policy": {
+        "display": "Food Policy",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 46,
+        "error": ""
+      },
+      "Journal of Econometrics": {
+        "display": "Journal of Econometrics",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 30,
+        "error": ""
+      },
+      "International Journal of Forecasting": {
+        "display": "International Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 67,
+        "error": ""
+      },
+      "Journal of Forecasting": {
+        "display": "Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Wiley (John Wiley & Sons)",
+        "fetched": 5,
+        "error": ""
+      }
+    },
+    "selection_notes": {
+      "strict_pool": 0,
+      "cap_relaxed": false,
+      "relaxed": true,
+      "filled": true,
+      "relaxed_pool": 1
+    },
+    "abstract_coverage": 0.164,
+    "enrich": {
+      "s2_filled": 1,
+      "openalex_filled": 0,
+      "openalex_note": "请求失败（HTTP 400 :: https://api.openalex.org/works?filter=doi%3A10.1016%2Fj.jfineco.2026.104417%7C10.1016%2Fj.jfineco.2026.104410%7C10.3982%2Fecta25748%7C10.1016%2Fj.eneco.2026.109729%7C10.1016%2Fj.eneco.2026.109694%7C10.1016%2Fj.eneco.2026.109695%7C10.1016%2Fj.eneco.2026.109716%7C10.1016%2Fj.jeem.2026.103442%7C10.1016%2Fj.jeem.2026.103445%7C10.1016%2Fj.reseneeco.2026.101613%7C10.1016%2Fj.jcomm.2026.100596%7C10.1016%2Fj.foodpol.2026.103233%7C10.1016%2Fj.foodpol.2026.103211%7C10.1016%2Fj.foodpol.2026.103231%7C10.1016%2Fj.foodpol.2026.103229%7C10.1016%2Fj.foodpol.2026.103228%7C10.1016%2Fj.foodpol.2026.103200%7C10.1016%2Fj.foodpol.2026.103232%7C10.1016%2Fj.ijforecast.2026.09.007%7C10.1016%2Fj.ijforecast.2026.10.008%7C10.1016%2Fj.ijforecast.2026.10.011%7C10.1016%2Fj.ijforecast.2026.10.009%7C10.1016%2Fj.ijforecast.2026.09.002&per-page=23&select=doi%2Cabstract_inverted_index%2Ccited_by_count%2Cis_oa%2Cbest_oa_location&mailto=2485892471%40qq.com :: {\"error\":\"Invalid query parameters error.\",\"message\":\"is_oa is not a valid select field. Valid fields for select are: id, doi, title, display_name, alternate_titles, relevance_score, rerank_score, pub）"
+    }
+  },
+  "items": [
+    {
+      "id": "crossref:10.1287/mnsc.2023.03136",
+      "doi": "10.1287/mnsc.2023.03136",
+      "title": "Deep Tangency Portfolio",
+      "abstract": "We develop a deep learning framework to directly estimate tangency portfolio weights by augmenting benchmark factors with a long-short deep factor derived from high-dimensional characteristics. Guided by a Sharpe ratio maximization objective, the deep factor plays two key roles: (i) providing a natural hedge against benchmark risks and (ii) capturing multimarket signals to enhance the performance of the benchmark. In an empirical application to U.S. corporate bonds using 132 firm-level bond, equity, and option characteristics, the deep factor achieves an out-of-sample Sharpe ratio exceeding one, and the deep tangency portfolio benchmarked against the market factor yields a Sharpe ratio over two, outperforming portfolios spanned by common observable or latent factors. These results demonstrate that bond risk signals are fundamentally dense, requiring the nonlinear integration of multimarket information to span the efficient frontier. This paper was accepted by Agostino Capponi, finance. Funding: G. Feng acknowledges financial support from the Hong Kong Research Grants Council [Grant GRF11502023] and the National Natural Science Foundation of China [Grant 72203190]. G. Feng is partially supported by the InnoHK Initiative of the Innovation and Technology Commission of the Hong Kong SAR and the Laboratory for AI-Powered Financial Technologies. L. Jiang acknowledges financial support from the National Natural Science Foundation of China [Grant 72473027]. J. Li acknowledges financial support from the National Natural Science Foundation of China [Grant 72473026]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03136 .",
+      "publication_date": "2026-11-23",
+      "created_date": "2026-11-23",
+      "issue_date": "2026-11-23",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Guanhao Feng",
+        "Liang Jiang",
+        "Junye Li",
+        "Yizhi Song",
+        "Yuanzhi Wang"
+      ],
+      "author_count": 5,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2023.03136",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 42.93,
+      "rank": 1,
+      "relevance_raw": 2.8,
+      "relevance_level": "medium",
+      "keywords": [
+        "yield",
+        "yields",
+        "option",
+        "hedge"
+      ],
+      "reasons": [
+        "相关性 20/100（价格词 ×0题名 / ×2摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "yield",
+          "yields"
+        ],
+        "context_title": [],
+        "context_abstract": [
+          "option",
+          "hedge"
+        ],
+        "method": []
+      },
+      "pushed_date": "2026-11-24"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2024.08073",
+      "doi": "10.1287/mnsc.2024.08073",
+      "title": "Learning from a Biased Sample",
+      "abstract": "The empirical risk minimization approach to data-driven decision making requires access to training data drawn under the same conditions as those that will be faced when the decision rule is deployed. However, we may be concerned that our training sample is biased in the sense that some groups (characterized by either observable or unobservable attributes) may be under- or over-represented relative to the general population; and in this setting, empirical risk minimization over the training set may fail to yield rules that perform well at deployment. We propose a model of sampling bias called conditional [Formula: see text]-biased sampling, where observed covariates can affect the probability of sample selection arbitrarily much but the amount of unexplained variation in the probability of sample selection is bounded by a constant factor. Applying the distributionally robust optimization framework, we propose a method for learning a decision rule that minimizes the worst-case risk incurred under a family of test distributions that can generate the training distribution under conditional [Formula: see text]-biased sampling. We apply a result of Rockafellar and Uryasev to show that this problem is equivalent to an augmented convex risk minimization problem. We give statistical guarantees for learning a model that is robust to sampling bias via the method of sieves, and propose a deep learning algorithm whose loss function captures our robust learning target. We empirically validate our proposed method in a case study on prediction of mental health scores from health survey data and a case study on intensive care unit length-of-stay prediction. This paper was accepted by Vivek Farias, data science. Funding: This research was supported by NSF grant SES-2242876. RS is further supported by a NSF GRFP under grant DGE-1656518, a Stanford Data Science PhD Fellowship, and a Stanford Diversifying Academia Recruiting Excellence (DARE) Fellowship. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08073 .",
+      "publication_date": "2026-11-23",
+      "created_date": "2026-11-23",
+      "issue_date": "2026-11-23",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Roshni Sahoo",
+        "Lihua Lei",
+        "Stefan Wager"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2024.08073",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 38.29,
+      "rank": 2,
+      "relevance_raw": 0.8,
+      "relevance_level": "weak",
+      "keywords": [
+        "yield"
+      ],
+      "reasons": [
+        "相关性 6/100（价格词 ×0题名 / ×1摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（prediction）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "yield"
+        ],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "prediction"
+        ]
+      },
+      "pushed_date": "2026-11-24"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2025.01346",
+      "doi": "10.1287/mnsc.2025.01346",
+      "title": "Optimal Incentive Design for Decentralized Dynamic Matching Markets",
+      "abstract": "In decentralized dynamic matching markets, agents can benefit from sharing resources, but they will collaborate only if properly incentivized. Motivated by applications such as multihospital kidney exchanges and job-hunting markets, this paper proposes novel monetary and nonmonetary mechanisms to incentivize collaboration in such decentralized dynamic markets. We study a model in which multiple self-interested agents manage local multiway dynamic matching problems. Jobs of different types arrive stochastically at each agent, expire after a limited time, and yield rewards when matched. An agent’s job backlog and actions are the agent’s private information, and each agent aims to maximize its long-run average matching reward. We design simple mechanisms that incentivize agents to submit all jobs upon arrival, thereby enabling centralized matching. Our first mechanism, the marginal-value (MV) mechanism, reimburses agents based on the MV of their submitted jobs. This can be implemented in a nonmonetary way by randomly selecting an agent (with a specified probability) to perform a match and collect the associated matching reward. We show that under the MV mechanism, full job submission constitutes an approximate Nash equilibrium—that is, the gain from unilateral deviation vanishes as the number of agents grows. To further eliminate incentives for deviation, we propose a refined mechanism, the MV-plus-credit (MVC) mechanism, and show that, when the number of agents exceeds a constant threshold, full job submission constitutes a stronger oblivious equilibrium. Numerical experiments based on kidney exchange data demonstrate that the gains from deviation under our mechanisms are small even in moderately sized markets. This paper was accepted by Peng Sun, optimization and decision analytics. Funding: J. Zhang is partly supported by the National Natural Science Foundation of China (NSFC) [Grant 72394361] and the Guangdong Provincial Key Laboratory of Mathematical Foundations for Artificial Intelligence [2023B1212010001]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01346 .",
+      "publication_date": "2026-11-23",
+      "created_date": "2026-11-23",
+      "issue_date": "2026-11-23",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Chen Chen",
+        "Pengyu Qian",
+        "Jingwei Zhang"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2025.01346",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 38.29,
+      "rank": 3,
+      "relevance_raw": 0.8,
+      "relevance_level": "weak",
+      "keywords": [
+        "yield"
+      ],
+      "reasons": [
+        "相关性 6/100（价格词 ×0题名 / ×1摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（equilibrium）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "yield"
+        ],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "equilibrium"
+        ]
+      },
+      "pushed_date": "2026-11-24"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2025.02206",
+      "doi": "10.1287/mnsc.2025.02206",
+      "title": "Proximity-Based Delivery Policies: Efficiency, Coverage, and Fairness",
+      "abstract": "The growing demand for rapid food and grocery delivery has prompted many restaurants and retailers to develop their own on-demand delivery services. Although hiring additional couriers can expand delivery capacity, it is often prohibitively costly. As a cost-effective alternative, we propose a proximity-based delivery (PBD) policy that prioritizes the delivery of orders from customers located closer to the vendor, in contrast to the traditional first-come-first-served (FCFS) approach. We show that PBD can substantially reduce average delivery delays without requiring additional couriers; however, it may raise fairness concerns, because distant customers experience longer wait times, potentially shrinking market coverage and exacerbating service disparities. To address this issue, we introduce an incentive-compatible PBD (IP) policy, where nearby customers are incentivized to pay for priority, whereas distant customers receive compensation to offset longer delays. We demonstrate that this mechanism can restore fairness to levels comparable to FCFS while preserving efficiency, expanding market demand, and enhancing consumer surplus, particularly in moderately dense markets with moderately delay-sensitive customers. We further show that vendors can enhance these benefits through optimal pricing and benefit from less extreme staffing adjustments due to a “pull-to-center” effect. Our findings highlight the operational, economic, and ethical dimensions of proximity-based delivery, and offer a practical framework for balancing speed, profitability, consumer welfare, and equity. Finally, we conduct a mini case study using empirical data to demonstrate the real-world applicability of our approach. This paper was accepted by Jeannette Song, operations management. Funding: Z. Wang acknowledges support from the National Natural Science Foundation of China [Grant 72322017]. Y. Li acknowledges support from the National Natural Science Foundation of China [Grant 72132007]. Q. Zhang acknowledges support from the National Natural Science Foundation of China [Grant 724B2024]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.02206 .",
+      "publication_date": "2026-11-23",
+      "created_date": "2026-11-23",
+      "issue_date": "2026-11-23",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Zhongbin Wang",
+        "Shiliang Cui",
+        "Yongjian Li",
+        "Qian Zhang"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2025.02206",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 38.29,
+      "rank": 4,
+      "relevance_raw": 0.8,
+      "relevance_level": "weak",
+      "keywords": [
+        "pricing"
+      ],
+      "reasons": [
+        "相关性 6/100（价格词 ×0题名 / ×1摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（welfare）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "pricing"
+        ],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "welfare"
+        ]
+      },
+      "pushed_date": "2026-11-24"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2023.02602",
+      "doi": "10.1287/mnsc.2023.02602",
+      "title": "Stockouts and the Success of New Products",
+      "abstract": "We investigate how stockouts of existing products influence the success of new product introductions. Our findings reveal that stockouts on incumbent items at the time a new product is launched are associated with higher sales of the new product for at least six months. This positive spillover is specific to new products and is most potent at the start of the product life cycle. To establish causality, we use instrumental variables based on historical stockouts and contemporaneous stockouts in other stores. Analysis of individual-level transaction data corroborates a trial-and-adoption mechanism: Stockouts of existing items prompt consumers to trial the new product, leading to increased repeat purchasing. By identifying inventory as a driver of product trial, this research highlights the importance of strategically timing new product launches and documents a previously unrecognized tradeoff for inventory policies. This paper was accepted by David Simchi-Levi, marketing. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02602 .",
+      "publication_date": "2026-11-23",
+      "created_date": "2026-11-23",
+      "issue_date": "2026-11-23",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Diego Aparicio",
+        "Duncan I. Simester"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2023.02602",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 37.57,
+      "rank": 5,
+      "relevance_raw": 0.6,
+      "relevance_level": "strong",
+      "keywords": [
+        "inventory"
+      ],
+      "reasons": [
+        "相关性 4/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（instrumental variable）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [
+          "inventory"
+        ],
+        "method": [
+          "instrumental variable"
+        ]
+      },
+      "pushed_date": "2026-11-24"
+    },
+    {
+      "id": "crossref:10.1093/rfs/hhag099",
+      "doi": "10.1093/rfs/hhag099",
+      "title": "Collateral Demand in Wholesale Funding Markets",
+      "abstract": "Abstract Repo markets are systemically important funding markets, but are also used by firms to obtain the assets provided as collateral. We build and structurally estimate a model of trade between heterogeneous firms in the sterling gilt repo market, and show that this collateral demand depresses repo market activity and can impede the transmission of monetary policy. We quantify how well-designed central bank repo facilities can improve outcomes: if the central bank were to lend out the assets on its balance sheet following quantitative easing, transmission and total firm surplus would improve by 20% and 38%, respectively.",
+      "publication_date": "2026-11-23",
+      "created_date": "2026-11-23",
+      "issue_date": "2026-11-23",
+      "journal": "Review of Financial Studies",
+      "journal_display": "Review of Financial Studies",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Jamie Coen",
+        "Patrick Coen",
+        "Anne-Caroline Hüser"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1093/rfs/hhag099",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 35.6,
+      "rank": 6,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 83/100（Review of Financial Studies）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-24"
+    },
+    {
+      "id": "crossref:10.1093/rfs/hhag100",
+      "doi": "10.1093/rfs/hhag100",
+      "title": "CHILE",
+      "abstract": "Abstract We introduce CHILE, an asset-pricing framework with asymmetric information, general utility functions, and arbitrary payoffs. It features a large economy (LE) with continuous-and-heterogeneous information (CHI). The defining feature of this information structure is that the total amount of information stays finite as the economy grows large. We use the framework to study how concentration—the presence of market participants of different sizes—affects market quality, namely liquidity and information efficiency. Greater concentration proves a double-edged sword: it raises liquidity but harms information efficiency. (JEL D01, D53, D82, E19, G12, G14)",
+      "publication_date": "2026-11-23",
+      "created_date": "2026-11-20",
+      "issue_date": "2026-11-23",
+      "journal": "Review of Financial Studies",
+      "journal_display": "Review of Financial Studies",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Efstathios Avdis",
+        "Sergei Glebkin"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1093/rfs/hhag100",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 35.24,
+      "rank": 7,
+      "relevance_raw": 0.8,
+      "relevance_level": "weak",
+      "keywords": [
+        "pricing"
+      ],
+      "reasons": [
+        "相关性 6/100（价格词 ×0题名 / ×1摘要；商品期货词 ×0题名）",
+        "期刊权重 83/100（Review of Financial Studies）",
+        "时效 71/100（上线 4 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 4,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "pricing"
+        ],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-24"
+    },
+    {
+      "id": "crossref:10.1002/for.70246",
+      "doi": "10.1002/for.70246",
+      "title": "Financial Returns, Sentiment and Market Volatility: A Dynamic Assessment",
+      "abstract": "ABSTRACT This paper investigates the relationship between sentiment and financial market activity in Italy using the Social Mood on Economy Index (SMEI), a daily sentiment indicator produced by the Italian National Statistical Institute (ISTAT) from the textual analysis of Twitter (X) messages. We examine the dynamic interactions among SMEI, FTSE‐MIB returns and market volatility within a trivariate Vector Autoregressive framework. Particular attention is devoted to the structural changes induced by the COVID‐19 pandemic.The analysis is conducted separately for the pre‐ and post‐COVID‐19 periods and is complemented by rolling‐window causality analysis and out‐of‐sample forecasting exercises. The results indicate that before the pandemic, market volatility is the only variable significantly affected by lagged information from the other variables. During and after the pandemic, the relationships become substantially stronger and more interconnected: lagged volatility Granger‐causes both sentiment and returns, lagged returns affect volatility and sentiment itself acquires predictive content for volatility. Out‐of‐sample forecast comparisons further show that sentiment information improves forecasts of market volatility, whereas its contribution to forecasting returns remains limited. Overall, the findings suggest that social media–based measures of economic mood provide valuable information for understanding and forecasting market volatility, particularly during periods characterised by elevated uncertainty and rapidly changing expectations.",
+      "publication_date": "2026-11-23",
+      "created_date": "2026-11-24",
+      "issue_date": "2026-11-23",
+      "journal": "Journal of Forecasting",
+      "journal_display": "Journal of Forecasting",
+      "group": "计量预测",
+      "tier": 3,
+      "cited_by_count": 0,
+      "authors": [
+        "Stefano Borgioli",
+        "Giampiero M. Gallo",
+        "Chiara Ongari"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1002/for.70246",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 35.0,
+      "rank": 8,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 25/100（Journal of Forecasting）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 100/100（forecast、forecasting、predictive、volatility）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "forecast",
+          "forecasting",
+          "predictive",
+          "volatility",
+          "structural"
+        ]
+      },
+      "pushed_date": "2026-11-24"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2025.00524",
+      "doi": "10.1287/mnsc.2025.00524",
+      "title": "Information Design with Supplemental Investment",
+      "abstract": "This paper features a setting with two-dimensional information asymmetry on a firm’s fundamental (good or bad type) and the nature of its supplemental investment (improving upside potential, or mitigating downside risk). We examine the firm’s optimal design of the information system when the system can only address the dimension of fundamental. We show that, with only single-dimensional information asymmetry regarding the firm’s fundamental, greater informativeness on the firm’s fundamental type always improves efficiency. However, with two-dimensional information asymmetry, increasing informativeness about firm fundamental no longer guarantees higher efficiency and can be detrimental. The optimal information system trades off reducing information asymmetry and preserving firms’ incentives to invest, and it could be uninformative or optimistically biased, depending on the level of credit risk, which in our setting is higher when supplemental investment is more likely to improve upside rather than protect downside. This paper was accepted by Ranjani Krishnan, accounting. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2025.00524 .",
+      "publication_date": "2026-11-23",
+      "created_date": "2026-11-23",
+      "issue_date": "2026-11-23",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Lin Nan",
+        "Lin Qiu",
+        "Xiaoyan Wen",
+        "Ronghuo Zheng"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2025.00524",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 32.93,
+      "rank": 9,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-24"
+    },
+    {
+      "id": "crossref:10.1016/j.jfineco.2026.104417",
+      "doi": "10.1016/j.jfineco.2026.104417",
+      "title": "Keep calm and bank on: Bank run risks and the role of public communication",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-23",
+      "issue_date": "2027-01-01",
+      "journal": "Journal of Financial Economics",
+      "journal_display": "Journal of Financial Economics",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Damiano Sandri",
+        "Francesco Grigoli",
+        "Yuriy Gorodnichenko",
+        "Olivier Coibion"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.jfineco.2026.104417",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 30.6,
+      "rank": 10,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 83/100（Journal of Financial Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-24"
+    }
+  ]
+}

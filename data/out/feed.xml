@@ -6,7 +6,79 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日顶刊价格研究文献精选（大宗商品 / 期货 / 能源 / 农产品价格）</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Nov 2026 07:57:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 10:10:54 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Financial Returns, Sentiment and Market Volatility: A Dynamic Assessment]]></title>
+      <link>https://doi.org/10.1002/for.70246</link>
+      <guid isPermaLink="false">crossref:10.1002/for.70246</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Forecasting]]></category>
+      <description><![CDATA[<p><strong>Journal of Forecasting</strong> ｜ 综合分 35.0 ｜ 上线 2026-11-24（0 天前） · 在线 2026-11-23</p><p>ABSTRACT This paper investigates the relationship between sentiment and financial market activity in Italy using the Social Mood on Economy Index (SMEI), a daily sentiment indicator produced by the Italian National Statistical Institute (ISTAT) from the textual analysis of Twitter (X) messages. We examine the dynamic interactions among SMEI, FTSE‐MIB returns and market volatility within a trivariate Vector Autoregressive framework. Particular attention is devoted to the structural changes induced by the COVID‐19 pandemic.The analysis is conducted separately for the pre‐ and post‐COVID‐19 periods and is complemented by rolling‐window causality analysis and out‐of‐sample forecasting exercises. The results indicate that before the pandemic, market volatility is the only variable significantly affected by lagged information from the other variables. During and after the pandemic, the relationships become substantially stronger and more interconnected: lagged volatility Granger‐causes both sentiment and returns, lagged returns affect volatility and sentiment itself acquires predictive content for volatility. Out‐of‐sample forecast comparisons further show that sentiment information improves forecasts of market volatility, whereas its contribution to forecasting returns remains limited. Overall, the findings suggest that social media–based measures of economic mood provide valuable information for understanding and forecasting market volatility, particularly during periods characterised by elevated uncertainty and rapidly changing expectations.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Deep Tangency Portfolio]]></title>
+      <link>https://doi.org/10.1287/mnsc.2023.03136</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2023.03136</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 42.9 ｜ 上线 2026-11-23（1 天前）</p><p>We develop a deep learning framework to directly estimate tangency portfolio weights by augmenting benchmark factors with a long-short deep factor derived from high-dimensional characteristics. Guided by a Sharpe ratio maximization objective, the deep factor plays two key roles: (i) providing a natural hedge against benchmark risks and (ii) capturing multimarket signals to enhance the performance of the benchmark. In an empirical application to U.S. corporate bonds using 132 firm-level bond, equity, and option characteristics, the deep factor achieves an out-of-sample Sharpe ratio exceeding one, and the deep tangency portfolio benchmarked against the market factor yields a Sharpe ratio over two, outperforming portfolios spanned by common observable or latent factors. These results demonstrate that bond risk signals are fundamentally dense, requiring the nonlinear integration of multimarket information to span the efficient frontier. This paper was accepted by Agostino Capponi, finance. Funding: G. Feng acknowledges financial support from the Hong Kong Research Grants Council [Grant GRF11502023] and the National Natural Science Foundation of China [Grant 72203190]. G. Feng is partially supported by the InnoHK Initiative of the Innovation and Technology Commission of the Hong Kong SAR and the Laboratory for AI-Powered Financial Technologies. L. Jiang acknowledges financial support from the National Natural Science Foundation of China [Grant 72473027]. J. Li acknowledges financial support from the National Natural Science Foundation of China [Grant 72473026]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03136 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Learning from a Biased Sample]]></title>
+      <link>https://doi.org/10.1287/mnsc.2024.08073</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2024.08073</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 38.3 ｜ 上线 2026-11-23（1 天前）</p><p>The empirical risk minimization approach to data-driven decision making requires access to training data drawn under the same conditions as those that will be faced when the decision rule is deployed. However, we may be concerned that our training sample is biased in the sense that some groups (characterized by either observable or unobservable attributes) may be under- or over-represented relative to the general population; and in this setting, empirical risk minimization over the training set may fail to yield rules that perform well at deployment. We propose a model of sampling bias called conditional [Formula: see text]-biased sampling, where observed covariates can affect the probability of sample selection arbitrarily much but the amount of unexplained variation in the probability of sample selection is bounded by a constant factor. Applying the distributionally robust optimization framework, we propose a method for learning a decision rule that minimizes the worst-case risk incurred under a family of test distributions that can generate the training distribution under conditional [Formula: see text]-biased sampling. We apply a result of Rockafellar and Uryasev to show that this problem is equivalent to an augmented convex risk minimization problem. We give statistical guarantees for learning a model that is robust to sampling bias via the method of sieves, and propose a deep learning algorithm whose loss function captures our robust learning target. We empirically validate our proposed method in a case study on prediction of mental health scores from health survey data and a case study on intensive care unit length-of-stay prediction. This paper was accepted by Vivek Farias, data science. Funding: This research was supported by NSF grant SES-2242876. RS is further supported by a NSF GRFP under grant DGE-1656518, a Stanford Data Science PhD Fellowship, and a Stanford Diversifying Academia Recruiting Excellence (DARE) Fellowship. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08073 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Optimal Incentive Design for Decentralized Dynamic Matching Markets]]></title>
+      <link>https://doi.org/10.1287/mnsc.2025.01346</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2025.01346</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 38.3 ｜ 上线 2026-11-23（1 天前）</p><p>In decentralized dynamic matching markets, agents can benefit from sharing resources, but they will collaborate only if properly incentivized. Motivated by applications such as multihospital kidney exchanges and job-hunting markets, this paper proposes novel monetary and nonmonetary mechanisms to incentivize collaboration in such decentralized dynamic markets. We study a model in which multiple self-interested agents manage local multiway dynamic matching problems. Jobs of different types arrive stochastically at each agent, expire after a limited time, and yield rewards when matched. An agent’s job backlog and actions are the agent’s private information, and each agent aims to maximize its long-run average matching reward. We design simple mechanisms that incentivize agents to submit all jobs upon arrival, thereby enabling centralized matching. Our first mechanism, the marginal-value (MV) mechanism, reimburses agents based on the MV of their submitted jobs. This can be implemented in a nonmonetary way by randomly selecting an agent (with a specified probability) to perform a match and collect the associated matching reward. We show that under the MV mechanism, full job submission constitutes an approximate Nash equilibrium—that is, the gain from unilateral deviation vanishes as the number of agents grows. To further eliminate incentives for deviation, we propose a refined mechanism, the MV-plus-credit (MVC) mechanism, and show that, when the number of agents exceeds a constant threshold, full job submission constitutes a stronger oblivious equilibrium. Numerical experiments based on kidney exchange data demonstrate that the gains from deviation under our mechanisms are small even in moderately sized markets. This paper was accepted by Peng Sun, optimization and decision analytics. Funding: J. Zhang is partly supported by the National Natural Science Foundation of China (NSFC) [Grant 72394361] and the Guangdong Provincial Key Laboratory of Mathematical Foundations for Artificial Intelligence [2023B1212010001]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01346 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Proximity-Based Delivery Policies: Efficiency, Coverage, and Fairness]]></title>
+      <link>https://doi.org/10.1287/mnsc.2025.02206</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2025.02206</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 38.3 ｜ 上线 2026-11-23（1 天前）</p><p>The growing demand for rapid food and grocery delivery has prompted many restaurants and retailers to develop their own on-demand delivery services. Although hiring additional couriers can expand delivery capacity, it is often prohibitively costly. As a cost-effective alternative, we propose a proximity-based delivery (PBD) policy that prioritizes the delivery of orders from customers located closer to the vendor, in contrast to the traditional first-come-first-served (FCFS) approach. We show that PBD can substantially reduce average delivery delays without requiring additional couriers; however, it may raise fairness concerns, because distant customers experience longer wait times, potentially shrinking market coverage and exacerbating service disparities. To address this issue, we introduce an incentive-compatible PBD (IP) policy, where nearby customers are incentivized to pay for priority, whereas distant customers receive compensation to offset longer delays. We demonstrate that this mechanism can restore fairness to levels comparable to FCFS while preserving efficiency, expanding market demand, and enhancing consumer surplus, particularly in moderately dense markets with moderately delay-sensitive customers. We further show that vendors can enhance these benefits through optimal pricing and benefit from less extreme staffing adjustments due to a “pull-to-center” effect. Our findings highlight the operational, economic, and ethical dimensions of proximity-based delivery, and offer a practical framework for balancing speed, profitability, consumer welfare, and equity. Finally, we conduct a mini case study using empirical data to demonstrate the real-world applicability of our approach. This paper was accepted by Jeannette Song, operations management. Funding: Z. Wang acknowledges support from the National Natural Science Foundation of China [Grant 72322017]. Y. Li acknowledges support from the National Natural Science Foundation of China [Grant 72132007]. Q. Zhang acknowledges support from the National Natural Science Foundation of China [Grant 724B2024]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.02206 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Stockouts and the Success of New Products]]></title>
+      <link>https://doi.org/10.1287/mnsc.2023.02602</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2023.02602</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 37.6 ｜ 上线 2026-11-23（1 天前）</p><p>We investigate how stockouts of existing products influence the success of new product introductions. Our findings reveal that stockouts on incumbent items at the time a new product is launched are associated with higher sales of the new product for at least six months. This positive spillover is specific to new products and is most potent at the start of the product life cycle. To establish causality, we use instrumental variables based on historical stockouts and contemporaneous stockouts in other stores. Analysis of individual-level transaction data corroborates a trial-and-adoption mechanism: Stockouts of existing items prompt consumers to trial the new product, leading to increased repeat purchasing. By identifying inventory as a driver of product trial, this research highlights the importance of strategically timing new product launches and documents a previously unrecognized tradeoff for inventory policies. This paper was accepted by David Simchi-Levi, marketing. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02602 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Collateral Demand in Wholesale Funding Markets]]></title>
+      <link>https://doi.org/10.1093/rfs/hhag099</link>
+      <guid isPermaLink="false">crossref:10.1093/rfs/hhag099</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Review of Financial Studies]]></category>
+      <description><![CDATA[<p><strong>Review of Financial Studies</strong> ｜ 综合分 35.6 ｜ 上线 2026-11-23（1 天前）</p><p>Abstract Repo markets are systemically important funding markets, but are also used by firms to obtain the assets provided as collateral. We build and structurally estimate a model of trade between heterogeneous firms in the sterling gilt repo market, and show that this collateral demand depresses repo market activity and can impede the transmission of monetary policy. We quantify how well-designed central bank repo facilities can improve outcomes: if the central bank were to lend out the assets on its balance sheet following quantitative easing, transmission and total firm surplus would improve by 20% and 38%, respectively.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Information Design with Supplemental Investment]]></title>
+      <link>https://doi.org/10.1287/mnsc.2025.00524</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2025.00524</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 32.9 ｜ 上线 2026-11-23（1 天前）</p><p>This paper features a setting with two-dimensional information asymmetry on a firm’s fundamental (good or bad type) and the nature of its supplemental investment (improving upside potential, or mitigating downside risk). We examine the firm’s optimal design of the information system when the system can only address the dimension of fundamental. We show that, with only single-dimensional information asymmetry regarding the firm’s fundamental, greater informativeness on the firm’s fundamental type always improves efficiency. However, with two-dimensional information asymmetry, increasing informativeness about firm fundamental no longer guarantees higher efficiency and can be detrimental. The optimal information system trades off reducing information asymmetry and preserving firms’ incentives to invest, and it could be uninformative or optimistically biased, depending on the level of credit risk, which in our setting is higher when supplemental investment is more likely to improve upside rather than protect downside. This paper was accepted by Ranjani Krishnan, accounting. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2025.00524 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Keep calm and bank on: Bank run risks and the role of public communication]]></title>
+      <link>https://doi.org/10.1016/j.jfineco.2026.104417</link>
+      <guid isPermaLink="false">crossref:10.1016/j.jfineco.2026.104417</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Financial Economics]]></category>
+      <description><![CDATA[<p><strong>Journal of Financial Economics</strong> ｜ 综合分 30.6 ｜ 上线 2026-11-23（1 天前） · 期号 2027-01</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
     <item>
       <title><![CDATA[Anchoring and cost vector design in discrete choice experiments: Testing rational choice, coherent arbitrariness, and discovered preferences]]></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0095069626001567</link>
@@ -158,6 +230,14 @@
       <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[Energy Economics]]></category>
       <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-11-21（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[CHILE]]></title>
+      <link>https://doi.org/10.1093/rfs/hhag100</link>
+      <guid isPermaLink="false">crossref:10.1093/rfs/hhag100</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Review of Financial Studies]]></category>
+      <description><![CDATA[<p><strong>Review of Financial Studies</strong> ｜ 综合分 35.2 ｜ 上线 2026-11-20（4 天前） · 在线 2026-11-23</p><p>Abstract We introduce CHILE, an asset-pricing framework with asymmetric information, general utility functions, and arbitrary payoffs. It features a large economy (LE) with continuous-and-heterogeneous information (CHI). The defining feature of this information structure is that the total amount of information stays finite as the economy grows large. We use the framework to study how concentration—the presence of market participants of different sizes—affects market quality, namely liquidity and information efficiency. Greater concentration proves a double-edged sword: it raises liquidity but harms information efficiency. (JEL D01, D53, D82, E19, G12, G14)</p>]]></description>
     </item>
     <item>
       <title><![CDATA[Testing strong exogeneity in proxy SVARs with internal synthetic proxies]]></title>
@@ -1520,92 +1600,12 @@
       <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 28.9 ｜ 上线 2026-11-04（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
     </item>
     <item>
-      <title><![CDATA[EU’s Carbon Border Adjustment Mechanism (CBAM) or a Combination of Pre-CBAM Climate Policies?]]></title>
-      <link>https://doi.org/10.1177/01956574261498623</link>
-      <guid isPermaLink="false">crossref:10.1177/01956574261498623</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[The Energy Journal]]></category>
-      <description><![CDATA[<p><strong>The Energy Journal</strong> ｜ 综合分 52.9 ｜ 上线 2026-11-04（0 天前） · 在线 2026-11-03</p><p>Unilateral CO 2 emission reduction policies can induce carbon leakage. Under the EU Emissions Trading System (ETS), power-intensive and trade-exposed (PITE) industries have been granted free emission allowances, alongside optional CO 2 indirect-cost compensation adopted by selected member states, to mitigate this risk. These measures are being phased out as the EU introduces the Carbon Border Adjustment Mechanism (CBAM), which levies imports of PITE goods based on embedded carbon emissions. This paper examines the welfare effects of CBAM and the pre-CBAM anti-leakage policy mix. Theoretical analysis shows that both policies can improve regional and global welfare under certain conditions. Numerical simulations within an EU ETS context indicates that CBAM generates larger regional welfare gains than the optimal combination of free allowances and CO 2 compensation. However, these gains partly reflect terms-of-trade effects that transfer welfare from non-EU regions. Since such transfers cancel globally, CBAM and pre-CBAM policies generate comparable global welfare outcomes. JEL Classification: D61, Allocative Efficiency; Cost-Benefit Analysis; F18, Trade and Environment; H23, Taxation and Subsidies: Externalities; Redistributive Effects; Environmental Taxes and Subsidies; Q54, Climate; Natural Disasters and Their Management; Global Warming</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Who pays for clean power? Evidence on public support and solar adoption intentions in Mexico]]></title>
-      <link>https://doi.org/10.1016/j.eneco.2026.109673</link>
-      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109673</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 38.9 ｜ 上线 2026-11-04（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Confidence-scaled margin adaptation boosting for interpretable financial distress prediction]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0169207026000130</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207026000130</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[International Journal of Forecasting]]></category>
-      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 27.5 ｜ 上线 2026-11-04（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Core Concepts and Methods in Load Forecasting, Stephen Haben, Marcus Voss, William Holderbaum. (2023), https://link.springer.com/book/10.1007/978-3-031-27852-5]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0169207025001062</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207025001062</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[International Journal of Forecasting]]></category>
-      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 27.5 ｜ 上线 2026-11-04（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Enforcing tail calibration when training probabilistic forecast models]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0169207026000464</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207026000464</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[International Journal of Forecasting]]></category>
-      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 27.5 ｜ 上线 2026-11-04（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
       <title><![CDATA[Why Do Union Jobs Pay More? New Evidence from Matched Employer-Employee Data]]></title>
       <link>https://doi.org/10.1093/qje/qjag054</link>
       <guid isPermaLink="false">crossref:10.1093/qje/qjag054</guid>
       <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[Quarterly Journal of Economics]]></category>
       <description><![CDATA[<p><strong>The Quarterly Journal of Economics</strong> ｜ 综合分 38.5 ｜ 上线 2026-11-03（3 天前） · 在线 2026-11-05</p><p>Abstract We use Canadian matched employer-employee data to assess the sources of the union pay premium. After controlling for worker heterogeneity using the two-way fixed effects approach of Abowd, Kramarz, and Margolis (AKM), we find that unionized firms pay about 15 log points more than non-unionized firms. Forty percent of this gap is linked to productivity differences between unionized and non-unionized firms as measured by value added per worker. The remaining gap reflects unions’ ability to extract more rents for workers. Our estimates imply that unions raise pay among unionized workers by around 9 log points, with considerable heterogeneity by industry and firm birth cohorts. The union effect grows to about 11 log points in an extension of the AKM approach where unions also affect the returns to unobservable worker characteristics.</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Anthropogenic sulfur emissions play a large role in historical declines and forecasts for sea ice in the Northern Hemisphere]]></title>
-      <link>https://doi.org/10.1016/j.ijforecast.2026.09.012</link>
-      <guid isPermaLink="false">crossref:10.1016/j.ijforecast.2026.09.012</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[International Journal of Forecasting]]></category>
-      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 44.3 ｜ 上线 2026-11-03（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Recycling, endowments, and market power in exhaustible resource industries]]></title>
-      <link>https://doi.org/10.1016/j.eneco.2026.109677</link>
-      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109677</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 28.9 ｜ 上线 2026-11-03（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Farmers’ beliefs about the impacts of a CO2e tax on agriculture and their acceptance of the tax: A randomized survey experiment]]></title>
-      <link>https://doi.org/10.1016/j.foodpol.2026.103214</link>
-      <guid isPermaLink="false">crossref:10.1016/j.foodpol.2026.103214</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Food Policy]]></category>
-      <description><![CDATA[<p><strong>Food Policy</strong> ｜ 综合分 27.9 ｜ 上线 2026-11-03（1 天前） · 期号 2026-12</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[The Cross-section of Subjective Expectations: Understanding Prices and Anomalies]]></title>
-      <link>https://doi.org/10.1093/rfs/hhag095</link>
-      <guid isPermaLink="false">crossref:10.1093/rfs/hhag095</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Review of Financial Studies]]></category>
-      <description><![CDATA[<p><strong>Review of Financial Studies</strong> ｜ 综合分 67.0 ｜ 上线 2026-10-31（4 天前） · 在线 2026-11-03</p><p>Abstract We decompose cross-sectional differences in the level of price-earnings ratios using professional forecasts. High price-earnings ratios are accounted for by both low expected returns and overly high expected earnings growth. The magnitudes and timing of the comovements between prices, earnings growth, and returns are consistent with gradual learning rather than expectations being highly sensitive to recent realizations. Earnings growth surprises do not translate 1-1 into one-period returns but instead are gradually reflected in returns over time. A structural risk-premium model incorporating constant-gain learning about mean earnings growth replicates our findings and generates realistic dispersion and persistence in price-earnings ratios. (JEL G11, G12, G14, G40)</p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Forward Return Expectations]]></title>
-      <link>https://doi.org/10.1093/rfs/hhag096</link>
-      <guid isPermaLink="false">crossref:10.1093/rfs/hhag096</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Review of Financial Studies]]></category>
-      <description><![CDATA[<p><strong>Review of Financial Studies</strong> ｜ 综合分 58.1 ｜ 上线 2026-10-31（4 天前） · 在线 2026-11-03</p><p>Abstract We measure investors’ short- and long-term stock-return expectations using both options and survey data. These expectations at different horizons reveal what investors think their own short-term expectations will be in the future, or forward return expectations. Across data sources, investors’ forward return expectations are countercyclical, especially when measured as forward risk premiums. This countercyclical variation is, however, excessive, as changes in forward return expectations are too large relative to subsequent realized short-term expectations. The excess variation in forward return expectations can help account for a meaningful share of the stock-price declines during the global financial crisis and the COVID-19 crisis. (JEL G10, G12, G40)</p>]]></description>
     </item>
   </channel>
 </rss>
