@@ -1,0 +1,700 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25 08:56:31",
+  "stats": {
+    "journals": 17,
+    "fetched": 351,
+    "candidates": 62,
+    "pushed": 10,
+    "digest_size": 10,
+    "per_journal": {
+      "Journal of Finance": {
+        "display": "The Journal of Finance",
+        "group": "金融经济",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Journal of Financial Economics": {
+        "display": "Journal of Financial Economics",
+        "group": "金融经济",
+        "publisher": "Elsevier",
+        "fetched": 18,
+        "error": ""
+      },
+      "Review of Financial Studies": {
+        "display": "Review of Financial Studies",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 4,
+        "error": ""
+      },
+      "American Economic Review": {
+        "display": "American Economic Review",
+        "group": "金融经济",
+        "publisher": "American Economic Association",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Quarterly Journal of Economics": {
+        "display": "The Quarterly Journal of Economics",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 2,
+        "error": ""
+      },
+      "Econometrica": {
+        "display": "Econometrica",
+        "group": "金融经济",
+        "publisher": "The Econometric Society",
+        "fetched": 17,
+        "error": ""
+      },
+      "Management Science": {
+        "display": "Management Science",
+        "group": "金融经济",
+        "publisher": "Institute for Operations Research and the Management Sciences",
+        "fetched": 31,
+        "error": ""
+      },
+      "Energy Economics": {
+        "display": "Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 75,
+        "error": ""
+      },
+      "The Energy Journal": {
+        "display": "The Energy Journal",
+        "group": "能源资源",
+        "publisher": "SAGE Publications",
+        "fetched": 1,
+        "error": ""
+      },
+      "Journal of Environmental Economics and Management": {
+        "display": "Journal of Environmental Economics and Management",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 26,
+        "error": ""
+      },
+      "Resource and Energy Economics": {
+        "display": "Resource and Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 14,
+        "error": ""
+      },
+      "American Journal of Agricultural Economics": {
+        "display": "American Journal of Agricultural Economics",
+        "group": "农业商品",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 2,
+        "error": ""
+      },
+      "Journal of Commodity Markets": {
+        "display": "Journal of Commodity Markets",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 14,
+        "error": ""
+      },
+      "Food Policy": {
+        "display": "Food Policy",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 46,
+        "error": ""
+      },
+      "Journal of Econometrics": {
+        "display": "Journal of Econometrics",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 30,
+        "error": ""
+      },
+      "International Journal of Forecasting": {
+        "display": "International Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 66,
+        "error": ""
+      },
+      "Journal of Forecasting": {
+        "display": "Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Wiley (John Wiley & Sons)",
+        "fetched": 5,
+        "error": ""
+      }
+    },
+    "selection_notes": {
+      "strict_pool": 2,
+      "cap_relaxed": false,
+      "relaxed": true,
+      "filled": true,
+      "relaxed_pool": 3
+    },
+    "abstract_coverage": 0.145,
+    "enrich": {
+      "s2_filled": 2,
+      "openalex_filled": 0,
+      "openalex_note": "请求失败（HTTP 400 :: https://api.openalex.org/works?filter=doi%3A10.1016%2Fj.jfineco.2026.104402%7C10.1016%2Fj.jfineco.2026.104410%7C10.3982%2Fecta25748%7C10.1016%2Fj.eneco.2026.109738%7C10.1016%2Fj.eneco.2026.109737%7C10.1016%2Fj.eneco.2026.109740%7C10.1016%2Fj.eneco.2026.109736%7C10.1016%2Fj.eneco.2026.109729%7C10.1016%2Fj.eneco.2026.109694%7C10.1016%2Fj.eneco.2026.109716%7C10.1016%2Fj.jeem.2026.103442%7C10.1016%2Fj.jeem.2026.103445%7C10.1016%2Fj.reseneeco.2026.101613%7C10.1016%2Fj.jcomm.2026.100596%7C10.1016%2Fj.foodpol.2026.103233%7C10.1016%2Fj.foodpol.2026.103211%7C10.1016%2Fj.foodpol.2026.103231%7C10.1016%2Fj.foodpol.2026.103229%7C10.1016%2Fj.foodpol.2026.103228%7C10.1016%2Fj.foodpol.2026.103200%7C10.1016%2Fj.foodpol.2026.103232%7C10.1016%2Fs0169-2070%2826%2900128-7%7C10.1016%2Fj.ijforecast.2026.09.007%7C10.1016%2Fj.ijforecast.2026.10.008%7C10.1016%2Fj.ijforecast.2026.10.011%7C10.1016%2Fj.ijforecast.2026.10.009%7C10.1016%2Fj.ijforecast.2026.09.002&per-page=27&select=doi%2Cabstract_inverted_index%2Ccited_by_count%2Cis_oa%2Cbest_oa_location&mailto=2485892471%40qq.com :: {\"error\":\"Invalid query parameters error.\",\"message\":\"is_oa is not a valid select field. Valid fields for select are: id, doi, title, display_name, alternate_titles, relevance_score, rerank_score, pub）"
+    }
+  },
+  "items": [
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109738",
+      "doi": "10.1016/j.eneco.2026.109738",
+      "title": "Carbon prices, production network leakage, and net climate benefits: Evidence from Chinese cities",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-25",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "He Jiang",
+        "Rongyu Cao",
+        "Malin Song",
+        "Juntao Du",
+        "Ning Zhang"
+      ],
+      "author_count": 5,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109738",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 71.07,
+      "rank": 1,
+      "relevance_raw": 11.5,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "prices",
+        "carbon price",
+        "carbon"
+      ],
+      "reasons": [
+        "相关性 82/100（价格词 ×3题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "price",
+          "prices",
+          "carbon price"
+        ],
+        "core_abstract": [],
+        "context_title": [
+          "carbon"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-25"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109740",
+      "doi": "10.1016/j.eneco.2026.109740",
+      "title": "From carbon constraints to price incentives: Incomplete carbon cost pass-through in China's coordinated electricity and carbon markets",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-25",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Yanfang Zhang",
+        "Xinran Zhang",
+        "Siyi Chen",
+        "Xunpeng Shi",
+        "Dequn Zhou"
+      ],
+      "author_count": 5,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109740",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 69.29,
+      "rank": 2,
+      "relevance_raw": 11.0,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "pass through",
+        "electricity",
+        "carbon"
+      ],
+      "reasons": [
+        "相关性 79/100（价格词 ×2题名 / ×0摘要；商品期货词 ×2题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "price",
+          "pass through"
+        ],
+        "core_abstract": [],
+        "context_title": [
+          "electricity",
+          "carbon"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-25"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109695",
+      "doi": "10.1016/j.eneco.2026.109695",
+      "title": "Inferring behind-the-meter demand components from net load via inverse optimization",
+      "abstract": "Understanding and forecasting electricity demand responses to price signals is essential to support the operational decisions of system operators, retailers, and regulators. Traditional time series and machine learning approaches have performed well under stable consumption patterns. However, the rise of active consumers with flexible assets, such as solar-plus-storage systems and electric vehicles, introduces new complexities. These consumers exhibit behind-the-meter behavior that is generally unobservable to system operators and retailers, who can typically only measure net demand at the boundary meters which are located at the connection points to the grid. Net demand reflects the aggregate of baseload consumption, flexible load shifting, and self-generation, all of which may respond nonlinearly to market prices. As these unobservable components grow, existing forecasting models may fail to capture the true dynamics of consumer behavior. This work develops and implements a data-driven inverse optimization framework to reveal behind-the-meter consumption patterns using only net demand data. By analyzing net demand as revealed at the grid connection point, we estimate parameters for a latent optimization model, enabling predictions that infer the unobservable components. This enables more accurate point and probabilistic forecasting of electricity demand under varying price signals. Thus, it provides actionable insights for system operators to improve local congestion management and flexibility extraction, as well as for retailers and aggregators, who could thereby optimize operations and tariffs to leverage consumer flexibility. We validate the methodology using real-world data, demonstrating improved forecasting accuracy over leading machine learning and time-series benchmarks.",
+      "publication_date": "2027-01-01",
+      "created_date": "2026-11-18",
+      "issue_date": "2027-01-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 3,
+      "authors": [
+        "Adrián Esteban-Pérez",
+        "Derek Bunn",
+        "Yashar Ghiassi-Farrokhfal"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.2139/ssrn.5380111",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109695",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "semanticscholar",
+      "score": 55.04,
+      "rank": 3,
+      "relevance_raw": 5.4,
+      "relevance_level": "medium",
+      "keywords": [
+        "price",
+        "prices",
+        "market price",
+        "electricity",
+        "solar",
+        "storage",
+        "tariff",
+        "tariffs"
+      ],
+      "reasons": [
+        "相关性 39/100（价格词 ×0题名 / ×3摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 50/100（上线 7 天前）",
+        "方法匹配 75/100（forecasting、prediction、machine learning）",
+        "有摘要，可快速判断",
+        "有开放获取全文"
+      ],
+      "days_old": 7,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "price",
+          "prices",
+          "market price"
+        ],
+        "context_title": [],
+        "context_abstract": [
+          "electricity",
+          "solar",
+          "storage",
+          "tariff",
+          "tariffs"
+        ],
+        "method": [
+          "forecasting",
+          "prediction",
+          "machine learning"
+        ]
+      },
+      "pushed_date": "2026-11-25"
+    },
+    {
+      "id": "crossref:10.1002/ajae.70108",
+      "doi": "10.1002/ajae.70108",
+      "title": "Compulsory education and occupational persistence in US agriculture",
+      "abstract": "Abstract This paper explores how compulsory education laws shape occupational persistence in US agriculture. Using US Decennial Census data from 1860 to 1910, I examine occupational choices among adult children from farm households. I find that compulsory education reduces the probability of remaining in farming by 4%–7%. Event study estimates show that firstborn sons and White children are more likely to persist in agriculture. In contrast, daughters, non‐firstborn sons, and Black children are more likely to leave farming. Using the push–pull framework, I show that compulsory education affects occupational persistence through farm succession norms and expanded opportunities for off‐farm employment. Overall, the results help explain the under‐representation of women and Black Americans in US agriculture.",
+      "publication_date": "2026-11-24",
+      "created_date": "2026-11-25",
+      "issue_date": "2026-11-24",
+      "journal": "American Journal of Agricultural Economics",
+      "journal_display": "American Journal of Agricultural Economics",
+      "group": "农业商品",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Jhih‐Yun Liu"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1002/ajae.70108",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 43.57,
+      "rank": 4,
+      "relevance_raw": 3.1,
+      "relevance_level": "medium",
+      "keywords": [
+        "agriculture"
+      ],
+      "reasons": [
+        "相关性 22/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 50/100（American Journal of Agricultural Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（event study）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "agriculture"
+        ],
+        "context_abstract": [
+          "agriculture"
+        ],
+        "method": [
+          "event study"
+        ]
+      },
+      "pushed_date": "2026-11-25"
+    },
+    {
+      "id": "crossref:10.1016/j.jfineco.2026.104402",
+      "doi": "10.1016/j.jfineco.2026.104402",
+      "title": "Carbon home bias",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-24",
+      "issue_date": "2027-01-01",
+      "journal": "Journal of Financial Economics",
+      "journal_display": "Journal of Financial Economics",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Patrick Bolton",
+        "Marc Eskildsen",
+        "Marcin Kacperczyk"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.jfineco.2026.104402",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 39.52,
+      "rank": 5,
+      "relevance_raw": 2.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "carbon"
+      ],
+      "reasons": [
+        "相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 83/100（Journal of Financial Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "carbon"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-25"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2024.08000",
+      "doi": "10.1287/mnsc.2024.08000",
+      "title": "Determinants of Norm Compliance: Moral Similarity and Group Identification",
+      "abstract": "What determines whether someone complies with a social norm? The social identity approach offers a mechanism for norm compliance: A person who feels similar to a group identifies more with that group and, in turn, complies with the group’s norms. Using an experiment, we test whether similarity in values increases identification and adherence to a group rule. To do so, we varied the similarity/dissimilarity between the values of an individual and members of a social group and measured group identification and rule compliance. We find that moral similarity in progressivism increases group identification, and group identification can increase compliance with rules from the social group. However, our results also suggest that this relationship can be disrupted. Because of our design and empirically verified in our study, social norms do not differ between treatments. As a consequence, observed behavior changes are attributable to increased group norm sensitivity and not changes in group norms. We advance the study of social identity by testing a causal pathway between group identification, group norm sensitivity, and behavior change. Our contribution to the management literature is to extend the empirical rationale, and cautionary notes, for investing in value-alignment between individuals and organizations. This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis. Funding: The authors thank the Max Planck Institute for Research on Collective Goods and the University of Michigan School of Information for financial support. They also gratefully acknowledge support from the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy (EXC 2126/2 – 390838866), and from the Center for Social and Economic Behavior at the University of Cologne. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.08000 .",
+      "publication_date": "2026-11-24",
+      "created_date": "2026-11-24",
+      "issue_date": "2026-11-24",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Alexander Schneeberger",
+        "Erin Krupka"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2024.08000",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 37.93,
+      "rank": 6,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 50/100（identification、causal）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "identification",
+          "causal"
+        ]
+      },
+      "pushed_date": "2026-11-25"
+    },
+    {
+      "id": "crossref:10.1093/qje/qjag058",
+      "doi": "10.1093/qje/qjag058",
+      "title": "Generative AI And Creative Goods: Market Expansion, Crowd-Out, and Copyright",
+      "abstract": "Abstract We study how generative artificial intelligence (GenAI) affects creative goods markets using data from a large stock images marketplace. In December 2022, the platform announced it would allow artists to sell GenAI-produced images, subject to two conditions: all GenAI images must be labeled, and GenAI would be prohibited in certain markets. We exploit this policy variation using a difference-in-differences design. We estimate a 136% increase in image production and 47% increase in active artists, accompanied by a 15% decline in non-GenAI production and 29% decline in non-GenAI active artists. On the demand side, total sales increase by 82%, but non-GenAI sales fall by 28% and non-GenAI sales rates decline by 3 percentage points. We use image embeddings to develop novel measures of image quality, characteristics, and market composition.We find that quality (measured as predicted sales probability) increases by 9 percentage points overall and 2 percentage points for non-GenAI content, suggesting low-quality non-GenAI artists exit. Our product characteristic measures indicate that GenAI production is heavily concentrated in characteristic space, potentially limiting the value of these images to the market. Non-GenAI production responds to GenAI by differentiating into niches. We discuss implications for copyright policy and the longer-run sustainability of original creative work.",
+      "publication_date": "2026-11-24",
+      "created_date": "2026-11-24",
+      "issue_date": "2026-11-24",
+      "journal": "Quarterly Journal of Economics",
+      "journal_display": "The Quarterly Journal of Economics",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Samuel G Goldberg",
+        "H Tai Lam"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1093/qje/qjag058",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 37.43,
+      "rank": 7,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 80/100（Quarterly Journal of Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（difference in differences）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "difference in differences"
+        ]
+      },
+      "pushed_date": "2026-11-25"
+    },
+    {
+      "id": "crossref:10.1093/rfs/hhag101",
+      "doi": "10.1093/rfs/hhag101",
+      "title": "Fintech Expansion",
+      "abstract": "Abstract I study credit market outcomes with different competing lending technologies: a fintech lender that learns from data and can seize on-platform sales, and a banking sector that relies on physical collateral. Despite flexible information acquisition technology, endogenous fintech learning is surprisingly coarse, with a single threshold that screens out low-quality borrowers. As fintech lending technology improves, better enforcement harms, while better information technology benefits traditional banking sector profits. Big data technology enables the fintech to leverage data from its early-stage operations in unbanked markets to develop predictive models that support expansion into wealthier markets. (JEL G21, L13, L52, O33, O36)",
+      "publication_date": "2026-11-24",
+      "created_date": "2026-11-23",
+      "issue_date": "2026-11-24",
+      "journal": "Review of Financial Studies",
+      "journal_display": "Review of Financial Studies",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Jing Huang"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1093/rfs/hhag101",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 37.02,
+      "rank": 8,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 83/100（Review of Financial Studies）",
+        "时效 86/100（上线 2 天前）",
+        "方法匹配 25/100（predictive）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 2,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "predictive"
+        ]
+      },
+      "pushed_date": "2026-11-25"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2025.03354",
+      "doi": "10.1287/mnsc.2025.03354",
+      "title": "Gatekeepers and Kingmakers: Do Superplatforms Distort Digital Competition?",
+      "abstract": "The rising dominance of superplatforms raises concerns about conflicts of interest and externalities on innovation, because they act as both marketplace gatekeepers and strategic investors. Studying Google’s dual role via Google Ventures (GV) and the Android marketplace, we find Google-backed startups receive 115% more reviews, 12% higher ratings, and 77% fewer bug complaints than their iOS counterparts—despite no major app updates. These gains are consistent with selective review removal and platform promotion. Using a difference-in-differences approach with iOS versions as controls, we isolate treatment from selection effects. Our findings challenge platform neutrality and highlight subtle mechanisms of competitive distortion. This paper was accepted by D. J. Wu, information systems. Supplemental Material: The Online Appendix and data files are available at https://doi.org/10.1287/mnsc.2025.03354 .",
+      "publication_date": "2026-11-24",
+      "created_date": "2026-11-24",
+      "issue_date": "2026-11-24",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Umit G. Gurun",
+        "Zheng Liu",
+        "Steven Chong Xiao"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2025.03354",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 35.43,
+      "rank": 9,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（difference in differences）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "difference in differences"
+        ]
+      },
+      "pushed_date": "2026-11-25"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2025.01507",
+      "doi": "10.1287/mnsc.2025.01507",
+      "title": "Screening, Investment Incentives, and the Welfare Trade-Offs of Privacy",
+      "abstract": "This paper studies how information disclosure affects investment incentives and contracting efficiency. We analyze a class of principal-agent models in which information helps the principal screen the agent but also facilitates surplus appropriation, thereby weakening the agent’s incentive to invest before contracting. Efficient privacy regimes balance these two forces. Along the frontier of efficient information policies, more privacy is associated with stronger investment incentives and higher agent payoff. We characterize conditions under which full privacy, full disclosure, or intermediate privacy is efficient. The results provide guidance for intellectual property and innovation policy by identifying when additional privacy fosters or hinders economic efficiency and innovation. This paper was accepted by Alfonso Gambardella, business strategy. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2025.01507 .",
+      "publication_date": "2026-11-24",
+      "created_date": "2026-11-24",
+      "issue_date": "2026-11-24",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Anastasios Dosis",
+        "Casey Rothschild"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2025.01507",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 35.43,
+      "rank": 10,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（welfare）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "welfare"
+        ]
+      },
+      "pushed_date": "2026-11-25"
+    }
+  ]
+}

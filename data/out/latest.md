@@ -1,213 +1,206 @@
-# 价格研究日报 · 2026-11-24
+# 价格研究日报 · 2026-11-25
 
-> 覆盖 17 本顶刊 ｜ 抓取 346 篇 ｜ 新候选 61 篇 ｜ 本期推送 10 篇 ｜ 生成于 2026-11-24 10:10:54
+> 覆盖 17 本顶刊 ｜ 抓取 351 篇 ｜ 新候选 62 篇 ｜ 本期推送 10 篇 ｜ 生成于 2026-11-25 08:56:31
 
-## 1. Deep Tangency Portfolio
+## 1. Carbon prices, production network leakage, and net climate benefits: Evidence from Chinese cities
 
-**Management Science** · 上线 2026-11-23（1 天前） · T1 · Guanhao Feng、Liang Jiang、Junye Li、Yizhi Song 等 5 人 · 综合分 **42.9** · 中等相关
+**Energy Economics** · 上线 2026-11-25（0 天前） · T2 · He Jiang、Rongyu Cao、Malin Song、Juntao Du 等 5 人 · 综合分 **71.1** · 强相关
 
-标签：`yield` `yields` `option` `hedge`
+> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
-**摘要**
-
-We develop a deep learning framework to directly estimate tangency portfolio weights by augmenting benchmark factors with a long-short deep factor derived from high-dimensional characteristics. Guided by a Sharpe ratio maximization objective, the deep factor plays two key roles: (i) providing a natural hedge against benchmark risks and (ii) capturing multimarket signals to enhance the performance of the benchmark. In an empirical application to U.S. corporate bonds using 132 firm-level bond, equity, and option characteristics, the deep factor achieves an out-of-sample Sharpe ratio exceeding one, and the deep tangency portfolio benchmarked against the market factor yields a Sharpe ratio over two, outperforming portfolios spanned by common observable or latent factors. These results demonstrate that bond risk signals are fundamentally dense, requiring the nonlinear integration of multimarket information to span the efficient frontier. This paper was accepted by Agostino Capponi, finance. Funding: G. Feng acknowledges financial support from the Hong Kong Research Grants Council [Grant GRF11502023] and the National Natural Science Foundation of China [Grant 72203190]. G. Feng is partially supported by the InnoHK Initiative of the Innovation and Technology Commission of the Hong Kong SAR and the Laboratory for AI-Powered Financial Technologies. L. Jiang acknowledges financial support from the National Natural Science Foundation of China [Grant 72473027]. J. Li acknowledges financial support from the National Natural Science Foundation of China [Grant 72473026]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.03136 .
+标签：`price` `prices` `carbon price` `carbon`
 
 **为什么推荐**
 
-- 相关性 20/100（价格词 ×0题名 / ×2摘要；商品期货词 ×0题名）
-- 期刊权重 70/100（Management Science）
+- 相关性 82/100（价格词 ×3题名 / ×0摘要；商品期货词 ×1题名）
+- 期刊权重 75/100（Energy Economics）
+- 时效 100/100（上线 0 天前）
+- 方法匹配 0/100
+
+[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109738)
+
+---
+
+## 2. From carbon constraints to price incentives: Incomplete carbon cost pass-through in China's coordinated electricity and carbon markets
+
+**Energy Economics** · 上线 2026-11-25（0 天前） · T2 · Yanfang Zhang、Xinran Zhang、Siyi Chen、Xunpeng Shi 等 5 人 · 综合分 **69.3** · 强相关
+
+> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
+
+标签：`price` `pass through` `electricity` `carbon`
+
+**为什么推荐**
+
+- 相关性 79/100（价格词 ×2题名 / ×0摘要；商品期货词 ×2题名）
+- 期刊权重 75/100（Energy Economics）
+- 时效 100/100（上线 0 天前）
+- 方法匹配 0/100
+
+[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109740)
+
+---
+
+## 3. Inferring behind-the-meter demand components from net load via inverse optimization
+
+**Energy Economics** · 上线 2026-11-18（7 天前） · 在线 2027-01-01 · T2 · Adrián Esteban-Pérez、Derek Bunn、Yashar Ghiassi-Farrokhfal · 综合分 **55.0** · 中等相关
+
+标签：`price` `prices` `market price` `electricity` `solar` `storage` `tariff` `tariffs`
+
+**摘要**
+
+Understanding and forecasting electricity demand responses to price signals is essential to support the operational decisions of system operators, retailers, and regulators. Traditional time series and machine learning approaches have performed well under stable consumption patterns. However, the rise of active consumers with flexible assets, such as solar-plus-storage systems and electric vehicles, introduces new complexities. These consumers exhibit behind-the-meter behavior that is generally unobservable to system operators and retailers, who can typically only measure net demand at the boundary meters which are located at the connection points to the grid. Net demand reflects the aggregate of baseload consumption, flexible load shifting, and self-generation, all of which may respond nonlinearly to market prices. As these unobservable components grow, existing forecasting models may fail to capture the true dynamics of consumer behavior. This work develops and implements a data-driven inverse optimization framework to reveal behind-the-meter consumption patterns using only net demand data. By analyzing net demand as revealed at the grid connection point, we estimate parameters for a latent optimization model, enabling predictions that infer the unobservable components. This enables more accurate point and probabilistic forecasting of electricity demand under varying price signals. Thus, it provides actionable insights for system operators to improve local congestion management and flexibility extraction, as well as for retailers and aggregators, who could thereby optimize operations and tariffs to leverage consumer flexibility. We validate the methodology using real-world data, demonstrating improved forecasting accuracy over leading machine learning and time-series benchmarks.
+
+**为什么推荐**
+
+- 相关性 39/100（价格词 ×0题名 / ×3摘要；商品期货词 ×0题名）
+- 期刊权重 75/100（Energy Economics）
+- 时效 50/100（上线 7 天前）
+- 方法匹配 75/100（forecasting、prediction、machine learning）
+- 有摘要，可快速判断
+- 有开放获取全文
+
+[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109695) ｜ [开放获取全文](https://doi.org/10.2139/ssrn.5380111)
+
+---
+
+## 4. Compulsory education and occupational persistence in US agriculture
+
+**American Journal of Agricultural Economics** · 上线 2026-11-25（0 天前） · 在线 2026-11-24 · T2 · Jhih‐Yun Liu · 综合分 **43.6** · 中等相关
+
+标签：`agriculture`
+
+**摘要**
+
+Abstract This paper explores how compulsory education laws shape occupational persistence in US agriculture. Using US Decennial Census data from 1860 to 1910, I examine occupational choices among adult children from farm households. I find that compulsory education reduces the probability of remaining in farming by 4%–7%. Event study estimates show that firstborn sons and White children are more likely to persist in agriculture. In contrast, daughters, non‐firstborn sons, and Black children are more likely to leave farming. Using the push–pull framework, I show that compulsory education affects occupational persistence through farm succession norms and expanded opportunities for off‐farm employment. Overall, the results help explain the under‐representation of women and Black Americans in US agriculture.
+
+**为什么推荐**
+
+- 相关性 22/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）
+- 期刊权重 50/100（American Journal of Agricultural Economics）
+- 时效 100/100（上线 0 天前）
+- 方法匹配 25/100（event study）
+- 有摘要，可快速判断
+
+[DOI / 原文](https://doi.org/10.1002/ajae.70108)
+
+---
+
+## 5. Carbon home bias
+
+**Journal of Financial Economics** · 上线 2026-11-24（1 天前） · 期号 2027-01 · T1 · Patrick Bolton、Marc Eskildsen、Marcin Kacperczyk · 综合分 **39.5** · 中等相关
+
+> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
+
+标签：`carbon`
+
+**为什么推荐**
+
+- 相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）
+- 期刊权重 83/100（Journal of Financial Economics）
 - 时效 93/100（上线 1 天前）
 - 方法匹配 0/100
-- 有摘要，可快速判断
 
-[DOI / 原文](https://doi.org/10.1287/mnsc.2023.03136)
+[DOI / 原文](https://doi.org/10.1016/j.jfineco.2026.104402)
 
 ---
 
-## 2. Learning from a Biased Sample
+## 6. Determinants of Norm Compliance: Moral Similarity and Group Identification
 
-**Management Science** · 上线 2026-11-23（1 天前） · T1 · Roshni Sahoo、Lihua Lei、Stefan Wager · 综合分 **38.3** · 弱相关
-
-标签：`yield`
+**Management Science** · 上线 2026-11-24（1 天前） · T1 · Alexander Schneeberger、Erin Krupka · 综合分 **37.9** · 强相关
 
 **摘要**
 
-The empirical risk minimization approach to data-driven decision making requires access to training data drawn under the same conditions as those that will be faced when the decision rule is deployed. However, we may be concerned that our training sample is biased in the sense that some groups (characterized by either observable or unobservable attributes) may be under- or over-represented relative to the general population; and in this setting, empirical risk minimization over the training set may fail to yield rules that perform well at deployment. We propose a model of sampling bias called conditional [Formula: see text]-biased sampling, where observed covariates can affect the probability of sample selection arbitrarily much but the amount of unexplained variation in the probability of sample selection is bounded by a constant factor. Applying the distributionally robust optimization framework, we propose a method for learning a decision rule that minimizes the worst-case risk incurred under a family of test distributions that can generate the training distribution under conditional [Formula: see text]-biased sampling. We apply a result of Rockafellar and Uryasev to show that this problem is equivalent to an augmented convex risk minimization problem. We give statistical guarantees for learning a model that is robust to sampling bias via the method of sieves, and propose a deep learning algorithm whose loss function captures our robust learning target. We empirically validate our proposed method in a case study on prediction of mental health scores from health survey data and a case study on intensive care unit length-of-stay prediction. This paper was accepted by Vivek Farias, data science. Funding: This research was supported by NSF grant SES-2242876. RS is further supported by a NSF GRFP under grant DGE-1656518, a Stanford Data Science PhD Fellowship, and a Stanford Diversifying Academia Recruiting Excellence (DARE) Fellowship. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08073 .
+What determines whether someone complies with a social norm? The social identity approach offers a mechanism for norm compliance: A person who feels similar to a group identifies more with that group and, in turn, complies with the group’s norms. Using an experiment, we test whether similarity in values increases identification and adherence to a group rule. To do so, we varied the similarity/dissimilarity between the values of an individual and members of a social group and measured group identification and rule compliance. We find that moral similarity in progressivism increases group identification, and group identification can increase compliance with rules from the social group. However, our results also suggest that this relationship can be disrupted. Because of our design and empirically verified in our study, social norms do not differ between treatments. As a consequence, observed behavior changes are attributable to increased group norm sensitivity and not changes in group norms. We advance the study of social identity by testing a causal pathway between group identification, group norm sensitivity, and behavior change. Our contribution to the management literature is to extend the empirical rationale, and cautionary notes, for investing in value-alignment between individuals and organizations. This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis. Funding: The authors thank the Max Planck Institute for Research on Collective Goods and the University of Michigan School of Information for financial support. They also gratefully acknowledge support from the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy (EXC 2126/2 – 390838866), and from the Center for Social and Economic Behavior at the University of Cologne. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.08000 .
 
 **为什么推荐**
 
-- 相关性 6/100（价格词 ×0题名 / ×1摘要；商品期货词 ×0题名）
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
 - 期刊权重 70/100（Management Science）
 - 时效 93/100（上线 1 天前）
-- 方法匹配 25/100（prediction）
+- 方法匹配 50/100（identification、causal）
 - 有摘要，可快速判断
 
-[DOI / 原文](https://doi.org/10.1287/mnsc.2024.08073)
+[DOI / 原文](https://doi.org/10.1287/mnsc.2024.08000)
 
 ---
 
-## 3. Optimal Incentive Design for Decentralized Dynamic Matching Markets
+## 7. Generative AI And Creative Goods: Market Expansion, Crowd-Out, and Copyright
 
-**Management Science** · 上线 2026-11-23（1 天前） · T1 · Chen Chen、Pengyu Qian、Jingwei Zhang · 综合分 **38.3** · 弱相关
-
-标签：`yield`
+**The Quarterly Journal of Economics** · 上线 2026-11-24（1 天前） · T1 · Samuel G Goldberg、H Tai Lam · 综合分 **37.4** · 强相关
 
 **摘要**
 
-In decentralized dynamic matching markets, agents can benefit from sharing resources, but they will collaborate only if properly incentivized. Motivated by applications such as multihospital kidney exchanges and job-hunting markets, this paper proposes novel monetary and nonmonetary mechanisms to incentivize collaboration in such decentralized dynamic markets. We study a model in which multiple self-interested agents manage local multiway dynamic matching problems. Jobs of different types arrive stochastically at each agent, expire after a limited time, and yield rewards when matched. An agent’s job backlog and actions are the agent’s private information, and each agent aims to maximize its long-run average matching reward. We design simple mechanisms that incentivize agents to submit all jobs upon arrival, thereby enabling centralized matching. Our first mechanism, the marginal-value (MV) mechanism, reimburses agents based on the MV of their submitted jobs. This can be implemented in a nonmonetary way by randomly selecting an agent (with a specified probability) to perform a match and collect the associated matching reward. We show that under the MV mechanism, full job submission constitutes an approximate Nash equilibrium—that is, the gain from unilateral deviation vanishes as the number of agents grows. To further eliminate incentives for deviation, we propose a refined mechanism, the MV-plus-credit (MVC) mechanism, and show that, when the number of agents exceeds a constant threshold, full job submission constitutes a stronger oblivious equilibrium. Numerical experiments based on kidney exchange data demonstrate that the gains from deviation under our mechanisms are small even in moderately sized markets. This paper was accepted by Peng Sun, optimization and decision analytics. Funding: J. Zhang is partly supported by the National Natural Science Foundation of China (NSFC) [Grant 72394361] and the Guangdong Provincial Key Laboratory of Mathematical Foundations for Artificial Intelligence [2023B1212010001]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01346 .
+Abstract We study how generative artificial intelligence (GenAI) affects creative goods markets using data from a large stock images marketplace. In December 2022, the platform announced it would allow artists to sell GenAI-produced images, subject to two conditions: all GenAI images must be labeled, and GenAI would be prohibited in certain markets. We exploit this policy variation using a difference-in-differences design. We estimate a 136% increase in image production and 47% increase in active artists, accompanied by a 15% decline in non-GenAI production and 29% decline in non-GenAI active artists. On the demand side, total sales increase by 82%, but non-GenAI sales fall by 28% and non-GenAI sales rates decline by 3 percentage points. We use image embeddings to develop novel measures of image quality, characteristics, and market composition.We find that quality (measured as predicted sales probability) increases by 9 percentage points overall and 2 percentage points for non-GenAI content, suggesting low-quality non-GenAI artists exit. Our product characteristic measures indicate that GenAI production is heavily concentrated in characteristic space, potentially limiting the value of these images to the market. Non-GenAI production responds to GenAI by differentiating into niches. We discuss implications for copyright policy and the longer-run sustainability of original creative work.
 
 **为什么推荐**
 
-- 相关性 6/100（价格词 ×0题名 / ×1摘要；商品期货词 ×0题名）
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 80/100（Quarterly Journal of Economics）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 25/100（difference in differences）
+- 有摘要，可快速判断
+
+[DOI / 原文](https://doi.org/10.1093/qje/qjag058)
+
+---
+
+## 8. Fintech Expansion
+
+**Review of Financial Studies** · 上线 2026-11-23（2 天前） · 在线 2026-11-24 · T1 · Jing Huang · 综合分 **37.0** · 强相关
+
+**摘要**
+
+Abstract I study credit market outcomes with different competing lending technologies: a fintech lender that learns from data and can seize on-platform sales, and a banking sector that relies on physical collateral. Despite flexible information acquisition technology, endogenous fintech learning is surprisingly coarse, with a single threshold that screens out low-quality borrowers. As fintech lending technology improves, better enforcement harms, while better information technology benefits traditional banking sector profits. Big data technology enables the fintech to leverage data from its early-stage operations in unbanked markets to develop predictive models that support expansion into wealthier markets. (JEL G21, L13, L52, O33, O36)
+
+**为什么推荐**
+
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 83/100（Review of Financial Studies）
+- 时效 86/100（上线 2 天前）
+- 方法匹配 25/100（predictive）
+- 有摘要，可快速判断
+
+[DOI / 原文](https://doi.org/10.1093/rfs/hhag101)
+
+---
+
+## 9. Gatekeepers and Kingmakers: Do Superplatforms Distort Digital Competition?
+
+**Management Science** · 上线 2026-11-24（1 天前） · T1 · Umit G. Gurun、Zheng Liu、Steven Chong Xiao · 综合分 **35.4** · 强相关
+
+**摘要**
+
+The rising dominance of superplatforms raises concerns about conflicts of interest and externalities on innovation, because they act as both marketplace gatekeepers and strategic investors. Studying Google’s dual role via Google Ventures (GV) and the Android marketplace, we find Google-backed startups receive 115% more reviews, 12% higher ratings, and 77% fewer bug complaints than their iOS counterparts—despite no major app updates. These gains are consistent with selective review removal and platform promotion. Using a difference-in-differences approach with iOS versions as controls, we isolate treatment from selection effects. Our findings challenge platform neutrality and highlight subtle mechanisms of competitive distortion. This paper was accepted by D. J. Wu, information systems. Supplemental Material: The Online Appendix and data files are available at https://doi.org/10.1287/mnsc.2025.03354 .
+
+**为什么推荐**
+
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
 - 期刊权重 70/100（Management Science）
 - 时效 93/100（上线 1 天前）
-- 方法匹配 25/100（equilibrium）
+- 方法匹配 25/100（difference in differences）
 - 有摘要，可快速判断
 
-[DOI / 原文](https://doi.org/10.1287/mnsc.2025.01346)
+[DOI / 原文](https://doi.org/10.1287/mnsc.2025.03354)
 
 ---
 
-## 4. Proximity-Based Delivery Policies: Efficiency, Coverage, and Fairness
+## 10. Screening, Investment Incentives, and the Welfare Trade-Offs of Privacy
 
-**Management Science** · 上线 2026-11-23（1 天前） · T1 · Zhongbin Wang、Shiliang Cui、Yongjian Li、Qian Zhang · 综合分 **38.3** · 弱相关
-
-标签：`pricing`
+**Management Science** · 上线 2026-11-24（1 天前） · T1 · Anastasios Dosis、Casey Rothschild · 综合分 **35.4** · 强相关
 
 **摘要**
 
-The growing demand for rapid food and grocery delivery has prompted many restaurants and retailers to develop their own on-demand delivery services. Although hiring additional couriers can expand delivery capacity, it is often prohibitively costly. As a cost-effective alternative, we propose a proximity-based delivery (PBD) policy that prioritizes the delivery of orders from customers located closer to the vendor, in contrast to the traditional first-come-first-served (FCFS) approach. We show that PBD can substantially reduce average delivery delays without requiring additional couriers; however, it may raise fairness concerns, because distant customers experience longer wait times, potentially shrinking market coverage and exacerbating service disparities. To address this issue, we introduce an incentive-compatible PBD (IP) policy, where nearby customers are incentivized to pay for priority, whereas distant customers receive compensation to offset longer delays. We demonstrate that this mechanism can restore fairness to levels comparable to FCFS while preserving efficiency, expanding market demand, and enhancing consumer surplus, particularly in moderately dense markets with moderately delay-sensitive customers. We further show that vendors can enhance these benefits through optimal pricing and benefit from less extreme staffing adjustments due to a “pull-to-center” effect. Our findings highlight the operational, economic, and ethical dimensions of proximity-based delivery, and offer a practical framework for balancing speed, profitability, consumer welfare, and equity. Finally, we conduct a mini case study using empirical data to demonstrate the real-world applicability of our approach. This paper was accepted by Jeannette Song, operations management. Funding: Z. Wang acknowledges support from the National Natural Science Foundation of China [Grant 72322017]. Y. Li acknowledges support from the National Natural Science Foundation of China [Grant 72132007]. Q. Zhang acknowledges support from the National Natural Science Foundation of China [Grant 724B2024]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.02206 .
+This paper studies how information disclosure affects investment incentives and contracting efficiency. We analyze a class of principal-agent models in which information helps the principal screen the agent but also facilitates surplus appropriation, thereby weakening the agent’s incentive to invest before contracting. Efficient privacy regimes balance these two forces. Along the frontier of efficient information policies, more privacy is associated with stronger investment incentives and higher agent payoff. We characterize conditions under which full privacy, full disclosure, or intermediate privacy is efficient. The results provide guidance for intellectual property and innovation policy by identifying when additional privacy fosters or hinders economic efficiency and innovation. This paper was accepted by Alfonso Gambardella, business strategy. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2025.01507 .
 
 **为什么推荐**
 
-- 相关性 6/100（价格词 ×0题名 / ×1摘要；商品期货词 ×0题名）
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
 - 期刊权重 70/100（Management Science）
 - 时效 93/100（上线 1 天前）
 - 方法匹配 25/100（welfare）
 - 有摘要，可快速判断
 
-[DOI / 原文](https://doi.org/10.1287/mnsc.2025.02206)
-
----
-
-## 5. Stockouts and the Success of New Products
-
-**Management Science** · 上线 2026-11-23（1 天前） · T1 · Diego Aparicio、Duncan I. Simester · 综合分 **37.6** · 强相关
-
-标签：`inventory`
-
-**摘要**
-
-We investigate how stockouts of existing products influence the success of new product introductions. Our findings reveal that stockouts on incumbent items at the time a new product is launched are associated with higher sales of the new product for at least six months. This positive spillover is specific to new products and is most potent at the start of the product life cycle. To establish causality, we use instrumental variables based on historical stockouts and contemporaneous stockouts in other stores. Analysis of individual-level transaction data corroborates a trial-and-adoption mechanism: Stockouts of existing items prompt consumers to trial the new product, leading to increased repeat purchasing. By identifying inventory as a driver of product trial, this research highlights the importance of strategically timing new product launches and documents a previously unrecognized tradeoff for inventory policies. This paper was accepted by David Simchi-Levi, marketing. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02602 .
-
-**为什么推荐**
-
-- 相关性 4/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 70/100（Management Science）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 25/100（instrumental variable）
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.1287/mnsc.2023.02602)
-
----
-
-## 6. Collateral Demand in Wholesale Funding Markets
-
-**Review of Financial Studies** · 上线 2026-11-23（1 天前） · T1 · Jamie Coen、Patrick Coen、Anne-Caroline Hüser · 综合分 **35.6** · 强相关
-
-**摘要**
-
-Abstract Repo markets are systemically important funding markets, but are also used by firms to obtain the assets provided as collateral. We build and structurally estimate a model of trade between heterogeneous firms in the sterling gilt repo market, and show that this collateral demand depresses repo market activity and can impede the transmission of monetary policy. We quantify how well-designed central bank repo facilities can improve outcomes: if the central bank were to lend out the assets on its balance sheet following quantitative easing, transmission and total firm surplus would improve by 20% and 38%, respectively.
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 83/100（Review of Financial Studies）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 0/100
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.1093/rfs/hhag099)
-
----
-
-## 7. CHILE
-
-**Review of Financial Studies** · 上线 2026-11-20（4 天前） · 在线 2026-11-23 · T1 · Efstathios Avdis、Sergei Glebkin · 综合分 **35.2** · 弱相关
-
-标签：`pricing`
-
-**摘要**
-
-Abstract We introduce CHILE, an asset-pricing framework with asymmetric information, general utility functions, and arbitrary payoffs. It features a large economy (LE) with continuous-and-heterogeneous information (CHI). The defining feature of this information structure is that the total amount of information stays finite as the economy grows large. We use the framework to study how concentration—the presence of market participants of different sizes—affects market quality, namely liquidity and information efficiency. Greater concentration proves a double-edged sword: it raises liquidity but harms information efficiency. (JEL D01, D53, D82, E19, G12, G14)
-
-**为什么推荐**
-
-- 相关性 6/100（价格词 ×0题名 / ×1摘要；商品期货词 ×0题名）
-- 期刊权重 83/100（Review of Financial Studies）
-- 时效 71/100（上线 4 天前）
-- 方法匹配 0/100
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.1093/rfs/hhag100)
-
----
-
-## 8. Financial Returns, Sentiment and Market Volatility: A Dynamic Assessment
-
-**Journal of Forecasting** · 上线 2026-11-24（0 天前） · 在线 2026-11-23 · T3 · Stefano Borgioli、Giampiero M. Gallo、Chiara Ongari · 综合分 **35.0** · 强相关
-
-**摘要**
-
-ABSTRACT This paper investigates the relationship between sentiment and financial market activity in Italy using the Social Mood on Economy Index (SMEI), a daily sentiment indicator produced by the Italian National Statistical Institute (ISTAT) from the textual analysis of Twitter (X) messages. We examine the dynamic interactions among SMEI, FTSE‐MIB returns and market volatility within a trivariate Vector Autoregressive framework. Particular attention is devoted to the structural changes induced by the COVID‐19 pandemic.The analysis is conducted separately for the pre‐ and post‐COVID‐19 periods and is complemented by rolling‐window causality analysis and out‐of‐sample forecasting exercises. The results indicate that before the pandemic, market volatility is the only variable significantly affected by lagged information from the other variables. During and after the pandemic, the relationships become substantially stronger and more interconnected: lagged volatility Granger‐causes both sentiment and returns, lagged returns affect volatility and sentiment itself acquires predictive content for volatility. Out‐of‐sample forecast comparisons further show that sentiment information improves forecasts of market volatility, whereas its contribution to forecasting returns remains limited. Overall, the findings suggest that social media–based measures of economic mood provide valuable information for understanding and forecasting market volatility, particularly during periods characterised by elevated uncertainty and rapidly changing expectations.
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 25/100（Journal of Forecasting）
-- 时效 100/100（上线 0 天前）
-- 方法匹配 100/100（forecast、forecasting、predictive、volatility）
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.1002/for.70246)
-
----
-
-## 9. Information Design with Supplemental Investment
-
-**Management Science** · 上线 2026-11-23（1 天前） · T1 · Lin Nan、Lin Qiu、Xiaoyan Wen、Ronghuo Zheng · 综合分 **32.9** · 强相关
-
-**摘要**
-
-This paper features a setting with two-dimensional information asymmetry on a firm’s fundamental (good or bad type) and the nature of its supplemental investment (improving upside potential, or mitigating downside risk). We examine the firm’s optimal design of the information system when the system can only address the dimension of fundamental. We show that, with only single-dimensional information asymmetry regarding the firm’s fundamental, greater informativeness on the firm’s fundamental type always improves efficiency. However, with two-dimensional information asymmetry, increasing informativeness about firm fundamental no longer guarantees higher efficiency and can be detrimental. The optimal information system trades off reducing information asymmetry and preserving firms’ incentives to invest, and it could be uninformative or optimistically biased, depending on the level of credit risk, which in our setting is higher when supplemental investment is more likely to improve upside rather than protect downside. This paper was accepted by Ranjani Krishnan, accounting. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2025.00524 .
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 70/100（Management Science）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 0/100
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.1287/mnsc.2025.00524)
-
----
-
-## 10. Keep calm and bank on: Bank run risks and the role of public communication
-
-**Journal of Financial Economics** · 上线 2026-11-23（1 天前） · 期号 2027-01 · T1 · Damiano Sandri、Francesco Grigoli、Yuriy Gorodnichenko、Olivier Coibion · 综合分 **30.6** · 强相关
-
-> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 83/100（Journal of Financial Economics）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 0/100
-
-[DOI / 原文](https://doi.org/10.1016/j.jfineco.2026.104417)
+[DOI / 原文](https://doi.org/10.1287/mnsc.2025.01507)
 
 ---
 
@@ -215,22 +208,22 @@ This paper features a setting with two-dimensional information asymmetry on a fi
 
 | 期刊 | 方向 | 窗口内新文 | 本期入选 |
 | --- | --- | --- | --- |
-| Energy Economics | 能源资源 | 71 | 0 |
-| International Journal of Forecasting | 计量预测 | 67 | 0 |
+| Energy Economics | 能源资源 | 75 | 3 |
+| International Journal of Forecasting | 计量预测 | 66 | 0 |
 | Food Policy | 农业商品 | 46 | 0 |
-| Management Science | 金融经济 | 30 | 6 |
+| Management Science | 金融经济 | 31 | 3 |
 | Journal of Econometrics | 计量预测 | 30 | 0 |
 | Journal of Environmental Economics and Management | 能源资源 | 26 | 0 |
-| Journal of Financial Economics | 金融经济 | 17 | 1 |
+| Journal of Financial Economics | 金融经济 | 18 | 1 |
 | Econometrica | 金融经济 | 17 | 0 |
 | Resource and Energy Economics | 能源资源 | 14 | 0 |
 | Journal of Commodity Markets | 农业商品 | 14 | 0 |
-| Journal of Forecasting | 计量预测 | 5 | 1 |
-| Review of Financial Studies | 金融经济 | 4 | 2 |
-| The Quarterly Journal of Economics | 金融经济 | 2 | 0 |
-| The Journal of Finance | 金融经济 | 1 | 0 |
+| Journal of Forecasting | 计量预测 | 5 | 0 |
+| Review of Financial Studies | 金融经济 | 4 | 1 |
+| The Quarterly Journal of Economics | 金融经济 | 2 | 1 |
+| American Journal of Agricultural Economics | 农业商品 | 2 | 1 |
 | The Energy Journal | 能源资源 | 1 | 0 |
-| American Journal of Agricultural Economics | 农业商品 | 1 | 0 |
+| The Journal of Finance | 金融经济 | 0 | 0 |
 | American Economic Review | 金融经济 | 0 | 0 |
 
-数据源：OpenAlex（主）+ Crossref（兜底）。抓取时间 2026-11-24 10:10:54。
+数据源：OpenAlex（主）+ Crossref（兜底）。抓取时间 2026-11-25 08:56:31。
