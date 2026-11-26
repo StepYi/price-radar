@@ -6,7 +6,71 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日顶刊价格研究文献精选（大宗商品 / 期货 / 能源 / 农产品价格）</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 08:56:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 08:41:41 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Predicting inflation with recurrent neural networks]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0169207024000773</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207024000773</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[International Journal of Forecasting]]></category>
+      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 38.2 ｜ 上线 2026-11-26（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Tourism designation and green innovation: Evidence from China’s 5A National Tourist Attractions]]></title>
+      <link>https://doi.org/10.1016/j.eneco.2026.109724</link>
+      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109724</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Energy Economics]]></category>
+      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 30.0 ｜ 上线 2026-11-26（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Quantile forecast combination: An application to forecasting US GDP growth]]></title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0169207026000580</link>
+      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207026000580</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[International Journal of Forecasting]]></category>
+      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 30.0 ｜ 上线 2026-11-26（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Scalable Just-in-Time Price Elasticity Estimation]]></title>
+      <link>https://doi.org/10.1287/mnsc.2024.04791</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2024.04791</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 59.4 ｜ 上线 2026-11-25（1 天前）</p><p>This paper presents a scalable, nonparametric approach to estimating point-wise price elasticities designed for real-time pricing decisions. A key challenge in these settings is correcting for price endogeneity while remaining computationally efficient. We address this by leveraging nonparametric control functions to decompose the identification of causal elasticities into a sequence of scalable intermediate prediction tasks. We implement this framework with bootstrap averaged (bagged) nearest neighbors, which admits a closed-form representation that enables scalable, real-time implementation. We establish uniform consistency of our estimator and show in Monte Carlo simulations that it robustly recovers local elasticities across a diverse range of data-generating processes. We demonstrate the method’s practical usefulness by applying it to the New York City ride-sharing market, recovering substantial spatial-temporal heterogeneity in price elasticity and updating citywide elasticity estimates in less than one minute, which provide a “just-in-time” input for algorithmic pricing systems. This paper was accepted by Raphael Thomadsen, marketing. Funding: J. Wang acknowledges financial support from the Research Grants Council of the Hong Kong Special Administrative Region, China [Grant 14508924]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04791 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Online Job Selection: Reward Rate vs. Remaining Value]]></title>
+      <link>https://doi.org/10.1287/mnsc.2024.09109</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2024.09109</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 47.6 ｜ 上线 2026-11-25（1 天前）</p><p>High-throughput systems, such as cloud spot markets, adaptive large language model inference, and order consolidation in logistics, operate under capacity constraints. In these settings, decision makers must allocate fixed resources among a stream of requests with heterogeneous reward rates and service durations. A critical tension arises when capacity is saturated; the system must decide whether to continue serving an active job to harvest its remaining value or to preempt it in favor of a new arrival. This trade-off is especially subtle when a new job offers a lower immediate reward rate but a longer service duration, potentially outweighing a high-rate job near completion. To address this challenge, we introduce a general and parsimonious online allocation framework for capacity-constrained resources, where preemption is nonresumable and yields partial rewards. This abstraction captures the essential dynamics of modern resource management problems, including but not limited to those discussed earlier. We derive intuitive index-based policies and provide constant-factor competitive-ratio guarantees for their performance without requiring any forecasts of future demand. In particular, we show that two naive index-based policies have competitive ratios of 1/2 and [Formula: see text]. Our main methodological contribution is to develop a flexible framework for defining “quasiutilities” that couples the states of an online algorithm versus an offline algorithm, which reduces the design of online index-based policies to an offline geometrical problem. The framework allows us to optimize the index function, leading to an exponential-index-based policy that has an improved competitive ratio of 0.68. We also consider various extensions and prove that most of our analyses are tight. Finally, we conduct a concise numerical study to demonstrate the strong empirical performance of the proposed policies under nonworst-case stochastic demand sequences. This paper was accepted by Jeannette Song, operations management. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.09109 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Machine Learning Vast Dynamic Conditional Covariance Matrices: The Spirit of “Divide and Conquer”]]></title>
+      <link>https://doi.org/10.1287/mnsc.2024.08930</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2024.08930</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 42.9 ｜ 上线 2026-11-25（1 天前）</p><p>Large-scale portfolio selection requires accurate forecasts of high-dimensional dynamic conditional covariance matrices (CCMs). This task is challenging because the number of covariance elements grows quickly with the number of assets, whereas the available time-series observations are limited and noisy. In this paper, we propose a novel graph-based quantiled (GRAND) CCM estimator in the spirit of “divide and conquer.” By extracting information from the extensive asset features, the GRAND method leverages a new graph-based deep learning network, called the self-grouping autoencoder (SGA), to learn the conditional quantiles of returns. Using those learned conditional quantiles, the GRAND method further learns (co)variances of CCM element-wisely via the quantiled conditional moment (QCM) method, and finally, it makes the resulting assembled CCM estimator positive semidefinite through a projection. Because of the use of the SGA network and the QCM method in an element-wise way, the GRAND method is blessing dimensionality in learning the CCM of a large-scale portfolio, while keeping the computation manageable and maintaining causal semantics. From an extensive empirical analysis of the Chinese stock market, we show that the GRAND method can produce much better tangency portfolios than its competitors, and provide dynamic causal graphs to study variance and quantile connectedness of all stocks for interpreting systemic risk and forecasting the business cycle. This paper was accepted by Kay Giesecke, finance. Funding: This work was supported by the National Natural Science Foundation of China [Grants 72503203 and 72573142]; the Natural Science Foundation of Fujian Province [Grants 2025J01036 and 2025J08009]; the Fundamental Research Funds for the Central Universities [Grant 20720251053]; and the Research Grants Council, University Grants Committee [Grants 17302424, 17304421, 17304723, and 17312622]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08930 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[When GenAI Increases Inequality: Evidence from a University Debating Competition]]></title>
+      <link>https://doi.org/10.1287/mnsc.2025.01063</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2025.01063</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 32.9 ｜ 上线 2026-11-25（1 天前）</p><p>Research on Generative AI (GenAI) and work reports both productivity-compressing and inequality-expanding effects, leaving open a central question for organizations: Who benefits from GenAI and on which specific tasks? I address this question through a randomized controlled trial in competitive university debating, where participants are randomly assigned access to GenAI. Although most previous experimental work examines the impact of GenAI on written activities and across individuals, this setting allows me to study the impact of GenAI on a knowledge-intensive spoken activity and to identify heterogeneous effects across subtasks. I find that GenAI expands performance inequality in this setting. Consistent with recent theories on GenAI and work, results show that high-ability participants experience significantly larger gains from GenAI usage than their lower-ability counterparts in judgment-intensive subtasks, whereas lower-ability individuals only improve their performance in less expert components of debating, where GenAI can be used as a substitute. If these inequality-expanding effects generalize to similar spoken settings where complex ideas must be internalized and explained, rather than simply written, they would have important implications for understanding the impact of GenAI on work and inequality. This paper was accepted by Maria Guadalupe, business strategy. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01063 .</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Nowcasting Italian GDP Growth: A Factor MIDAS Approach]]></title>
+      <link>https://doi.org/10.1002/for.70235</link>
+      <guid isPermaLink="false">crossref:10.1002/for.70235</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Journal of Forecasting]]></category>
+      <description><![CDATA[<p><strong>Journal of Forecasting</strong> ｜ 综合分 31.4 ｜ 上线 2026-11-25（1 天前）</p><p>ABSTRACT This paper examines the role of weekly financial data in nowcasting the quarterly growth rate of Italian real GDP, with a specific focus on the impact of the Covid‐19 pandemic. It combines factor models and mixed data sampling (MIDAS) regression models to set up Factor MIDAS specifications, which leverage a wide range of higher‐frequency financial variables to exploit the information flow within the quarter. The analysis is performed using a comprehensive dataset comprising monthly macroeconomic and weekly financial data, properly adjusted for seasonal patterns, calendar day effects, and excess volatility. The predictive accuracy is assessed by conducting a pseudo out‐of‐sample nowcast exercise and evaluating their performance with and without the inclusion of factors derived from financial indicators. Financial variables improve the nowcast of Italian real GDP growth primarily through their timeliness. The gains are concentrated in the first month of the quarter, when the macroeconomic information set is still sparse, and become smaller as monthly macroeconomic indicators are released. This suggests that financial information is especially useful as an early‐quarter signal rather than as a uniformly dominant source of independent predictive content throughout the quarter.</p>]]></description>
+    </item>
     <item>
       <title><![CDATA[Carbon prices, production network leakage, and net climate benefits: Evidence from Chinese cities]]></title>
       <link>https://doi.org/10.1016/j.eneco.2026.109738</link>
@@ -30,6 +94,14 @@
       <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[American Journal of Agricultural Economics]]></category>
       <description><![CDATA[<p><strong>American Journal of Agricultural Economics</strong> ｜ 综合分 43.6 ｜ 上线 2026-11-25（0 天前） · 在线 2026-11-24</p><p>Abstract This paper explores how compulsory education laws shape occupational persistence in US agriculture. Using US Decennial Census data from 1860 to 1910, I examine occupational choices among adult children from farm households. I find that compulsory education reduces the probability of remaining in farming by 4%–7%. Event study estimates show that firstborn sons and White children are more likely to persist in agriculture. In contrast, daughters, non‐firstborn sons, and Black children are more likely to leave farming. Using the push–pull framework, I show that compulsory education affects occupational persistence through farm succession norms and expanded opportunities for off‐farm employment. Overall, the results help explain the under‐representation of women and Black Americans in US agriculture.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Widely Used Measures of Overconfidence Are Confounded with Ability]]></title>
+      <link>https://doi.org/10.1287/mnsc.2024.05184</link>
+      <guid isPermaLink="false">crossref:10.1287/mnsc.2024.05184</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Management Science]]></category>
+      <description><![CDATA[<p><strong>Management Science</strong> ｜ 综合分 35.1 ｜ 上线 2026-11-24（2 天前）</p><p>Measures of overconfidence are used both to assess biases in people’s beliefs regarding their own abilities and to identify correlates of those biases. Proposed correlates of overconfidence include narcissism, social status, (low) task anxiety, savings, planning, and many more. Research on these correlates typically explicitly or implicitly claims that the associations with overconfidence are not attributable to ability (i.e., latent inputs enabling successful task performance, including inputs that vary across people, states, or contexts). I argue that several typical approaches used to measure overconfidence are not sufficient to support such claims. This argument follows from two underappreciated properties of these measures of overconfidence. First, performance is an imperfect measure of ability: accounting for performance does not sufficiently account for ability. Second, self-evaluations of performance should reflect ability in addition to performance: because performance is ambiguous, people should incorporate prior beliefs about their ability. These properties imply that multiple commonly used measures of overconfidence are confounded with ability. I support these analytical results by reexamining previously published findings. In the first analysis, I find that overconfidence predicts subsequent performance, consistent with measures of overconfidence serving as a signal of ability. In the second set of analyses, I find that some purported associations between overconfidence and other constructs could be attributed to ability instead. I close with recommendations to recognize and reduce the potential for mistaken inferences. When research indicates that differences in overconfidence are associated with other behaviors, beliefs, or evaluations, researchers should account for the possibility that differences in ability could provide a sufficient explanation. This paper was accepted by Jack Soll, behavioral economics and decision analysis. Funding: This work was supported by the UCLA Anderson Morrison Center for Marketing and Data Analytics. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05184 and https://researchbox.org/1597 .</p><p><a href="https://doi.org/10.2139/ssrn.4468920">开放获取全文</a></p>]]></description>
     </item>
     <item>
       <title><![CDATA[Carbon home bias]]></title>
@@ -78,6 +150,14 @@
       <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[Journal of Forecasting]]></category>
       <description><![CDATA[<p><strong>Journal of Forecasting</strong> ｜ 综合分 35.0 ｜ 上线 2026-11-24（0 天前） · 在线 2026-11-23</p><p>ABSTRACT This paper investigates the relationship between sentiment and financial market activity in Italy using the Social Mood on Economy Index (SMEI), a daily sentiment indicator produced by the Italian National Statistical Institute (ISTAT) from the textual analysis of Twitter (X) messages. We examine the dynamic interactions among SMEI, FTSE‐MIB returns and market volatility within a trivariate Vector Autoregressive framework. Particular attention is devoted to the structural changes induced by the COVID‐19 pandemic.The analysis is conducted separately for the pre‐ and post‐COVID‐19 periods and is complemented by rolling‐window causality analysis and out‐of‐sample forecasting exercises. The results indicate that before the pandemic, market volatility is the only variable significantly affected by lagged information from the other variables. During and after the pandemic, the relationships become substantially stronger and more interconnected: lagged volatility Granger‐causes both sentiment and returns, lagged returns affect volatility and sentiment itself acquires predictive content for volatility. Out‐of‐sample forecast comparisons further show that sentiment information improves forecasts of market volatility, whereas its contribution to forecasting returns remains limited. Overall, the findings suggest that social media–based measures of economic mood provide valuable information for understanding and forecasting market volatility, particularly during periods characterised by elevated uncertainty and rapidly changing expectations.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[International Power]]></title>
+      <link>https://doi.org/10.1093/qje/qjag061</link>
+      <guid isPermaLink="false">crossref:10.1093/qje/qjag061</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <category><![CDATA[Quarterly Journal of Economics]]></category>
+      <description><![CDATA[<p><strong>The Quarterly Journal of Economics</strong> ｜ 综合分 37.4 ｜ 上线 2026-11-23（3 天前） · 在线 2026-11-25</p><p>Abstract An interconnected world increases economic efficiency while giving certain countries leverage over others. We aim to describe and understand international power stemming from trade. Using an illustrative model of trade with possibilities of bilateral disputes and ex-post hold-ups, we highlight that bilateral asymmetry in import dependence can be a source of power towards one another. We construct the model-implied measure of international power — asymmetric bilateral import dependence, weighted inversely by sectoral trade elasticities — across country pairs over the past 20 years. Combining this measure with comprehensive data on bilateral engagement events and a high-frequency measure of bilateral geopolitical relationships, we examine the consequences and strategic causes of international power. We present two main empirical results. First, increases in international power between countries — which raise the credibility of threats of trade disruptions — induce more bilateral engagement and negotiations. Second, evidence suggests that worsened geopolitical relationships — in anticipation of future disputes — prompt countries to build up greater international power through adjusting trade activities.</p>]]></description>
     </item>
     <item>
       <title><![CDATA[Fintech Expansion]]></title>
@@ -1520,92 +1600,12 @@
       <description><![CDATA[<p><strong>Journal of Econometrics</strong> ｜ 综合分 28.1 ｜ 上线 2026-11-06（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
     </item>
     <item>
-      <title><![CDATA[Forecasting systemic risk measures using a dynamic semiparametric approach based on the Asymmetric Laplace distribution]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0169207026000099</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207026000099</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[International Journal of Forecasting]]></category>
-      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 27.5 ｜ 上线 2026-11-06（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Integrating nowcasts into an ensemble of data-driven forecasting models for SARI hospitalizations in Germany]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0169207026000014</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207026000014</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[International Journal of Forecasting]]></category>
-      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 27.5 ｜ 上线 2026-11-06（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Jump persistence and temporal aggregation of tail risk]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0169207025001190</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207025001190</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[International Journal of Forecasting]]></category>
-      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 27.5 ｜ 上线 2026-11-06（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Long-lead forecasting of El Niño–Southern Oscillation using score-driven models with many predictors]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0169207026001019</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207026001019</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[International Journal of Forecasting]]></category>
-      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 27.5 ｜ 上线 2026-11-06（0 天前） · 在线 2026-10-14</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[New tests of equal forecast accuracy for factor-augmented regressions with weaker loadings]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0169207025001074</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207025001074</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[International Journal of Forecasting]]></category>
-      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 27.5 ｜ 上线 2026-11-06（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Quantile-based modeling of scale dynamics in financial returns for Value-at-Risk and Expected Shortfall forecasting]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0169207025001232</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207025001232</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[International Journal of Forecasting]]></category>
-      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 27.5 ｜ 上线 2026-11-06（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Restoring the forecasting power of Google Trends with statistical preprocessing]]></title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0169207026000270</link>
-      <guid isPermaLink="false">rss:https://www.sciencedirect.com/science/article/pii/S0169207026000270</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[International Journal of Forecasting]]></category>
-      <description><![CDATA[<p><strong>International Journal of Forecasting</strong> ｜ 综合分 27.5 ｜ 上线 2026-11-06（0 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[To auction or to give for free: Does the allowance allocation regime matter for renewable deployment in the EU ETS?]]></title>
-      <link>https://doi.org/10.1016/j.eneco.2026.109684</link>
-      <guid isPermaLink="false">crossref:10.1016/j.eneco.2026.109684</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Energy Economics]]></category>
-      <description><![CDATA[<p><strong>Energy Economics</strong> ｜ 综合分 46.8 ｜ 上线 2026-11-05（1 天前）</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Financial constraints and the transmission of monetary policy: Evidence from relaxation of collateral constraints]]></title>
-      <link>https://doi.org/10.1016/j.jfineco.2026.104405</link>
-      <guid isPermaLink="false">crossref:10.1016/j.jfineco.2026.104405</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Journal of Financial Economics]]></category>
-      <description><![CDATA[<p><strong>Journal of Financial Economics</strong> ｜ 综合分 30.6 ｜ 上线 2026-11-05（1 天前） · 期号 2026-12</p><p><em>该刊未提供摘要，基于标题判相关性。</em></p>]]></description>
-    </item>
-    <item>
       <title><![CDATA[Two-stage least squares with treatment-covariate interactions for treatment effect heterogeneity]]></title>
       <link>https://doi.org/10.1016/j.jeconom.2026.106324</link>
       <guid isPermaLink="false">crossref:10.1016/j.jeconom.2026.106324</guid>
       <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
       <category><![CDATA[Journal of Econometrics]]></category>
       <description><![CDATA[<p><strong>Journal of Econometrics</strong> ｜ 综合分 32.1 ｜ 上线 2026-11-04（5 天前） · 在线 2026-11-01</p><p>Treatment effect heterogeneity with respect to covariates is common in instrumental variable (IV) analyses. An intuitive approach, which we call the interacted two-stage least squares (2sls), is to regress the outcome on the treatment, covariates, and treatment-covariate interactions, using the IV, covariates, and IV-covariate interactions as instruments. We clarify the causal interpretation of the interacted 2sls under the local average treatment effect (LATE) framework when the IV is valid conditional on the covariates. Our main findings are twofold. First, we show that the coefficients on the treatment-covariate interactions from the interacted 2sls identify treatment effect heterogeneity with respect to covariates among compliers for any outcome-generating process if and only if the product of the IV propensity score and the covariates is linear in the covariates, a requirement we call the linear IV-covariate interactions condition. Second, when the covariate vector has dimension K and includes a constant term, we show that the linear IV-covariate interactions condition requires the IV propensity score to take at most K distinct values. The condition holds when (a) the covariates take exactly K distinct values, or (b) the IV is randomly assigned independently of the covariates, but is restrictive beyond these cases. These results underscore the difficulty of interpreting regression coefficients from specifications with treatment-covariate interactions when the covariates are not saturated and the IV is not unconditionally randomized, absent correct specification of the outcome model. We then connect these results to the literature on LATE estimation, and show that under the linear IV-covariate interactions condition, the interacted 2sls with covariates demeaned by their complier means recovers the LATE as a single coefficient.</p><p><a href="https://arxiv.org/pdf/2502.00251">开放获取全文</a></p>]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Why Do Union Jobs Pay More? New Evidence from Matched Employer-Employee Data]]></title>
-      <link>https://doi.org/10.1093/qje/qjag054</link>
-      <guid isPermaLink="false">crossref:10.1093/qje/qjag054</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
-      <category><![CDATA[Quarterly Journal of Economics]]></category>
-      <description><![CDATA[<p><strong>The Quarterly Journal of Economics</strong> ｜ 综合分 38.5 ｜ 上线 2026-11-03（3 天前） · 在线 2026-11-05</p><p>Abstract We use Canadian matched employer-employee data to assess the sources of the union pay premium. After controlling for worker heterogeneity using the two-way fixed effects approach of Abowd, Kramarz, and Margolis (AKM), we find that unionized firms pay about 15 log points more than non-unionized firms. Forty percent of this gap is linked to productivity differences between unionized and non-unionized firms as measured by value added per worker. The remaining gap reflects unions’ ability to extract more rents for workers. Our estimates imply that unions raise pay among unionized workers by around 9 log points, with considerable heterogeneity by industry and firm birth cohorts. The union effect grows to about 11 log points in an extension of the AKM approach where unions also affect the returns to unobservable worker characteristics.</p>]]></description>
     </item>
   </channel>
 </rss>

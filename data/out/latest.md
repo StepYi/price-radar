@@ -1,206 +1,204 @@
-# 价格研究日报 · 2026-11-25
+# 价格研究日报 · 2026-11-26
 
-> 覆盖 17 本顶刊 ｜ 抓取 351 篇 ｜ 新候选 62 篇 ｜ 本期推送 10 篇 ｜ 生成于 2026-11-25 08:56:31
+> 覆盖 17 本顶刊 ｜ 抓取 354 篇 ｜ 新候选 73 篇 ｜ 本期推送 10 篇 ｜ 生成于 2026-11-26 08:41:41
 
-## 1. Carbon prices, production network leakage, and net climate benefits: Evidence from Chinese cities
+## 1. Scalable Just-in-Time Price Elasticity Estimation
 
-**Energy Economics** · 上线 2026-11-25（0 天前） · T2 · He Jiang、Rongyu Cao、Malin Song、Juntao Du 等 5 人 · 综合分 **71.1** · 强相关
+**Management Science** · 上线 2026-11-25（1 天前） · T1 · Jingbo Wang、Yufeng Huang · 综合分 **59.4** · 强相关
 
-> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
-
-标签：`price` `prices` `carbon price` `carbon`
-
-**为什么推荐**
-
-- 相关性 82/100（价格词 ×3题名 / ×0摘要；商品期货词 ×1题名）
-- 期刊权重 75/100（Energy Economics）
-- 时效 100/100（上线 0 天前）
-- 方法匹配 0/100
-
-[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109738)
-
----
-
-## 2. From carbon constraints to price incentives: Incomplete carbon cost pass-through in China's coordinated electricity and carbon markets
-
-**Energy Economics** · 上线 2026-11-25（0 天前） · T2 · Yanfang Zhang、Xinran Zhang、Siyi Chen、Xunpeng Shi 等 5 人 · 综合分 **69.3** · 强相关
-
-> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
-
-标签：`price` `pass through` `electricity` `carbon`
-
-**为什么推荐**
-
-- 相关性 79/100（价格词 ×2题名 / ×0摘要；商品期货词 ×2题名）
-- 期刊权重 75/100（Energy Economics）
-- 时效 100/100（上线 0 天前）
-- 方法匹配 0/100
-
-[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109740)
-
----
-
-## 3. Inferring behind-the-meter demand components from net load via inverse optimization
-
-**Energy Economics** · 上线 2026-11-18（7 天前） · 在线 2027-01-01 · T2 · Adrián Esteban-Pérez、Derek Bunn、Yashar Ghiassi-Farrokhfal · 综合分 **55.0** · 中等相关
-
-标签：`price` `prices` `market price` `electricity` `solar` `storage` `tariff` `tariffs`
+标签：`price` `pricing`
 
 **摘要**
 
-Understanding and forecasting electricity demand responses to price signals is essential to support the operational decisions of system operators, retailers, and regulators. Traditional time series and machine learning approaches have performed well under stable consumption patterns. However, the rise of active consumers with flexible assets, such as solar-plus-storage systems and electric vehicles, introduces new complexities. These consumers exhibit behind-the-meter behavior that is generally unobservable to system operators and retailers, who can typically only measure net demand at the boundary meters which are located at the connection points to the grid. Net demand reflects the aggregate of baseload consumption, flexible load shifting, and self-generation, all of which may respond nonlinearly to market prices. As these unobservable components grow, existing forecasting models may fail to capture the true dynamics of consumer behavior. This work develops and implements a data-driven inverse optimization framework to reveal behind-the-meter consumption patterns using only net demand data. By analyzing net demand as revealed at the grid connection point, we estimate parameters for a latent optimization model, enabling predictions that infer the unobservable components. This enables more accurate point and probabilistic forecasting of electricity demand under varying price signals. Thus, it provides actionable insights for system operators to improve local congestion management and flexibility extraction, as well as for retailers and aggregators, who could thereby optimize operations and tariffs to leverage consumer flexibility. We validate the methodology using real-world data, demonstrating improved forecasting accuracy over leading machine learning and time-series benchmarks.
+This paper presents a scalable, nonparametric approach to estimating point-wise price elasticities designed for real-time pricing decisions. A key challenge in these settings is correcting for price endogeneity while remaining computationally efficient. We address this by leveraging nonparametric control functions to decompose the identification of causal elasticities into a sequence of scalable intermediate prediction tasks. We implement this framework with bootstrap averaged (bagged) nearest neighbors, which admits a closed-form representation that enables scalable, real-time implementation. We establish uniform consistency of our estimator and show in Monte Carlo simulations that it robustly recovers local elasticities across a diverse range of data-generating processes. We demonstrate the method’s practical usefulness by applying it to the New York City ride-sharing market, recovering substantial spatial-temporal heterogeneity in price elasticity and updating citywide elasticity estimates in less than one minute, which provide a “just-in-time” input for algorithmic pricing systems. This paper was accepted by Raphael Thomadsen, marketing. Funding: J. Wang acknowledges financial support from the Research Grants Council of the Hong Kong Special Administrative Region, China [Grant 14508924]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04791 .
 
 **为什么推荐**
 
-- 相关性 39/100（价格词 ×0题名 / ×3摘要；商品期货词 ×0题名）
-- 期刊权重 75/100（Energy Economics）
-- 时效 50/100（上线 7 天前）
-- 方法匹配 75/100（forecasting、prediction、machine learning）
+- 相关性 33/100（价格词 ×1题名 / ×2摘要；商品期货词 ×0题名）
+- 期刊权重 70/100（Management Science）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 100/100（prediction、identification、causal、elasticity）
+- 有摘要，可快速判断
+
+[DOI / 原文](https://doi.org/10.1287/mnsc.2024.04791)
+
+---
+
+## 2. Online Job Selection: Reward Rate vs. Remaining Value
+
+**Management Science** · 上线 2026-11-25（1 天前） · T1 · Mohammad Reza Aminian、Will Ma、Linwei Xin · 综合分 **47.6** · 中等相关
+
+标签：`yield` `yields` `future` `spot` `spot market`
+
+**摘要**
+
+High-throughput systems, such as cloud spot markets, adaptive large language model inference, and order consolidation in logistics, operate under capacity constraints. In these settings, decision makers must allocate fixed resources among a stream of requests with heterogeneous reward rates and service durations. A critical tension arises when capacity is saturated; the system must decide whether to continue serving an active job to harvest its remaining value or to preempt it in favor of a new arrival. This trade-off is especially subtle when a new job offers a lower immediate reward rate but a longer service duration, potentially outweighing a high-rate job near completion. To address this challenge, we introduce a general and parsimonious online allocation framework for capacity-constrained resources, where preemption is nonresumable and yields partial rewards. This abstraction captures the essential dynamics of modern resource management problems, including but not limited to those discussed earlier. We derive intuitive index-based policies and provide constant-factor competitive-ratio guarantees for their performance without requiring any forecasts of future demand. In particular, we show that two naive index-based policies have competitive ratios of 1/2 and [Formula: see text]. Our main methodological contribution is to develop a flexible framework for defining “quasiutilities” that couples the states of an online algorithm versus an offline algorithm, which reduces the design of online index-based policies to an offline geometrical problem. The framework allows us to optimize the index function, leading to an exponential-index-based policy that has an improved competitive ratio of 0.68. We also consider various extensions and prove that most of our analyses are tight. Finally, we conduct a concise numerical study to demonstrate the strong empirical performance of the proposed policies under nonworst-case stochastic demand sequences. This paper was accepted by Jeannette Song, operations management. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.09109 .
+
+**为什么推荐**
+
+- 相关性 24/100（价格词 ×0题名 / ×2摘要；商品期货词 ×0题名）
+- 期刊权重 70/100（Management Science）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 25/100（forecast）
+- 有摘要，可快速判断
+
+[DOI / 原文](https://doi.org/10.1287/mnsc.2024.09109)
+
+---
+
+## 3. Machine Learning Vast Dynamic Conditional Covariance Matrices: The Spirit of “Divide and Conquer”
+
+**Management Science** · 上线 2026-11-25（1 天前） · T1 · Zhoufan Zhu、Ke Zhu · 综合分 **42.9** · 强相关
+
+**摘要**
+
+Large-scale portfolio selection requires accurate forecasts of high-dimensional dynamic conditional covariance matrices (CCMs). This task is challenging because the number of covariance elements grows quickly with the number of assets, whereas the available time-series observations are limited and noisy. In this paper, we propose a novel graph-based quantiled (GRAND) CCM estimator in the spirit of “divide and conquer.” By extracting information from the extensive asset features, the GRAND method leverages a new graph-based deep learning network, called the self-grouping autoencoder (SGA), to learn the conditional quantiles of returns. Using those learned conditional quantiles, the GRAND method further learns (co)variances of CCM element-wisely via the quantiled conditional moment (QCM) method, and finally, it makes the resulting assembled CCM estimator positive semidefinite through a projection. Because of the use of the SGA network and the QCM method in an element-wise way, the GRAND method is blessing dimensionality in learning the CCM of a large-scale portfolio, while keeping the computation manageable and maintaining causal semantics. From an extensive empirical analysis of the Chinese stock market, we show that the GRAND method can produce much better tangency portfolios than its competitors, and provide dynamic causal graphs to study variance and quantile connectedness of all stocks for interpreting systemic risk and forecasting the business cycle. This paper was accepted by Kay Giesecke, finance. Funding: This work was supported by the National Natural Science Foundation of China [Grants 72503203 and 72573142]; the Natural Science Foundation of Fujian Province [Grants 2025J01036 and 2025J08009]; the Fundamental Research Funds for the Central Universities [Grant 20720251053]; and the Research Grants Council, University Grants Committee [Grants 17302424, 17304421, 17304723, and 17312622]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.08930 .
+
+**为什么推荐**
+
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 70/100（Management Science）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 100/100（forecast、forecasting、machine learning、causal）
+- 有摘要，可快速判断
+
+[DOI / 原文](https://doi.org/10.1287/mnsc.2024.08930)
+
+---
+
+## 4. Predicting inflation with recurrent neural networks
+
+**International Journal of Forecasting** · 上线 2026-11-26（0 天前） · T2 · Livia Paranhos · 综合分 **38.2** · 强相关
+
+> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
+
+标签：`inflation`
+
+**为什么推荐**
+
+- 相关性 21/100（价格词 ×1题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 50/100（International Journal of Forecasting）
+- 时效 100/100（上线 0 天前）
+- 方法匹配 25/100（neural network）
+
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0169207024000773)
+
+---
+
+## 5. International Power
+
+**The Quarterly Journal of Economics** · 上线 2026-11-23（3 天前） · 在线 2026-11-25 · T1 · Ernest Liu、David Y Yang · 综合分 **37.4** · 强相关
+
+标签：`future`
+
+**摘要**
+
+Abstract An interconnected world increases economic efficiency while giving certain countries leverage over others. We aim to describe and understand international power stemming from trade. Using an illustrative model of trade with possibilities of bilateral disputes and ex-post hold-ups, we highlight that bilateral asymmetry in import dependence can be a source of power towards one another. We construct the model-implied measure of international power — asymmetric bilateral import dependence, weighted inversely by sectoral trade elasticities — across country pairs over the past 20 years. Combining this measure with comprehensive data on bilateral engagement events and a high-frequency measure of bilateral geopolitical relationships, we examine the consequences and strategic causes of international power. We present two main empirical results. First, increases in international power between countries — which raise the credibility of threats of trade disruptions — induce more bilateral engagement and negotiations. Second, evidence suggests that worsened geopolitical relationships — in anticipation of future disputes — prompt countries to build up greater international power through adjusting trade activities.
+
+**为什么推荐**
+
+- 相关性 4/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 80/100（Quarterly Journal of Economics）
+- 时效 79/100（上线 3 天前）
+- 方法匹配 25/100（high frequency）
+- 有摘要，可快速判断
+
+[DOI / 原文](https://doi.org/10.1093/qje/qjag061)
+
+---
+
+## 6. Widely Used Measures of Overconfidence Are Confounded with Ability
+
+**Management Science** · 上线 2026-11-24（2 天前） · T1 · Stephen A. Spiller · 综合分 **35.1** · 强相关
+
+**摘要**
+
+Measures of overconfidence are used both to assess biases in people’s beliefs regarding their own abilities and to identify correlates of those biases. Proposed correlates of overconfidence include narcissism, social status, (low) task anxiety, savings, planning, and many more. Research on these correlates typically explicitly or implicitly claims that the associations with overconfidence are not attributable to ability (i.e., latent inputs enabling successful task performance, including inputs that vary across people, states, or contexts). I argue that several typical approaches used to measure overconfidence are not sufficient to support such claims. This argument follows from two underappreciated properties of these measures of overconfidence. First, performance is an imperfect measure of ability: accounting for performance does not sufficiently account for ability. Second, self-evaluations of performance should reflect ability in addition to performance: because performance is ambiguous, people should incorporate prior beliefs about their ability. These properties imply that multiple commonly used measures of overconfidence are confounded with ability. I support these analytical results by reexamining previously published findings. In the first analysis, I find that overconfidence predicts subsequent performance, consistent with measures of overconfidence serving as a signal of ability. In the second set of analyses, I find that some purported associations between overconfidence and other constructs could be attributed to ability instead. I close with recommendations to recognize and reduce the potential for mistaken inferences. When research indicates that differences in overconfidence are associated with other behaviors, beliefs, or evaluations, researchers should account for the possibility that differences in ability could provide a sufficient explanation. This paper was accepted by Jack Soll, behavioral economics and decision analysis. Funding: This work was supported by the UCLA Anderson Morrison Center for Marketing and Data Analytics. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.05184 and https://researchbox.org/1597 .
+
+**为什么推荐**
+
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 70/100（Management Science）
+- 时效 86/100（上线 2 天前）
+- 方法匹配 25/100（predict）
 - 有摘要，可快速判断
 - 有开放获取全文
 
-[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109695) ｜ [开放获取全文](https://doi.org/10.2139/ssrn.5380111)
+[DOI / 原文](https://doi.org/10.1287/mnsc.2024.05184) ｜ [开放获取全文](https://doi.org/10.2139/ssrn.4468920)
 
 ---
 
-## 4. Compulsory education and occupational persistence in US agriculture
+## 7. When GenAI Increases Inequality: Evidence from a University Debating Competition
 
-**American Journal of Agricultural Economics** · 上线 2026-11-25（0 天前） · 在线 2026-11-24 · T2 · Jhih‐Yun Liu · 综合分 **43.6** · 中等相关
-
-标签：`agriculture`
+**Management Science** · 上线 2026-11-25（1 天前） · T1 · Antonio Roldán-Monés · 综合分 **32.9** · 强相关
 
 **摘要**
 
-Abstract This paper explores how compulsory education laws shape occupational persistence in US agriculture. Using US Decennial Census data from 1860 to 1910, I examine occupational choices among adult children from farm households. I find that compulsory education reduces the probability of remaining in farming by 4%–7%. Event study estimates show that firstborn sons and White children are more likely to persist in agriculture. In contrast, daughters, non‐firstborn sons, and Black children are more likely to leave farming. Using the push–pull framework, I show that compulsory education affects occupational persistence through farm succession norms and expanded opportunities for off‐farm employment. Overall, the results help explain the under‐representation of women and Black Americans in US agriculture.
+Research on Generative AI (GenAI) and work reports both productivity-compressing and inequality-expanding effects, leaving open a central question for organizations: Who benefits from GenAI and on which specific tasks? I address this question through a randomized controlled trial in competitive university debating, where participants are randomly assigned access to GenAI. Although most previous experimental work examines the impact of GenAI on written activities and across individuals, this setting allows me to study the impact of GenAI on a knowledge-intensive spoken activity and to identify heterogeneous effects across subtasks. I find that GenAI expands performance inequality in this setting. Consistent with recent theories on GenAI and work, results show that high-ability participants experience significantly larger gains from GenAI usage than their lower-ability counterparts in judgment-intensive subtasks, whereas lower-ability individuals only improve their performance in less expert components of debating, where GenAI can be used as a substitute. If these inequality-expanding effects generalize to similar spoken settings where complex ideas must be internalized and explained, rather than simply written, they would have important implications for understanding the impact of GenAI on work and inequality. This paper was accepted by Maria Guadalupe, business strategy. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.01063 .
 
 **为什么推荐**
 
-- 相关性 22/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）
-- 期刊权重 50/100（American Journal of Agricultural Economics）
-- 时效 100/100（上线 0 天前）
-- 方法匹配 25/100（event study）
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 70/100（Management Science）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 0/100
 - 有摘要，可快速判断
 
-[DOI / 原文](https://doi.org/10.1002/ajae.70108)
+[DOI / 原文](https://doi.org/10.1287/mnsc.2025.01063)
 
 ---
 
-## 5. Carbon home bias
+## 8. Nowcasting Italian GDP Growth: A Factor MIDAS Approach
 
-**Journal of Financial Economics** · 上线 2026-11-24（1 天前） · 期号 2027-01 · T1 · Patrick Bolton、Marc Eskildsen、Marcin Kacperczyk · 综合分 **39.5** · 中等相关
+**Journal of Forecasting** · 上线 2026-11-25（1 天前） · T3 · Donato Ceci、Orest Prifti、Andrea Silvestrini · 综合分 **31.4** · 强相关
+
+**摘要**
+
+ABSTRACT This paper examines the role of weekly financial data in nowcasting the quarterly growth rate of Italian real GDP, with a specific focus on the impact of the Covid‐19 pandemic. It combines factor models and mixed data sampling (MIDAS) regression models to set up Factor MIDAS specifications, which leverage a wide range of higher‐frequency financial variables to exploit the information flow within the quarter. The analysis is performed using a comprehensive dataset comprising monthly macroeconomic and weekly financial data, properly adjusted for seasonal patterns, calendar day effects, and excess volatility. The predictive accuracy is assessed by conducting a pseudo out‐of‐sample nowcast exercise and evaluating their performance with and without the inclusion of factors derived from financial indicators. Financial variables improve the nowcast of Italian real GDP growth primarily through their timeliness. The gains are concentrated in the first month of the quarter, when the macroeconomic information set is still sparse, and become smaller as monthly macroeconomic indicators are released. This suggests that financial information is especially useful as an early‐quarter signal rather than as a uniformly dominant source of independent predictive content throughout the quarter.
+
+**为什么推荐**
+
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 25/100（Journal of Forecasting）
+- 时效 93/100（上线 1 天前）
+- 方法匹配 75/100（predictive、volatility、nowcasting）
+- 有摘要，可快速判断
+
+[DOI / 原文](https://doi.org/10.1002/for.70235)
+
+---
+
+## 9. Tourism designation and green innovation: Evidence from China’s 5A National Tourist Attractions
+
+**Energy Economics** · 上线 2026-11-26（0 天前） · T2 · Yongji Zhang、Zifei Meng、Ke Wang、Baojun Tang · 综合分 **30.0** · 强相关
 
 > ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
-标签：`carbon`
-
 **为什么推荐**
 
-- 相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）
-- 期刊权重 83/100（Journal of Financial Economics）
-- 时效 93/100（上线 1 天前）
+- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
+- 期刊权重 75/100（Energy Economics）
+- 时效 100/100（上线 0 天前）
 - 方法匹配 0/100
 
-[DOI / 原文](https://doi.org/10.1016/j.jfineco.2026.104402)
+[DOI / 原文](https://doi.org/10.1016/j.eneco.2026.109724)
 
 ---
 
-## 6. Determinants of Norm Compliance: Moral Similarity and Group Identification
+## 10. Quantile forecast combination: An application to forecasting US GDP growth
 
-**Management Science** · 上线 2026-11-24（1 天前） · T1 · Alexander Schneeberger、Erin Krupka · 综合分 **37.9** · 强相关
+**International Journal of Forecasting** · 上线 2026-11-26（0 天前） · T2 · Knut Are Aastveit、Saskia ter Ellen、Giulia Mantoan · 综合分 **30.0** · 强相关
 
-**摘要**
-
-What determines whether someone complies with a social norm? The social identity approach offers a mechanism for norm compliance: A person who feels similar to a group identifies more with that group and, in turn, complies with the group’s norms. Using an experiment, we test whether similarity in values increases identification and adherence to a group rule. To do so, we varied the similarity/dissimilarity between the values of an individual and members of a social group and measured group identification and rule compliance. We find that moral similarity in progressivism increases group identification, and group identification can increase compliance with rules from the social group. However, our results also suggest that this relationship can be disrupted. Because of our design and empirically verified in our study, social norms do not differ between treatments. As a consequence, observed behavior changes are attributable to increased group norm sensitivity and not changes in group norms. We advance the study of social identity by testing a causal pathway between group identification, group norm sensitivity, and behavior change. Our contribution to the management literature is to extend the empirical rationale, and cautionary notes, for investing in value-alignment between individuals and organizations. This paper was accepted by Marie Claire Villeval, behavioral economics and decision analysis. Funding: The authors thank the Max Planck Institute for Research on Collective Goods and the University of Michigan School of Information for financial support. They also gratefully acknowledge support from the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy (EXC 2126/2 – 390838866), and from the Center for Social and Economic Behavior at the University of Cologne. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.08000 .
+> ⚠ 该刊未向 Crossref/OpenAlex 提供摘要，本条基于标题判相关性，建议点开原文确认。
 
 **为什么推荐**
 
 - 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 70/100（Management Science）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 50/100（identification、causal）
-- 有摘要，可快速判断
+- 期刊权重 50/100（International Journal of Forecasting）
+- 时效 100/100（上线 0 天前）
+- 方法匹配 50/100（forecast、forecasting）
 
-[DOI / 原文](https://doi.org/10.1287/mnsc.2024.08000)
-
----
-
-## 7. Generative AI And Creative Goods: Market Expansion, Crowd-Out, and Copyright
-
-**The Quarterly Journal of Economics** · 上线 2026-11-24（1 天前） · T1 · Samuel G Goldberg、H Tai Lam · 综合分 **37.4** · 强相关
-
-**摘要**
-
-Abstract We study how generative artificial intelligence (GenAI) affects creative goods markets using data from a large stock images marketplace. In December 2022, the platform announced it would allow artists to sell GenAI-produced images, subject to two conditions: all GenAI images must be labeled, and GenAI would be prohibited in certain markets. We exploit this policy variation using a difference-in-differences design. We estimate a 136% increase in image production and 47% increase in active artists, accompanied by a 15% decline in non-GenAI production and 29% decline in non-GenAI active artists. On the demand side, total sales increase by 82%, but non-GenAI sales fall by 28% and non-GenAI sales rates decline by 3 percentage points. We use image embeddings to develop novel measures of image quality, characteristics, and market composition.We find that quality (measured as predicted sales probability) increases by 9 percentage points overall and 2 percentage points for non-GenAI content, suggesting low-quality non-GenAI artists exit. Our product characteristic measures indicate that GenAI production is heavily concentrated in characteristic space, potentially limiting the value of these images to the market. Non-GenAI production responds to GenAI by differentiating into niches. We discuss implications for copyright policy and the longer-run sustainability of original creative work.
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 80/100（Quarterly Journal of Economics）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 25/100（difference in differences）
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.1093/qje/qjag058)
-
----
-
-## 8. Fintech Expansion
-
-**Review of Financial Studies** · 上线 2026-11-23（2 天前） · 在线 2026-11-24 · T1 · Jing Huang · 综合分 **37.0** · 强相关
-
-**摘要**
-
-Abstract I study credit market outcomes with different competing lending technologies: a fintech lender that learns from data and can seize on-platform sales, and a banking sector that relies on physical collateral. Despite flexible information acquisition technology, endogenous fintech learning is surprisingly coarse, with a single threshold that screens out low-quality borrowers. As fintech lending technology improves, better enforcement harms, while better information technology benefits traditional banking sector profits. Big data technology enables the fintech to leverage data from its early-stage operations in unbanked markets to develop predictive models that support expansion into wealthier markets. (JEL G21, L13, L52, O33, O36)
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 83/100（Review of Financial Studies）
-- 时效 86/100（上线 2 天前）
-- 方法匹配 25/100（predictive）
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.1093/rfs/hhag101)
-
----
-
-## 9. Gatekeepers and Kingmakers: Do Superplatforms Distort Digital Competition?
-
-**Management Science** · 上线 2026-11-24（1 天前） · T1 · Umit G. Gurun、Zheng Liu、Steven Chong Xiao · 综合分 **35.4** · 强相关
-
-**摘要**
-
-The rising dominance of superplatforms raises concerns about conflicts of interest and externalities on innovation, because they act as both marketplace gatekeepers and strategic investors. Studying Google’s dual role via Google Ventures (GV) and the Android marketplace, we find Google-backed startups receive 115% more reviews, 12% higher ratings, and 77% fewer bug complaints than their iOS counterparts—despite no major app updates. These gains are consistent with selective review removal and platform promotion. Using a difference-in-differences approach with iOS versions as controls, we isolate treatment from selection effects. Our findings challenge platform neutrality and highlight subtle mechanisms of competitive distortion. This paper was accepted by D. J. Wu, information systems. Supplemental Material: The Online Appendix and data files are available at https://doi.org/10.1287/mnsc.2025.03354 .
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 70/100（Management Science）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 25/100（difference in differences）
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.1287/mnsc.2025.03354)
-
----
-
-## 10. Screening, Investment Incentives, and the Welfare Trade-Offs of Privacy
-
-**Management Science** · 上线 2026-11-24（1 天前） · T1 · Anastasios Dosis、Casey Rothschild · 综合分 **35.4** · 强相关
-
-**摘要**
-
-This paper studies how information disclosure affects investment incentives and contracting efficiency. We analyze a class of principal-agent models in which information helps the principal screen the agent but also facilitates surplus appropriation, thereby weakening the agent’s incentive to invest before contracting. Efficient privacy regimes balance these two forces. Along the frontier of efficient information policies, more privacy is associated with stronger investment incentives and higher agent payoff. We characterize conditions under which full privacy, full disclosure, or intermediate privacy is efficient. The results provide guidance for intellectual property and innovation policy by identifying when additional privacy fosters or hinders economic efficiency and innovation. This paper was accepted by Alfonso Gambardella, business strategy. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2025.01507 .
-
-**为什么推荐**
-
-- 相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）
-- 期刊权重 70/100（Management Science）
-- 时效 93/100（上线 1 天前）
-- 方法匹配 25/100（welfare）
-- 有摘要，可快速判断
-
-[DOI / 原文](https://doi.org/10.1287/mnsc.2025.01507)
+[原文页面](https://www.sciencedirect.com/science/article/pii/S0169207026000580)
 
 ---
 
@@ -208,22 +206,22 @@ This paper studies how information disclosure affects investment incentives and 
 
 | 期刊 | 方向 | 窗口内新文 | 本期入选 |
 | --- | --- | --- | --- |
-| Energy Economics | 能源资源 | 75 | 3 |
-| International Journal of Forecasting | 计量预测 | 66 | 0 |
+| Energy Economics | 能源资源 | 76 | 1 |
+| International Journal of Forecasting | 计量预测 | 62 | 2 |
 | Food Policy | 农业商品 | 46 | 0 |
-| Management Science | 金融经济 | 31 | 3 |
+| Management Science | 金融经济 | 35 | 5 |
 | Journal of Econometrics | 计量预测 | 30 | 0 |
-| Journal of Environmental Economics and Management | 能源资源 | 26 | 0 |
-| Journal of Financial Economics | 金融经济 | 18 | 1 |
+| Journal of Environmental Economics and Management | 能源资源 | 27 | 0 |
+| Journal of Financial Economics | 金融经济 | 18 | 0 |
 | Econometrica | 金融经济 | 17 | 0 |
 | Resource and Energy Economics | 能源资源 | 14 | 0 |
 | Journal of Commodity Markets | 农业商品 | 14 | 0 |
-| Journal of Forecasting | 计量预测 | 5 | 0 |
-| Review of Financial Studies | 金融经济 | 4 | 1 |
-| The Quarterly Journal of Economics | 金融经济 | 2 | 1 |
-| American Journal of Agricultural Economics | 农业商品 | 2 | 1 |
+| Journal of Forecasting | 计量预测 | 5 | 1 |
+| Review of Financial Studies | 金融经济 | 4 | 0 |
+| The Quarterly Journal of Economics | 金融经济 | 3 | 1 |
+| American Journal of Agricultural Economics | 农业商品 | 2 | 0 |
 | The Energy Journal | 能源资源 | 1 | 0 |
 | The Journal of Finance | 金融经济 | 0 | 0 |
 | American Economic Review | 金融经济 | 0 | 0 |
 
-数据源：OpenAlex（主）+ Crossref（兜底）。抓取时间 2026-11-25 08:56:31。
+数据源：OpenAlex（主）+ Crossref（兜底）。抓取时间 2026-11-26 08:41:41。
