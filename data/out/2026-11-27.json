@@ -1,0 +1,676 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27 08:52:59",
+  "stats": {
+    "journals": 17,
+    "fetched": 364,
+    "candidates": 76,
+    "pushed": 10,
+    "digest_size": 10,
+    "per_journal": {
+      "Journal of Finance": {
+        "display": "The Journal of Finance",
+        "group": "金融经济",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Journal of Financial Economics": {
+        "display": "Journal of Financial Economics",
+        "group": "金融经济",
+        "publisher": "Elsevier",
+        "fetched": 18,
+        "error": ""
+      },
+      "Review of Financial Studies": {
+        "display": "Review of Financial Studies",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 4,
+        "error": ""
+      },
+      "American Economic Review": {
+        "display": "American Economic Review",
+        "group": "金融经济",
+        "publisher": "American Economic Association",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Quarterly Journal of Economics": {
+        "display": "The Quarterly Journal of Economics",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 4,
+        "error": ""
+      },
+      "Econometrica": {
+        "display": "Econometrica",
+        "group": "金融经济",
+        "publisher": "The Econometric Society",
+        "fetched": 17,
+        "error": ""
+      },
+      "Management Science": {
+        "display": "Management Science",
+        "group": "金融经济",
+        "publisher": "Institute for Operations Research and the Management Sciences",
+        "fetched": 36,
+        "error": ""
+      },
+      "Energy Economics": {
+        "display": "Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 79,
+        "error": ""
+      },
+      "The Energy Journal": {
+        "display": "The Energy Journal",
+        "group": "能源资源",
+        "publisher": "SAGE Publications",
+        "fetched": 4,
+        "error": ""
+      },
+      "Journal of Environmental Economics and Management": {
+        "display": "Journal of Environmental Economics and Management",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 28,
+        "error": ""
+      },
+      "Resource and Energy Economics": {
+        "display": "Resource and Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 14,
+        "error": ""
+      },
+      "American Journal of Agricultural Economics": {
+        "display": "American Journal of Agricultural Economics",
+        "group": "农业商品",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 2,
+        "error": ""
+      },
+      "Journal of Commodity Markets": {
+        "display": "Journal of Commodity Markets",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 14,
+        "error": ""
+      },
+      "Food Policy": {
+        "display": "Food Policy",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 46,
+        "error": ""
+      },
+      "Journal of Econometrics": {
+        "display": "Journal of Econometrics",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 30,
+        "error": ""
+      },
+      "International Journal of Forecasting": {
+        "display": "International Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 63,
+        "error": ""
+      },
+      "Journal of Forecasting": {
+        "display": "Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Wiley (John Wiley & Sons)",
+        "fetched": 5,
+        "error": ""
+      }
+    },
+    "selection_notes": {
+      "strict_pool": 3,
+      "cap_relaxed": false,
+      "relaxed": false,
+      "filled": true,
+      "relaxed_pool": 3
+    },
+    "abstract_coverage": 0.105,
+    "enrich": {
+      "s2_filled": 1,
+      "openalex_filled": 0,
+      "openalex_note": "请求失败（HTTP 400 :: https://api.openalex.org/works?filter=doi%3A10.1016%2Fj.jfineco.2026.104410%7C10.3982%2Fecta25748%7C10.1016%2Fj.eneco.2026.109722%7C10.1016%2Fj.eneco.2026.109743%7C10.1016%2Fj.eneco.2026.109741%7C10.1016%2Fj.eneco.2026.109737%7C10.1016%2Fj.eneco.2026.109736%7C10.1016%2Fj.eneco.2026.109729%7C10.1016%2Fj.eneco.2026.109694%7C10.1016%2Fj.eneco.2026.109716%7C10.1177%2F01956574261506546%7C10.1016%2Fj.jeem.2026.103447%7C10.1016%2Fj.jeem.2026.103446%7C10.1016%2Fj.jeem.2026.103442%7C10.1016%2Fj.jeem.2026.103445%7C10.1016%2Fj.reseneeco.2026.101613%7C10.1016%2Fj.jcomm.2026.100596%7C10.1016%2Fj.foodpol.2026.103233%7C10.1016%2Fj.foodpol.2026.103211%7C10.1016%2Fj.foodpol.2026.103231%7C10.1016%2Fj.foodpol.2026.103229%7C10.1016%2Fj.foodpol.2026.103228%7C10.1016%2Fj.foodpol.2026.103200%7C10.1016%2Fj.foodpol.2026.103232%7C10.1016%2Fj.ijforecast.2026.04.005%7C10.1016%2Fs0169-2070%2826%2900128-7%7C10.1016%2Fj.ijforecast.2026.09.007%7C10.1016%2Fj.ijforecast.2026.10.008%7C10.1016%2Fj.ijforecast.2026.10.011%7C10.1016%2Fj.ijforecast.2026.10.009%7C10.1016%2Fj.ijforecast.2026.09.002&per-page=31&select=doi%2Cabstract_inverted_index%2Ccited_by_count%2Cis_oa%2Cbest_oa_location&mailto=2485892471%40qq.com :: {\"error\":\"Invalid query parameters error.\",\"message\":\"is_oa is not a valid select field. Valid fields for select are: id, doi, title, display_name, alternate_titles, relevance_score, rerank_score, pub）"
+    }
+  },
+  "items": [
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109722",
+      "doi": "10.1016/j.eneco.2026.109722",
+      "title": "Quantile regression postprocessing with negative electricity price forecasts",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-27",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Bartosz Uniejewski",
+        "James W. Taylor"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109722",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 62.86,
+      "rank": 1,
+      "relevance_raw": 8.5,
+      "relevance_level": "strong",
+      "keywords": [
+        "price",
+        "electricity price",
+        "electricity"
+      ],
+      "reasons": [
+        "相关性 61/100（价格词 ×2题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（forecast）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [
+          "price",
+          "electricity price"
+        ],
+        "core_abstract": [],
+        "context_title": [
+          "electricity"
+        ],
+        "context_abstract": [],
+        "method": [
+          "forecast"
+        ]
+      },
+      "pushed_date": "2026-11-27"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2025.04971",
+      "doi": "10.1287/mnsc.2025.04971",
+      "title": "Inferential Theory for Pricing Errors with Latent Factors and Firm Characteristics",
+      "abstract": "We study factor models that combine latent factors with firm characteristics and propose a new framework for modeling, estimating, and inferring pricing errors. Following Zhang (2024), our approach decomposes mispricing into two distinct components: inside alpha, explained by firm characteristics but orthogonal to factor exposures, and outside alpha, orthogonal to both factors and characteristics. Our model generalizes those developed recently such as Kelly et al. (2019) and Zhang (2024), resolving issues of orthogonality, basis dependence, and unit sensitivity. Methodologically, we develop estimators grounded in low-rank methods with explicit debiasing, providing closed-form solutions and a rigorous inferential theory that accommodates a growing number of characteristics and relaxes standard assumptions on sample dimensions. Empirically, using U.S. stock returns from 2000 to 2019, we document strong evidence of both inside and outside alphas, with the former showing industry-level comovements and the latter reflecting idiosyncratic shocks beyond firm fundamentals. Our framework thus unifies statistical and characteristic-based approaches to factor modeling, offering both theoretical advances and new insights into the structure of pricing errors. This paper was accepted by Lukas Schmid, finance. Funding: This research was supported by the National Science Foundation [Grant DMS-2052955]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.04971 .",
+      "publication_date": "2026-11-26",
+      "created_date": "2026-11-26",
+      "issue_date": "2026-11-26",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Jungjun Choi",
+        "Ming Yuan"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2025.04971",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 48.64,
+      "rank": 2,
+      "relevance_raw": 4.4,
+      "relevance_level": "strong",
+      "keywords": [
+        "pricing",
+        "basis"
+      ],
+      "reasons": [
+        "相关性 31/100（价格词 ×1题名 / ×1摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [
+          "pricing"
+        ],
+        "core_abstract": [
+          "pricing"
+        ],
+        "context_title": [],
+        "context_abstract": [
+          "basis"
+        ],
+        "method": []
+      },
+      "pushed_date": "2026-11-27"
+    },
+    {
+      "id": "crossref:10.1093/qje/qjag056",
+      "doi": "10.1093/qje/qjag056",
+      "title": "Firms’ Perceived Cost of Capital",
+      "abstract": "Abstract We analyze firms’ perceptions of their cost of capital using hand-collected data. The perceived cost of capital is associated with the allocation of capital across firms. In a model with inefficient financial markets, firms can maximize their current market value by setting their perceived cost of capital equal to the expected returns on their debt and equity. In the data, little variation in firms’ perceived cost of capital can be justified by variation in expected returns, suggesting that firms do not follow this market-value maximization benchmark. Alternatively, firms may aim to maximize their “fair value” corrected for financial market inefficiencies. In the data, a fair-value benchmark (based on the CAPM) can justify half the variation in the perceived cost of capital. However, most of the variation can be justified by the beliefs of financial analysts about expected returns. Using a quantitative model, we find that the observed distortions in the perceived cost of capital can substantially impact capital allocation and thereby reduce aggregate productivity.",
+      "publication_date": "2026-11-26",
+      "created_date": "2026-11-25",
+      "issue_date": "2026-11-26",
+      "journal": "Quarterly Journal of Economics",
+      "journal_display": "The Quarterly Journal of Economics",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Niels Joachim Gormsen",
+        "Kilian Huber"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1093/qje/qjag056",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 47.43,
+      "rank": 3,
+      "relevance_raw": 3.8,
+      "relevance_level": "strong",
+      "keywords": [
+        "cost of capital"
+      ],
+      "reasons": [
+        "相关性 27/100（价格词 ×1题名 / ×1摘要；商品期货词 ×0题名）",
+        "期刊权重 80/100（Quarterly Journal of Economics）",
+        "时效 86/100（上线 2 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 2,
+      "matched": {
+        "core_title": [
+          "cost of capital"
+        ],
+        "core_abstract": [
+          "cost of capital"
+        ],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-27"
+    },
+    {
+      "id": "crossref:10.1177/01956574261506123",
+      "doi": "10.1177/01956574261506123",
+      "title": "Electricity Liberalisation in Europe: The Market Makers",
+      "abstract": "This paper develops a historical account of electricity market creation in Britain, Norway and the Netherlands, focusing on the role of ‘market makers’ as situated agents of change. Through comparative case studies of Stephen Littlechild, Einar Hope and Bert den Ouden, the paper shows that market creation was not the implementation of abstract theory, but a pragmatic process of problem-solving, negotiation and compromise. Drawing on the socio-technical systems perspective, the paper frames market makers as actors who forged new connections between technical systems, economic ideas and institutional arrangements to make competitive electricity markets workable. By framing market-making as a form of socio-technical innovation, the paper offers insights relevant to contemporary debates on electricity market reform. JEL Classification: A14, Sociology of Economics; A11, Role of Economics; Role of Economists; Market for Economists",
+      "publication_date": "2026-11-26",
+      "created_date": "2026-11-27",
+      "issue_date": "2026-11-26",
+      "journal": "The Energy Journal",
+      "journal_display": "The Energy Journal",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Ronan Bolton"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1177/01956574261506123",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 41.07,
+      "rank": 4,
+      "relevance_raw": 3.1,
+      "relevance_level": "medium",
+      "keywords": [
+        "electricity"
+      ],
+      "reasons": [
+        "相关性 22/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 50/100（The Energy Journal）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "electricity"
+        ],
+        "context_abstract": [
+          "electricity"
+        ],
+        "method": []
+      },
+      "pushed_date": "2026-11-27"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2024.04758",
+      "doi": "10.1287/mnsc.2024.04758",
+      "title": "Correcting the Unobserved Textual Confounding Factors in Regression by BERT and Partially Linear Regression",
+      "abstract": "In the last decade, there has been a surge of text-mining applications in the information systems literature. In these applications, researchers typically construct independent variables from documents by various text-mining techniques. The most prominent example could be using online review sentiments to investigate online word-of-mouth issues. Typically, most documents contain information richer than the independent variable, and researchers may construct control variables from the same documents to alleviate endogeneity issues. However, researchers need to manually craft these variables, and this process may not guarantee that all the important confounding factors are extracted and included in the regression model with a correct functional form. If useful textual information is overlooked and a valid identification strategy is not available, the omitted variable bias may occur. To solve this challenge, we propose a novel model that utilizes text embedding based on the state-of-the-art neural network language model (i.e., bidirectional encoder representations from transformers (BERT)) to automatically create a new control variable vector for controlling latent confounding factors in the absence of a valid identification strategy. Moreover, our approach can be considered a semiparametric approach in that our model contains a linear term of the key independent variable and an unknown functional term of the textual control variables. Our approach extends the semiparametric framework, double machine learning, by introducing a novel Neyman-orthogonal loss function in an integrated deep neural network to minimize the estimation bias. Our experiments demonstrate the effectiveness of controlling textual control variables by text embedding and improving the estimation performance by the novel loss function. This paper was accepted by Anindya Ghose, information systems. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04758 .",
+      "publication_date": "2026-11-26",
+      "created_date": "2026-11-26",
+      "issue_date": "2026-11-26",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Mengke Qiao",
+        "Ke-Wei Huang"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2024.04758",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 40.43,
+      "rank": 5,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 75/100（machine learning、neural network、identification）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "machine learning",
+          "neural network",
+          "identification"
+        ]
+      },
+      "pushed_date": "2026-11-27"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2025.03142",
+      "doi": "10.1287/mnsc.2025.03142",
+      "title": "Reducing Risk Through Trade Credit: Theory and Evidence from Dual-Channel Suppliers",
+      "abstract": "Trade credit is traditionally viewed as increasing supplier risk, because delayed payments expose suppliers to buyer uncertainties. Using a stylized game-theoretic model, we show that this conventional wisdom can be overturned when a supplier is dual channel: operating a direct channel that sells to end customers in addition to an indirect channel that sells to an industry peer who serves the same market. Compared with zero trade credit provision where the supplier requires cash on delivery (COD), we observe empirically that high trade credit provision can lead to lower risk for the dual-channel supplier. We propose a possible mechanism for this risk mitigation effect—pooling: When the market overlap between the supplier and its peer buyer is sufficiently high, the random split of the overlapping market creates negative association between the supplier’s direct channel sales and the buyer’s trade credit payment. Trade credit does not always mitigate risk for dual-channel suppliers. If the supplier’s debt level is high, our theory predicts that trade credit exacerbates risk. We find empirical evidence consistent with our theoretical predictions using data on U.S. manufacturing firms that sell to their industry peers. The positive association between trade credit provision and bankruptcy risk is dampened or even reversed once a supplier begins selling to peer firms. This risk mitigation effect is stronger among suppliers with lower leverage and greater market overlap with their buyers. For highly financially constrained suppliers, trade credit provision is associated with an increase in bankruptcy risk after the supplier becomes dual channel. This paper was accepted by Jayashankar Swaminathan, operations management. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2025.03142 .",
+      "publication_date": "2026-11-26",
+      "created_date": "2026-11-26",
+      "issue_date": "2026-11-26",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Jie Ning",
+        "Sammi Y. Tang",
+        "Jing Wu",
+        "Jiaqi Zhu"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2025.03142",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 37.93,
+      "rank": 6,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 50/100（predict、prediction）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "predict",
+          "prediction"
+        ]
+      },
+      "pushed_date": "2026-11-27"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109741",
+      "doi": "10.1016/j.eneco.2026.109741",
+      "title": "Income and gender disparities in electricity expenditure and appliance ownership: Evidence from three household surveys in South and Central Asia",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-26",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Sandugash Juatova",
+        "Zhanna Kapsalyamova",
+        "Ranjeeta Mishra",
+        "Kamalbek Karymshakov",
+        "Dina Azhgaliyeva",
+        "Taha B.M.J. Ouarda"
+      ],
+      "author_count": 6,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109741",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 37.86,
+      "rank": 7,
+      "relevance_raw": 2.5,
+      "relevance_level": "medium",
+      "keywords": [
+        "electricity"
+      ],
+      "reasons": [
+        "相关性 18/100（价格词 ×0题名 / ×0摘要；商品期货词 ×1题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [
+          "electricity"
+        ],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-27"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2025.04559",
+      "doi": "10.1287/mnsc.2025.04559",
+      "title": "Echoes of Discord: The Effects of Global Conflicts and Disputes on Entrepreneurship",
+      "abstract": "Mixed-nationality founding teams bring together heterogeneous, hard-to-replicate bundles of human capital and country-specific ties through their cross-national networks, providing a distinctive foundation for building successful ventures. Yet these connections may be vulnerable to nonmarket shocks. This study examines whether geopolitical conflicts and disputes between the countries of origin of immigrant founders affect the formation of new ventures. Leveraging data on the founders of start-ups established in Great Britain and global information on conflicts and disputes, I find that such tensions reduce the likelihood that nationals of hostile countries cofound firms together. The evidence is more consistent with social mechanisms and, particularly, the erosion of interpersonal relationships than with diminished access to cross-country resources or the loss of entrepreneurial opportunities. Start-ups of both low and high quality are affected, including in sectors that depend heavily on skilled human capital, such as high-tech and business services. The negative effect is substantially attenuated for nationality pairs that are heavily colocated across local areas and for founders with prior social exposure to individuals from the opposing nationality, indicating that interpersonal ties can buffer against geopolitical shocks. Conflicts do not affect the exit of existing firms, and the decline in mixed-nationality entrepreneurship is not offset by alternative team configurations such as solo ventures or those formed with conationals, natives, or individuals from third-party countries. This paper was accepted by Alfonso Gambardella, business strategy. Funding: I gratefully acknowledge funding from the Institute for Leadership and Social Impact at Georgia Institute of Technology. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2025.04559 .",
+      "publication_date": "2026-11-26",
+      "created_date": "2026-11-26",
+      "issue_date": "2026-11-26",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Astrid Marinoni"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2025.04559",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 32.93,
+      "rank": 8,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-27"
+    },
+    {
+      "id": "crossref:10.1177/01956574261498629",
+      "doi": "10.1177/01956574261498629",
+      "title": "Cross-Border Participation: A False Hope for Fixing Capacity Market Externalities?",
+      "abstract": "As national capacity markets gain momentum in Europe, their cross-border externalities might become a growing issue. With the hope of mitigating such externalities, EU regulation mandates explicit cross-border participation. In this paper, we assess the effectiveness of this rule in addressing the externalities of a national capacity market on a neighboring energy-only market, using a stylized optimization model. We have two conclusions, based on three findings. First finding, cross-border participation does not entirely mitigate the cross-border externalities. Second finding, implicit and explicit cross-border participation yield equivalent results. Third finding, capacity markets’ cross-border externalities might prevent them from ensuring security of supply. Based on the first and third findings, we conclude for the medium-term, that we may need to evolve from a national toward a European adequacy approach. Based on the second finding, we conclude that in the short-term, implicit cross-border participation could be tolerated, contributing to the Commission’s streamlining objectives. JEL Classification: C39, Multiple or Simultaneous Equation Models; Multiple Variables: Other",
+      "publication_date": "2026-11-26",
+      "created_date": "2026-11-27",
+      "issue_date": "2026-11-26",
+      "journal": "The Energy Journal",
+      "journal_display": "The Energy Journal",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Emma Solène Menegatti",
+        "Leonardo Meeus"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1177/01956574261498629",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 32.86,
+      "rank": 9,
+      "relevance_raw": 0.8,
+      "relevance_level": "weak",
+      "keywords": [
+        "yield"
+      ],
+      "reasons": [
+        "相关性 6/100（价格词 ×0题名 / ×1摘要；商品期货词 ×0题名）",
+        "期刊权重 50/100（The Energy Journal）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "yield"
+        ],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-27"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109743",
+      "doi": "10.1016/j.eneco.2026.109743",
+      "title": "Like green and dislike brown: How do public environmental attitudes impact corporate greenwashing?",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-26",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Hanying Wang",
+        "Xiaoyuan Niu",
+        "Hongwei Xing"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109743",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 28.93,
+      "rank": 10,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-27"
+    }
+  ]
+}
