@@ -1,0 +1,677 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28 08:12:28",
+  "stats": {
+    "journals": 17,
+    "fetched": 360,
+    "candidates": 71,
+    "pushed": 10,
+    "digest_size": 10,
+    "per_journal": {
+      "Journal of Finance": {
+        "display": "The Journal of Finance",
+        "group": "金融经济",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Journal of Financial Economics": {
+        "display": "Journal of Financial Economics",
+        "group": "金融经济",
+        "publisher": "Elsevier",
+        "fetched": 18,
+        "error": ""
+      },
+      "Review of Financial Studies": {
+        "display": "Review of Financial Studies",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 3,
+        "error": ""
+      },
+      "American Economic Review": {
+        "display": "American Economic Review",
+        "group": "金融经济",
+        "publisher": "American Economic Association",
+        "fetched": 0,
+        "error": "窗口内无新记录"
+      },
+      "Quarterly Journal of Economics": {
+        "display": "The Quarterly Journal of Economics",
+        "group": "金融经济",
+        "publisher": "Oxford University Press",
+        "fetched": 4,
+        "error": ""
+      },
+      "Econometrica": {
+        "display": "Econometrica",
+        "group": "金融经济",
+        "publisher": "The Econometric Society",
+        "fetched": 17,
+        "error": ""
+      },
+      "Management Science": {
+        "display": "Management Science",
+        "group": "金融经济",
+        "publisher": "Institute for Operations Research and the Management Sciences",
+        "fetched": 31,
+        "error": ""
+      },
+      "Energy Economics": {
+        "display": "Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 80,
+        "error": ""
+      },
+      "The Energy Journal": {
+        "display": "The Energy Journal",
+        "group": "能源资源",
+        "publisher": "SAGE Publications",
+        "fetched": 5,
+        "error": ""
+      },
+      "Journal of Environmental Economics and Management": {
+        "display": "Journal of Environmental Economics and Management",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 28,
+        "error": ""
+      },
+      "Resource and Energy Economics": {
+        "display": "Resource and Energy Economics",
+        "group": "能源资源",
+        "publisher": "Elsevier",
+        "fetched": 14,
+        "error": ""
+      },
+      "American Journal of Agricultural Economics": {
+        "display": "American Journal of Agricultural Economics",
+        "group": "农业商品",
+        "publisher": "Wiley (Blackwell Publishing)",
+        "fetched": 2,
+        "error": ""
+      },
+      "Journal of Commodity Markets": {
+        "display": "Journal of Commodity Markets",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 14,
+        "error": ""
+      },
+      "Food Policy": {
+        "display": "Food Policy",
+        "group": "农业商品",
+        "publisher": "Elsevier",
+        "fetched": 46,
+        "error": ""
+      },
+      "Journal of Econometrics": {
+        "display": "Journal of Econometrics",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 31,
+        "error": ""
+      },
+      "International Journal of Forecasting": {
+        "display": "International Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Elsevier",
+        "fetched": 62,
+        "error": ""
+      },
+      "Journal of Forecasting": {
+        "display": "Journal of Forecasting",
+        "group": "计量预测",
+        "publisher": "Wiley (John Wiley & Sons)",
+        "fetched": 5,
+        "error": ""
+      }
+    },
+    "selection_notes": {
+      "strict_pool": 1,
+      "cap_relaxed": false,
+      "relaxed": false,
+      "filled": true,
+      "relaxed_pool": 1
+    },
+    "abstract_coverage": 0.056,
+    "enrich": {
+      "s2_filled": 1,
+      "openalex_filled": 0,
+      "openalex_note": "请求失败（HTTP 400 :: https://api.openalex.org/works?filter=doi%3A10.3982%2Fecta25748%7C10.1016%2Fj.eneco.2026.109735%7C10.1016%2Fj.eneco.2026.109737%7C10.1016%2Fj.eneco.2026.109736%7C10.1016%2Fj.eneco.2026.109729%7C10.1016%2Fj.eneco.2026.109694%7C10.1016%2Fj.eneco.2026.109716%7C10.1177%2F01956574261506546%7C10.1016%2Fj.jeem.2026.103447%7C10.1016%2Fj.jeem.2026.103446%7C10.1016%2Fj.jeem.2026.103442%7C10.1016%2Fj.jeem.2026.103445%7C10.1016%2Fj.reseneeco.2026.101613%7C10.1016%2Fj.jcomm.2026.100596%7C10.1016%2Fj.foodpol.2026.103233%7C10.1016%2Fj.foodpol.2026.103211%7C10.1016%2Fj.foodpol.2026.103231%7C10.1016%2Fj.foodpol.2026.103229%7C10.1016%2Fj.foodpol.2026.103228%7C10.1016%2Fj.foodpol.2026.103200%7C10.1016%2Fj.foodpol.2026.103232%7C10.1016%2Fj.jeconom.2026.106355%7C10.1016%2Fj.ijforecast.2026.04.005%7C10.1016%2Fs0169-2070%2826%2900128-7%7C10.1016%2Fj.ijforecast.2026.09.007%7C10.1016%2Fj.ijforecast.2026.10.008%7C10.1016%2Fj.ijforecast.2026.10.011%7C10.1016%2Fj.ijforecast.2026.10.009%7C10.1016%2Fj.ijforecast.2026.09.002&per-page=29&select=doi%2Cabstract_inverted_index%2Ccited_by_count%2Cis_oa%2Cbest_oa_location&mailto=2485892471%40qq.com :: {\"error\":\"Invalid query parameters error.\",\"message\":\"is_oa is not a valid select field. Valid fields for select are: id, doi, title, display_name, alternate_titles, relevance_score, rerank_score, pub）"
+    }
+  },
+  "items": [
+    {
+      "id": "crossref:10.1177/01956574261506139",
+      "doi": "10.1177/01956574261506139",
+      "title": "Macroeconomic Transmission and Conditional Evaluation of China’s Administered Gasoline Pricing Mechanism",
+      "abstract": "By 2024, China was importing over 70 percent of its crude oil, exposing the gasoline market to global volatility. Since 1998, the government has employed an administered pricing framework to shield growth and inflation. Using monthly data (June 2000–May 2025), this paper models China’s gasoline market to assess the ceiling’s mechanism and effectiveness. We find that (1) the ceiling mutes price spikes from negative supply and gasoline-specific shocks but tracks market responses to crude oil and macro demand shocks, a pattern consistent with the operation of centralized administrative reporting arrangements; (2) historical decompositions attribute meaningful stabilization to policy shocks in episodes such as February to November 2007 and May to August 2022; and (3) the counterfactual analysis identifies episodic deviations from the benchmark, particularly during major disruptions, while the magnitude of these deviations depends on the relative weights assigned to growth and inflation. According to all findings, we propose policy recommendations. JEL Classification : Q41, Energy: Demand and Supply; Prices; Q47, Energy Forecasting; Q48, Energy: Government Policy; E61, Policy Objectives; Policy Designs and Consistency; Policy Coordination",
+      "publication_date": "2026-11-27",
+      "created_date": "2026-11-27",
+      "issue_date": "2026-11-27",
+      "journal": "The Energy Journal",
+      "journal_display": "The Energy Journal",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Yunyi Zhang",
+        "Deli Lu",
+        "Boqiang Lin"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1177/01956574261506139",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 80.71,
+      "rank": 1,
+      "relevance_raw": 11.7,
+      "relevance_level": "strong",
+      "keywords": [
+        "pricing",
+        "price",
+        "prices",
+        "inflation",
+        "gasoline",
+        "crude",
+        "crude oil",
+        "oil",
+        "demand shock"
+      ],
+      "reasons": [
+        "相关性 84/100（价格词 ×1题名 / ×4摘要；商品期货词 ×1题名）",
+        "期刊权重 50/100（The Energy Journal）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 100/100（forecasting、volatility、decomposition、counterfactual）",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [
+          "pricing"
+        ],
+        "core_abstract": [
+          "price",
+          "prices",
+          "pricing",
+          "inflation"
+        ],
+        "context_title": [
+          "gasoline"
+        ],
+        "context_abstract": [
+          "crude",
+          "crude oil",
+          "oil",
+          "gasoline",
+          "demand shock"
+        ],
+        "method": [
+          "forecasting",
+          "volatility",
+          "decomposition",
+          "counterfactual"
+        ]
+      },
+      "pushed_date": "2026-11-28"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2025.03691",
+      "doi": "10.1287/mnsc.2025.03691",
+      "title": "Does FinTech Innovation Improve Traditional Banks’ Operating Efficiency and Risk? Empirical Evidence from Patent Filings",
+      "abstract": "We empirically examine the link between bank-specific innovations in financial technology (FinTech) and traditional banks’ fundamentals. We propose a new measure for FinTech innovation as the textual similarity of banks’ patent filings to standard FinTech policy documents. We show that FinTech innovation implies enhanced efficiency, profitability, and operating capacity (e.g., cost management, funding and lending activity). FinTech also ameliorates banks’ risk measures, including overall risk (Z-score), the liquidity, and nonperforming loan ratios. Our heterogeneity analysis suggests that banks with stronger managerial capacity and higher labor intensity derive moderately greater benefits from FinTech innovations. Further analysis reveals that FinTech-driven lending expansions focus on unsecured and low-risk loans, with technological specializations in cloud computing. We also find supportive evidence that expanding innovation in artificial intelligence and blockchain can yield performance gains to commercial banks. This paper was accepted by Kay Giesecke, finance. Funding: X. Li acknowledges support by the National Natural Science Foundation of China [Grants 72495151 and 72342024]. L. Fang acknowledges support by the National Natural Science Foundation of China [Grants 72371126 and 72595843]. K. Zhang acknowledges support by the National Natural Science Foundation of China [Grants 72473063 and W2411065]. Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2025.03691 .",
+      "publication_date": "2026-11-27",
+      "created_date": "2026-11-27",
+      "issue_date": "2026-11-27",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "Libing Fang",
+        "Xindan Li",
+        "Avanidhar Subrahmanyam",
+        "Ke Zhang"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2025.03691",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 35.79,
+      "rank": 2,
+      "relevance_raw": 0.8,
+      "relevance_level": "weak",
+      "keywords": [
+        "yield"
+      ],
+      "reasons": [
+        "相关性 6/100（价格词 ×0题名 / ×1摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [
+          "yield"
+        ],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-28"
+    },
+    {
+      "id": "crossref:10.1287/mnsc.2023.03394",
+      "doi": "10.1287/mnsc.2023.03394",
+      "title": "Payout Taxes Matter: The Financing R&D Mechanism",
+      "abstract": "Higher taxes on corporate payouts increase the cost of financing with stock issues. As a result, corporate investments that rely on external equity financing should be particularly sensitive to payout tax rates. A large literature shows that firms rely extensively on stock issues to fund research and development (R&D), suggesting that the financing of R&D is a potentially important microlevel mechanism linking payout taxation with real corporate activity. We document a robust negative association between dividend tax rates and firm R&D investment in a broad sample of developed countries between 2000 and 2019. The negative relation between dividend taxes and R&D is concentrated in equity-dependent firms in high-R&D industries. R&D is more sensitive to dividend tax rates in countries with stock market–based financial systems. Dividend taxes are less important for investment in physical capital than for R&D. Higher dividend taxes are associated with less corporate financing with stock issues, particularly in firms with low internal cash flow. Our study highlights the importance of focusing on equity-dependent activities and firms to evaluate the real consequences of payout taxation. This paper was accepted by Gustavo Manso, finance. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.03394 .",
+      "publication_date": "2026-11-27",
+      "created_date": "2026-11-27",
+      "issue_date": "2026-11-27",
+      "journal": "Management Science",
+      "journal_display": "Management Science",
+      "group": "金融经济",
+      "tier": 1,
+      "cited_by_count": 0,
+      "authors": [
+        "James R. Brown",
+        "Gustav Martinsson"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1287/mnsc.2023.03394",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "crossref",
+      "score": 32.93,
+      "rank": 3,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 70/100（Management Science）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100",
+        "有摘要，可快速判断"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-28"
+    },
+    {
+      "id": "crossref:10.1016/j.eneco.2026.109735",
+      "doi": "10.1016/j.eneco.2026.109735",
+      "title": "Cross-regional computing power dispatching and corporate ESG: Evidence from China",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-27",
+      "issue_date": "2026-11-01",
+      "journal": "Energy Economics",
+      "journal_display": "Energy Economics",
+      "group": "能源资源",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Ao Zhou",
+        "Jie Zhang",
+        "Fanglin Chen"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.eneco.2026.109735",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 28.93,
+      "rank": 4,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 75/100（Energy Economics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 0/100"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": []
+      },
+      "pushed_date": "2026-11-28"
+    },
+    {
+      "id": "crossref:10.1016/j.jeconom.2026.106355",
+      "doi": "10.1016/j.jeconom.2026.106355",
+      "title": "Optimal aggregation prediction for distributed data",
+      "abstract": "",
+      "publication_date": "2026-11-01",
+      "created_date": "2026-11-27",
+      "issue_date": "2026-11-01",
+      "journal": "Journal of Econometrics",
+      "journal_display": "Journal of Econometrics",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Jun Liao",
+        "Rui Liu",
+        "Xinyu Zhang",
+        "Liping Zhu"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://doi.org/10.1016/j.jeconom.2026.106355",
+      "topics": [],
+      "language": "",
+      "source_origin": "crossref",
+      "abstract_source": "",
+      "score": 28.1,
+      "rank": 5,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 58/100（Journal of Econometrics）",
+        "时效 93/100（上线 1 天前）",
+        "方法匹配 25/100（prediction）"
+      ],
+      "days_old": 1,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "prediction"
+        ]
+      },
+      "pushed_date": "2026-11-28"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0169207026000518",
+      "doi": "",
+      "title": "Cassandra : An automated AI-based surveillance system to forecast bank distress from financial news",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-28",
+      "issue_date": "",
+      "journal": "International Journal of Forecasting",
+      "journal_display": "International Journal of Forecasting",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Anastasios Petropoulos",
+        "Luca Parafioriti",
+        "Alexandros Kouris",
+        "Javier Arranz Barquero",
+        "Christoffer Kok"
+      ],
+      "author_count": 5,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0169207026000518",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 27.5,
+      "rank": 6,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 50/100（International Journal of Forecasting）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（forecast）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "forecast"
+        ]
+      },
+      "pushed_date": "2026-11-28"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0169207026000841",
+      "doi": "",
+      "title": "Compositional zero-shot demand forecasting in retail via disentangled demand drivers",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-28",
+      "issue_date": "",
+      "journal": "International Journal of Forecasting",
+      "journal_display": "International Journal of Forecasting",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Zefree Lazarus Mayaluri",
+        "Sasmita Mishra"
+      ],
+      "author_count": 2,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0169207026000841",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 27.5,
+      "rank": 7,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 50/100（International Journal of Forecasting）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（forecasting）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "forecasting"
+        ]
+      },
+      "pushed_date": "2026-11-28"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S0169207026000592",
+      "doi": "",
+      "title": "Directional-shift Dirichlet ARMA models for compositional time series with structural break intervention",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-28",
+      "issue_date": "",
+      "journal": "International Journal of Forecasting",
+      "journal_display": "International Journal of Forecasting",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Harrison Katz"
+      ],
+      "author_count": 1,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S0169207026000592",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 27.5,
+      "rank": 8,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 50/100（International Journal of Forecasting）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（structural）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "structural"
+        ]
+      },
+      "pushed_date": "2026-11-28"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S016920702600066X",
+      "doi": "",
+      "title": "Forecasting the impact of the viral ‘Kia Boys’ social media trend on car thefts to 2050",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-28",
+      "issue_date": "",
+      "journal": "International Journal of Forecasting",
+      "journal_display": "International Journal of Forecasting",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "P. Jeffrey Brantingham",
+        "Craig D. Uchida",
+        "Fred Morstatter",
+        "George Mohler"
+      ],
+      "author_count": 4,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S016920702600066X",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 27.5,
+      "rank": 9,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 50/100（International Journal of Forecasting）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（forecasting）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "forecasting"
+        ]
+      },
+      "pushed_date": "2026-11-28"
+    },
+    {
+      "id": "rss:https://www.sciencedirect.com/science/article/pii/S016920702600083X",
+      "doi": "",
+      "title": "Generalized Factor Neural Network Model for High-dimensional Regression",
+      "abstract": "",
+      "publication_date": "",
+      "created_date": "2026-11-28",
+      "issue_date": "",
+      "journal": "International Journal of Forecasting",
+      "journal_display": "International Journal of Forecasting",
+      "group": "计量预测",
+      "tier": 2,
+      "cited_by_count": 0,
+      "authors": [
+        "Zichuan Guo",
+        "Mihai Cucuringu",
+        "Alexander Y. Shestopaloff"
+      ],
+      "author_count": 3,
+      "type": "journal-article",
+      "is_oa": false,
+      "oa_url": "",
+      "landing_page": "https://www.sciencedirect.com/science/article/pii/S016920702600083X",
+      "topics": [],
+      "language": "",
+      "source_origin": "rss",
+      "abstract_source": "",
+      "score": 27.5,
+      "rank": 10,
+      "relevance_raw": 0.0,
+      "relevance_level": "strong",
+      "keywords": [],
+      "reasons": [
+        "相关性 0/100（价格词 ×0题名 / ×0摘要；商品期货词 ×0题名）",
+        "期刊权重 50/100（International Journal of Forecasting）",
+        "时效 100/100（上线 0 天前）",
+        "方法匹配 25/100（neural network）"
+      ],
+      "days_old": 0,
+      "matched": {
+        "core_title": [],
+        "core_abstract": [],
+        "context_title": [],
+        "context_abstract": [],
+        "method": [
+          "neural network"
+        ]
+      },
+      "pushed_date": "2026-11-28"
+    }
+  ]
+}
